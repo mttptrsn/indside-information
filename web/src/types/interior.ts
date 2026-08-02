@@ -13,6 +13,7 @@ export interface CompanyIndexItem {
   story_path?: string | null;
   price_available?: boolean | null;
   story_summary?: {
+    price_date?: string | null;
     current_price?: number | null;
     average_reported_purchase_price?: number | null;
     percent_vs_average_purchase_price?: number | null;
