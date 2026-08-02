@@ -1,0 +1,247 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
+  "as_of_date": "2026-07-31",
+  "freshness": {
+    "latest_sec_filing_date": "2026-07-31",
+    "latest_price_date": "",
+    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+  },
+  "ticker": "BMNP",
+  "yf_ticker": "BMNP",
+  "issuer_cik": 1829311,
+  "company_name": "BitMine Immersion Technologies Inc",
+  "sector": null,
+  "industry": null,
+  "price_available": true,
+  "price_unavailable_reason": "",
+  "price_path": [
+    {
+      "date": "2026-06-16",
+      "close": 88.0999984741211,
+      "adjusted_close": 86.9561767578125,
+      "volume": 115200
+    },
+    {
+      "date": "2026-06-17",
+      "close": 88.30000305175781,
+      "adjusted_close": 87.1535873413086,
+      "volume": 184500
+    },
+    {
+      "date": "2026-06-18",
+      "close": 86.8499984741211,
+      "adjusted_close": 85.72240447998047,
+      "volume": 124500
+    },
+    {
+      "date": "2026-06-22",
+      "close": 87.86000061035156,
+      "adjusted_close": 86.71928405761719,
+      "volume": 120200
+    },
+    {
+      "date": "2026-06-23",
+      "close": 86.77999877929688,
+      "adjusted_close": 85.65330505371094,
+      "volume": 81600
+    },
+    {
+      "date": "2026-06-24",
+      "close": 84.2699966430664,
+      "adjusted_close": 83.17588806152344,
+      "volume": 112600
+    },
+    {
+      "date": "2026-06-25",
+      "close": 81.41000366210938,
+      "adjusted_close": 80.35303497314453,
+      "volume": 125500
+    },
+    {
+      "date": "2026-06-26",
+      "close": 81.01000213623047,
+      "adjusted_close": 80.2183609008789,
+      "volume": 52900
+    },
+    {
+      "date": "2026-06-29",
+      "close": 83.91999816894531,
+      "adjusted_close": 83.09992218017578,
+      "volume": 26200
+    },
+    {
+      "date": "2026-06-30",
+      "close": 81.02999877929688,
+      "adjusted_close": 80.33963775634766,
+      "volume": 83300
+    },
+    {
+      "date": "2026-07-01",
+      "close": 81.54000091552734,
+      "adjusted_close": 80.84529113769531,
+      "volume": 64100
+    },
+    {
+      "date": "2026-07-02",
+      "close": 83.33000183105469,
+      "adjusted_close": 82.62003326416016,
+      "volume": 61400
+    },
+    {
+      "date": "2026-07-06",
+      "close": 86.20999908447266,
+      "adjusted_close": 85.47550201416016,
+      "volume": 23800
+    },
+    {
+      "date": "2026-07-07",
+      "close": 84.69999694824219,
+      "adjusted_close": 84.15896606445312,
+      "volume": 10900
+    },
+    {
+      "date": "2026-07-08",
+      "close": 84.9000015258789,
+      "adjusted_close": 84.35769653320312,
+      "volume": 14700
+    },
+    {
+      "date": "2026-07-09",
+      "close": 85.87999725341797,
+      "adjusted_close": 85.33142852783203,
+      "volume": 8700
+    },
+    {
+      "date": "2026-07-10",
+      "close": 85.72000122070312,
+      "adjusted_close": 85.1724624633789,
+      "volume": 8500
+    },
+    {
+      "date": "2026-07-13",
+      "close": 86.0999984741211,
+      "adjusted_close": 85.55001831054688,
+      "volume": 24900
+    },
+    {
+      "date": "2026-07-14",
+      "close": 85.98999786376953,
+      "adjusted_close": 85.62471008300781,
+      "volume": 46400
+    },
+    {
+      "date": "2026-07-15",
+      "close": 86.12999725341797,
+      "adjusted_close": 85.76411437988281,
+      "volume": 6900
+    },
+    {
+      "date": "2026-07-16",
+      "close": 86.30999755859375,
+      "adjusted_close": 85.94335174560547,
+      "volume": 12700
+    },
+    {
+      "date": "2026-07-17",
+      "close": 85.88999938964844,
+      "adjusted_close": 85.52513885498047,
+      "volume": 69300
+    },
+    {
+      "date": "2026-07-20",
+      "close": 85.94000244140625,
+      "adjusted_close": 85.57492065429688,
+      "volume": 56200
+    },
+    {
+      "date": "2026-07-21",
+      "close": 86.75,
+      "adjusted_close": 86.56783294677734,
+      "volume": 53300
+    },
+    {
+      "date": "2026-07-22",
+      "close": 86.75,
+      "adjusted_close": 86.56783294677734,
+      "volume": 12300
+    },
+    {
+      "date": "2026-07-23",
+      "close": 86.75,
+      "adjusted_close": 86.56783294677734,
+      "volume": 87900
+    },
+    {
+      "date": "2026-07-24",
+      "close": 86.4000015258789,
+      "adjusted_close": 86.21857452392578,
+      "volume": 13600
+    },
+    {
+      "date": "2026-07-27",
+      "close": 88.0999984741211,
+      "adjusted_close": 87.91500091552734,
+      "volume": 98800
+    },
+    {
+      "date": "2026-07-28",
+      "close": 88.47000122070312,
+      "adjusted_close": 88.47000122070312,
+      "volume": 67000
+    },
+    {
+      "date": "2026-07-29",
+      "close": 88.4000015258789,
+      "adjusted_close": 88.4000015258789,
+      "volume": 65800
+    },
+    {
+      "date": "2026-07-30",
+      "close": 88.55000305175781,
+      "adjusted_close": 88.55000305175781,
+      "volume": 77900
+    },
+    {
+      "date": "2026-07-31",
+      "close": 89.0,
+      "adjusted_close": 89.0,
+      "volume": 400000
+    }
+  ],
+  "purchase_markers": [],
+  "summary": {
+    "price_date": "2026-07-31",
+    "current_price": 89.0,
+    "average_reported_purchase_price": null,
+    "percent_vs_average_purchase_price": null,
+    "first_purchase_date": null,
+    "latest_purchase_date": null,
+    "return_since_first_purchase": null,
+    "return_since_latest_purchase": null,
+    "drawdown_from_52_week_high": 0.0,
+    "drawdown_from_3_year_high": 0.0,
+    "distance_from_200_day_average": null,
+    "return_63_sessions": null,
+    "realized_volatility_63d": null,
+    "volatility_percentile": null,
+    "trend": "insufficient_history",
+    "buyers": 0,
+    "purchase_days": 0,
+    "purchase_events": 0,
+    "total_reported_purchase_value": 0
+  },
+  "quality": {
+    "price_rows_available": 32,
+    "price_points_exported": 32,
+    "purchase_markers_exported": 0,
+    "mapping_quality": "exact_cik",
+    "metadata_quality": "high",
+    "price_quality": null
+  },
+  "limitations": [
+    "Price history comes from yfinance and may be revised or unavailable.",
+    "Adjusted closes are used for market context; reported filing prices and values are never rewritten for later splits.",
+    "Returns describe what happened after disclosed purchases and are not live score inputs."
+  ]
+}

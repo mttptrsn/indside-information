@@ -1,0 +1,236 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
+  "as_of_date": "2026-07-31",
+  "freshness": {
+    "latest_sec_filing_date": "2026-07-31",
+    "latest_price_date": "",
+    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+  },
+  "ticker": "BBASX",
+  "yf_ticker": "BBASX",
+  "issuer_cik": 2097545,
+  "company_name": "AMG BBH Asset-Backed Credit Fund, LLC Class S",
+  "sector": null,
+  "industry": null,
+  "price_available": true,
+  "price_unavailable_reason": "",
+  "price_path": [
+    {
+      "date": "2026-07-14",
+      "close": 10.720000267028809,
+      "adjusted_close": 10.720000267028809,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-15",
+      "close": 10.699999809265137,
+      "adjusted_close": 10.699999809265137,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-16",
+      "close": 10.6899995803833,
+      "adjusted_close": 10.6899995803833,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-17",
+      "close": 10.75,
+      "adjusted_close": 10.75,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-20",
+      "close": 10.75,
+      "adjusted_close": 10.75,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-21",
+      "close": 10.75,
+      "adjusted_close": 10.75,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-22",
+      "close": 10.789999961853027,
+      "adjusted_close": 10.789999961853027,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-24",
+      "close": 10.960000038146973,
+      "adjusted_close": 10.960000038146973,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-27",
+      "close": 10.970000267028809,
+      "adjusted_close": 10.970000267028809,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-28",
+      "close": 10.979999542236328,
+      "adjusted_close": 10.979999542236328,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-29",
+      "close": 10.960000038146973,
+      "adjusted_close": 10.960000038146973,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-30",
+      "close": 10.9399995803833,
+      "adjusted_close": 10.9399995803833,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-31",
+      "close": 10.949999809265137,
+      "adjusted_close": 10.949999809265137,
+      "volume": 0
+    }
+  ],
+  "purchase_markers": [
+    {
+      "event_id": "5d1b338fcb702807dc1e7a78",
+      "transaction_date": "2026-07-22",
+      "price_date": "2026-07-22",
+      "market_price": 10.789999961853027,
+      "reported_purchase_price": 10.7898,
+      "purchase_value": 164599.32692279998,
+      "shares": 15255.086,
+      "owner_cik": 14661,
+      "owner_name": null,
+      "roles": "ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 4.300593611353241,
+      "conviction_score": 41.2237,
+      "behavior_change_score": 44.6101,
+      "headline": null
+    },
+    {
+      "event_id": "7793474e494b0d4e47efe53d",
+      "transaction_date": "2026-07-22",
+      "price_date": "2026-07-22",
+      "market_price": 10.789999961853027,
+      "reported_purchase_price": 10.7898,
+      "purchase_value": 164599.32692279998,
+      "shares": 15255.086,
+      "owner_cik": 2102651,
+      "owner_name": null,
+      "roles": "ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 4.300593611353241,
+      "conviction_score": 41.2237,
+      "behavior_change_score": 44.6101,
+      "headline": null
+    },
+    {
+      "event_id": "874fb5b71d2c847b9287d758",
+      "transaction_date": "2026-07-22",
+      "price_date": "2026-07-22",
+      "market_price": 10.789999961853027,
+      "reported_purchase_price": 10.79,
+      "purchase_value": 658409.52255,
+      "shares": 61020.345,
+      "owner_cik": 2073844,
+      "owner_name": null,
+      "roles": "ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 4.362079840261454,
+      "conviction_score": 42.5329,
+      "behavior_change_score": 44.6224,
+      "headline": null
+    },
+    {
+      "event_id": "730a5a156549dc81f65e695d",
+      "transaction_date": "2026-07-29",
+      "price_date": "2026-07-29",
+      "market_price": 10.960000038146973,
+      "reported_purchase_price": 10.9622,
+      "purchase_value": 224340.9406632,
+      "shares": 20464.956,
+      "owner_cik": 14661,
+      "owner_name": null,
+      "roles": "ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 5.531434577817612,
+      "conviction_score": 42.2548,
+      "behavior_change_score": 45.8886,
+      "headline": null
+    },
+    {
+      "event_id": "c043359d2960c727a99e149f",
+      "transaction_date": "2026-07-29",
+      "price_date": "2026-07-29",
+      "market_price": 10.960000038146973,
+      "reported_purchase_price": 10.9622,
+      "purchase_value": 224340.9406632,
+      "shares": 20464.956,
+      "owner_cik": 2102651,
+      "owner_name": null,
+      "roles": "ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 5.531434577817612,
+      "conviction_score": 42.2548,
+      "behavior_change_score": 45.8886,
+      "headline": null
+    },
+    {
+      "event_id": "f66d5596dea7366f46c6e0f5",
+      "transaction_date": "2026-07-29",
+      "price_date": "2026-07-29",
+      "market_price": 10.960000038146973,
+      "reported_purchase_price": 10.96,
+      "purchase_value": 897183.682,
+      "shares": 81859.825,
+      "owner_cik": 2073844,
+      "owner_name": null,
+      "roles": "ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 5.607212793112529,
+      "conviction_score": 43.5679,
+      "behavior_change_score": 45.9027,
+      "headline": null
+    }
+  ],
+  "summary": {
+    "price_date": "2026-07-31",
+    "current_price": 10.95,
+    "average_reported_purchase_price": 10.887789,
+    "percent_vs_average_purchase_price": 0.57138,
+    "first_purchase_date": "2026-07-22",
+    "latest_purchase_date": "2026-07-29",
+    "return_since_first_purchase": 1.482853,
+    "return_since_latest_purchase": -0.091243,
+    "drawdown_from_52_week_high": -0.273222,
+    "drawdown_from_3_year_high": -0.273222,
+    "distance_from_200_day_average": null,
+    "return_63_sessions": null,
+    "realized_volatility_63d": null,
+    "volatility_percentile": null,
+    "trend": "insufficient_history",
+    "buyers": 3,
+    "purchase_days": 2,
+    "purchase_events": 6,
+    "total_reported_purchase_value": 2333473.739722
+  },
+  "quality": {
+    "price_rows_available": 13,
+    "price_points_exported": 13,
+    "purchase_markers_exported": 6,
+    "mapping_quality": "filing_symbol",
+    "metadata_quality": "high",
+    "price_quality": null
+  },
+  "limitations": [
+    "Price history comes from yfinance and may be revised or unavailable.",
+    "Adjusted closes are used for market context; reported filing prices and values are never rewritten for later splits.",
+    "Returns describe what happened after disclosed purchases and are not live score inputs."
+  ]
+}

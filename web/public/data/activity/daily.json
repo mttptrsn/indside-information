@@ -1,0 +1,265 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
+  "as_of_date": "2026-07-31",
+  "freshness": {
+    "latest_sec_filing_date": "2026-07-31",
+    "latest_price_date": "",
+    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+  },
+  "limitations": [],
+  "days": [
+    {
+      "date": "2025-03-07",
+      "event_count": 2,
+      "company_count": 1,
+      "buyer_count": 2,
+      "purchase_value": 334000.0,
+      "median_conviction": 50.01995,
+      "largest_purchase": 167000.0
+    },
+    {
+      "date": "2026-01-22",
+      "event_count": 1,
+      "company_count": 1,
+      "buyer_count": 1,
+      "purchase_value": 28750000.0,
+      "median_conviction": 55.2125,
+      "largest_purchase": 28750000.0
+    },
+    {
+      "date": "2026-02-25",
+      "event_count": 1,
+      "company_count": 1,
+      "buyer_count": 1,
+      "purchase_value": 264.88,
+      "median_conviction": 38.3737,
+      "largest_purchase": 264.88
+    },
+    {
+      "date": "2026-03-25",
+      "event_count": 1,
+      "company_count": 1,
+      "buyer_count": 1,
+      "purchase_value": 9721.15,
+      "median_conviction": 38.4884,
+      "largest_purchase": 9721.15
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 2,
+      "company_count": 1,
+      "buyer_count": 1,
+      "purchase_value": 57206.5,
+      "median_conviction": 45.42145,
+      "largest_purchase": 38086.0
+    },
+    {
+      "date": "2026-05-27",
+      "event_count": 1,
+      "company_count": 1,
+      "buyer_count": 1,
+      "purchase_value": 362.52,
+      "median_conviction": 41.9597,
+      "largest_purchase": 362.52
+    },
+    {
+      "date": "2026-06-30",
+      "event_count": 13,
+      "company_count": 1,
+      "buyer_count": 13,
+      "purchase_value": 76338.84,
+      "median_conviction": 32.0838,
+      "largest_purchase": 7225.68
+    },
+    {
+      "date": "2026-07-02",
+      "event_count": 1,
+      "company_count": 1,
+      "buyer_count": 1,
+      "purchase_value": 28652.442,
+      "median_conviction": 22.4433,
+      "largest_purchase": 28652.442
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 1,
+      "company_count": 1,
+      "buyer_count": 1,
+      "purchase_value": 48882.2782,
+      "median_conviction": 23.7697,
+      "largest_purchase": 48882.2782
+    },
+    {
+      "date": "2026-07-07",
+      "event_count": 1,
+      "company_count": 1,
+      "buyer_count": 1,
+      "purchase_value": 25856.0,
+      "median_conviction": 16.4611,
+      "largest_purchase": 25856.0
+    },
+    {
+      "date": "2026-07-08",
+      "event_count": 1,
+      "company_count": 1,
+      "buyer_count": 1,
+      "purchase_value": 11703.2825,
+      "median_conviction": 19.5751,
+      "largest_purchase": 11703.2825
+    },
+    {
+      "date": "2026-07-09",
+      "event_count": 1,
+      "company_count": 1,
+      "buyer_count": 1,
+      "purchase_value": 25627.5,
+      "median_conviction": 22.1523,
+      "largest_purchase": 25627.5
+    },
+    {
+      "date": "2026-07-10",
+      "event_count": 1,
+      "company_count": 1,
+      "buyer_count": 1,
+      "purchase_value": 25456.0,
+      "median_conviction": 21.9915,
+      "largest_purchase": 25456.0
+    },
+    {
+      "date": "2026-07-13",
+      "event_count": 7,
+      "company_count": 2,
+      "buyer_count": 7,
+      "purchase_value": 372283.1682,
+      "median_conviction": 46.8993,
+      "largest_purchase": 58306.68
+    },
+    {
+      "date": "2026-07-14",
+      "event_count": 2,
+      "company_count": 2,
+      "buyer_count": 2,
+      "purchase_value": 3230724.0,
+      "median_conviction": 38.0122,
+      "largest_purchase": 3080724.0
+    },
+    {
+      "date": "2026-07-15",
+      "event_count": 1,
+      "company_count": 1,
+      "buyer_count": 1,
+      "purchase_value": 2294692.2,
+      "median_conviction": 25.8687,
+      "largest_purchase": 2294692.2
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 2,
+      "company_count": 2,
+      "buyer_count": 2,
+      "purchase_value": 1856578.5,
+      "median_conviction": 29.89595,
+      "largest_purchase": 1856544.0
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 2,
+      "company_count": 2,
+      "buyer_count": 2,
+      "purchase_value": 1390062.18,
+      "median_conviction": 32.67965,
+      "largest_purchase": 1382097.6
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 36,
+      "company_count": 10,
+      "buyer_count": 30,
+      "purchase_value": 25063811.4233,
+      "median_conviction": 55.77215,
+      "largest_purchase": 3584886.93
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 43,
+      "company_count": 21,
+      "buyer_count": 35,
+      "purchase_value": 62633241.676964,
+      "median_conviction": 41.6019,
+      "largest_purchase": 9899922.70033
+    },
+    {
+      "date": "2026-07-22",
+      "event_count": 58,
+      "company_count": 25,
+      "buyer_count": 50,
+      "purchase_value": 76574693.272437,
+      "median_conviction": 48.8926,
+      "largest_purchase": 6875000.0
+    },
+    {
+      "date": "2026-07-23",
+      "event_count": 51,
+      "company_count": 26,
+      "buyer_count": 46,
+      "purchase_value": 1044729536.932063,
+      "median_conviction": 42.8904,
+      "largest_purchase": 846122589.0
+    },
+    {
+      "date": "2026-07-24",
+      "event_count": 51,
+      "company_count": 26,
+      "buyer_count": 48,
+      "purchase_value": 283537663.635183,
+      "median_conviction": 45.8125,
+      "largest_purchase": 36115495.0
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 39,
+      "company_count": 25,
+      "buyer_count": 35,
+      "purchase_value": 99449856.9788,
+      "median_conviction": 46.5491,
+      "largest_purchase": 15000000.0
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 28,
+      "company_count": 21,
+      "buyer_count": 26,
+      "purchase_value": 73449051.171205,
+      "median_conviction": 39.23485,
+      "largest_purchase": 22935758.667525
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 51,
+      "company_count": 30,
+      "buyer_count": 49,
+      "purchase_value": 276602035.770096,
+      "median_conviction": 36.9568,
+      "largest_purchase": 49999999.99253
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 19,
+      "company_count": 15,
+      "buyer_count": 18,
+      "purchase_value": 14242162.0053,
+      "median_conviction": 40.5666,
+      "largest_purchase": 13000000.0
+    },
+    {
+      "date": "2026-07-31",
+      "event_count": 9,
+      "company_count": 4,
+      "buyer_count": 9,
+      "purchase_value": 1796911.404,
+      "median_conviction": 49.5231,
+      "largest_purchase": 258000.0
+    }
+  ]
+}

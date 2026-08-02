@@ -1,0 +1,47 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
+  "as_of_date": "2026-07-31",
+  "freshness": {
+    "latest_sec_filing_date": "2026-07-31",
+    "latest_price_date": "",
+    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+  },
+  "limitations": [],
+  "insider": {
+    "schema_version": "v1",
+    "insider_id": "0001903793",
+    "owner_cik": "0001903793",
+    "issuer_cik": "0001913724",
+    "canonical_name": "Tpg Gp A Llc",
+    "display_name": "Tpg Gp A Llc",
+    "raw_officer_title": "",
+    "normalized_roles": "ten_percent_owner",
+    "first_seen_date": "20260731",
+    "last_seen_date": "20260731",
+    "identity_quality": "exact_owner_cik",
+    "generated_at_utc": "2026-08-01T22:54:36.942791Z",
+    "quality": "high",
+    "quality_flags": "",
+    "source_type": "sec_xml",
+    "source_path": "data/raw/sec/filings/0001064683/0001999371-26-016672/filing.xml",
+    "source_accession": "0001999371-26-016672",
+    "parser_version": "v1",
+    "normalized_at_utc": "2026-08-01T22:54:36.942791Z",
+    "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0001999371-26-016672\", \"source_path\": \"data/raw/sec/filings/0001064683/0001999371-26-016672/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}"
+  },
+  "companies": [],
+  "purchase_events": [],
+  "histories": [],
+  "signals": [],
+  "behavior_profile": {
+    "purchase_count": 0,
+    "company_count": 0,
+    "total_purchase_value": 0,
+    "median_purchase_value": null,
+    "largest_purchase_value": null,
+    "median_days_between_purchases": null,
+    "highest_behavior_change": null,
+    "highest_conviction": null
+  }
+}

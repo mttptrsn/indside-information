@@ -1,0 +1,61 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
+  "as_of_date": "2026-07-31",
+  "freshness": {
+    "latest_sec_filing_date": "2026-07-31",
+    "latest_price_date": "",
+    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+  },
+  "limitations": [
+    "Company metadata and prices may be missing for inactive or unsupported symbols.",
+    "Indirect ownership should be interpreted with the source filing footnotes."
+  ],
+  "company": {
+    "schema_version": "v1",
+    "issuer_cik": 1421461,
+    "issuer_name": "Intrepid Potash, Inc.",
+    "primary_ticker": "IPI",
+    "exchange": "NYQ",
+    "yf_ticker": "IPI",
+    "is_active": true,
+    "mapping_quality": "exact_cik",
+    "generated_at_utc": "2026-08-01T22:54:36.767485Z",
+    "quality": "high",
+    "quality_flags": null,
+    "source_type": "sec_xml",
+    "source_path": "data/raw/sec/filings/0001421461/0001225208-26-006776/filing.xml",
+    "source_accession": "0001225208-26-006776",
+    "parser_version": "v1",
+    "normalized_at_utc": "2026-08-01T22:54:36.767485Z",
+    "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0001225208-26-006776\", \"source_path\": \"data/raw/sec/filings/0001421461/0001225208-26-006776/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}",
+    "company_name": "Intrepid Potash, Inc.",
+    "industry": "Agricultural Inputs",
+    "market_cap": 456185696.0,
+    "metadata_fetched_at_utc": "2026-08-01T18:35:10.282466Z",
+    "metadata_quality": "high",
+    "quote_type": "EQUITY",
+    "sector": "Basic Materials",
+    "ticker": "IPI",
+    "latest_price": 33.959999084472656,
+    "average_dollar_volume_63d": 7983123.11466762,
+    "discovery_eligible": true,
+    "eligibility_reasons": null
+  },
+  "current_signal": null,
+  "latest_event_signal": null,
+  "buyers": [],
+  "purchase_events": [],
+  "purchase_campaigns": [],
+  "executive_histories": [],
+  "event_signals": [],
+  "qualifying_transactions": [],
+  "stats": {
+    "purchase_event_count": 0,
+    "unique_buyer_count": 0,
+    "total_purchase_value": 0,
+    "largest_purchase_value": 0,
+    "median_conviction": null,
+    "highest_behavior_change": null
+  }
+}

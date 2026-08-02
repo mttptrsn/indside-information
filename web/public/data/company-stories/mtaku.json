@@ -1,0 +1,126 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
+  "as_of_date": "2026-07-31",
+  "freshness": {
+    "latest_sec_filing_date": "2026-07-31",
+    "latest_price_date": "",
+    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+  },
+  "ticker": "MTAKU",
+  "yf_ticker": "MTAKU",
+  "issuer_cik": 2133136,
+  "company_name": "Market Technology Acquisition Corp",
+  "sector": "Financial Services",
+  "industry": "Shell Companies",
+  "price_available": true,
+  "price_unavailable_reason": "",
+  "price_path": [
+    {
+      "date": "2026-07-24",
+      "close": 9.970000267028809,
+      "adjusted_close": 9.970000267028809,
+      "volume": 5873400
+    },
+    {
+      "date": "2026-07-27",
+      "close": 9.949999809265137,
+      "adjusted_close": 9.949999809265137,
+      "volume": 573900
+    },
+    {
+      "date": "2026-07-28",
+      "close": 9.960000038146973,
+      "adjusted_close": 9.960000038146973,
+      "volume": 53300
+    },
+    {
+      "date": "2026-07-29",
+      "close": 9.960000038146973,
+      "adjusted_close": 9.960000038146973,
+      "volume": 84600
+    },
+    {
+      "date": "2026-07-30",
+      "close": 9.960000038146973,
+      "adjusted_close": 9.960000038146973,
+      "volume": 145100
+    },
+    {
+      "date": "2026-07-31",
+      "close": 9.960000038146973,
+      "adjusted_close": 9.960000038146973,
+      "volume": 671700
+    }
+  ],
+  "purchase_markers": [
+    {
+      "event_id": "04e492ee658fd147d3cb1acd",
+      "transaction_date": "2026-07-27",
+      "price_date": "2026-07-27",
+      "market_price": 9.949999809265137,
+      "reported_purchase_price": 10.0,
+      "purchase_value": 4525000.0,
+      "shares": 452500.0,
+      "owner_cik": 2143048,
+      "owner_name": null,
+      "roles": "ceo|operating_executive|other_officer|ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 100.0,
+      "conviction_score": 54.632,
+      "behavior_change_score": 56.6,
+      "headline": null
+    },
+    {
+      "event_id": "6073e926211708ddf54055af",
+      "transaction_date": "2026-07-27",
+      "price_date": "2026-07-27",
+      "market_price": 9.949999809265137,
+      "reported_purchase_price": 10.0,
+      "purchase_value": 4525000.0,
+      "shares": 452500.0,
+      "owner_cik": 2143055,
+      "owner_name": null,
+      "roles": "ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 100.0,
+      "conviction_score": 49.0745,
+      "behavior_change_score": 53.75,
+      "headline": null
+    }
+  ],
+  "summary": {
+    "price_date": "2026-07-31",
+    "current_price": 9.96,
+    "average_reported_purchase_price": 10.0,
+    "percent_vs_average_purchase_price": -0.4,
+    "first_purchase_date": "2026-07-27",
+    "latest_purchase_date": "2026-07-27",
+    "return_since_first_purchase": 0.100505,
+    "return_since_latest_purchase": 0.100505,
+    "drawdown_from_52_week_high": -0.100303,
+    "drawdown_from_3_year_high": -0.100303,
+    "distance_from_200_day_average": null,
+    "return_63_sessions": null,
+    "realized_volatility_63d": null,
+    "volatility_percentile": null,
+    "trend": "insufficient_history",
+    "buyers": 2,
+    "purchase_days": 1,
+    "purchase_events": 2,
+    "total_reported_purchase_value": 9050000.0
+  },
+  "quality": {
+    "price_rows_available": 6,
+    "price_points_exported": 6,
+    "purchase_markers_exported": 2,
+    "mapping_quality": "exact_cik",
+    "metadata_quality": "high",
+    "price_quality": null
+  },
+  "limitations": [
+    "Price history comes from yfinance and may be revised or unavailable.",
+    "Adjusted closes are used for market context; reported filing prices and values are never rewritten for later splits.",
+    "Returns describe what happened after disclosed purchases and are not live score inputs."
+  ]
+}

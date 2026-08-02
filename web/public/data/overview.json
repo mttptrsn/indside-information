@@ -1,0 +1,414 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
+  "as_of_date": "2026-07-31",
+  "freshness": {
+    "latest_sec_filing_date": "2026-07-31",
+    "latest_price_date": "",
+    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+  },
+  "limitations": [
+    "Insider purchases are research evidence, not a prediction or recommendation.",
+    "SEC filings can be amended and may include indirect ownership or reporting errors.",
+    "Price and company metadata use yfinance and may be incomplete or revised."
+  ],
+  "counts": {
+    "normalized_transactions": 6357,
+    "qualifying_purchases": 569,
+    "purchase_events": 426,
+    "event_signals": 426,
+    "company_signals": 114,
+    "companies": 899,
+    "eligible_companies": 434,
+    "exceptional_signals": 0,
+    "cluster_signals": 426
+  },
+  "market_pulse": {
+    "median_behavior_change": 44.8683,
+    "median_conviction": 42.56755,
+    "total_reported_purchase_value": 1996617375.710248,
+    "active_company_count": 114
+  },
+  "featured_discoveries": [
+    {
+      "rank": 1,
+      "category": "under_the_radar",
+      "ticker": "CLBK",
+      "issuer_cik": 2115119,
+      "company_name": null,
+      "headline": "Insider purchase was 7.9× larger than prior median",
+      "purchase_value": 444000.0,
+      "purchase_multiple": 7.928571428571429,
+      "ownership_increase_percent": 29.98176784387872,
+      "buyer_count": 16,
+      "operating_executive_count": 3,
+      "behavior_change_score": 75.9589,
+      "conviction_score": 74.2828,
+      "abnormality_score": 92.75,
+      "silence_break_score": 100.0,
+      "cluster_score": 100.0,
+      "market_cap": 0.0,
+      "sector": null,
+      "industry": null,
+      "transaction_date": "2026-07-20T00:00:00",
+      "filing_date": 20260722,
+      "quality": "limited",
+      "discovery_eligible": null,
+      "reason_codes": [
+        "sparse_history"
+      ],
+      "source_accession_numbers": [
+        "0001752640-26-000011"
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "under_the_radar",
+      "ticker": "CLBK",
+      "issuer_cik": 2115119,
+      "company_name": null,
+      "headline": "Director purchase was 3.7× larger than prior median",
+      "purchase_value": 394000.0,
+      "purchase_multiple": 3.724007561436673,
+      "ownership_increase_percent": 402.6982829108749,
+      "buyer_count": 16,
+      "operating_executive_count": 3,
+      "behavior_change_score": 75.8119,
+      "conviction_score": 71.6245,
+      "abnormality_score": 78.03402646502835,
+      "silence_break_score": 100.0,
+      "cluster_score": 100.0,
+      "market_cap": 0.0,
+      "sector": null,
+      "industry": null,
+      "transaction_date": "2026-07-20T00:00:00",
+      "filing_date": 20260722,
+      "quality": "limited",
+      "discovery_eligible": null,
+      "reason_codes": [
+        "indirect_only",
+        "sparse_history"
+      ],
+      "source_accession_numbers": [
+        "0001731365-26-000007"
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "under_the_radar",
+      "ticker": "CLBK",
+      "issuer_cik": 2115119,
+      "company_name": null,
+      "headline": "CEO purchase was 3.1× larger than prior median",
+      "purchase_value": 400000.0,
+      "purchase_multiple": 3.0634908478210923,
+      "ownership_increase_percent": 7.29406573047333,
+      "buyer_count": 16,
+      "operating_executive_count": 3,
+      "behavior_change_score": 68.5616,
+      "conviction_score": 71.1116,
+      "abnormality_score": 75.72221796737382,
+      "silence_break_score": 100.0,
+      "cluster_score": 100.0,
+      "market_cap": 0.0,
+      "sector": null,
+      "industry": null,
+      "transaction_date": "2026-07-20T00:00:00",
+      "filing_date": 20260722,
+      "quality": "limited",
+      "discovery_eligible": null,
+      "reason_codes": [
+        "sparse_history"
+      ],
+      "source_accession_numbers": [
+        "0001729897-26-000038"
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "under_the_radar",
+      "ticker": "RBKB",
+      "issuer_cik": 1751783,
+      "company_name": null,
+      "headline": "First recorded open-market purchase by ceo",
+      "purchase_value": 149088.5,
+      "purchase_multiple": null,
+      "ownership_increase_percent": 52.14891295223705,
+      "buyer_count": 4,
+      "operating_executive_count": 1,
+      "behavior_change_score": 56.6,
+      "conviction_score": 76.256,
+      "abnormality_score": 60.0,
+      "silence_break_score": 70.0,
+      "cluster_score": 100.0,
+      "market_cap": 0.0,
+      "sector": null,
+      "industry": null,
+      "transaction_date": "2026-07-22T00:00:00",
+      "filing_date": 20260723,
+      "quality": "limited",
+      "discovery_eligible": null,
+      "reason_codes": [
+        "sparse_history"
+      ],
+      "source_accession_numbers": [
+        "0001437749-26-024321"
+      ]
+    },
+    {
+      "rank": 5,
+      "category": "under_the_radar",
+      "ticker": "CLBK",
+      "issuer_cik": 2115119,
+      "company_name": null,
+      "headline": "First recorded open-market purchase by cfo",
+      "purchase_value": 500000.0,
+      "purchase_multiple": null,
+      "ownership_increase_percent": 5800.46403712297,
+      "buyer_count": 16,
+      "operating_executive_count": 3,
+      "behavior_change_score": 56.2,
+      "conviction_score": 76.6021,
+      "abnormality_score": 60.0,
+      "silence_break_score": 70.0,
+      "cluster_score": 100.0,
+      "market_cap": 0.0,
+      "sector": null,
+      "industry": null,
+      "transaction_date": "2026-07-20T00:00:00",
+      "filing_date": 20260722,
+      "quality": "limited",
+      "discovery_eligible": null,
+      "reason_codes": [
+        "sparse_history"
+      ],
+      "source_accession_numbers": [
+        "0001339736-26-000014"
+      ]
+    },
+    {
+      "rank": 6,
+      "category": "under_the_radar",
+      "ticker": "BYRN",
+      "issuer_cik": 1354866,
+      "company_name": null,
+      "headline": "First recorded open-market purchase by ceo",
+      "purchase_value": 64963.27863413999,
+      "purchase_multiple": null,
+      "ownership_increase_percent": 100.0,
+      "buyer_count": 4,
+      "operating_executive_count": 2,
+      "behavior_change_score": 56.6,
+      "conviction_score": 75.4829,
+      "abnormality_score": 60.0,
+      "silence_break_score": 70.0,
+      "cluster_score": 100.0,
+      "market_cap": 0.0,
+      "sector": null,
+      "industry": null,
+      "transaction_date": "2026-07-22T00:00:00",
+      "filing_date": 20260723,
+      "quality": "limited",
+      "discovery_eligible": null,
+      "reason_codes": [
+        "sparse_history"
+      ],
+      "source_accession_numbers": [
+        "0001437749-26-024355"
+      ]
+    },
+    {
+      "rank": 7,
+      "category": "under_the_radar",
+      "ticker": "RBKB",
+      "issuer_cik": 1751783,
+      "company_name": null,
+      "headline": "First recorded open-market purchase by director",
+      "purchase_value": 298500.0,
+      "purchase_multiple": null,
+      "ownership_increase_percent": 1101.3215859030836,
+      "buyer_count": 4,
+      "operating_executive_count": 1,
+      "behavior_change_score": 54.5,
+      "conviction_score": 72.807,
+      "abnormality_score": 60.0,
+      "silence_break_score": 70.0,
+      "cluster_score": 100.0,
+      "market_cap": 0.0,
+      "sector": null,
+      "industry": null,
+      "transaction_date": "2026-07-22T00:00:00",
+      "filing_date": 20260723,
+      "quality": "limited",
+      "discovery_eligible": null,
+      "reason_codes": [
+        "sparse_history"
+      ],
+      "source_accession_numbers": [
+        "0001437749-26-024324"
+      ]
+    },
+    {
+      "rank": 8,
+      "category": "under_the_radar",
+      "ticker": "BYRN",
+      "issuer_cik": 1354866,
+      "company_name": null,
+      "headline": "First recorded open-market purchase by director",
+      "purchase_value": 102285.9,
+      "purchase_multiple": null,
+      "ownership_increase_percent": 100.0,
+      "buyer_count": 4,
+      "operating_executive_count": 2,
+      "behavior_change_score": 54.5,
+      "conviction_score": 71.8103,
+      "abnormality_score": 60.0,
+      "silence_break_score": 70.0,
+      "cluster_score": 100.0,
+      "market_cap": 0.0,
+      "sector": null,
+      "industry": null,
+      "transaction_date": "2026-07-22T00:00:00",
+      "filing_date": 20260723,
+      "quality": "limited",
+      "discovery_eligible": null,
+      "reason_codes": [
+        "sparse_history"
+      ],
+      "source_accession_numbers": [
+        "0001437749-26-024350"
+      ]
+    },
+    {
+      "rank": 9,
+      "category": "under_the_radar",
+      "ticker": "CLBK",
+      "issuer_cik": 2115119,
+      "company_name": null,
+      "headline": "First recorded open-market purchase by director",
+      "purchase_value": 100000.0,
+      "purchase_multiple": null,
+      "ownership_increase_percent": 141.74344436569808,
+      "buyer_count": 16,
+      "operating_executive_count": 3,
+      "behavior_change_score": 54.5,
+      "conviction_score": 71.7893,
+      "abnormality_score": 60.0,
+      "silence_break_score": 70.0,
+      "cluster_score": 100.0,
+      "market_cap": 0.0,
+      "sector": null,
+      "industry": null,
+      "transaction_date": "2026-07-20T00:00:00",
+      "filing_date": 20260722,
+      "quality": "limited",
+      "discovery_eligible": null,
+      "reason_codes": [
+        "sparse_history"
+      ],
+      "source_accession_numbers": [
+        "0002142208-26-000015"
+      ]
+    },
+    {
+      "rank": 10,
+      "category": "under_the_radar",
+      "ticker": "NMM",
+      "issuer_cik": 1415921,
+      "company_name": null,
+      "headline": "Director purchase was 9947.6× larger than prior median",
+      "purchase_value": 846122589.0,
+      "purchase_multiple": 9947.629264010162,
+      "ownership_increase_percent": 0.0236830467077424,
+      "buyer_count": 1,
+      "operating_executive_count": 0,
+      "behavior_change_score": 71.5113,
+      "conviction_score": 54.6346,
+      "abnormality_score": 100.0,
+      "silence_break_score": 25.03287671232877,
+      "cluster_score": 25.0,
+      "market_cap": 0.0,
+      "sector": null,
+      "industry": null,
+      "transaction_date": "2026-07-23T00:00:00",
+      "filing_date": 20260727,
+      "quality": "high",
+      "discovery_eligible": null,
+      "reason_codes": [
+        "indirect_only"
+      ],
+      "source_accession_numbers": [
+        "0001193125-26-318541"
+      ]
+    },
+    {
+      "rank": 11,
+      "category": "under_the_radar",
+      "ticker": "SCTX",
+      "issuer_cik": 1853921,
+      "company_name": null,
+      "headline": "First recorded open-market purchase by director",
+      "purchase_value": 15000000.0,
+      "purchase_multiple": null,
+      "ownership_increase_percent": 286.67670035117897,
+      "buyer_count": 14,
+      "operating_executive_count": 1,
+      "behavior_change_score": 54.5,
+      "conviction_score": 67.175,
+      "abnormality_score": 60.0,
+      "silence_break_score": 70.0,
+      "cluster_score": 100.0,
+      "market_cap": 0.0,
+      "sector": null,
+      "industry": null,
+      "transaction_date": "2026-07-27T00:00:00",
+      "filing_date": 20260729,
+      "quality": "limited",
+      "discovery_eligible": null,
+      "reason_codes": [
+        "indirect_only",
+        "sparse_history"
+      ],
+      "source_accession_numbers": [
+        "0000947871-26-000734"
+      ]
+    },
+    {
+      "rank": 12,
+      "category": "under_the_radar",
+      "ticker": "SCTX",
+      "issuer_cik": 1853921,
+      "company_name": null,
+      "headline": "First recorded open-market purchase by director",
+      "purchase_value": 36115495.0,
+      "purchase_multiple": null,
+      "ownership_increase_percent": 341.6230201390382,
+      "buyer_count": 5,
+      "operating_executive_count": 1,
+      "behavior_change_score": 54.5,
+      "conviction_score": 67.175,
+      "abnormality_score": 60.0,
+      "silence_break_score": 70.0,
+      "cluster_score": 100.0,
+      "market_cap": 0.0,
+      "sector": null,
+      "industry": null,
+      "transaction_date": "2026-07-24T00:00:00",
+      "filing_date": 20260728,
+      "quality": "limited",
+      "discovery_eligible": null,
+      "reason_codes": [
+        "indirect_only",
+        "sparse_history"
+      ],
+      "source_accession_numbers": [
+        "0000902664-26-003270"
+      ]
+    }
+  ],
+  "quality_summary": {
+    "acceptable": 4232,
+    "high": 3172,
+    "limited": 278
+  }
+}

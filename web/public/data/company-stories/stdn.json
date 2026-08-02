@@ -1,0 +1,127 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
+  "as_of_date": "2026-07-31",
+  "freshness": {
+    "latest_sec_filing_date": "2026-07-31",
+    "latest_price_date": "",
+    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+  },
+  "ticker": "STDN",
+  "yf_ticker": "STDN",
+  "issuer_cik": 2086716,
+  "company_name": "Standard Nuclear, Inc.",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "price_available": true,
+  "price_unavailable_reason": "",
+  "price_path": [
+    {
+      "date": "2026-07-16",
+      "close": 12.300000190734863,
+      "adjusted_close": 12.300000190734863,
+      "volume": 5654500
+    },
+    {
+      "date": "2026-07-17",
+      "close": 10.399999618530272,
+      "adjusted_close": 10.399999618530272,
+      "volume": 2987700
+    },
+    {
+      "date": "2026-07-20",
+      "close": 9.020000457763672,
+      "adjusted_close": 9.020000457763672,
+      "volume": 2021500
+    },
+    {
+      "date": "2026-07-21",
+      "close": 8.90999984741211,
+      "adjusted_close": 8.90999984741211,
+      "volume": 1830800
+    },
+    {
+      "date": "2026-07-22",
+      "close": 9.649999618530272,
+      "adjusted_close": 9.649999618530272,
+      "volume": 895200
+    },
+    {
+      "date": "2026-07-23",
+      "close": 8.779999732971191,
+      "adjusted_close": 8.779999732971191,
+      "volume": 523400
+    },
+    {
+      "date": "2026-07-24",
+      "close": 8.300000190734863,
+      "adjusted_close": 8.300000190734863,
+      "volume": 1352500
+    },
+    {
+      "date": "2026-07-27",
+      "close": 7.699999809265137,
+      "adjusted_close": 7.699999809265137,
+      "volume": 1645800
+    },
+    {
+      "date": "2026-07-28",
+      "close": 7.539999961853027,
+      "adjusted_close": 7.539999961853027,
+      "volume": 1491700
+    },
+    {
+      "date": "2026-07-29",
+      "close": 7.329999923706055,
+      "adjusted_close": 7.329999923706055,
+      "volume": 737400
+    },
+    {
+      "date": "2026-07-30",
+      "close": 7.599999904632568,
+      "adjusted_close": 7.599999904632568,
+      "volume": 619200
+    },
+    {
+      "date": "2026-07-31",
+      "close": 7.889999866485596,
+      "adjusted_close": 7.889999866485596,
+      "volume": 584800
+    }
+  ],
+  "purchase_markers": [],
+  "summary": {
+    "price_date": "2026-07-31",
+    "current_price": 7.89,
+    "average_reported_purchase_price": null,
+    "percent_vs_average_purchase_price": null,
+    "first_purchase_date": null,
+    "latest_purchase_date": null,
+    "return_since_first_purchase": null,
+    "return_since_latest_purchase": null,
+    "drawdown_from_52_week_high": -35.853661,
+    "drawdown_from_3_year_high": -35.853661,
+    "distance_from_200_day_average": null,
+    "return_63_sessions": null,
+    "realized_volatility_63d": null,
+    "volatility_percentile": null,
+    "trend": "insufficient_history",
+    "buyers": 0,
+    "purchase_days": 0,
+    "purchase_events": 0,
+    "total_reported_purchase_value": 0
+  },
+  "quality": {
+    "price_rows_available": 12,
+    "price_points_exported": 12,
+    "purchase_markers_exported": 0,
+    "mapping_quality": "exact_cik",
+    "metadata_quality": "high",
+    "price_quality": null
+  },
+  "limitations": [
+    "Price history comes from yfinance and may be revised or unavailable.",
+    "Adjusted closes are used for market context; reported filing prices and values are never rewritten for later splits.",
+    "Returns describe what happened after disclosed purchases and are not live score inputs."
+  ]
+}

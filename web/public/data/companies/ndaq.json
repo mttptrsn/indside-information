@@ -1,0 +1,61 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
+  "as_of_date": "2026-07-31",
+  "freshness": {
+    "latest_sec_filing_date": "2026-07-31",
+    "latest_price_date": "",
+    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+  },
+  "limitations": [
+    "Company metadata and prices may be missing for inactive or unsupported symbols.",
+    "Indirect ownership should be interpreted with the source filing footnotes."
+  ],
+  "company": {
+    "schema_version": "v1",
+    "issuer_cik": 1120193,
+    "issuer_name": "NASDAQ, INC.",
+    "primary_ticker": "NDAQ",
+    "exchange": "NMS",
+    "yf_ticker": "NDAQ",
+    "is_active": true,
+    "mapping_quality": "exact_cik",
+    "generated_at_utc": "2026-08-01T22:54:36.767485Z",
+    "quality": "high",
+    "quality_flags": null,
+    "source_type": "sec_xml",
+    "source_path": "data/raw/sec/filings/0001120193/0001193125-26-328462/filing.xml",
+    "source_accession": "0001193125-26-328462",
+    "parser_version": "v1",
+    "normalized_at_utc": "2026-08-01T22:54:36.767485Z",
+    "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0001193125-26-328462\", \"source_path\": \"data/raw/sec/filings/0001120193/0001193125-26-328462/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}",
+    "company_name": "Nasdaq, Inc.",
+    "industry": "Financial Data & Stock Exchanges",
+    "market_cap": 52650078208.0,
+    "metadata_fetched_at_utc": "2026-08-01T18:34:09.808864Z",
+    "metadata_quality": "high",
+    "quote_type": "EQUITY",
+    "sector": "Financial Services",
+    "ticker": "NDAQ",
+    "latest_price": 94.19000244140624,
+    "average_dollar_volume_63d": 352753757.97505456,
+    "discovery_eligible": false,
+    "eligibility_reasons": "market_cap_above_maximum"
+  },
+  "current_signal": null,
+  "latest_event_signal": null,
+  "buyers": [],
+  "purchase_events": [],
+  "purchase_campaigns": [],
+  "executive_histories": [],
+  "event_signals": [],
+  "qualifying_transactions": [],
+  "stats": {
+    "purchase_event_count": 0,
+    "unique_buyer_count": 0,
+    "total_purchase_value": 0,
+    "largest_purchase_value": 0,
+    "median_conviction": null,
+    "highest_behavior_change": null
+  }
+}

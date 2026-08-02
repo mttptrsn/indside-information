@@ -1,0 +1,901 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
+  "as_of_date": "2026-07-31",
+  "freshness": {
+    "latest_sec_filing_date": "2026-07-31",
+    "latest_price_date": "",
+    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+  },
+  "ticker": "STPEX",
+  "yf_ticker": "STPEX",
+  "issuer_cik": 2066799,
+  "company_name": "Stepstone Private Equity Fund",
+  "sector": null,
+  "industry": null,
+  "price_available": true,
+  "price_unavailable_reason": "",
+  "price_path": [
+    {
+      "date": "2026-01-08",
+      "close": 11.279999732971191,
+      "adjusted_close": 11.279999732971191,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-09",
+      "close": 11.3100004196167,
+      "adjusted_close": 11.3100004196167,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-12",
+      "close": 11.31999969482422,
+      "adjusted_close": 11.31999969482422,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-13",
+      "close": 11.3100004196167,
+      "adjusted_close": 11.3100004196167,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-14",
+      "close": 11.300000190734863,
+      "adjusted_close": 11.300000190734863,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-15",
+      "close": 11.3100004196167,
+      "adjusted_close": 11.3100004196167,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-16",
+      "close": 11.3100004196167,
+      "adjusted_close": 11.3100004196167,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-20",
+      "close": 11.239999771118164,
+      "adjusted_close": 11.239999771118164,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-21",
+      "close": 11.270000457763672,
+      "adjusted_close": 11.270000457763672,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-22",
+      "close": 11.300000190734863,
+      "adjusted_close": 11.300000190734863,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-23",
+      "close": 11.300000190734863,
+      "adjusted_close": 11.300000190734863,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-26",
+      "close": 11.31999969482422,
+      "adjusted_close": 11.31999969482422,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-27",
+      "close": 11.34000015258789,
+      "adjusted_close": 11.34000015258789,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-28",
+      "close": 11.34000015258789,
+      "adjusted_close": 11.34000015258789,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-29",
+      "close": 11.329999923706056,
+      "adjusted_close": 11.329999923706056,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-30",
+      "close": 11.3100004196167,
+      "adjusted_close": 11.3100004196167,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-02",
+      "close": 11.31999969482422,
+      "adjusted_close": 11.31999969482422,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-03",
+      "close": 11.3100004196167,
+      "adjusted_close": 11.3100004196167,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-04",
+      "close": 11.279999732971191,
+      "adjusted_close": 11.279999732971191,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-05",
+      "close": 11.220000267028809,
+      "adjusted_close": 11.220000267028809,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-06",
+      "close": 11.289999961853027,
+      "adjusted_close": 11.289999961853027,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-09",
+      "close": 11.3100004196167,
+      "adjusted_close": 11.3100004196167,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-10",
+      "close": 11.300000190734863,
+      "adjusted_close": 11.300000190734863,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-11",
+      "close": 11.279999732971191,
+      "adjusted_close": 11.279999732971191,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-12",
+      "close": 11.229999542236328,
+      "adjusted_close": 11.229999542236328,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-13",
+      "close": 11.220000267028809,
+      "adjusted_close": 11.220000267028809,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-17",
+      "close": 11.229999542236328,
+      "adjusted_close": 11.229999542236328,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-18",
+      "close": 11.260000228881836,
+      "adjusted_close": 11.260000228881836,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-19",
+      "close": 11.260000228881836,
+      "adjusted_close": 11.260000228881836,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-20",
+      "close": 11.279999732971191,
+      "adjusted_close": 11.279999732971191,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-23",
+      "close": 11.25,
+      "adjusted_close": 11.25,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-24",
+      "close": 11.270000457763672,
+      "adjusted_close": 11.270000457763672,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-25",
+      "close": 11.300000190734863,
+      "adjusted_close": 11.300000190734863,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-26",
+      "close": 11.289999961853027,
+      "adjusted_close": 11.289999961853027,
+      "volume": 0
+    },
+    {
+      "date": "2026-02-27",
+      "close": 11.31999969482422,
+      "adjusted_close": 11.31999969482422,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-02",
+      "close": 11.31999969482422,
+      "adjusted_close": 11.31999969482422,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-03",
+      "close": 11.279999732971191,
+      "adjusted_close": 11.279999732971191,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-04",
+      "close": 11.31999969482422,
+      "adjusted_close": 11.31999969482422,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-05",
+      "close": 11.300000190734863,
+      "adjusted_close": 11.300000190734863,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-06",
+      "close": 11.300000190734863,
+      "adjusted_close": 11.300000190734863,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-09",
+      "close": 11.329999923706056,
+      "adjusted_close": 11.329999923706056,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-10",
+      "close": 11.329999923706056,
+      "adjusted_close": 11.329999923706056,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-11",
+      "close": 11.329999923706056,
+      "adjusted_close": 11.329999923706056,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-12",
+      "close": 11.270000457763672,
+      "adjusted_close": 11.270000457763672,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-13",
+      "close": 11.25,
+      "adjusted_close": 11.25,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-16",
+      "close": 11.289999961853027,
+      "adjusted_close": 11.289999961853027,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-17",
+      "close": 11.300000190734863,
+      "adjusted_close": 11.300000190734863,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-18",
+      "close": 11.260000228881836,
+      "adjusted_close": 11.260000228881836,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-19",
+      "close": 11.25,
+      "adjusted_close": 11.25,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-20",
+      "close": 11.199999809265137,
+      "adjusted_close": 11.199999809265137,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-23",
+      "close": 11.239999771118164,
+      "adjusted_close": 11.239999771118164,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-24",
+      "close": 11.220000267028809,
+      "adjusted_close": 11.220000267028809,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-25",
+      "close": 11.229999542236328,
+      "adjusted_close": 11.229999542236328,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-26",
+      "close": 11.210000038146973,
+      "adjusted_close": 11.210000038146973,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-27",
+      "close": 11.149999618530272,
+      "adjusted_close": 11.149999618530272,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-30",
+      "close": 11.140000343322754,
+      "adjusted_close": 11.140000343322754,
+      "volume": 0
+    },
+    {
+      "date": "2026-03-31",
+      "close": 11.140000343322754,
+      "adjusted_close": 11.140000343322754,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-01",
+      "close": 11.619999885559082,
+      "adjusted_close": 11.619999885559082,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-02",
+      "close": 11.619999885559082,
+      "adjusted_close": 11.619999885559082,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-06",
+      "close": 11.699999809265137,
+      "adjusted_close": 11.699999809265137,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-07",
+      "close": 11.729999542236328,
+      "adjusted_close": 11.729999542236328,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-08",
+      "close": 11.850000381469728,
+      "adjusted_close": 11.850000381469728,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-09",
+      "close": 11.859999656677246,
+      "adjusted_close": 11.859999656677246,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-10",
+      "close": 11.90999984741211,
+      "adjusted_close": 11.90999984741211,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-13",
+      "close": 11.960000038146973,
+      "adjusted_close": 11.960000038146973,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-14",
+      "close": 12.020000457763672,
+      "adjusted_close": 12.020000457763672,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-15",
+      "close": 12.050000190734863,
+      "adjusted_close": 12.050000190734863,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-16",
+      "close": 12.050000190734863,
+      "adjusted_close": 12.050000190734863,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-17",
+      "close": 12.100000381469728,
+      "adjusted_close": 12.100000381469728,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-20",
+      "close": 12.100000381469728,
+      "adjusted_close": 12.100000381469728,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-21",
+      "close": 12.079999923706056,
+      "adjusted_close": 12.079999923706056,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-22",
+      "close": 12.109999656677246,
+      "adjusted_close": 12.109999656677246,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-23",
+      "close": 12.100000381469728,
+      "adjusted_close": 12.100000381469728,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-24",
+      "close": 12.06999969482422,
+      "adjusted_close": 12.06999969482422,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-27",
+      "close": 12.079999923706056,
+      "adjusted_close": 12.079999923706056,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-28",
+      "close": 12.0600004196167,
+      "adjusted_close": 12.0600004196167,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-29",
+      "close": 12.050000190734863,
+      "adjusted_close": 12.050000190734863,
+      "volume": 0
+    },
+    {
+      "date": "2026-04-30",
+      "close": 12.100000381469728,
+      "adjusted_close": 12.100000381469728,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-01",
+      "close": 12.109999656677246,
+      "adjusted_close": 12.109999656677246,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-04",
+      "close": 12.09000015258789,
+      "adjusted_close": 12.09000015258789,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-05",
+      "close": 12.109999656677246,
+      "adjusted_close": 12.109999656677246,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-06",
+      "close": 12.15999984741211,
+      "adjusted_close": 12.15999984741211,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-07",
+      "close": 12.15999984741211,
+      "adjusted_close": 12.15999984741211,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-08",
+      "close": 12.18000030517578,
+      "adjusted_close": 12.18000030517578,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-11",
+      "close": 12.1899995803833,
+      "adjusted_close": 12.1899995803833,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-12",
+      "close": 12.18000030517578,
+      "adjusted_close": 12.18000030517578,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-13",
+      "close": 12.210000038146973,
+      "adjusted_close": 12.210000038146973,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-14",
+      "close": 12.229999542236328,
+      "adjusted_close": 12.229999542236328,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-15",
+      "close": 12.170000076293944,
+      "adjusted_close": 12.170000076293944,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-18",
+      "close": 12.1899995803833,
+      "adjusted_close": 12.1899995803833,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-19",
+      "close": 12.15999984741211,
+      "adjusted_close": 12.15999984741211,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-20",
+      "close": 12.170000076293944,
+      "adjusted_close": 12.170000076293944,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-21",
+      "close": 12.15999984741211,
+      "adjusted_close": 12.15999984741211,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-22",
+      "close": 12.220000267028809,
+      "adjusted_close": 12.220000267028809,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-26",
+      "close": 12.31999969482422,
+      "adjusted_close": 12.31999969482422,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-27",
+      "close": 12.31999969482422,
+      "adjusted_close": 12.31999969482422,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-28",
+      "close": 12.34000015258789,
+      "adjusted_close": 12.34000015258789,
+      "volume": 0
+    },
+    {
+      "date": "2026-05-29",
+      "close": 12.359999656677246,
+      "adjusted_close": 12.359999656677246,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-01",
+      "close": 12.369999885559082,
+      "adjusted_close": 12.369999885559082,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-02",
+      "close": 12.399999618530272,
+      "adjusted_close": 12.399999618530272,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-03",
+      "close": 12.359999656677246,
+      "adjusted_close": 12.359999656677246,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-04",
+      "close": 12.380000114440918,
+      "adjusted_close": 12.380000114440918,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-05",
+      "close": 12.270000457763672,
+      "adjusted_close": 12.270000457763672,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-08",
+      "close": 12.270000457763672,
+      "adjusted_close": 12.270000457763672,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-09",
+      "close": 12.279999732971191,
+      "adjusted_close": 12.279999732971191,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-10",
+      "close": 12.220000267028809,
+      "adjusted_close": 12.220000267028809,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-11",
+      "close": 12.279999732971191,
+      "adjusted_close": 12.279999732971191,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-12",
+      "close": 12.359999656677246,
+      "adjusted_close": 12.359999656677246,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-15",
+      "close": 12.449999809265137,
+      "adjusted_close": 12.449999809265137,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-16",
+      "close": 12.4399995803833,
+      "adjusted_close": 12.4399995803833,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-17",
+      "close": 12.40999984741211,
+      "adjusted_close": 12.40999984741211,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-18",
+      "close": 12.43000030517578,
+      "adjusted_close": 12.43000030517578,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-22",
+      "close": 12.390000343322754,
+      "adjusted_close": 12.390000343322754,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-23",
+      "close": 12.3100004196167,
+      "adjusted_close": 12.3100004196167,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-24",
+      "close": 12.300000190734863,
+      "adjusted_close": 12.300000190734863,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-25",
+      "close": 12.3100004196167,
+      "adjusted_close": 12.3100004196167,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-26",
+      "close": 12.289999961853027,
+      "adjusted_close": 12.289999961853027,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-29",
+      "close": 12.34000015258789,
+      "adjusted_close": 12.34000015258789,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-30",
+      "close": 12.470000267028809,
+      "adjusted_close": 12.470000267028809,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-01",
+      "close": 12.460000038146973,
+      "adjusted_close": 12.460000038146973,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-02",
+      "close": 12.470000267028809,
+      "adjusted_close": 12.470000267028809,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-06",
+      "close": 12.5,
+      "adjusted_close": 12.5,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-07",
+      "close": 12.470000267028809,
+      "adjusted_close": 12.470000267028809,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-08",
+      "close": 12.449999809265137,
+      "adjusted_close": 12.449999809265137,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-09",
+      "close": 12.489999771118164,
+      "adjusted_close": 12.489999771118164,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-10",
+      "close": 12.5,
+      "adjusted_close": 12.5,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-13",
+      "close": 12.460000038146973,
+      "adjusted_close": 12.460000038146973,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-14",
+      "close": 12.479999542236328,
+      "adjusted_close": 12.479999542236328,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-15",
+      "close": 12.5,
+      "adjusted_close": 12.5,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-16",
+      "close": 12.479999542236328,
+      "adjusted_close": 12.479999542236328,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-17",
+      "close": 12.43000030517578,
+      "adjusted_close": 12.43000030517578,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-20",
+      "close": 12.420000076293944,
+      "adjusted_close": 12.420000076293944,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-21",
+      "close": 12.460000038146973,
+      "adjusted_close": 12.460000038146973,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-22",
+      "close": 12.460000038146973,
+      "adjusted_close": 12.460000038146973,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-23",
+      "close": 12.40999984741211,
+      "adjusted_close": 12.40999984741211,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-24",
+      "close": 12.40999984741211,
+      "adjusted_close": 12.40999984741211,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-27",
+      "close": 12.40999984741211,
+      "adjusted_close": 12.40999984741211,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-28",
+      "close": 12.420000076293944,
+      "adjusted_close": 12.420000076293944,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-29",
+      "close": 12.369999885559082,
+      "adjusted_close": 12.369999885559082,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-30",
+      "close": 12.4399995803833,
+      "adjusted_close": 12.4399995803833,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-31",
+      "close": 12.4399995803833,
+      "adjusted_close": 12.4399995803833,
+      "volume": 0
+    }
+  ],
+  "purchase_markers": [],
+  "summary": {
+    "price_date": "2026-07-31",
+    "current_price": 12.44,
+    "average_reported_purchase_price": null,
+    "percent_vs_average_purchase_price": null,
+    "first_purchase_date": null,
+    "latest_purchase_date": null,
+    "return_since_first_purchase": null,
+    "return_since_latest_purchase": null,
+    "drawdown_from_52_week_high": -0.480003,
+    "drawdown_from_3_year_high": -0.480003,
+    "distance_from_200_day_average": 4.95189,
+    "return_63_sessions": 2.809911,
+    "realized_volatility_63d": 5.431462,
+    "volatility_percentile": 32.673267,
+    "trend": "holding_above_trend",
+    "buyers": 0,
+    "purchase_days": 0,
+    "purchase_events": 0,
+    "total_reported_purchase_value": 0
+  },
+  "quality": {
+    "price_rows_available": 141,
+    "price_points_exported": 141,
+    "purchase_markers_exported": 0,
+    "mapping_quality": "filing_symbol",
+    "metadata_quality": "high",
+    "price_quality": null
+  },
+  "limitations": [
+    "Price history comes from yfinance and may be revised or unavailable.",
+    "Adjusted closes are used for market context; reported filing prices and values are never rewritten for later splits.",
+    "Returns describe what happened after disclosed purchases and are not live score inputs."
+  ]
+}

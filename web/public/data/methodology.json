@@ -1,0 +1,59 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
+  "as_of_date": "2026-07-31",
+  "freshness": {
+    "latest_sec_filing_date": "2026-07-31",
+    "latest_price_date": "",
+    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+  },
+  "product_principle": "Surface meaningful changes in insider behavior, not raw filing volume.",
+  "qualifying_purchase_rule": {
+    "form_types": [
+      "4",
+      "4/A"
+    ],
+    "transaction_code": "P",
+    "acquired_disposed_code": "A",
+    "non_derivative_only": true,
+    "positive_shares_and_price": true
+  },
+  "primary_signals": [
+    {
+      "id": "abnormality",
+      "label": "Out of character",
+      "description": "Compares the current purchase with that insider's prior purchase sizes."
+    },
+    {
+      "id": "silence_break",
+      "label": "Quiet buyer returns",
+      "description": "Measures whether an insider bought after an unusually long absence."
+    },
+    {
+      "id": "cluster",
+      "label": "Wolf pack",
+      "description": "Identifies independent operating insiders buying the same company."
+    },
+    {
+      "id": "ownership",
+      "label": "Growing position",
+      "description": "Measures how much the purchase increased reported ownership."
+    },
+    {
+      "id": "acceleration",
+      "label": "Conviction accelerating",
+      "description": "Measures whether purchase size or frequency is increasing across campaigns."
+    }
+  ],
+  "score_distinction": {
+    "behavior_change": "How different the current behavior is from the insider's own history.",
+    "conviction": "How strong and interpretable the complete evidence is after context and penalties."
+  },
+  "causality": "Historical event scores use only information available before each event. Forward returns are evaluation-only and are never live score inputs.",
+  "limitations": [
+    "A purchase can be sincere and still precede poor investment performance.",
+    "First-ever purchases have high novelty but limited personal history.",
+    "Indirect ownership and filing footnotes can materially change interpretation.",
+    "yfinance is an unofficial market-data source."
+  ]
+}

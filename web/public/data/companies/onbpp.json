@@ -1,0 +1,61 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
+  "as_of_date": "2026-07-31",
+  "freshness": {
+    "latest_sec_filing_date": "2026-07-31",
+    "latest_price_date": "",
+    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+  },
+  "limitations": [
+    "Company metadata and prices may be missing for inactive or unsupported symbols.",
+    "Indirect ownership should be interpreted with the source filing footnotes."
+  ],
+  "company": {
+    "schema_version": "v1",
+    "issuer_cik": 707179,
+    "issuer_name": "OLD NATIONAL BANCORP /IN/",
+    "primary_ticker": "ONBPP",
+    "exchange": "NMS",
+    "yf_ticker": "ONBPP",
+    "is_active": true,
+    "mapping_quality": "exact_cik",
+    "generated_at_utc": "2026-08-01T22:54:36.767485Z",
+    "quality": "high",
+    "quality_flags": "filing_ticker_differs_from_sec_reference",
+    "source_type": "sec_xml",
+    "source_path": "data/raw/sec/filings/0001912933/0000707179-26-000048/filing.xml",
+    "source_accession": "0000707179-26-000048",
+    "parser_version": "v1",
+    "normalized_at_utc": "2026-08-01T22:54:36.767485Z",
+    "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0000707179-26-000048\", \"source_path\": \"data/raw/sec/filings/0001912933/0000707179-26-000048/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}",
+    "company_name": "Old National Bancorp",
+    "industry": "Banks - Regional",
+    "market_cap": null,
+    "metadata_fetched_at_utc": "2026-08-01T18:36:12.337744Z",
+    "metadata_quality": "high",
+    "quote_type": "EQUITY",
+    "sector": "Financial Services",
+    "ticker": "ONBPP",
+    "latest_price": 25.07999992370605,
+    "average_dollar_volume_63d": 317988.6341639928,
+    "discovery_eligible": false,
+    "eligibility_reasons": "missing_market_cap|insufficient_liquidity"
+  },
+  "current_signal": null,
+  "latest_event_signal": null,
+  "buyers": [],
+  "purchase_events": [],
+  "purchase_campaigns": [],
+  "executive_histories": [],
+  "event_signals": [],
+  "qualifying_transactions": [],
+  "stats": {
+    "purchase_event_count": 0,
+    "unique_buyer_count": 0,
+    "total_purchase_value": 0,
+    "largest_purchase_value": 0,
+    "median_conviction": null,
+    "highest_behavior_change": null
+  }
+}
