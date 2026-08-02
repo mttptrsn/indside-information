@@ -1,0 +1,5 @@
+Description: Master Index of EDGAR Dissemination Feed
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+1234567|Small Signal Corp|4|2026-07-30|edgar/data/1234567/0001234567-26-000001.txt
+9999999|Other Corp|8-K|2026-07-30|edgar/data/9999999/0009999999-26-000001.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+insider = pipeline.cli:main

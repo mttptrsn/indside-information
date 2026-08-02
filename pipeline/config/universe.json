@@ -1,0 +1,30 @@
+{
+  "schema_version": "v1",
+  "country": "United States",
+  "listing_scope": [
+    "NYSE",
+    "NASDAQ",
+    "NYSE American"
+  ],
+  "eligibility": {
+    "market_cap_min_usd": 100000000,
+    "market_cap_max_usd": 10000000000,
+    "minimum_price_usd": 1.0,
+    "minimum_average_dollar_volume_usd": 500000,
+    "require_operating_company": true,
+    "require_common_stock": true
+  },
+  "excluded_security_types": [
+    "ETF",
+    "mutual fund",
+    "closed-end fund",
+    "warrant",
+    "preferred stock",
+    "unit",
+    "rights",
+    "SPAC shell",
+    "blank-check company"
+  ],
+  "preserve_ineligible_records": true,
+  "eligibility_reason_field": "eligibility_reasons"
+}

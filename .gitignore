@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.secret
+pipeline/config/pipeline.json.backup
+
+# Next.js
+web/node_modules/
+web/.next/
+web/out/
+web/.vercel/
+
+# Local tooling
+.DS_Store
+*.log
+
+# Pipeline runtime data that should not be committed
+data/raw/
+data/normalized/
+data/enriched/
+data/signals/
+data/rankings/
+data/quality/
+data/runs/
+EOF

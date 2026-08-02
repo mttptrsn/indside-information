@@ -1,0 +1,80 @@
+{
+  "schema_version": "v1",
+  "artifacts": {
+    "filings": {
+      "schema_version": "v1",
+      "path": "data/normalized/filings.csv.gz",
+      "format": "csv.gz"
+    },
+    "issuers": {
+      "schema_version": "v1",
+      "path": "data/normalized/issuers.csv.gz",
+      "format": "csv.gz"
+    },
+    "insiders": {
+      "schema_version": "v1",
+      "path": "data/normalized/insiders.csv.gz",
+      "format": "csv.gz"
+    },
+    "transactions": {
+      "schema_version": "v1",
+      "path": "data/normalized/transactions.csv.gz",
+      "format": "csv.gz"
+    },
+    "purchase_events": {
+      "schema_version": "v1",
+      "path": "data/enriched/purchase_events.csv.gz",
+      "format": "csv.gz"
+    },
+    "purchase_campaigns": {
+      "schema_version": "v1",
+      "path": "data/enriched/purchase_campaigns.csv.gz",
+      "format": "csv.gz"
+    },
+    "executive_histories": {
+      "schema_version": "v1",
+      "path": "data/enriched/executive_histories.csv.gz",
+      "format": "csv.gz"
+    },
+    "event_signals": {
+      "schema_version": "v1",
+      "path": "data/signals/event_signals.csv.gz",
+      "format": "csv.gz"
+    },
+    "company_signals": {
+      "schema_version": "v1",
+      "path": "data/signals/company_signals.csv.gz",
+      "format": "csv.gz"
+    },
+    "rankings": {
+      "schema_version": "v1",
+      "path": "data/rankings/latest.csv.gz",
+      "format": "csv.gz"
+    },
+    "quality_reports": {
+      "schema_version": "v1",
+      "path": "data/quality/summary.json",
+      "format": "json"
+    },
+    "pipeline_runs": {
+      "schema_version": "v1",
+      "path": "data/quality/pipeline_runs/latest.json",
+      "format": "json"
+    },
+    "manifest": {
+      "schema_version": "v1",
+      "path": "web/public/data/manifest.json",
+      "format": "json"
+    },
+    "securities": {
+      "schema_version": "v1",
+      "path": "data/normalized/securities.csv.gz",
+      "format": "csv.gz"
+    },
+    "footnotes": {
+      "schema_version": "v1",
+      "path": "data/normalized/footnotes.csv.gz",
+      "format": "csv.gz"
+    }
+  }
+}

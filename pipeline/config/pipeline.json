@@ -1,0 +1,39 @@
+{
+  "schema_version": "v1",
+  "project_name": "Insider",
+  "pipeline_version": "0.1.0",
+  "sec": {
+    "user_agent": "__SEC_CONTACT_EMAIL__",
+    "request_rate_per_second": 5.0,
+    "timeout_seconds": 30,
+    "retry_attempts": 4,
+    "recent_lookback_days": 10,
+    "bulk_history_start_year": 2015,
+    "cache_enabled": true
+  },
+  "prices": {
+    "source": "yfinance",
+    "history_start": "2005-01-01",
+    "overlap_days": 10,
+    "auto_adjust": false
+  },
+  "atomic_writes": {
+    "enabled": true,
+    "fsync": true,
+    "replace_existing": true
+  },
+  "storage": {
+    "raw_root": "data/raw",
+    "normalized_root": "data/normalized",
+    "enriched_root": "data/enriched",
+    "signals_root": "data/signals",
+    "rankings_root": "data/rankings",
+    "quality_root": "data/quality",
+    "web_export_root": "web/public/data",
+    "tabular_format": "csv.gz",
+    "metadata_format": "json"
+  },
+  "logging": {
+    "level": "INFO"
+  }
+}

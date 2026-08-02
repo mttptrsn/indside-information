@@ -1,0 +1,70 @@
+{
+  "schema_version": "v1",
+  "thresholds": {
+    "minimum_purchase_value_usd": 25000,
+    "preferred_market_cap_min_usd": 100000000,
+    "preferred_market_cap_max_usd": 10000000000,
+    "minimum_stock_price_usd": 1.0,
+    "minimum_average_dollar_volume_usd": 500000,
+    "abnormal_purchase_multiple": 3.0,
+    "silence_break_days": 730,
+    "meaningful_ownership_increase_percent": 10.0,
+    "velocity_window_days": 90,
+    "acceleration_minimum_events": 3
+  },
+  "history_depth": {
+    "no_history": 0,
+    "sparse_max": 2,
+    "usable_max": 7,
+    "deep_min": 8
+  },
+  "cluster_windows_days": [
+    7,
+    14,
+    30,
+    90
+  ],
+  "purchase_campaign_gap_trading_days": 5,
+  "behavior_change_weights": {
+    "purchase_size_abnormality": 0.35,
+    "silence_break": 0.2,
+    "purchase_velocity": 0.15,
+    "purchase_acceleration": 0.1,
+    "ownership_increase": 0.1,
+    "role_quality": 0.05,
+    "history_quality": 0.05
+  },
+  "conviction_weights": {
+    "behavior_change": 0.35,
+    "absolute_purchase_size": 0.15,
+    "ownership_increase": 0.12,
+    "cluster_confirmation": 0.14,
+    "role_quality": 0.08,
+    "direct_ownership": 0.06,
+    "company_context": 0.06,
+    "data_quality": 0.04
+  },
+  "quality_penalties": {
+    "sparse_history": 4.0,
+    "ambiguous_footnote": 6.0,
+    "indirect_only": 5.0,
+    "unresolved_amendment": 10.0,
+    "possible_duplicate": 12.0,
+    "ticker_mapping_uncertain": 5.0,
+    "microcap_or_illiquid": 8.0,
+    "missing_price": 8.0
+  },
+  "role_quality": {
+    "founder_ceo": 100,
+    "founder": 95,
+    "ceo": 92,
+    "executive_chairman": 88,
+    "cfo": 84,
+    "coo": 78,
+    "president": 76,
+    "chairman": 70,
+    "director": 50,
+    "ten_percent_owner": 35,
+    "other_officer": 30
+  }
+}

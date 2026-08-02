@@ -1,0 +1,156 @@
+{
+  "schema_version": "v1",
+  "roles": {
+    "founder": {
+      "aliases": [
+        "founder"
+      ],
+      "priority": 95,
+      "normalized_roles": [
+        "founder"
+      ]
+    },
+    "co_founder": {
+      "aliases": [
+        "co-founder",
+        "cofounder"
+      ],
+      "priority": 95,
+      "normalized_roles": [
+        "founder"
+      ]
+    },
+    "ceo": {
+      "aliases": [
+        "chief executive officer",
+        "ceo"
+      ],
+      "priority": 92,
+      "normalized_roles": [
+        "ceo",
+        "operating_executive"
+      ]
+    },
+    "interim_ceo": {
+      "aliases": [
+        "interim chief executive officer",
+        "interim ceo"
+      ],
+      "priority": 88,
+      "normalized_roles": [
+        "ceo",
+        "interim",
+        "operating_executive"
+      ]
+    },
+    "president_and_ceo": {
+      "aliases": [
+        "president and chief executive officer",
+        "president & ceo",
+        "president and ceo"
+      ],
+      "priority": 94,
+      "normalized_roles": [
+        "president",
+        "ceo",
+        "operating_executive"
+      ]
+    },
+    "cfo": {
+      "aliases": [
+        "chief financial officer",
+        "cfo"
+      ],
+      "priority": 84,
+      "normalized_roles": [
+        "cfo",
+        "operating_executive"
+      ]
+    },
+    "interim_cfo": {
+      "aliases": [
+        "interim chief financial officer",
+        "interim cfo"
+      ],
+      "priority": 80,
+      "normalized_roles": [
+        "cfo",
+        "interim",
+        "operating_executive"
+      ]
+    },
+    "coo": {
+      "aliases": [
+        "chief operating officer",
+        "coo"
+      ],
+      "priority": 78,
+      "normalized_roles": [
+        "coo",
+        "operating_executive"
+      ]
+    },
+    "president": {
+      "aliases": [
+        "president"
+      ],
+      "priority": 76,
+      "normalized_roles": [
+        "president",
+        "operating_executive"
+      ]
+    },
+    "chairman": {
+      "aliases": [
+        "chairman",
+        "chair",
+        "chairperson"
+      ],
+      "priority": 70,
+      "normalized_roles": [
+        "chairman"
+      ]
+    },
+    "executive_chairman": {
+      "aliases": [
+        "executive chairman",
+        "executive chair"
+      ],
+      "priority": 88,
+      "normalized_roles": [
+        "executive_chairman",
+        "operating_executive"
+      ]
+    },
+    "director": {
+      "aliases": [
+        "director"
+      ],
+      "priority": 50,
+      "normalized_roles": [
+        "director"
+      ]
+    },
+    "ten_percent_owner": {
+      "aliases": [
+        "10% owner",
+        "ten percent owner",
+        "10 percent owner"
+      ],
+      "priority": 35,
+      "normalized_roles": [
+        "ten_percent_owner"
+      ]
+    },
+    "other_officer": {
+      "aliases": [
+        "officer",
+        "other officer"
+      ],
+      "priority": 30,
+      "normalized_roles": [
+        "other_officer"
+      ]
+    }
+  }
+}
