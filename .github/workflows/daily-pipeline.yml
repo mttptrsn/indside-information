@@ -2,8 +2,6 @@ name: Daily Insider Pipeline
 
 on:
   schedule:
-    # 9:17 PM Phoenix time, Monday through Friday.
-    # The non-zero minute reduces the chance of GitHub schedule congestion.
     - cron: "17 21 * * 1-5"
       timezone: "America/Phoenix"
 
@@ -24,7 +22,7 @@ jobs:
 
     env:
       PYTHONUNBUFFERED: "1"
-      SEC_CONTACT_EMAIL: ${{ secrets.__SEC_CONTACT_EMAIL__ }}
+      SEC_CONTACT_EMAIL: ${{ secrets.SEC_CONTACT_EMAIL }}
 
     steps:
       - name: Check out repository
@@ -54,15 +52,17 @@ jobs:
         run: |
           set -euo pipefail
 
-          if [[ -z "${__SEC_CONTACT_EMAIL__:-}" ]]; then
-            echo "::error::The __SEC_CONTACT_EMAIL__ repository secret is missing."
+          if [[ -z "${SEC_CONTACT_EMAIL:-}" ]]; then
+            echo "::error::The SEC_CONTACT_EMAIL repository secret is missing."
             exit 1
           fi
 
-          if [[ "${__SEC_CONTACT_EMAIL__}" != *"@"* ]]; then
-            echo "::error::__SEC_CONTACT_EMAIL__ does not appear to be a valid email."
+          if [[ "${SEC_CONTACT_EMAIL}" != *"@"* ]]; then
+            echo "::error::SEC_CONTACT_EMAIL does not appear to be a valid email."
             exit 1
           fi
+
+          echo "SEC contact email secret is available."
 
       - name: Inject SEC contact email
         shell: bash
@@ -76,23 +76,32 @@ jobs:
 
           path = Path("pipeline/config/pipeline.json")
           placeholder = "__SEC_CONTACT_EMAIL__"
-          email = os.environ["__SEC_CONTACT_EMAIL__"].strip()
+          email = os.environ["SEC_CONTACT_EMAIL"].strip()
+
+          if not path.exists():
+              raise SystemExit(
+                  "pipeline/config/pipeline.json was not found."
+              )
 
           source = path.read_text(encoding="utf-8")
           count = source.count(placeholder)
 
           if count == 0:
               raise SystemExit(
-                  "SEC email placeholder was not found in "
+                  "The placeholder __SEC_CONTACT_EMAIL__ was not found in "
                   "pipeline/config/pipeline.json."
               )
 
           updated = source.replace(placeholder, email)
 
-          # Validate before writing.
+          # Ensure the modified file remains valid JSON.
           json.loads(updated)
 
           path.write_text(updated, encoding="utf-8")
+
+          print(
+              f"Injected SEC contact email into {count} placeholder occurrence(s)."
+          )
           PY
 
       - name: Install Python project
@@ -184,6 +193,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+
           git checkout -- pipeline/config/pipeline.json
 
       - name: Verify secret was not written to tracked files
@@ -191,7 +201,7 @@ jobs:
         run: |
           set -euo pipefail
 
-          if git grep -F "${__SEC_CONTACT_EMAIL__}" -- \
+          if git grep -F "${SEC_CONTACT_EMAIL}" -- \
             ':!web/public/data' \
             ':!*.csv.gz'
           then
@@ -206,6 +216,8 @@ jobs:
             exit 1
           fi
 
+          echo "Secret was removed and placeholder was restored."
+
       - name: Commit updated website data
         id: commit
         shell: bash
@@ -216,7 +228,6 @@ jobs:
           git config user.email \
             "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Only commit static files consumed by Next.js.
           git add web/public/data
 
           if git diff --cached --quiet; then
@@ -247,9 +258,9 @@ jobs:
           {
             echo "## Daily Insider Pipeline"
             echo
-            echo "- Tests: completed"
-            echo "- Pipeline: completed"
-            echo "- Static export: completed"
-            echo "- Frontend validation: completed"
+            echo "- Backend tests completed"
+            echo "- Pipeline run completed"
+            echo "- Static export completed"
+            echo "- Frontend lint and build completed"
             echo "- Data committed: ${{ steps.commit.outputs.changed || 'false' }}"
           } >> "$GITHUB_STEP_SUMMARY"
