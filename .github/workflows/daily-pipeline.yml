@@ -24,7 +24,7 @@ jobs:
 
     env:
       PYTHONUNBUFFERED: "1"
-      SEC_CONTACT_EMAIL: ${{ secrets.SEC_CONTACT_EMAIL }}
+      SEC_CONTACT_EMAIL: ${{ secrets.__SEC_CONTACT_EMAIL__ }}
 
     steps:
       - name: Check out repository
@@ -54,13 +54,13 @@ jobs:
         run: |
           set -euo pipefail
 
-          if [[ -z "${SEC_CONTACT_EMAIL:-}" ]]; then
-            echo "::error::The SEC_CONTACT_EMAIL repository secret is missing."
+          if [[ -z "${__SEC_CONTACT_EMAIL__:-}" ]]; then
+            echo "::error::The __SEC_CONTACT_EMAIL__ repository secret is missing."
             exit 1
           fi
 
-          if [[ "${SEC_CONTACT_EMAIL}" != *"@"* ]]; then
-            echo "::error::SEC_CONTACT_EMAIL does not appear to be a valid email."
+          if [[ "${__SEC_CONTACT_EMAIL__}" != *"@"* ]]; then
+            echo "::error::__SEC_CONTACT_EMAIL__ does not appear to be a valid email."
             exit 1
           fi
 
@@ -76,7 +76,7 @@ jobs:
 
           path = Path("pipeline/config/pipeline.json")
           placeholder = "__SEC_CONTACT_EMAIL__"
-          email = os.environ["SEC_CONTACT_EMAIL"].strip()
+          email = os.environ["__SEC_CONTACT_EMAIL__"].strip()
 
           source = path.read_text(encoding="utf-8")
           count = source.count(placeholder)
@@ -191,7 +191,7 @@ jobs:
         run: |
           set -euo pipefail
 
-          if git grep -F "${SEC_CONTACT_EMAIL}" -- \
+          if git grep -F "${__SEC_CONTACT_EMAIL__}" -- \
             ':!web/public/data' \
             ':!*.csv.gz'
           then
