@@ -2,8 +2,8 @@ name: Daily Insider Pipeline
 
 on:
   schedule:
-    - cron: "17 21 * * 1-5"
-      timezone: "America/Phoenix"
+    # 04:17 UTC Monday-Friday
+    - cron: "17 4 * * 1-5"
 
   workflow_dispatch:
 
@@ -36,9 +36,7 @@ jobs:
         with:
           python-version: "3.14"
           cache: "pip"
-          cache-dependency-path: |
-            pyproject.toml
-            requirements.txt
+          cache-dependency-path: pyproject.toml
 
       - name: Set up Node
         uses: actions/setup-node@v6
@@ -62,8 +60,6 @@ jobs:
             exit 1
           fi
 
-          echo "SEC contact email secret is available."
-
       - name: Inject SEC contact email
         shell: bash
         run: |
@@ -78,53 +74,38 @@ jobs:
           placeholder = "__SEC_CONTACT_EMAIL__"
           email = os.environ["SEC_CONTACT_EMAIL"].strip()
 
-          if not path.exists():
-              raise SystemExit(
-                  "pipeline/config/pipeline.json was not found."
-              )
-
           source = path.read_text(encoding="utf-8")
-          count = source.count(placeholder)
 
-          if count == 0:
+          if placeholder not in source:
               raise SystemExit(
-                  "The placeholder __SEC_CONTACT_EMAIL__ was not found in "
-                  "pipeline/config/pipeline.json."
+                  "Placeholder __SEC_CONTACT_EMAIL__ not found in pipeline/config/pipeline.json"
               )
 
           updated = source.replace(placeholder, email)
-
-          # Ensure the modified file remains valid JSON.
           json.loads(updated)
-
           path.write_text(updated, encoding="utf-8")
-
-          print(
-              f"Injected SEC contact email into {count} placeholder occurrence(s)."
-          )
           PY
 
-      - name: Install Python project
+      - name: Install backend
         shell: bash
         run: |
           set -euo pipefail
 
           python -m pip install --upgrade pip
+          python -m pip install -e ".[dev]"
 
-          if [[ -f "pyproject.toml" ]]; then
-            python -m pip install -e .
-          elif [[ -f "requirements.txt" ]]; then
-            python -m pip install -r requirements.txt
-          else
-            echo "::error::No pyproject.toml or requirements.txt was found."
-            exit 1
-          fi
+      - name: Show Python environment
+        shell: bash
+        run: |
+          python --version
+          python -m pip --version
+          python -m pip list
 
       - name: Run backend tests
         shell: bash
         run: |
           set -euo pipefail
-          pytest
+          python -m pytest
 
       - name: Run complete data pipeline
         shell: bash
@@ -155,16 +136,11 @@ jobs:
                   "No JSON files were exported to web/public/data."
               )
 
-          for path in files:
-              try:
-                  with path.open(encoding="utf-8") as handle:
-                      json.load(handle)
-              except Exception as exc:
-                  raise SystemExit(
-                      f"Invalid JSON in {path}: {exc}"
-                  ) from exc
+          for file in files:
+              with file.open(encoding="utf-8") as handle:
+                  json.load(handle)
 
-          print(f"Validated {len(files):,} exported JSON files.")
+          print(f"Validated {len(files):,} JSON files.")
           PY
 
       - name: Install frontend dependencies
@@ -193,10 +169,9 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-
           git checkout -- pipeline/config/pipeline.json
 
-      - name: Verify secret was not written to tracked files
+      - name: Verify placeholder restored
         shell: bash
         run: |
           set -euo pipefail
@@ -205,18 +180,12 @@ jobs:
             ':!web/public/data' \
             ':!*.csv.gz'
           then
-            echo "::error::The SEC contact email was found in a tracked file."
+            echo "::error::Secret leaked into repository."
             exit 1
           fi
 
-          if ! grep -q "__SEC_CONTACT_EMAIL__" \
+          grep -q "__SEC_CONTACT_EMAIL__" \
             pipeline/config/pipeline.json
-          then
-            echo "::error::The public SEC email placeholder was not restored."
-            exit 1
-          fi
-
-          echo "Secret was removed and placeholder was restored."
 
       - name: Commit updated website data
         id: commit
@@ -232,7 +201,6 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "No exported website data changed."
             exit 0
           fi
 
@@ -251,16 +219,16 @@ jobs:
           git rebase origin/main
           git push origin HEAD:main
 
-      - name: Write workflow summary
+      - name: Workflow summary
         if: always()
         shell: bash
         run: |
           {
             echo "## Daily Insider Pipeline"
             echo
-            echo "- Backend tests completed"
-            echo "- Pipeline run completed"
-            echo "- Static export completed"
-            echo "- Frontend lint and build completed"
+            echo "- Tests completed"
+            echo "- Pipeline completed"
+            echo "- Export completed"
+            echo "- Frontend build completed"
             echo "- Data committed: ${{ steps.commit.outputs.changed || 'false' }}"
           } >> "$GITHUB_STEP_SUMMARY"
