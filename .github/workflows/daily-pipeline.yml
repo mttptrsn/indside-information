@@ -2,8 +2,9 @@ name: Daily Insider Pipeline
 
 on:
   schedule:
-    # 04:17 UTC Monday-Friday
-    - cron: "17 4 * * 1-5"
+    # 9:17 PM Phoenix time, Monday-Friday.
+    # Phoenix is UTC-7 year-round, so this runs Tuesday-Saturday in UTC.
+    - cron: "17 4 * * 2-6"
 
   workflow_dispatch:
 
@@ -74,16 +75,27 @@ jobs:
           placeholder = "__SEC_CONTACT_EMAIL__"
           email = os.environ["SEC_CONTACT_EMAIL"].strip()
 
+          if not path.exists():
+              raise SystemExit(
+                  "pipeline/config/pipeline.json was not found."
+              )
+
           source = path.read_text(encoding="utf-8")
 
           if placeholder not in source:
               raise SystemExit(
-                  "Placeholder __SEC_CONTACT_EMAIL__ not found in pipeline/config/pipeline.json"
+                  "Placeholder __SEC_CONTACT_EMAIL__ was not found in "
+                  "pipeline/config/pipeline.json."
               )
 
           updated = source.replace(placeholder, email)
+
           json.loads(updated)
-          path.write_text(updated, encoding="utf-8")
+
+          path.write_text(
+              updated,
+              encoding="utf-8",
+          )
           PY
 
       - name: Install backend
@@ -97,6 +109,8 @@ jobs:
       - name: Show Python environment
         shell: bash
         run: |
+          set -euo pipefail
+
           python --version
           python -m pip --version
           python -m pip list
@@ -105,18 +119,21 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+
           python -m pytest
 
       - name: Run complete data pipeline
         shell: bash
         run: |
           set -euo pipefail
+
           python -m pipeline.cli run-all
 
       - name: Export static website data
         shell: bash
         run: |
           set -euo pipefail
+
           python -m pipeline.cli export-web
 
       - name: Validate exported JSON
@@ -136,9 +153,14 @@ jobs:
                   "No JSON files were exported to web/public/data."
               )
 
-          for file in files:
-              with file.open(encoding="utf-8") as handle:
-                  json.load(handle)
+          for path in files:
+              try:
+                  with path.open(encoding="utf-8") as handle:
+                      json.load(handle)
+              except Exception as exc:
+                  raise SystemExit(
+                      f"Invalid JSON in {path}: {exc}"
+                  ) from exc
 
           print(f"Validated {len(files):,} JSON files.")
           PY
@@ -148,6 +170,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+
           npm ci
 
       - name: Lint frontend
@@ -155,6 +178,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+
           npm run lint
 
       - name: Build frontend
@@ -162,30 +186,55 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+
           npm run build
 
-      - name: Restore public pipeline configuration
+      - name: Restore private configuration
         if: always()
         shell: bash
         run: |
           set -euo pipefail
-          git checkout -- pipeline/config/pipeline.json
 
-      - name: Verify placeholder restored
+          git restore \
+            --source=HEAD \
+            --staged \
+            --worktree \
+            -- pipeline/config/pipeline.json
+
+      - name: Verify secret was removed
         shell: bash
         run: |
           set -euo pipefail
 
           if git grep -F "${SEC_CONTACT_EMAIL}" -- \
-            ':!web/public/data' \
+            ':!web/public/data/**' \
             ':!*.csv.gz'
           then
-            echo "::error::Secret leaked into repository."
+            echo "::error::The SEC contact email was found in a tracked file."
             exit 1
           fi
 
-          grep -q "__SEC_CONTACT_EMAIL__" \
+          if ! grep -q "__SEC_CONTACT_EMAIL__" \
             pipeline/config/pipeline.json
+          then
+            echo "::error::The public SEC email placeholder was not restored."
+            exit 1
+          fi
+
+      - name: Restore non-export tracked changes
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git restore \
+            --source=HEAD \
+            --staged \
+            --worktree \
+            -- . \
+            ':(exclude)web/public/data/**'
+
+          echo "Tracked changes retained for commit:"
+          git status --short --untracked-files=no
 
       - name: Commit updated website data
         id: commit
@@ -197,10 +246,11 @@ jobs:
           git config user.email \
             "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add web/public/data
+          git add --all web/public/data
 
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No exported website data changed."
             exit 0
           fi
 
@@ -208,6 +258,18 @@ jobs:
             -m "Update insider data $(date -u +'%Y-%m-%d')"
 
           echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Verify clean tracked working tree
+        if: steps.commit.outputs.changed == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [[ -n "$(git status --porcelain --untracked-files=no)" ]]; then
+            echo "::error::Tracked working tree is not clean after commit."
+            git status --short
+            exit 1
+          fi
 
       - name: Rebase and push updated data
         if: steps.commit.outputs.changed == 'true'
@@ -226,9 +288,9 @@ jobs:
           {
             echo "## Daily Insider Pipeline"
             echo
-            echo "- Tests completed"
+            echo "- Backend tests completed"
             echo "- Pipeline completed"
-            echo "- Export completed"
-            echo "- Frontend build completed"
+            echo "- Static export completed"
+            echo "- Frontend lint and build completed"
             echo "- Data committed: ${{ steps.commit.outputs.changed || 'false' }}"
           } >> "$GITHUB_STEP_SUMMARY"
