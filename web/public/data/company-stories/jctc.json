@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "JCTC",
   "yf_ticker": "JCTC",
@@ -1302,14 +1302,14 @@
     },
     {
       "date": "2026-02-18",
-      "close": 1.820000052452088,
-      "adjusted_close": 1.820000052452088,
+      "close": 1.8200000524520876,
+      "adjusted_close": 1.8200000524520876,
       "volume": 15300
     },
     {
       "date": "2026-02-23",
-      "close": 1.820000052452088,
-      "adjusted_close": 1.820000052452088,
+      "close": 1.8200000524520876,
+      "adjusted_close": 1.8200000524520876,
       "volume": 22900
     },
     {
@@ -1332,8 +1332,8 @@
     },
     {
       "date": "2026-03-11",
-      "close": 1.820000052452088,
-      "adjusted_close": 1.820000052452088,
+      "close": 1.8200000524520876,
+      "adjusted_close": 1.8200000524520876,
       "volume": 5300
     },
     {
@@ -1543,74 +1543,6 @@
   ],
   "purchase_markers": [
     {
-      "event_id": "0d9c031805c7ee2138afdb0c",
-      "transaction_date": "2026-07-21",
-      "price_date": "2026-07-21",
-      "market_price": 2.609999895095825,
-      "reported_purchase_price": 2.45,
-      "purchase_value": 3307.5000000000005,
-      "shares": 1350.0,
-      "owner_cik": 1536588,
-      "owner_name": null,
-      "roles": "ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.3153041634163089,
-      "conviction_score": 30.952,
-      "behavior_change_score": 43.8131,
-      "headline": null
-    },
-    {
-      "event_id": "64a07e07c24e0f313918abb1",
-      "transaction_date": "2026-07-21",
-      "price_date": "2026-07-21",
-      "market_price": 2.609999895095825,
-      "reported_purchase_price": 2.45,
-      "purchase_value": 3307.5000000000005,
-      "shares": 1350.0,
-      "owner_cik": 2141919,
-      "owner_name": null,
-      "roles": "ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.3153041634163089,
-      "conviction_score": 30.952,
-      "behavior_change_score": 43.8131,
-      "headline": null
-    },
-    {
-      "event_id": "80094ebcaef16c4d6c59d4b0",
-      "transaction_date": "2026-07-21",
-      "price_date": "2026-07-21",
-      "market_price": 2.609999895095825,
-      "reported_purchase_price": 2.45,
-      "purchase_value": 3307.5000000000005,
-      "shares": 1350.0,
-      "owner_cik": 2141914,
-      "owner_name": null,
-      "roles": "ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.3153041634163089,
-      "conviction_score": 30.952,
-      "behavior_change_score": 43.8131,
-      "headline": null
-    },
-    {
-      "event_id": "b99d668c8e661858e40cb1ea",
-      "transaction_date": "2026-07-21",
-      "price_date": "2026-07-21",
-      "market_price": 2.609999895095825,
-      "reported_purchase_price": 2.45,
-      "purchase_value": 3307.5000000000005,
-      "shares": 1350.0,
-      "owner_cik": 2141916,
-      "owner_name": null,
-      "roles": "ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.3153041634163089,
-      "conviction_score": 30.952,
-      "behavior_change_score": 43.8131,
-      "headline": null
-    },
-    {
       "event_id": "074e38852873c4310b6ff360",
       "transaction_date": "2026-07-24",
       "price_date": "2026-07-24",
@@ -1623,8 +1555,8 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.2384123229369418,
-      "conviction_score": 22.378,
-      "behavior_change_score": 20.0286,
+      "conviction_score": 30.6972,
+      "behavior_change_score": 43.7977,
       "headline": null
     },
     {
@@ -1640,8 +1572,8 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.2384123229369418,
-      "conviction_score": 22.378,
-      "behavior_change_score": 20.0286,
+      "conviction_score": 30.6972,
+      "behavior_change_score": 43.7977,
       "headline": null
     },
     {
@@ -1657,8 +1589,8 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.2384123229369418,
-      "conviction_score": 22.378,
-      "behavior_change_score": 20.0286,
+      "conviction_score": 30.6972,
+      "behavior_change_score": 43.7977,
       "headline": null
     },
     {
@@ -1674,8 +1606,8 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.2384123229369418,
-      "conviction_score": 22.378,
-      "behavior_change_score": 20.0286,
+      "conviction_score": 30.6972,
+      "behavior_change_score": 43.7977,
       "headline": null
     },
     {
@@ -1691,8 +1623,8 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.3665232781767674,
-      "conviction_score": 31.6601,
-      "behavior_change_score": 45.3,
+      "conviction_score": 31.7243,
+      "behavior_change_score": 45.4836,
       "headline": null
     },
     {
@@ -1708,8 +1640,8 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.3665232781767674,
-      "conviction_score": 31.6601,
-      "behavior_change_score": 45.3,
+      "conviction_score": 31.7243,
+      "behavior_change_score": 45.4836,
       "headline": null
     },
     {
@@ -1725,8 +1657,8 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.3665232781767674,
-      "conviction_score": 31.6601,
-      "behavior_change_score": 45.3,
+      "conviction_score": 31.7243,
+      "behavior_change_score": 45.4836,
       "headline": null
     },
     {
@@ -1742,8 +1674,8 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.3665232781767674,
-      "conviction_score": 31.6601,
-      "behavior_change_score": 45.3,
+      "conviction_score": 31.7243,
+      "behavior_change_score": 45.4836,
       "headline": null
     },
     {
@@ -1759,8 +1691,8 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.8562634514359769,
-      "conviction_score": 40.5666,
-      "behavior_change_score": 56.6408,
+      "conviction_score": 36.3029,
+      "behavior_change_score": 55.8875,
       "headline": null
     },
     {
@@ -1776,8 +1708,8 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.8562634514359769,
-      "conviction_score": 40.5666,
-      "behavior_change_score": 56.6408,
+      "conviction_score": 36.3029,
+      "behavior_change_score": 55.8875,
       "headline": null
     },
     {
@@ -1793,8 +1725,8 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.8562634514359769,
-      "conviction_score": 40.5666,
-      "behavior_change_score": 56.6408,
+      "conviction_score": 36.3029,
+      "behavior_change_score": 55.8875,
       "headline": null
     },
     {
@@ -1810,19 +1742,19 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.8562634514359769,
-      "conviction_score": 40.5666,
-      "behavior_change_score": 56.6408,
+      "conviction_score": 36.3029,
+      "behavior_change_score": 55.8875,
       "headline": null
     }
   ],
   "summary": {
     "price_date": "2026-07-31",
     "current_price": 2.65,
-    "average_reported_purchase_price": 2.550444,
-    "percent_vs_average_purchase_price": 3.903468,
-    "first_purchase_date": "2026-07-21",
+    "average_reported_purchase_price": 2.571961,
+    "percent_vs_average_purchase_price": 3.034214,
+    "first_purchase_date": "2026-07-24",
     "latest_purchase_date": "2026-07-30",
-    "return_since_first_purchase": 1.532575,
+    "return_since_first_purchase": 3.921574,
     "return_since_latest_purchase": -5.357138,
     "drawdown_from_52_week_high": -32.397958,
     "drawdown_from_3_year_high": -56.840388,
@@ -1832,14 +1764,14 @@
     "volatility_percentile": 92.318436,
     "trend": "advancing",
     "buyers": 4,
-    "purchase_days": 4,
-    "purchase_events": 16,
-    "total_reported_purchase_value": 78064.0
+    "purchase_days": 3,
+    "purchase_events": 12,
+    "total_reported_purchase_value": 64834.0
   },
   "quality": {
     "price_rows_available": 756,
     "price_points_exported": 254,
-    "purchase_markers_exported": 16,
+    "purchase_markers_exported": 12,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",
     "price_quality": null

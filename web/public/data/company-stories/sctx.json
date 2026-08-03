@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "SCTX",
   "yf_ticker": "SCTX",
@@ -55,23 +55,6 @@
   ],
   "purchase_markers": [
     {
-      "event_id": "22f45058b48c8a39ac5665ea",
-      "transaction_date": "2026-07-23",
-      "price_date": "2026-07-24",
-      "market_price": 21.649999618530277,
-      "reported_purchase_price": 15.0,
-      "purchase_value": 39990.0,
-      "shares": 2666.0,
-      "owner_cik": 2127908,
-      "owner_name": null,
-      "roles": "cfo|operating_executive|other_officer",
-      "direct_indirect": null,
-      "ownership_increase_percent": null,
-      "conviction_score": 60.4513,
-      "behavior_change_score": 56.2,
-      "headline": null
-    },
-    {
       "event_id": "8b3fa65a9044849167d54183",
       "transaction_date": "2026-07-23",
       "price_date": "2026-07-24",
@@ -84,7 +67,7 @@
       "roles": "other_officer",
       "direct_indirect": null,
       "ownership_increase_percent": 100.0,
-      "conviction_score": 55.2962,
+      "conviction_score": 49.6962,
       "behavior_change_score": 53.5,
       "headline": null
     },
@@ -347,8 +330,8 @@
   "summary": {
     "price_date": "2026-07-31",
     "current_price": 19.459999,
-    "average_reported_purchase_price": 15.096357,
-    "percent_vs_average_purchase_price": 28.905262,
+    "average_reported_purchase_price": 15.096379,
+    "percent_vs_average_purchase_price": 28.905082,
     "first_purchase_date": "2026-07-23",
     "latest_purchase_date": "2026-07-28",
     "return_since_first_purchase": -10.115476,
@@ -360,15 +343,15 @@
     "realized_volatility_63d": null,
     "volatility_percentile": null,
     "trend": "insufficient_history",
-    "buyers": 14,
+    "buyers": 13,
     "purchase_days": 4,
-    "purchase_events": 17,
-    "total_reported_purchase_value": 183864243.75
+    "purchase_events": 16,
+    "total_reported_purchase_value": 183824253.75
   },
   "quality": {
     "price_rows_available": 6,
     "price_points_exported": 6,
-    "purchase_markers_exported": 17,
+    "purchase_markers_exported": 16,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",
     "price_quality": null

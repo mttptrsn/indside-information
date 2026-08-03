@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "BCLI",
   "yf_ticker": "BCLI",
@@ -18,8 +18,8 @@
   "price_path": [
     {
       "date": "2023-07-27",
-      "close": 22.64999961853028,
-      "adjusted_close": 22.64999961853028,
+      "close": 22.649999618530277,
+      "adjusted_close": 22.649999618530277,
       "volume": 15593
     },
     {
@@ -30,8 +30,8 @@
     },
     {
       "date": "2023-08-04",
-      "close": 24.89999961853028,
-      "adjusted_close": 24.89999961853028,
+      "close": 24.899999618530277,
+      "adjusted_close": 24.899999618530277,
       "volume": 5500
     },
     {
@@ -60,8 +60,8 @@
     },
     {
       "date": "2023-08-25",
-      "close": 24.89999961853028,
-      "adjusted_close": 24.89999961853028,
+      "close": 24.899999618530277,
+      "adjusted_close": 24.899999618530277,
       "volume": 20367
     },
     {
@@ -84,8 +84,8 @@
     },
     {
       "date": "2023-09-13",
-      "close": 18.14999961853028,
-      "adjusted_close": 18.14999961853028,
+      "close": 18.149999618530277,
+      "adjusted_close": 18.149999618530277,
       "volume": 26793
     },
     {

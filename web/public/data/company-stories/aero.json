@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "AERO",
   "yf_ticker": "AERO",
@@ -120,8 +120,8 @@
     },
     {
       "date": "2025-12-02",
-      "close": 19.14999961853028,
-      "adjusted_close": 19.14999961853028,
+      "close": 19.149999618530277,
+      "adjusted_close": 19.149999618530277,
       "volume": 190800
     },
     {
@@ -180,8 +180,8 @@
     },
     {
       "date": "2025-12-16",
-      "close": 19.14999961853028,
-      "adjusted_close": 19.14999961853028,
+      "close": 19.149999618530277,
+      "adjusted_close": 19.149999618530277,
       "volume": 105500
     },
     {
@@ -234,8 +234,8 @@
     },
     {
       "date": "2025-12-30",
-      "close": 22.14999961853028,
-      "adjusted_close": 22.14999961853028,
+      "close": 22.149999618530277,
+      "adjusted_close": 22.149999618530277,
       "volume": 472500
     },
     {
@@ -372,8 +372,8 @@
     },
     {
       "date": "2026-02-03",
-      "close": 20.14999961853028,
-      "adjusted_close": 20.14999961853028,
+      "close": 20.149999618530277,
+      "adjusted_close": 20.149999618530277,
       "volume": 272900
     },
     {

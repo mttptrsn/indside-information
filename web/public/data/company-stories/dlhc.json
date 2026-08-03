@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "DLHC",
   "yf_ticker": "DLHC",
@@ -1715,23 +1715,6 @@
       "headline": null
     },
     {
-      "event_id": "8b04c3d0ba7214e3cb9ad9c6",
-      "transaction_date": "2026-07-23",
-      "price_date": "2026-07-23",
-      "market_price": 5.070000171661377,
-      "reported_purchase_price": 5.0975,
-      "purchase_value": 402.7025,
-      "shares": 79.0,
-      "owner_cik": 2052205,
-      "owner_name": null,
-      "roles": "ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.0036599829509654,
-      "conviction_score": 21.5425,
-      "behavior_change_score": 41.3128,
-      "headline": null
-    },
-    {
       "event_id": "ae67116a3f46f86fc41c376d",
       "transaction_date": "2026-07-24",
       "price_date": "2026-07-24",
@@ -1744,25 +1727,8 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.0181154468237506,
-      "conviction_score": 19.1221,
-      "behavior_change_score": 30.1341,
-      "headline": null
-    },
-    {
-      "event_id": "b3f36ad577adcd30cc9c6927",
-      "transaction_date": "2026-07-24",
-      "price_date": "2026-07-24",
-      "market_price": 5.090000152587891,
-      "reported_purchase_price": 5.0997,
-      "purchase_value": 1993.9827,
-      "shares": 391.0,
-      "owner_cik": 2052205,
-      "owner_name": null,
-      "roles": "ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.018113936195397,
-      "conviction_score": 19.1854,
-      "behavior_change_score": 30.3149,
+      "conviction_score": 18.738,
+      "behavior_change_score": 29.0366,
       "headline": null
     },
     {
@@ -1778,25 +1744,8 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.0004632267448593,
-      "conviction_score": 15.9179,
-      "behavior_change_score": 30.7444,
-      "headline": null
-    },
-    {
-      "event_id": "a102eee745c47a3d255a1401",
-      "transaction_date": "2026-07-27",
-      "price_date": "2026-07-27",
-      "market_price": 5.21999979019165,
-      "reported_purchase_price": 5.09,
-      "purchase_value": 50.9,
-      "shares": 10.0,
-      "owner_cik": 2052205,
-      "owner_name": null,
-      "roles": "ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.0004631881238565,
-      "conviction_score": 16.4808,
-      "behavior_change_score": 32.3526,
+      "conviction_score": 15.9956,
+      "behavior_change_score": 30.9664,
       "headline": null
     },
     {
@@ -1812,8 +1761,8 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.3679856215084446,
-      "conviction_score": 29.2102,
-      "behavior_change_score": 50.7841,
+      "conviction_score": 28.647,
+      "behavior_change_score": 49.175,
       "headline": null
     },
     {
@@ -1829,16 +1778,16 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.0203533075740149,
-      "conviction_score": 20.3839,
-      "behavior_change_score": 33.5435,
+      "conviction_score": 19.6163,
+      "behavior_change_score": 31.3503,
       "headline": null
     }
   ],
   "summary": {
     "price_date": "2026-07-31",
     "current_price": 4.88,
-    "average_reported_purchase_price": 5.120126,
-    "percent_vs_average_purchase_price": -4.689836,
+    "average_reported_purchase_price": 5.120347,
+    "percent_vs_average_purchase_price": -4.693965,
     "first_purchase_date": "2026-07-02",
     "latest_purchase_date": "2026-07-31",
     "return_since_first_purchase": -7.224336,
@@ -1852,13 +1801,13 @@
     "trend": "falling",
     "buyers": 1,
     "purchase_days": 12,
-    "purchase_events": 15,
-    "total_reported_purchase_value": 235059.8477
+    "purchase_events": 12,
+    "total_reported_purchase_value": 232612.2625
   },
   "quality": {
     "price_rows_available": 756,
     "price_points_exported": 260,
-    "purchase_markers_exported": 15,
+    "purchase_markers_exported": 12,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",
     "price_quality": null

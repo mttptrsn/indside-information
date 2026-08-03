@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "MEDP",
   "yf_ticker": "MEDP",
@@ -96,8 +96,8 @@
     },
     {
       "date": "2023-09-21",
-      "close": 240.8099975585937,
-      "adjusted_close": 240.8099975585937,
+      "close": 240.80999755859372,
+      "adjusted_close": 240.80999755859372,
       "volume": 492900
     },
     {
@@ -126,8 +126,8 @@
     },
     {
       "date": "2023-10-12",
-      "close": 238.0599975585937,
-      "adjusted_close": 238.0599975585937,
+      "close": 238.05999755859372,
+      "adjusted_close": 238.05999755859372,
       "volume": 217600
     },
     {

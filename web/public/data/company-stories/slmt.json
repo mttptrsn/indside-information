@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "SLMT",
   "yf_ticker": "SLMT",
@@ -1206,8 +1206,8 @@
     },
     {
       "date": "2025-12-08",
-      "close": 23.89999961853028,
-      "adjusted_close": 23.89999961853028,
+      "close": 23.899999618530277,
+      "adjusted_close": 23.899999618530277,
       "volume": 78290
     },
     {
@@ -1224,8 +1224,8 @@
     },
     {
       "date": "2025-12-19",
-      "close": 22.89999961853028,
-      "adjusted_close": 22.89999961853028,
+      "close": 22.899999618530277,
+      "adjusted_close": 22.899999618530277,
       "volume": 185400
     },
     {
@@ -1242,8 +1242,8 @@
     },
     {
       "date": "2026-01-05",
-      "close": 21.39999961853028,
-      "adjusted_close": 21.39999961853028,
+      "close": 21.399999618530277,
+      "adjusted_close": 21.399999618530277,
       "volume": 209650
     },
     {

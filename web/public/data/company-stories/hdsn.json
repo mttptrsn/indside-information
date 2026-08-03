@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "HDSN",
   "yf_ticker": "HDSN",
@@ -1511,12 +1511,6 @@
       "volume": 410700
     },
     {
-      "date": "2026-07-20",
-      "close": 6.110000133514404,
-      "adjusted_close": 6.110000133514404,
-      "volume": 443300
-    },
-    {
       "date": "2026-07-21",
       "close": 6.0,
       "adjusted_close": 6.0,
@@ -1543,40 +1537,6 @@
   ],
   "purchase_markers": [
     {
-      "event_id": "9da2e5c99e8e7f5d39272810",
-      "transaction_date": "2026-07-20",
-      "price_date": "2026-07-20",
-      "market_price": 6.110000133514404,
-      "reported_purchase_price": 5.9892,
-      "purchase_value": 106859.3064,
-      "shares": 17842.0,
-      "owner_cik": 1597857,
-      "owner_name": null,
-      "roles": "ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.3585224742672413,
-      "conviction_score": 44.4997,
-      "behavior_change_score": 43.8217,
-      "headline": null
-    },
-    {
-      "event_id": "7558254907e2c66c514d97b9",
-      "transaction_date": "2026-07-21",
-      "price_date": "2026-07-21",
-      "market_price": 6.0,
-      "reported_purchase_price": 5.9894,
-      "purchase_value": 285742.2952,
-      "shares": 47708.0,
-      "owner_cik": 1597857,
-      "owner_name": null,
-      "roles": "ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.9552340651828916,
-      "conviction_score": 47.5421,
-      "behavior_change_score": 49.4898,
-      "headline": null
-    },
-    {
       "event_id": "51efa0839a87c51f9d5dbaa0",
       "transaction_date": "2026-07-29",
       "price_date": "2026-07-29",
@@ -1589,19 +1549,19 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 1.0333818185568433,
-      "conviction_score": 49.7,
-      "behavior_change_score": 55.3672,
+      "conviction_score": 45.7064,
+      "behavior_change_score": 43.9567,
       "headline": null
     }
   ],
   "summary": {
     "price_date": "2026-07-31",
     "current_price": 6.04,
-    "average_reported_purchase_price": 5.989635,
-    "percent_vs_average_purchase_price": 0.840862,
-    "first_purchase_date": "2026-07-20",
+    "average_reported_purchase_price": 5.99,
+    "percent_vs_average_purchase_price": 0.834724,
+    "first_purchase_date": "2026-07-29",
     "latest_purchase_date": "2026-07-29",
-    "return_since_first_purchase": -1.145666,
+    "return_since_first_purchase": 3.424654,
     "return_since_latest_purchase": 3.424654,
     "drawdown_from_52_week_high": -42.145592,
     "drawdown_from_3_year_high": -59.625669,
@@ -1611,14 +1571,14 @@
     "volatility_percentile": 74.301676,
     "trend": "below_trend",
     "buyers": 1,
-    "purchase_days": 3,
-    "purchase_events": 3,
-    "total_reported_purchase_value": 704704.5616
+    "purchase_days": 1,
+    "purchase_events": 1,
+    "total_reported_purchase_value": 312102.96
   },
   "quality": {
     "price_rows_available": 756,
-    "price_points_exported": 254,
-    "purchase_markers_exported": 3,
+    "price_points_exported": 253,
+    "purchase_markers_exported": 1,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",
     "price_quality": null

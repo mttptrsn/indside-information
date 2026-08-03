@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "DYN",
   "yf_ticker": "DYN",
@@ -276,8 +276,8 @@
     },
     {
       "date": "2024-01-31",
-      "close": 21.39999961853028,
-      "adjusted_close": 21.39999961853028,
+      "close": 21.399999618530277,
+      "adjusted_close": 21.399999618530277,
       "volume": 1106100
     },
     {
@@ -384,8 +384,8 @@
     },
     {
       "date": "2024-04-18",
-      "close": 23.64999961853028,
-      "adjusted_close": 23.64999961853028,
+      "close": 23.649999618530277,
+      "adjusted_close": 23.649999618530277,
       "volume": 976400
     },
     {
@@ -1194,8 +1194,8 @@
     },
     {
       "date": "2025-11-28",
-      "close": 21.89999961853028,
-      "adjusted_close": 21.89999961853028,
+      "close": 21.899999618530277,
+      "adjusted_close": 21.899999618530277,
       "volume": 2258400
     },
     {
@@ -1392,8 +1392,8 @@
     },
     {
       "date": "2026-04-23",
-      "close": 18.89999961853028,
-      "adjusted_close": 18.89999961853028,
+      "close": 18.899999618530277,
+      "adjusted_close": 18.899999618530277,
       "volume": 1792000
     },
     {

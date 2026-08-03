@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "BCAX",
   "yf_ticker": "BCAX",
@@ -216,8 +216,8 @@
     },
     {
       "date": "2024-12-17",
-      "close": 18.14999961853028,
-      "adjusted_close": 18.14999961853028,
+      "close": 18.149999618530277,
+      "adjusted_close": 18.149999618530277,
       "volume": 556000
     },
     {
@@ -1134,8 +1134,8 @@
     },
     {
       "date": "2026-03-11",
-      "close": 19.89999961853028,
-      "adjusted_close": 19.89999961853028,
+      "close": 19.899999618530277,
+      "adjusted_close": 19.899999618530277,
       "volume": 390000
     },
     {
@@ -1374,8 +1374,8 @@
     },
     {
       "date": "2026-07-07",
-      "close": 30.39999961853028,
-      "adjusted_close": 30.39999961853028,
+      "close": 30.399999618530277,
+      "adjusted_close": 30.399999618530277,
       "volume": 1840100
     },
     {
@@ -1386,8 +1386,8 @@
     },
     {
       "date": "2026-07-13",
-      "close": 28.14999961853028,
-      "adjusted_close": 28.14999961853028,
+      "close": 28.149999618530277,
+      "adjusted_close": 28.149999618530277,
       "volume": 420300
     },
     {

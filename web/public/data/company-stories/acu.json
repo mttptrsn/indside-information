@@ -1,16 +1,16 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "ACU",
   "yf_ticker": "ACU",
   "issuer_cik": 2098,
-  "company_name": "Acme United Corporation",
+  "company_name": "Acme",
   "sector": "Consumer Defensive",
   "industry": "Household & Personal Products",
   "price_available": true,
@@ -19,67 +19,67 @@
     {
       "date": "2023-07-27",
       "close": 25.82999992370605,
-      "adjusted_close": 24.672632217407227,
+      "adjusted_close": 24.67263412475586,
       "volume": 33300
     },
     {
       "date": "2023-08-01",
       "close": 30.790000915527344,
-      "adjusted_close": 29.410388946533203,
+      "adjusted_close": 29.41039085388184,
       "volume": 8000
     },
     {
       "date": "2023-08-04",
       "close": 31.6299991607666,
-      "adjusted_close": 30.212751388549805,
+      "adjusted_close": 30.21275329589844,
       "volume": 7400
     },
     {
       "date": "2023-08-09",
       "close": 35.45000076293945,
-      "adjusted_close": 33.86158752441406,
+      "adjusted_close": 33.86159133911133,
       "volume": 39000
     },
     {
       "date": "2023-08-14",
       "close": 32.31999969482422,
-      "adjusted_close": 30.87183380126953,
+      "adjusted_close": 30.8718376159668,
       "volume": 20700
     },
     {
       "date": "2023-08-17",
       "close": 31.09000015258789,
-      "adjusted_close": 29.69694900512696,
+      "adjusted_close": 29.696945190429688,
       "volume": 16000
     },
     {
       "date": "2023-08-22",
       "close": 31.030000686645508,
-      "adjusted_close": 29.63963508605957,
+      "adjusted_close": 29.63963890075684,
       "volume": 7400
     },
     {
       "date": "2023-08-25",
       "close": 31.190000534057617,
-      "adjusted_close": 29.79246711730957,
+      "adjusted_close": 29.792469024658203,
       "volume": 2000
     },
     {
       "date": "2023-08-30",
       "close": 29.989999771118164,
-      "adjusted_close": 28.64623641967773,
+      "adjusted_close": 28.64623260498047,
       "volume": 1700
     },
     {
       "date": "2023-09-05",
       "close": 28.170000076293945,
-      "adjusted_close": 26.90778923034668,
+      "adjusted_close": 26.90778350830078,
       "volume": 12300
     },
     {
       "date": "2023-09-08",
-      "close": 25.64999961853028,
-      "adjusted_close": 24.500696182250977,
+      "close": 25.649999618530277,
+      "adjusted_close": 24.50069808959961,
       "volume": 3100
     },
     {
@@ -91,49 +91,49 @@
     {
       "date": "2023-09-18",
       "close": 30.34000015258789,
-      "adjusted_close": 28.98054885864257,
+      "adjusted_close": 28.98055458068848,
       "volume": 8500
     },
     {
       "date": "2023-09-21",
       "close": 28.90999984741211,
-      "adjusted_close": 27.6146297454834,
+      "adjusted_close": 27.61463165283203,
       "volume": 2600
     },
     {
       "date": "2023-09-26",
       "close": 28.530000686645508,
-      "adjusted_close": 27.251659393310547,
+      "adjusted_close": 27.25165557861328,
       "volume": 8000
     },
     {
       "date": "2023-09-29",
       "close": 29.88999938964844,
-      "adjusted_close": 28.550716400146484,
+      "adjusted_close": 28.55071830749512,
       "volume": 11100
     },
     {
       "date": "2023-10-04",
       "close": 27.780000686645508,
-      "adjusted_close": 26.6605167388916,
+      "adjusted_close": 26.660512924194336,
       "volume": 7100
     },
     {
       "date": "2023-10-09",
-      "close": 28.39999961853028,
-      "adjusted_close": 27.25552558898925,
+      "close": 28.399999618530277,
+      "adjusted_close": 27.25552749633789,
       "volume": 1600
     },
     {
       "date": "2023-10-12",
       "close": 27.700000762939453,
-      "adjusted_close": 26.58373641967773,
+      "adjusted_close": 26.58373260498047,
       "volume": 2800
     },
     {
       "date": "2023-10-17",
       "close": 28.6200008392334,
-      "adjusted_close": 27.466663360595703,
+      "adjusted_close": 27.46665954589844,
       "volume": 3400
     },
     {
@@ -145,13 +145,13 @@
     {
       "date": "2023-10-25",
       "close": 29.56999969482422,
-      "adjusted_close": 28.378379821777344,
+      "adjusted_close": 28.37837791442871,
       "volume": 3800
     },
     {
       "date": "2023-10-30",
       "close": 32.7599983215332,
-      "adjusted_close": 31.439828872680664,
+      "adjusted_close": 31.43982696533203,
       "volume": 20900
     },
     {
@@ -163,7 +163,7 @@
     {
       "date": "2023-11-07",
       "close": 31.549999237060547,
-      "adjusted_close": 30.278583526611328,
+      "adjusted_close": 30.27858543395996,
       "volume": 7000
     },
     {
@@ -175,13 +175,13 @@
     {
       "date": "2023-11-15",
       "close": 37.88999938964844,
-      "adjusted_close": 36.36309051513672,
+      "adjusted_close": 36.363094329833984,
       "volume": 12500
     },
     {
       "date": "2023-11-20",
       "close": 37.83000183105469,
-      "adjusted_close": 36.30551528930664,
+      "adjusted_close": 36.305511474609375,
       "volume": 42000
     },
     {
@@ -193,67 +193,67 @@
     {
       "date": "2023-11-29",
       "close": 36.0,
-      "adjusted_close": 34.54925537109375,
+      "adjusted_close": 34.54926300048828,
       "volume": 4700
     },
     {
       "date": "2023-12-04",
       "close": 38.93000030517578,
-      "adjusted_close": 37.36118698120117,
+      "adjusted_close": 37.36118316650391,
       "volume": 29700
     },
     {
       "date": "2023-12-07",
       "close": 40.5,
-      "adjusted_close": 38.86791610717773,
+      "adjusted_close": 38.86791229248047,
       "volume": 6500
     },
     {
       "date": "2023-12-12",
       "close": 39.65999984741211,
-      "adjusted_close": 38.061771392822266,
+      "adjusted_close": 38.06176376342773,
       "volume": 9600
     },
     {
       "date": "2023-12-15",
       "close": 40.869998931884766,
-      "adjusted_close": 39.22300338745117,
+      "adjusted_close": 39.2230110168457,
       "volume": 9700
     },
     {
       "date": "2023-12-20",
       "close": 43.0099983215332,
-      "adjusted_close": 41.276763916015625,
+      "adjusted_close": 41.27676773071289,
       "volume": 11700
     },
     {
       "date": "2023-12-26",
       "close": 43.43999862670898,
-      "adjusted_close": 41.68943786621094,
+      "adjusted_close": 41.68943405151367,
       "volume": 12000
     },
     {
       "date": "2023-12-29",
       "close": 42.86000061035156,
-      "adjusted_close": 41.13281631469727,
+      "adjusted_close": 41.1328125,
       "volume": 10700
     },
     {
       "date": "2024-01-04",
       "close": 43.06999969482422,
-      "adjusted_close": 41.48075485229492,
+      "adjusted_close": 41.480751037597656,
       "volume": 21200
     },
     {
       "date": "2024-01-09",
       "close": 42.08000183105469,
-      "adjusted_close": 40.527286529541016,
+      "adjusted_close": 40.52728271484375,
       "volume": 24400
     },
     {
       "date": "2024-01-12",
       "close": 43.040000915527344,
-      "adjusted_close": 41.45186614990234,
+      "adjusted_close": 41.45186233520508,
       "volume": 11100
     },
     {
@@ -265,13 +265,13 @@
     {
       "date": "2024-01-23",
       "close": 48.58000183105469,
-      "adjusted_close": 46.78743362426758,
+      "adjusted_close": 46.78744888305664,
       "volume": 40000
     },
     {
       "date": "2024-01-26",
       "close": 47.400001525878906,
-      "adjusted_close": 45.65097427368164,
+      "adjusted_close": 45.65098190307617,
       "volume": 28500
     },
     {
@@ -283,49 +283,49 @@
     {
       "date": "2024-02-05",
       "close": 47.2599983215332,
-      "adjusted_close": 45.51613998413086,
+      "adjusted_close": 45.516143798828125,
       "volume": 28900
     },
     {
       "date": "2024-02-08",
       "close": 49.09000015258789,
-      "adjusted_close": 47.278621673583984,
+      "adjusted_close": 47.27862548828125,
       "volume": 9500
     },
     {
       "date": "2024-02-13",
       "close": 49.630001068115234,
-      "adjusted_close": 47.7986946105957,
+      "adjusted_close": 47.79869842529297,
       "volume": 23900
     },
     {
       "date": "2024-02-16",
       "close": 49.59999847412109,
-      "adjusted_close": 47.76980209350586,
+      "adjusted_close": 47.76979446411133,
       "volume": 15400
     },
     {
       "date": "2024-02-22",
       "close": 49.16999816894531,
-      "adjusted_close": 47.35566329956055,
+      "adjusted_close": 47.35565948486328,
       "volume": 15200
     },
     {
       "date": "2024-02-27",
       "close": 48.959999084472656,
-      "adjusted_close": 47.15341567993164,
+      "adjusted_close": 47.153411865234375,
       "volume": 9700
     },
     {
       "date": "2024-03-01",
       "close": 44.15999984741211,
-      "adjusted_close": 42.53053665161133,
+      "adjusted_close": 42.53053283691406,
       "volume": 50400
     },
     {
       "date": "2024-03-06",
       "close": 38.369998931884766,
-      "adjusted_close": 36.95417404174805,
+      "adjusted_close": 36.95417785644531,
       "volume": 35100
     },
     {
@@ -355,49 +355,49 @@
     {
       "date": "2024-03-27",
       "close": 46.119998931884766,
-      "adjusted_close": 44.56260681152344,
+      "adjusted_close": 44.56261444091797,
       "volume": 21000
     },
     {
       "date": "2024-04-02",
       "close": 45.7400016784668,
-      "adjusted_close": 44.1954460144043,
+      "adjusted_close": 44.19544219970703,
       "volume": 20900
     },
     {
       "date": "2024-04-05",
       "close": 46.369998931884766,
-      "adjusted_close": 44.80416870117188,
+      "adjusted_close": 44.80417251586914,
       "volume": 10600
     },
     {
       "date": "2024-04-10",
       "close": 43.459999084472656,
-      "adjusted_close": 41.99243927001953,
+      "adjusted_close": 41.992435455322266,
       "volume": 22100
     },
     {
       "date": "2024-04-15",
       "close": 43.63999938964844,
-      "adjusted_close": 42.16635894775391,
+      "adjusted_close": 42.16636276245117,
       "volume": 37000
     },
     {
       "date": "2024-04-18",
       "close": 43.0099983215332,
-      "adjusted_close": 41.5576286315918,
+      "adjusted_close": 41.55763626098633,
       "volume": 14600
     },
     {
       "date": "2024-04-23",
       "close": 40.459999084472656,
-      "adjusted_close": 39.093746185302734,
+      "adjusted_close": 39.0937385559082,
       "volume": 11300
     },
     {
       "date": "2024-04-26",
       "close": 41.09999847412109,
-      "adjusted_close": 39.71212387084961,
+      "adjusted_close": 39.71212768554688,
       "volume": 16500
     },
     {
@@ -409,7 +409,7 @@
     {
       "date": "2024-05-06",
       "close": 43.61000061035156,
-      "adjusted_close": 42.13737106323242,
+      "adjusted_close": 42.13737487792969,
       "volume": 45700
     },
     {
@@ -421,37 +421,37 @@
     {
       "date": "2024-05-14",
       "close": 39.34999847412109,
-      "adjusted_close": 38.021217346191406,
+      "adjusted_close": 38.02122497558594,
       "volume": 40300
     },
     {
       "date": "2024-05-17",
       "close": 39.18000030517578,
-      "adjusted_close": 37.85696792602539,
+      "adjusted_close": 37.856964111328125,
       "volume": 11100
     },
     {
       "date": "2024-05-22",
       "close": 39.33000183105469,
-      "adjusted_close": 38.00190353393555,
+      "adjusted_close": 38.00190734863281,
       "volume": 24400
     },
     {
       "date": "2024-05-28",
       "close": 36.0,
-      "adjusted_close": 34.78434371948242,
+      "adjusted_close": 34.78435134887695,
       "volume": 81200
     },
     {
       "date": "2024-05-31",
       "close": 35.4900016784668,
-      "adjusted_close": 34.29157257080078,
+      "adjusted_close": 34.29156494140625,
       "volume": 16700
     },
     {
       "date": "2024-06-05",
       "close": 35.279998779296875,
-      "adjusted_close": 34.088661193847656,
+      "adjusted_close": 34.08865737915039,
       "volume": 21100
     },
     {
@@ -469,37 +469,37 @@
     {
       "date": "2024-06-18",
       "close": 34.459999084472656,
-      "adjusted_close": 33.29635238647461,
+      "adjusted_close": 33.296348571777344,
       "volume": 25700
     },
     {
       "date": "2024-06-24",
       "close": 33.689998626708984,
-      "adjusted_close": 32.55234909057617,
+      "adjusted_close": 32.55235290527344,
       "volume": 26500
     },
     {
       "date": "2024-06-27",
       "close": 34.560001373291016,
-      "adjusted_close": 33.392974853515625,
+      "adjusted_close": 33.39297866821289,
       "volume": 12800
     },
     {
       "date": "2024-07-02",
       "close": 34.61000061035156,
-      "adjusted_close": 33.586181640625,
+      "adjusted_close": 33.586177825927734,
       "volume": 12300
     },
     {
       "date": "2024-07-08",
       "close": 34.90999984741211,
-      "adjusted_close": 33.87730407714844,
+      "adjusted_close": 33.87730026245117,
       "volume": 14200
     },
     {
       "date": "2024-07-11",
       "close": 36.45000076293945,
-      "adjusted_close": 35.37174606323242,
+      "adjusted_close": 35.37174987792969,
       "volume": 12800
     },
     {
@@ -511,49 +511,49 @@
     {
       "date": "2024-07-19",
       "close": 38.47999954223633,
-      "adjusted_close": 37.34169769287109,
+      "adjusted_close": 37.34169387817383,
       "volume": 15000
     },
     {
       "date": "2024-07-24",
       "close": 39.52999877929688,
-      "adjusted_close": 38.36063003540039,
+      "adjusted_close": 38.360633850097656,
       "volume": 11100
     },
     {
       "date": "2024-07-29",
       "close": 45.09999847412109,
-      "adjusted_close": 43.76586151123047,
+      "adjusted_close": 43.76586532592773,
       "volume": 79300
     },
     {
       "date": "2024-08-01",
       "close": 42.7400016784668,
-      "adjusted_close": 41.475677490234375,
+      "adjusted_close": 41.47568130493164,
       "volume": 28700
     },
     {
       "date": "2024-08-06",
       "close": 40.40999984741211,
-      "adjusted_close": 39.21460723876953,
+      "adjusted_close": 39.214599609375,
       "volume": 11900
     },
     {
       "date": "2024-08-09",
       "close": 38.630001068115234,
-      "adjusted_close": 37.48726272583008,
+      "adjusted_close": 37.48725891113281,
       "volume": 6400
     },
     {
       "date": "2024-08-14",
       "close": 37.7599983215332,
-      "adjusted_close": 36.64299774169922,
+      "adjusted_close": 36.64299392700195,
       "volume": 10500
     },
     {
       "date": "2024-08-19",
       "close": 42.0,
-      "adjusted_close": 40.75756072998047,
+      "adjusted_close": 40.75756454467773,
       "volume": 28700
     },
     {
@@ -565,7 +565,7 @@
     {
       "date": "2024-08-27",
       "close": 43.880001068115234,
-      "adjusted_close": 42.58195877075195,
+      "adjusted_close": 42.58195495605469,
       "volume": 10700
     },
     {
@@ -577,43 +577,43 @@
     {
       "date": "2024-09-05",
       "close": 43.43000030517578,
-      "adjusted_close": 42.145267486572266,
+      "adjusted_close": 42.145263671875,
       "volume": 6100
     },
     {
       "date": "2024-09-10",
       "close": 42.5099983215332,
-      "adjusted_close": 41.25248336791992,
+      "adjusted_close": 41.252479553222656,
       "volume": 37800
     },
     {
       "date": "2024-09-13",
       "close": 42.70000076293945,
-      "adjusted_close": 41.436859130859375,
+      "adjusted_close": 41.43686294555664,
       "volume": 7500
     },
     {
       "date": "2024-09-18",
       "close": 41.77000045776367,
-      "adjusted_close": 40.53437042236328,
+      "adjusted_close": 40.53437805175781,
       "volume": 5900
     },
     {
       "date": "2024-09-23",
       "close": 41.22999954223633,
-      "adjusted_close": 40.010353088378906,
+      "adjusted_close": 40.010345458984375,
       "volume": 13800
     },
     {
       "date": "2024-09-26",
       "close": 41.81999969482422,
-      "adjusted_close": 40.58289337158203,
+      "adjusted_close": 40.5828971862793,
       "volume": 3600
     },
     {
       "date": "2024-10-01",
       "close": 41.43000030517578,
-      "adjusted_close": 40.20443344116211,
+      "adjusted_close": 40.20442962646485,
       "volume": 15700
     },
     {
@@ -625,7 +625,7 @@
     {
       "date": "2024-10-09",
       "close": 42.16999816894531,
-      "adjusted_close": 41.07131576538086,
+      "adjusted_close": 41.07130813598633,
       "volume": 23900
     },
     {
@@ -649,7 +649,7 @@
     {
       "date": "2024-10-25",
       "close": 40.25,
-      "adjusted_close": 39.20133590698242,
+      "adjusted_close": 39.20133972167969,
       "volume": 11900
     },
     {
@@ -667,43 +667,43 @@
     {
       "date": "2024-11-07",
       "close": 41.52999877929688,
-      "adjusted_close": 40.44799041748047,
+      "adjusted_close": 40.44798278808594,
       "volume": 19900
     },
     {
       "date": "2024-11-12",
       "close": 41.77999877929688,
-      "adjusted_close": 40.69147491455078,
+      "adjusted_close": 40.69147109985352,
       "volume": 13100
     },
     {
       "date": "2024-11-15",
       "close": 41.970001220703125,
-      "adjusted_close": 40.87652206420898,
+      "adjusted_close": 40.87652587890625,
       "volume": 7500
     },
     {
       "date": "2024-11-20",
       "close": 41.38999938964844,
-      "adjusted_close": 40.3116340637207,
+      "adjusted_close": 40.31163787841797,
       "volume": 9100
     },
     {
       "date": "2024-11-25",
       "close": 44.75,
-      "adjusted_close": 43.58409881591797,
+      "adjusted_close": 43.5840950012207,
       "volume": 26800
     },
     {
       "date": "2024-11-29",
       "close": 44.5099983215332,
-      "adjusted_close": 43.350345611572266,
+      "adjusted_close": 43.350341796875,
       "volume": 16500
     },
     {
       "date": "2024-12-04",
       "close": 44.06999969482422,
-      "adjusted_close": 42.92181015014648,
+      "adjusted_close": 42.92181396484375,
       "volume": 7000
     },
     {
@@ -721,7 +721,7 @@
     {
       "date": "2024-12-17",
       "close": 41.2400016784668,
-      "adjusted_close": 40.16554260253906,
+      "adjusted_close": 40.16554641723633,
       "volume": 5800
     },
     {
@@ -733,7 +733,7 @@
     {
       "date": "2024-12-26",
       "close": 36.40999984741211,
-      "adjusted_close": 35.46138000488281,
+      "adjusted_close": 35.46138381958008,
       "volume": 7900
     },
     {
@@ -763,7 +763,7 @@
     {
       "date": "2025-01-21",
       "close": 37.5,
-      "adjusted_close": 36.67242050170898,
+      "adjusted_close": 36.67242431640625,
       "volume": 6400
     },
     {
@@ -775,7 +775,7 @@
     {
       "date": "2025-01-29",
       "close": 36.77999877929688,
-      "adjusted_close": 35.96831130981445,
+      "adjusted_close": 35.96830749511719,
       "volume": 7800
     },
     {
@@ -787,67 +787,67 @@
     {
       "date": "2025-02-06",
       "close": 38.11000061035156,
-      "adjusted_close": 37.26895904541016,
+      "adjusted_close": 37.26896667480469,
       "volume": 5700
     },
     {
       "date": "2025-02-11",
       "close": 37.20000076293945,
-      "adjusted_close": 36.37904357910156,
+      "adjusted_close": 36.37904739379883,
       "volume": 9800
     },
     {
       "date": "2025-02-14",
       "close": 38.11000061035156,
-      "adjusted_close": 37.26895904541016,
+      "adjusted_close": 37.26896667480469,
       "volume": 3600
     },
     {
       "date": "2025-02-20",
       "close": 37.540000915527344,
-      "adjusted_close": 36.71154022216797,
+      "adjusted_close": 36.711544036865234,
       "volume": 5900
     },
     {
       "date": "2025-02-25",
       "close": 37.5,
-      "adjusted_close": 36.67242050170898,
+      "adjusted_close": 36.67242431640625,
       "volume": 9600
     },
     {
       "date": "2025-02-28",
       "close": 39.09000015258789,
-      "adjusted_close": 38.227333068847656,
+      "adjusted_close": 38.22732925415039,
       "volume": 3300
     },
     {
       "date": "2025-03-05",
       "close": 37.29999923706055,
-      "adjusted_close": 36.47683334350586,
+      "adjusted_close": 36.476837158203125,
       "volume": 4900
     },
     {
       "date": "2025-03-10",
       "close": 36.68999862670898,
-      "adjusted_close": 35.88029861450195,
+      "adjusted_close": 35.88029479980469,
       "volume": 12800
     },
     {
       "date": "2025-03-13",
       "close": 40.0,
-      "adjusted_close": 39.11724853515625,
+      "adjusted_close": 39.11725234985352,
       "volume": 11800
     },
     {
       "date": "2025-03-18",
       "close": 40.0,
-      "adjusted_close": 39.11724853515625,
+      "adjusted_close": 39.11725234985352,
       "volume": 5200
     },
     {
       "date": "2025-03-21",
       "close": 39.91999816894531,
-      "adjusted_close": 39.03901672363281,
+      "adjusted_close": 39.03900909423828,
       "volume": 10800
     },
     {
@@ -865,25 +865,25 @@
     {
       "date": "2025-04-03",
       "close": 39.150001525878906,
-      "adjusted_close": 38.431915283203125,
+      "adjusted_close": 38.43191909790039,
       "volume": 9500
     },
     {
       "date": "2025-04-08",
       "close": 38.02999877929688,
-      "adjusted_close": 37.33245468139648,
+      "adjusted_close": 37.33245849609375,
       "volume": 13300
     },
     {
       "date": "2025-04-11",
       "close": 37.95000076293945,
-      "adjusted_close": 37.25392532348633,
+      "adjusted_close": 37.2539291381836,
       "volume": 12600
     },
     {
       "date": "2025-04-16",
       "close": 40.08000183105469,
-      "adjusted_close": 39.34486389160156,
+      "adjusted_close": 39.34485626220703,
       "volume": 27000
     },
     {
@@ -901,13 +901,13 @@
     {
       "date": "2025-04-30",
       "close": 38.52000045776367,
-      "adjusted_close": 37.813472747802734,
+      "adjusted_close": 37.81346893310547,
       "volume": 17600
     },
     {
       "date": "2025-05-05",
       "close": 37.7400016784668,
-      "adjusted_close": 37.04778671264648,
+      "adjusted_close": 37.04778289794922,
       "volume": 12200
     },
     {
@@ -919,19 +919,19 @@
     {
       "date": "2025-05-13",
       "close": 38.97999954223633,
-      "adjusted_close": 38.26503372192383,
+      "adjusted_close": 38.26502990722656,
       "volume": 12300
     },
     {
       "date": "2025-05-16",
       "close": 39.810001373291016,
-      "adjusted_close": 39.079811096191406,
+      "adjusted_close": 39.07981491088867,
       "volume": 23900
     },
     {
       "date": "2025-05-21",
       "close": 39.150001525878906,
-      "adjusted_close": 38.431915283203125,
+      "adjusted_close": 38.43191909790039,
       "volume": 7400
     },
     {
@@ -955,13 +955,13 @@
     {
       "date": "2025-06-09",
       "close": 38.9900016784668,
-      "adjusted_close": 38.27485656738281,
+      "adjusted_close": 38.27485275268555,
       "volume": 14800
     },
     {
       "date": "2025-06-12",
       "close": 38.63999938964844,
-      "adjusted_close": 37.931270599365234,
+      "adjusted_close": 37.9312744140625,
       "volume": 8700
     },
     {
@@ -973,43 +973,43 @@
     {
       "date": "2025-06-23",
       "close": 38.75,
-      "adjusted_close": 38.03925323486328,
+      "adjusted_close": 38.039249420166016,
       "volume": 29800
     },
     {
       "date": "2025-06-26",
       "close": 40.619998931884766,
-      "adjusted_close": 39.87495040893555,
+      "adjusted_close": 39.87495803833008,
       "volume": 21800
     },
     {
       "date": "2025-07-01",
       "close": 43.5099983215332,
-      "adjusted_close": 42.71194839477539,
+      "adjusted_close": 42.711944580078125,
       "volume": 24600
     },
     {
       "date": "2025-07-07",
       "close": 42.59999847412109,
-      "adjusted_close": 41.97234725952149,
+      "adjusted_close": 41.97235107421875,
       "volume": 23100
     },
     {
       "date": "2025-07-10",
       "close": 43.970001220703125,
-      "adjusted_close": 43.32216644287109,
+      "adjusted_close": 43.32216262817383,
       "volume": 13200
     },
     {
       "date": "2025-07-15",
       "close": 41.20000076293945,
-      "adjusted_close": 40.59297561645508,
+      "adjusted_close": 40.59297943115234,
       "volume": 15300
     },
     {
       "date": "2025-07-18",
       "close": 41.61000061035156,
-      "adjusted_close": 40.99694061279297,
+      "adjusted_close": 40.9969367980957,
       "volume": 11700
     },
     {
@@ -1021,7 +1021,7 @@
     {
       "date": "2025-07-28",
       "close": 42.560001373291016,
-      "adjusted_close": 41.93294143676758,
+      "adjusted_close": 41.93293762207031,
       "volume": 9500
     },
     {
@@ -1033,7 +1033,7 @@
     {
       "date": "2025-08-05",
       "close": 41.540000915527344,
-      "adjusted_close": 40.9279670715332,
+      "adjusted_close": 40.92796325683594,
       "volume": 8000
     },
     {
@@ -1051,7 +1051,7 @@
     {
       "date": "2025-08-18",
       "close": 40.27000045776367,
-      "adjusted_close": 39.67667388916016,
+      "adjusted_close": 39.67667770385742,
       "volume": 4900
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "date": "2025-09-04",
       "close": 44.43000030517578,
-      "adjusted_close": 43.775386810302734,
+      "adjusted_close": 43.77538299560547,
       "volume": 20400
     },
     {
@@ -1087,13 +1087,13 @@
     {
       "date": "2025-09-12",
       "close": 41.02999877929688,
-      "adjusted_close": 40.42547607421875,
+      "adjusted_close": 40.425479888916016,
       "volume": 31700
     },
     {
       "date": "2025-09-17",
       "close": 40.709999084472656,
-      "adjusted_close": 40.11019134521485,
+      "adjusted_close": 40.11019515991211,
       "volume": 15100
     },
     {
@@ -1111,7 +1111,7 @@
     {
       "date": "2025-09-30",
       "close": 41.18000030517578,
-      "adjusted_close": 40.57326889038086,
+      "adjusted_close": 40.5732650756836,
       "volume": 9000
     },
     {
@@ -1147,31 +1147,31 @@
     {
       "date": "2025-10-24",
       "close": 39.369998931884766,
-      "adjusted_close": 38.94390106201172,
+      "adjusted_close": 38.94390487670898,
       "volume": 4400
     },
     {
       "date": "2025-10-29",
       "close": 38.38999938964844,
-      "adjusted_close": 37.97451019287109,
+      "adjusted_close": 37.97450637817383,
       "volume": 21500
     },
     {
       "date": "2025-11-03",
       "close": 37.93000030517578,
-      "adjusted_close": 37.519493103027344,
+      "adjusted_close": 37.51948547363281,
       "volume": 5900
     },
     {
       "date": "2025-11-06",
       "close": 37.34999847412109,
-      "adjusted_close": 36.945762634277344,
+      "adjusted_close": 36.94576644897461,
       "volume": 8100
     },
     {
       "date": "2025-11-11",
       "close": 36.90999984741211,
-      "adjusted_close": 36.51052474975586,
+      "adjusted_close": 36.510528564453125,
       "volume": 11800
     },
     {
@@ -1195,25 +1195,25 @@
     {
       "date": "2025-11-28",
       "close": 37.0,
-      "adjusted_close": 36.599552154541016,
+      "adjusted_close": 36.59955596923828,
       "volume": 8500
     },
     {
       "date": "2025-12-03",
       "close": 38.15999984741211,
-      "adjusted_close": 37.74700164794922,
+      "adjusted_close": 37.74699783325195,
       "volume": 6000
     },
     {
       "date": "2025-12-08",
       "close": 35.720001220703125,
-      "adjusted_close": 35.33340835571289,
+      "adjusted_close": 35.333404541015625,
       "volume": 4500
     },
     {
       "date": "2025-12-11",
       "close": 38.869998931884766,
-      "adjusted_close": 38.449310302734375,
+      "adjusted_close": 38.449317932128906,
       "volume": 11800
     },
     {
@@ -1231,7 +1231,7 @@
     {
       "date": "2025-12-24",
       "close": 41.08000183105469,
-      "adjusted_close": 40.635398864746094,
+      "adjusted_close": 40.63539505004883,
       "volume": 3400
     },
     {

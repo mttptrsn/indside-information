@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "SILC",
   "yf_ticker": "SILC",
@@ -66,8 +66,8 @@
     },
     {
       "date": "2023-08-30",
-      "close": 26.89999961853028,
-      "adjusted_close": 26.89999961853028,
+      "close": 26.899999618530277,
+      "adjusted_close": 26.899999618530277,
       "volume": 54000
     },
     {
@@ -102,8 +102,8 @@
     },
     {
       "date": "2023-09-26",
-      "close": 24.64999961853028,
-      "adjusted_close": 24.64999961853028,
+      "close": 24.649999618530277,
+      "adjusted_close": 24.649999618530277,
       "volume": 24300
     },
     {
@@ -1320,8 +1320,8 @@
     },
     {
       "date": "2026-03-03",
-      "close": 20.14999961853028,
-      "adjusted_close": 20.14999961853028,
+      "close": 20.149999618530277,
+      "adjusted_close": 20.149999618530277,
       "volume": 39300
     },
     {
@@ -1350,8 +1350,8 @@
     },
     {
       "date": "2026-03-24",
-      "close": 19.89999961853028,
-      "adjusted_close": 19.89999961853028,
+      "close": 19.899999618530277,
+      "adjusted_close": 19.899999618530277,
       "volume": 75000
     },
     {

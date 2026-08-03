@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "KTOS",
   "yf_ticker": "KTOS",
@@ -174,8 +174,8 @@
     },
     {
       "date": "2023-11-15",
-      "close": 18.64999961853028,
-      "adjusted_close": 18.64999961853028,
+      "close": 18.649999618530277,
+      "adjusted_close": 18.649999618530277,
       "volume": 1286100
     },
     {
@@ -192,8 +192,8 @@
     },
     {
       "date": "2023-11-29",
-      "close": 18.64999961853028,
-      "adjusted_close": 18.64999961853028,
+      "close": 18.649999618530277,
+      "adjusted_close": 18.649999618530277,
       "volume": 1561100
     },
     {
@@ -558,8 +558,8 @@
     },
     {
       "date": "2024-08-22",
-      "close": 21.64999961853028,
-      "adjusted_close": 21.64999961853028,
+      "close": 21.649999618530277,
+      "adjusted_close": 21.649999618530277,
       "volume": 810200
     },
     {

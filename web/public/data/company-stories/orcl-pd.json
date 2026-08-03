@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "ORCL-PD",
   "yf_ticker": "ORCL-PD",
@@ -31,13 +31,13 @@
     {
       "date": "2026-02-12",
       "close": 49.310001373291016,
-      "adjusted_close": 47.73893737792969,
+      "adjusted_close": 47.73893356323242,
       "volume": 2529108
     },
     {
       "date": "2026-02-13",
       "close": 49.720001220703125,
-      "adjusted_close": 48.13587188720703,
+      "adjusted_close": 48.1358757019043,
       "volume": 2080871
     },
     {
@@ -55,7 +55,7 @@
     {
       "date": "2026-02-19",
       "close": 48.880001068115234,
-      "adjusted_close": 47.32263946533203,
+      "adjusted_close": 47.322635650634766,
       "volume": 2438829
     },
     {
@@ -73,7 +73,7 @@
     {
       "date": "2026-02-24",
       "close": 46.13999938964844,
-      "adjusted_close": 44.66993713378906,
+      "adjusted_close": 44.6699333190918,
       "volume": 34904
     },
     {
@@ -85,7 +85,7 @@
     {
       "date": "2026-02-26",
       "close": 47.25,
-      "adjusted_close": 45.74456787109375,
+      "adjusted_close": 45.744571685791016,
       "volume": 18967
     },
     {
@@ -115,7 +115,7 @@
     {
       "date": "2026-03-05",
       "close": 48.31999969482422,
-      "adjusted_close": 46.78047943115234,
+      "adjusted_close": 46.78047561645508,
       "volume": 19477
     },
     {
@@ -127,7 +127,7 @@
     {
       "date": "2026-03-09",
       "close": 47.41999816894531,
-      "adjusted_close": 45.90915298461914,
+      "adjusted_close": 45.90914916992188,
       "volume": 17306
     },
     {
@@ -151,7 +151,7 @@
     {
       "date": "2026-03-13",
       "close": 47.93000030517578,
-      "adjusted_close": 46.40290451049805,
+      "adjusted_close": 46.40290069580078,
       "volume": 223132
     },
     {
@@ -205,7 +205,7 @@
     {
       "date": "2026-03-26",
       "close": 44.790000915527344,
-      "adjusted_close": 43.36294937133789,
+      "adjusted_close": 43.36294555664063,
       "volume": 157011
     },
     {
@@ -723,33 +723,39 @@
       "close": 41.08000183105469,
       "adjusted_close": 41.08000183105469,
       "volume": 1412294
+    },
+    {
+      "date": "2026-07-31",
+      "close": 41.880001068115234,
+      "adjusted_close": 41.880001068115234,
+      "volume": 1395289
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-07-30",
-    "current_price": 41.080002,
+    "price_date": "2026-07-31",
+    "current_price": 41.880001,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -40.259575,
-    "drawdown_from_3_year_high": -40.259575,
-    "distance_from_200_day_average": -15.47209,
-    "return_63_sessions": -15.379812,
-    "realized_volatility_63d": 53.570461,
-    "volatility_percentile": 69.230769,
-    "trend": "falling",
+    "drawdown_from_52_week_high": -39.096179,
+    "drawdown_from_3_year_high": -39.096179,
+    "distance_from_200_day_average": -13.725741,
+    "return_63_sessions": -12.367072,
+    "realized_volatility_63d": 53.670392,
+    "volatility_percentile": 69.620253,
+    "trend": "below_trend",
     "buyers": 0,
     "purchase_days": 0,
     "purchase_events": 0,
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 118,
-    "price_points_exported": 118,
+    "price_rows_available": 119,
+    "price_points_exported": 119,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",

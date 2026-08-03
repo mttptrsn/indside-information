@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "SKYT",
   "yf_ticker": "SKYT",
@@ -1332,8 +1332,8 @@
     },
     {
       "date": "2026-03-11",
-      "close": 28.14999961853028,
-      "adjusted_close": 28.14999961853028,
+      "close": 28.149999618530277,
+      "adjusted_close": 28.149999618530277,
       "volume": 1131300
     },
     {
@@ -1362,8 +1362,8 @@
     },
     {
       "date": "2026-04-01",
-      "close": 27.14999961853028,
-      "adjusted_close": 27.14999961853028,
+      "close": 27.149999618530277,
+      "adjusted_close": 27.149999618530277,
       "volume": 693900
     },
     {

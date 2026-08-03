@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "SE",
   "yf_ticker": "SE",
@@ -1104,8 +1104,8 @@
     },
     {
       "date": "2025-09-25",
-      "close": 185.9100036621093,
-      "adjusted_close": 185.9100036621093,
+      "close": 185.91000366210935,
+      "adjusted_close": 185.91000366210935,
       "volume": 3110200
     },
     {
@@ -1116,8 +1116,8 @@
     },
     {
       "date": "2025-10-03",
-      "close": 184.9100036621093,
-      "adjusted_close": 184.9100036621093,
+      "close": 184.91000366210935,
+      "adjusted_close": 184.91000366210935,
       "volume": 2215200
     },
     {

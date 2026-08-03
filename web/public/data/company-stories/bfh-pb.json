@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "BFH-PB",
   "yf_ticker": "BFH-PB",
@@ -78,8 +78,8 @@
     },
     {
       "date": "2026-06-03",
-      "close": 25.02499961853028,
-      "adjusted_close": 25.02499961853028,
+      "close": 25.024999618530277,
+      "adjusted_close": 25.024999618530277,
       "volume": 28213
     },
     {
@@ -315,24 +315,30 @@
       "close": 25.13999938964844,
       "adjusted_close": 25.13999938964844,
       "volume": 11644
+    },
+    {
+      "date": "2026-07-31",
+      "close": 25.059999465942383,
+      "adjusted_close": 25.059999465942383,
+      "volume": 24664
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-07-30",
-    "current_price": 25.139999,
+    "price_date": "2026-07-31",
+    "current_price": 25.059999,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -0.039368,
-    "drawdown_from_3_year_high": -0.039368,
-    "distance_from_200_day_average": 0.443475,
+    "drawdown_from_52_week_high": -0.357461,
+    "drawdown_from_3_year_high": -0.357461,
+    "distance_from_200_day_average": 0.121415,
     "return_63_sessions": null,
-    "realized_volatility_63d": 3.788472,
-    "volatility_percentile": 10.0,
+    "realized_volatility_63d": 3.825293,
+    "volatility_percentile": 27.272727,
     "trend": "insufficient_history",
     "buyers": 0,
     "purchase_days": 0,
@@ -340,8 +346,8 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 50,
-    "price_points_exported": 50,
+    "price_rows_available": 51,
+    "price_points_exported": 51,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",

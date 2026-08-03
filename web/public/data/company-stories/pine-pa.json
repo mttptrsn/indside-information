@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "PINE-PA",
   "yf_ticker": "PINE-PA",
@@ -108,8 +108,8 @@
     },
     {
       "date": "2025-12-12",
-      "close": 24.89999961853028,
-      "adjusted_close": 23.92610549926757,
+      "close": 24.899999618530277,
+      "adjusted_close": 23.926105499267575,
       "volume": 3778
     },
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2025-12-24",
-      "close": 24.89999961853028,
-      "adjusted_close": 23.92610549926757,
+      "close": 24.899999618530277,
+      "adjusted_close": 23.926105499267575,
       "volume": 1920
     },
     {
       "date": "2025-12-26",
-      "close": 24.89999961853028,
-      "adjusted_close": 23.92610549926757,
+      "close": 24.899999618530277,
+      "adjusted_close": 23.926105499267575,
       "volume": 8299
     },
     {
@@ -325,7 +325,7 @@
     {
       "date": "2026-02-05",
       "close": 25.479999542236328,
-      "adjusted_close": 24.4834213256836,
+      "adjusted_close": 24.483421325683597,
       "volume": 15532
     },
     {
@@ -451,7 +451,7 @@
     {
       "date": "2026-03-09",
       "close": 25.15999984741211,
-      "adjusted_close": 24.17593574523925,
+      "adjusted_close": 24.175935745239254,
       "volume": 1053
     },
     {
@@ -468,7 +468,7 @@
     },
     {
       "date": "2026-03-12",
-      "close": 25.02499961853028,
+      "close": 25.024999618530277,
       "adjusted_close": 24.53101921081543,
       "volume": 28252
     },
@@ -558,7 +558,7 @@
     },
     {
       "date": "2026-04-02",
-      "close": 25.03759956359864,
+      "close": 25.037599563598636,
       "adjusted_close": 24.543371200561523,
       "volume": 3496
     },
@@ -762,7 +762,7 @@
     },
     {
       "date": "2026-05-21",
-      "close": 25.27499961853028,
+      "close": 25.274999618530277,
       "adjusted_close": 24.776084899902344,
       "volume": 13526
     },
@@ -1047,12 +1047,18 @@
       "close": 25.232200622558597,
       "adjusted_close": 25.232200622558597,
       "volume": 13740
+    },
+    {
+      "date": "2026-07-31",
+      "close": 25.239999771118164,
+      "adjusted_close": 25.239999771118164,
+      "volume": 9547
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-07-30",
-    "current_price": 25.232201,
+    "price_date": "2026-07-31",
+    "current_price": 25.24,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
@@ -1061,10 +1067,10 @@
     "return_since_latest_purchase": null,
     "drawdown_from_52_week_high": 0.0,
     "drawdown_from_3_year_high": 0.0,
-    "distance_from_200_day_average": 2.926414,
-    "return_63_sessions": 1.660355,
-    "realized_volatility_63d": 2.758286,
-    "volatility_percentile": 1.515152,
+    "distance_from_200_day_average": 2.940626,
+    "return_63_sessions": 1.771769,
+    "realized_volatility_63d": 2.750043,
+    "volatility_percentile": 0.75188,
     "trend": "holding_above_trend",
     "buyers": 0,
     "purchase_days": 0,
@@ -1072,8 +1078,8 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 172,
-    "price_points_exported": 172,
+    "price_rows_available": 173,
+    "price_points_exported": 173,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",

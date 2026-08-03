@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "RVI",
   "yf_ticker": "RVI",
@@ -174,8 +174,8 @@
     },
     {
       "date": "2026-04-14",
-      "close": 24.89999961853028,
-      "adjusted_close": 24.89999961853028,
+      "close": 24.899999618530277,
+      "adjusted_close": 24.899999618530277,
       "volume": 408100
     },
     {
@@ -192,14 +192,14 @@
     },
     {
       "date": "2026-04-17",
-      "close": 25.14999961853028,
-      "adjusted_close": 25.14999961853028,
+      "close": 25.149999618530277,
+      "adjusted_close": 25.149999618530277,
       "volume": 271200
     },
     {
       "date": "2026-04-20",
-      "close": 24.64999961853028,
-      "adjusted_close": 24.64999961853028,
+      "close": 24.649999618530277,
+      "adjusted_close": 24.649999618530277,
       "volume": 227100
     },
     {
@@ -210,8 +210,8 @@
     },
     {
       "date": "2026-04-22",
-      "close": 29.64999961853028,
-      "adjusted_close": 29.64999961853028,
+      "close": 29.649999618530277,
+      "adjusted_close": 29.649999618530277,
       "volume": 1946000
     },
     {

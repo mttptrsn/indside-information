@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "AVTR",
   "yf_ticker": "AVTR",
@@ -390,8 +390,8 @@
     },
     {
       "date": "2024-04-23",
-      "close": 25.64999961853028,
-      "adjusted_close": 25.64999961853028,
+      "close": 25.649999618530277,
+      "adjusted_close": 25.649999618530277,
       "volume": 5609600
     },
     {
@@ -534,8 +534,8 @@
     },
     {
       "date": "2024-08-06",
-      "close": 25.14999961853028,
-      "adjusted_close": 25.14999961853028,
+      "close": 25.149999618530277,
+      "adjusted_close": 25.149999618530277,
       "volume": 6758800
     },
     {
@@ -642,8 +642,8 @@
     },
     {
       "date": "2024-10-22",
-      "close": 23.89999961853028,
-      "adjusted_close": 23.89999961853028,
+      "close": 23.899999618530277,
+      "adjusted_close": 23.899999618530277,
       "volume": 6394300
     },
     {

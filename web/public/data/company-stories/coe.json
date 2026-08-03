@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "COE",
   "yf_ticker": "COE",
@@ -960,8 +960,8 @@
     },
     {
       "date": "2025-06-12",
-      "close": 27.39999961853028,
-      "adjusted_close": 27.39999961853028,
+      "close": 27.399999618530277,
+      "adjusted_close": 27.399999618530277,
       "volume": 30900
     },
     {
@@ -1356,8 +1356,8 @@
     },
     {
       "date": "2026-03-27",
-      "close": 18.89999961853028,
-      "adjusted_close": 18.89999961853028,
+      "close": 18.899999618530277,
+      "adjusted_close": 18.899999618530277,
       "volume": 19900
     },
     {
@@ -1392,8 +1392,8 @@
     },
     {
       "date": "2026-04-23",
-      "close": 25.89999961853028,
-      "adjusted_close": 25.89999961853028,
+      "close": 25.899999618530277,
+      "adjusted_close": 25.899999618530277,
       "volume": 14500
     },
     {
@@ -1434,8 +1434,8 @@
     },
     {
       "date": "2026-05-22",
-      "close": 26.39999961853028,
-      "adjusted_close": 26.39999961853028,
+      "close": 26.399999618530277,
+      "adjusted_close": 26.399999618530277,
       "volume": 15200
     },
     {
@@ -1505,52 +1505,16 @@
       "volume": 19100
     },
     {
-      "date": "2026-07-14",
-      "close": 16.34000015258789,
-      "adjusted_close": 16.34000015258789,
-      "volume": 15700
-    },
-    {
-      "date": "2026-07-15",
-      "close": 16.520000457763672,
-      "adjusted_close": 16.520000457763672,
-      "volume": 11700
-    },
-    {
       "date": "2026-07-16",
       "close": 16.309999465942383,
       "adjusted_close": 16.309999465942383,
       "volume": 9800
     },
     {
-      "date": "2026-07-17",
-      "close": 15.979999542236328,
-      "adjusted_close": 15.979999542236328,
-      "volume": 7600
-    },
-    {
-      "date": "2026-07-20",
-      "close": 16.5,
-      "adjusted_close": 16.5,
-      "volume": 11000
-    },
-    {
       "date": "2026-07-21",
       "close": 15.800000190734863,
       "adjusted_close": 15.800000190734863,
       "volume": 42900
-    },
-    {
-      "date": "2026-07-22",
-      "close": 15.600000381469728,
-      "adjusted_close": 15.600000381469728,
-      "volume": 10800
-    },
-    {
-      "date": "2026-07-23",
-      "close": 15.600000381469728,
-      "adjusted_close": 15.600000381469728,
-      "volume": 26900
     },
     {
       "date": "2026-07-24",
@@ -1579,142 +1543,6 @@
   ],
   "purchase_markers": [
     {
-      "event_id": "ed84774597a55f9e06bfb848",
-      "transaction_date": "2026-07-14",
-      "price_date": "2026-07-14",
-      "market_price": 16.34000015258789,
-      "reported_purchase_price": 17.23,
-      "purchase_value": 3080724.0,
-      "shares": 178800.0,
-      "owner_cik": 2029760,
-      "owner_name": null,
-      "roles": "ceo|director|operating_executive|other_officer|ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.5793382324351647,
-      "conviction_score": 34.5539,
-      "behavior_change_score": 46.7159,
-      "headline": null
-    },
-    {
-      "event_id": "2a8946323591b16b4f523506",
-      "transaction_date": "2026-07-15",
-      "price_date": "2026-07-15",
-      "market_price": 16.520000457763672,
-      "reported_purchase_price": 16.93,
-      "purchase_value": 2294692.2,
-      "shares": 135540.0,
-      "owner_cik": 2029760,
-      "owner_name": null,
-      "roles": "ceo|director|operating_executive|other_officer|ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.4366398639245399,
-      "conviction_score": 25.8687,
-      "behavior_change_score": 22.7823,
-      "headline": null
-    },
-    {
-      "event_id": "7f20f94fa978939e7a618ca9",
-      "transaction_date": "2026-07-16",
-      "price_date": "2026-07-16",
-      "market_price": 16.309999465942383,
-      "reported_purchase_price": 16.6,
-      "purchase_value": 1856544.0,
-      "shares": 111840.0,
-      "owner_cik": 2029760,
-      "owner_name": null,
-      "roles": "ceo|director|operating_executive|other_officer|ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.3587243730502541,
-      "conviction_score": 27.1255,
-      "behavior_change_score": 26.99,
-      "headline": null
-    },
-    {
-      "event_id": "f635b4ef2a5932c7fb8fed14",
-      "transaction_date": "2026-07-17",
-      "price_date": "2026-07-17",
-      "market_price": 15.979999542236328,
-      "reported_purchase_price": 16.560000000000002,
-      "purchase_value": 1382097.6,
-      "shares": 83460.0,
-      "owner_cik": 2029760,
-      "owner_name": null,
-      "roles": "ceo|director|operating_executive|other_officer|ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.2667392800915849,
-      "conviction_score": 31.3045,
-      "behavior_change_score": 28.3492,
-      "headline": null
-    },
-    {
-      "event_id": "45e76468940e28ebfc44767e",
-      "transaction_date": "2026-07-20",
-      "price_date": "2026-07-20",
-      "market_price": 16.5,
-      "reported_purchase_price": 16.68,
-      "purchase_value": 1876500.0,
-      "shares": 112500.0,
-      "owner_cik": 2029760,
-      "owner_name": null,
-      "roles": "ceo|director|operating_executive|other_officer|ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.3585949961176115,
-      "conviction_score": 35.1354,
-      "behavior_change_score": 38.4184,
-      "headline": null
-    },
-    {
-      "event_id": "eb6071167b9946b211c59b96",
-      "transaction_date": "2026-07-21",
-      "price_date": "2026-07-21",
-      "market_price": 15.800000190734863,
-      "reported_purchase_price": 16.62,
-      "purchase_value": 8287729.2,
-      "shares": 498660.0,
-      "owner_cik": 2029760,
-      "owner_name": null,
-      "roles": "ceo|director|operating_executive|other_officer|ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 1.5838048285942423,
-      "conviction_score": 44.0807,
-      "behavior_change_score": 59.1868,
-      "headline": null
-    },
-    {
-      "event_id": "418087c7294315968c5c9a20",
-      "transaction_date": "2026-07-22",
-      "price_date": "2026-07-22",
-      "market_price": 15.600000381469728,
-      "reported_purchase_price": 15.970212279555843,
-      "purchase_value": 2934047.4,
-      "shares": 183720.0,
-      "owner_cik": 2029760,
-      "owner_name": null,
-      "roles": "ceo|director|operating_executive|other_officer|ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.5744193899373429,
-      "conviction_score": 37.7736,
-      "behavior_change_score": 44.6196,
-      "headline": null
-    },
-    {
-      "event_id": "45af258b06e46a17c720b0fa",
-      "transaction_date": "2026-07-23",
-      "price_date": "2026-07-23",
-      "market_price": 15.600000381469728,
-      "reported_purchase_price": 15.763120728929383,
-      "purchase_value": 6643209.6,
-      "shares": 421440.0,
-      "owner_cik": 2029760,
-      "owner_name": null,
-      "roles": "ceo|director|operating_executive|other_officer|ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 1.3101495555116187,
-      "conviction_score": 41.9045,
-      "behavior_change_score": 53.7448,
-      "headline": null
-    },
-    {
       "event_id": "cc9f7bdc12531ed38090ee75",
       "transaction_date": "2026-07-24",
       "price_date": "2026-07-24",
@@ -1727,8 +1555,8 @@
       "roles": "ceo|director|operating_executive|other_officer|ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.570380707949612,
-      "conviction_score": 37.9513,
-      "behavior_change_score": 45.0513,
+      "conviction_score": 34.5333,
+      "behavior_change_score": 46.7141,
       "headline": null
     },
     {
@@ -1744,19 +1572,19 @@
       "roles": "ceo|director|operating_executive|other_officer|ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 1.3770402970101272,
-      "conviction_score": 42.422,
-      "behavior_change_score": 54.7991,
+      "conviction_score": 37.4251,
+      "behavior_change_score": 51.9509,
       "headline": null
     }
   ],
   "summary": {
     "price_date": "2026-07-31",
     "current_price": 17.66,
-    "average_reported_purchase_price": 16.518921,
-    "percent_vs_average_purchase_price": 6.907709,
-    "first_purchase_date": "2026-07-14",
+    "average_reported_purchase_price": 16.762883,
+    "percent_vs_average_purchase_price": 5.351804,
+    "first_purchase_date": "2026-07-24",
     "latest_purchase_date": "2026-07-27",
-    "return_since_first_purchase": 8.078333,
+    "return_since_first_purchase": 9.82587,
     "return_since_latest_purchase": 2.674413,
     "drawdown_from_52_week_high": -68.214544,
     "drawdown_from_3_year_high": -68.214544,
@@ -1766,14 +1594,14 @@
     "volatility_percentile": 60.614525,
     "trend": "falling",
     "buyers": 1,
-    "purchase_days": 10,
-    "purchase_events": 10,
-    "total_reported_purchase_value": 39036853.2
+    "purchase_days": 2,
+    "purchase_events": 2,
+    "total_reported_purchase_value": 10681309.2
   },
   "quality": {
     "price_rows_available": 756,
-    "price_points_exported": 260,
-    "purchase_markers_exported": 10,
+    "price_points_exported": 254,
+    "purchase_markers_exported": 2,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",
     "price_quality": null

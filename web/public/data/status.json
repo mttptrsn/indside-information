@@ -1,42 +1,50 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "pipeline": {
     "version": "0.4.0",
-    "latest_run_id": "301a5fdfed3e4a8d8d1fd6a62baac13d",
-    "overall_status": "unknown",
-    "stage_statuses": {},
+    "latest_run_id": "af3afef82c6b45d4b9483a73d56149bb",
+    "overall_status": "complete",
+    "stage_statuses": {
+      "contracts": "complete",
+      "enrich": "complete",
+      "histories": "complete",
+      "normalize": "complete",
+      "prices": "complete",
+      "rankings": "complete",
+      "sec_recent": "complete",
+      "signals": "complete",
+      "validate_sec": "complete"
+    },
     "warnings": [],
-    "errors": [
-      "sequence item 0: expected str instance, float found"
-    ]
+    "errors": []
   },
   "source_counts": {
-    "filings": 2622,
-    "issuers": 899,
-    "insiders": 2477,
-    "transactions": 6357,
-    "purchase_events": 426,
-    "event_signals": 426,
-    "company_signals": 114
+    "filings": 1554,
+    "issuers": 617,
+    "insiders": 1533,
+    "transactions": 3833,
+    "purchase_events": 218,
+    "event_signals": 218,
+    "company_signals": 79
   },
   "source_summaries": {
     "normalization": {
       "counts": {
-        "filings": 2622,
-        "footnotes": 6531,
-        "insiders": 2477,
-        "issuers": 899,
-        "securities": 1243,
-        "transactions": 6357
+        "filings": 1554,
+        "footnotes": 3897,
+        "insiders": 1533,
+        "issuers": 617,
+        "securities": 844,
+        "transactions": 3833
       },
-      "generated_at_utc": "2026-08-01T22:54:40.698125Z",
+      "generated_at_utc": "2026-08-03T04:23:48.646112Z",
       "quality": "high",
       "schema_version": "v1",
       "source_lineage": {
@@ -46,16 +54,16 @@
       }
     },
     "prices": {
-      "generated_at_utc": "2026-08-01T22:36:19.232554Z",
+      "generated_at_utc": "2026-08-03T04:27:10.173781Z",
       "schema_version": "v1",
-      "tickers": 983,
-      "unusable": 53
+      "tickers": 591,
+      "unusable": 22
     },
     "enrichment": {
-      "companies": 899,
-      "generated_at_utc": "2026-08-01T22:54:53.595938Z",
-      "purchase_campaigns": 233,
-      "purchase_events": 426,
+      "companies": 617,
+      "generated_at_utc": "2026-08-03T04:28:49.542911Z",
+      "purchase_campaigns": 138,
+      "purchase_events": 218,
       "quality": "high",
       "schema_version": "v1",
       "source_lineage": {
@@ -66,9 +74,9 @@
       "ticker_filter": ""
     },
     "signals": {
-      "company_signals": 114,
-      "event_signals": 426,
-      "generated_at_utc": "2026-08-01T22:54:56.617203Z",
+      "company_signals": 79,
+      "event_signals": 218,
+      "generated_at_utc": "2026-08-03T04:28:51.235654Z",
       "schema_version": "v1"
     }
   }

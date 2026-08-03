@@ -1,7 +1,7 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "ticker": "LOOP",
   "issuer_cik": 1504678,
   "events": [
@@ -136,7 +136,7 @@
       "prior_median_ownership_increase_percent": 0.2045192883966399,
       "history_depth": "sparse",
       "history_quality": "acceptable",
-      "generated_at_utc": "2026-08-01T22:54:53.619586Z",
+      "generated_at_utc": "2026-08-03T04:28:49.553212Z",
       "quality": "acceptable",
       "quality_flags": "sparse_prior_history",
       "accession_number": "0001193125-26-328705",
@@ -250,7 +250,7 @@
       "prior_median_ownership_increase_percent": null,
       "history_depth": "no_history",
       "history_quality": "limited",
-      "generated_at_utc": "2026-08-01T22:54:53.619586Z",
+      "generated_at_utc": "2026-08-03T04:28:49.553212Z",
       "quality": "limited",
       "quality_flags": "no_prior_history",
       "accession_number": "0001193125-26-328705",

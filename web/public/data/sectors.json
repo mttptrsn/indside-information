@@ -1,57 +1,57 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "limitations": [],
   "sectors": [
     {
-      "sector": "Industrials",
-      "signal_count": 65,
-      "company_count": 9,
-      "buyer_count": 18,
-      "purchase_value": 878751282.239068,
-      "median_conviction": 53.8599,
-      "median_behavior_change": 43.8088,
-      "cluster_count": 65,
-      "eligible_universe_share": 0.020737
-    },
-    {
       "sector": "Technology",
-      "signal_count": 3,
-      "company_count": 3,
-      "buyer_count": 3,
-      "purchase_value": 258380.0339,
-      "median_conviction": 50.5931,
-      "median_behavior_change": 51.9566,
-      "cluster_count": 3,
-      "eligible_universe_share": 0.006912
+      "signal_count": 1,
+      "company_count": 1,
+      "buyer_count": 1,
+      "purchase_value": 101571.9239,
+      "median_conviction": 59.3538,
+      "median_behavior_change": 53.5,
+      "cluster_count": 1,
+      "eligible_universe_share": 0.003367
     },
     {
       "sector": "Healthcare",
-      "signal_count": 116,
-      "company_count": 20,
-      "buyer_count": 44,
-      "purchase_value": 287851031.4294,
-      "median_conviction": 49.3893,
-      "median_behavior_change": 43.4199,
-      "cluster_count": 116,
-      "eligible_universe_share": 0.046083
+      "signal_count": 62,
+      "company_count": 15,
+      "buyer_count": 38,
+      "purchase_value": 235272764.6604,
+      "median_conviction": 48.783,
+      "median_behavior_change": 46.65125,
+      "cluster_count": 62,
+      "eligible_universe_share": 0.050505
     },
     {
       "sector": "Financial Services",
-      "signal_count": 92,
-      "company_count": 36,
-      "buyer_count": 62,
-      "purchase_value": 49405179.1401,
-      "median_conviction": 49.0081,
-      "median_behavior_change": 46.7197,
-      "cluster_count": 92,
-      "eligible_universe_share": 0.082949
+      "signal_count": 31,
+      "company_count": 21,
+      "buyer_count": 22,
+      "purchase_value": 22296042.714,
+      "median_conviction": 41.5476,
+      "median_behavior_change": 45.2969,
+      "cluster_count": 31,
+      "eligible_universe_share": 0.070707
+    },
+    {
+      "sector": "Consumer Defensive",
+      "signal_count": 7,
+      "company_count": 5,
+      "buyer_count": 6,
+      "purchase_value": 13157635.269,
+      "median_conviction": 40.8368,
+      "median_behavior_change": 47.3571,
+      "cluster_count": 7,
+      "eligible_universe_share": 0.016835
     },
     {
       "sector": "Real Estate",
@@ -62,7 +62,7 @@
       "median_conviction": 39.2237,
       "median_behavior_change": 46.7304,
       "cluster_count": 1,
-      "eligible_universe_share": 0.002304
+      "eligible_universe_share": 0.003367
     },
     {
       "sector": "Consumer Cyclical",
@@ -73,18 +73,7 @@
       "median_conviction": 38.8589,
       "median_behavior_change": 44.5464,
       "cluster_count": 1,
-      "eligible_universe_share": 0.002304
-    },
-    {
-      "sector": "Consumer Defensive",
-      "signal_count": 16,
-      "company_count": 5,
-      "buyer_count": 6,
-      "purchase_value": 41533328.3442,
-      "median_conviction": 37.94375,
-      "median_behavior_change": 47.032,
-      "cluster_count": 16,
-      "eligible_universe_share": 0.011521
+      "eligible_universe_share": 0.003367
     },
     {
       "sector": "Communication Services",
@@ -95,40 +84,51 @@
       "median_conviction": 37.5382,
       "median_behavior_change": 46.7701,
       "cluster_count": 5,
-      "eligible_universe_share": 0.009217
+      "eligible_universe_share": 0.013468
+    },
+    {
+      "sector": "Industrials",
+      "signal_count": 36,
+      "company_count": 7,
+      "buyer_count": 13,
+      "purchase_value": 861703601.0565,
+      "median_conviction": 34.16035,
+      "median_behavior_change": 43.759,
+      "cluster_count": 36,
+      "eligible_universe_share": 0.023569
     },
     {
       "sector": "Unclassified",
-      "signal_count": 93,
-      "company_count": 27,
-      "buyer_count": 74,
-      "purchase_value": 733867007.09955,
-      "median_conviction": 33.2144,
-      "median_behavior_change": 45.2055,
-      "cluster_count": 93,
-      "eligible_universe_share": 0.062212
+      "signal_count": 54,
+      "company_count": 18,
+      "buyer_count": 47,
+      "purchase_value": 570496785.873047,
+      "median_conviction": 32.1301,
+      "median_behavior_change": 45.1459,
+      "cluster_count": 54,
+      "eligible_universe_share": 0.060606
     },
     {
       "sector": "Basic Materials",
-      "signal_count": 24,
-      "company_count": 5,
-      "buyer_count": 9,
-      "purchase_value": 1220319.5696,
-      "median_conviction": 31.6601,
-      "median_behavior_change": 45.3,
-      "cluster_count": 24,
-      "eligible_universe_share": 0.011521
+      "signal_count": 15,
+      "company_count": 3,
+      "buyer_count": 6,
+      "purchase_value": 428918.968,
+      "median_conviction": 31.7243,
+      "median_behavior_change": 45.4836,
+      "cluster_count": 15,
+      "eligible_universe_share": 0.010101
     },
     {
       "sector": "Energy",
-      "signal_count": 10,
+      "signal_count": 5,
       "company_count": 3,
       "buyer_count": 3,
-      "purchase_value": 296577.86943,
-      "median_conviction": 27.1657,
-      "median_behavior_change": 37.80505,
-      "cluster_count": 10,
-      "eligible_universe_share": 0.006912
+      "purchase_value": 294524.17943,
+      "median_conviction": 27.3424,
+      "median_behavior_change": 43.75,
+      "cluster_count": 5,
+      "eligible_universe_share": 0.010101
     }
   ]
 }

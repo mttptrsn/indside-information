@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "INTZ",
   "yf_ticker": "INTZ",
@@ -24,14 +24,14 @@
     },
     {
       "date": "2023-08-01",
-      "close": 20.39999961853028,
-      "adjusted_close": 20.39999961853028,
+      "close": 20.399999618530277,
+      "adjusted_close": 20.399999618530277,
       "volume": 20940
     },
     {
       "date": "2023-08-04",
-      "close": 20.39999961853028,
-      "adjusted_close": 20.39999961853028,
+      "close": 20.399999618530277,
+      "adjusted_close": 20.399999618530277,
       "volume": 4310
     },
     {
@@ -1044,8 +1044,8 @@
     },
     {
       "date": "2025-08-13",
-      "close": 1.820000052452088,
-      "adjusted_close": 1.820000052452088,
+      "close": 1.8200000524520876,
+      "adjusted_close": 1.8200000524520876,
       "volume": 747100
     },
     {
@@ -1152,8 +1152,8 @@
     },
     {
       "date": "2025-10-29",
-      "close": 1.820000052452088,
-      "adjusted_close": 1.820000052452088,
+      "close": 1.8200000524520876,
+      "adjusted_close": 1.8200000524520876,
       "volume": 100500
     },
     {

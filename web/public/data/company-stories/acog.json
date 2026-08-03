@@ -1,16 +1,16 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "ACOG",
   "yf_ticker": "ACOG",
   "issuer_cik": 1655923,
-  "company_name": "Alpha Cognition Inc.",
+  "company_name": "Alpha Cognition Inc. Common Stock",
   "sector": "Healthcare",
   "industry": "Biotechnology",
   "price_available": true,
@@ -1283,12 +1283,6 @@
       "volume": 112700
     },
     {
-      "date": "2026-07-22",
-      "close": 7.900000095367432,
-      "adjusted_close": 7.900000095367432,
-      "volume": 233900
-    },
-    {
       "date": "2026-07-23",
       "close": 8.229999542236328,
       "adjusted_close": 8.229999542236328,
@@ -1321,40 +1315,6 @@
   ],
   "purchase_markers": [
     {
-      "event_id": "d5a8dfd9eea653cbc1da96d3",
-      "transaction_date": "2026-07-22",
-      "price_date": "2026-07-22",
-      "market_price": 7.900000095367432,
-      "reported_purchase_price": 7.8337,
-      "purchase_value": 1176911.5869,
-      "shares": 150237.0,
-      "owner_cik": 1595855,
-      "owner_name": null,
-      "roles": "ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 5.3749999552789935,
-      "conviction_score": 27.4875,
-      "behavior_change_score": 44.825,
-      "headline": null
-    },
-    {
-      "event_id": "c239028d31bf1eb50df37c02",
-      "transaction_date": "2026-07-23",
-      "price_date": "2026-07-23",
-      "market_price": 8.229999542236328,
-      "reported_purchase_price": 7.7953,
-      "purchase_value": 388587.9097,
-      "shares": 49849.0,
-      "owner_cik": 1595855,
-      "owner_name": null,
-      "roles": "ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 1.6924678407683449,
-      "conviction_score": 16.4435,
-      "behavior_change_score": 18.7424,
-      "headline": null
-    },
-    {
       "event_id": "3b4be6256229c51a982caf4b",
       "transaction_date": "2026-07-24",
       "price_date": "2026-07-24",
@@ -1367,17 +1327,17 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.0043402879213459,
-      "conviction_score": 10.1073,
-      "behavior_change_score": 17.5796,
+      "conviction_score": 19.2672,
+      "behavior_change_score": 43.7509,
       "headline": null
     }
   ],
   "summary": {
     "price_date": "2026-07-31",
     "current_price": 8.28,
-    "average_reported_purchase_price": 7.824182,
-    "percent_vs_average_purchase_price": 5.825751,
-    "first_purchase_date": "2026-07-22",
+    "average_reported_purchase_price": 7.9,
+    "percent_vs_average_purchase_price": 4.810123,
+    "first_purchase_date": "2026-07-24",
     "latest_purchase_date": "2026-07-24",
     "return_since_first_purchase": 4.810122,
     "return_since_latest_purchase": 4.810122,
@@ -1389,14 +1349,14 @@
     "volatility_percentile": 3.084833,
     "trend": "advancing",
     "buyers": 1,
-    "purchase_days": 3,
-    "purchase_events": 3,
-    "total_reported_purchase_value": 1566526.4966
+    "purchase_days": 1,
+    "purchase_events": 1,
+    "total_reported_purchase_value": 1027.0
   },
   "quality": {
     "price_rows_available": 429,
-    "price_points_exported": 217,
-    "purchase_markers_exported": 3,
+    "price_points_exported": 216,
+    "purchase_markers_exported": 1,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",
     "price_quality": null

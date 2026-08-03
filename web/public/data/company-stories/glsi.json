@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-02T03:02:41.255463Z",
-  "as_of_date": "2026-07-31",
+  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "as_of_date": "2026-08-03",
   "freshness": {
     "latest_sec_filing_date": "2026-07-31",
-    "latest_price_date": "",
-    "exported_at_utc": "2026-08-02T03:02:41.255463Z"
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
   },
   "ticker": "GLSI",
   "yf_ticker": "GLSI",
@@ -1434,8 +1434,8 @@
     },
     {
       "date": "2026-05-22",
-      "close": 27.64999961853028,
-      "adjusted_close": 27.64999961853028,
+      "close": 27.649999618530277,
+      "adjusted_close": 27.649999618530277,
       "volume": 77000
     },
     {
@@ -1476,8 +1476,8 @@
     },
     {
       "date": "2026-06-24",
-      "close": 21.52499961853028,
-      "adjusted_close": 21.52499961853028,
+      "close": 21.524999618530277,
+      "adjusted_close": 21.524999618530277,
       "volume": 135600
     },
     {
@@ -1527,12 +1527,6 @@
       "close": 12.979999542236328,
       "adjusted_close": 12.979999542236328,
       "volume": 113800
-    },
-    {
-      "date": "2026-07-27",
-      "close": 13.4399995803833,
-      "adjusted_close": 13.4399995803833,
-      "volume": 132600
     },
     {
       "date": "2026-07-28",
@@ -1589,23 +1583,6 @@
       "headline": null
     },
     {
-      "event_id": "67de3d161b562d65a6738590",
-      "transaction_date": "2026-07-27",
-      "price_date": "2026-07-27",
-      "market_price": 13.4399995803833,
-      "reported_purchase_price": 13.62,
-      "purchase_value": 20430.0,
-      "shares": 1500.0,
-      "owner_cik": 1806920,
-      "owner_name": null,
-      "roles": "ceo|cfo|director|operating_executive|ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.0267489249607058,
-      "conviction_score": 49.1179,
-      "behavior_change_score": 36.6149,
-      "headline": null
-    },
-    {
       "event_id": "9a1f10c92003b1f21931dd3f",
       "transaction_date": "2026-07-28",
       "price_date": "2026-07-28",
@@ -1618,8 +1595,8 @@
       "roles": "ceo|cfo|director|operating_executive|ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.0267417718242274,
-      "conviction_score": 52.558,
-      "behavior_change_score": 35.021,
+      "conviction_score": 50.1665,
+      "behavior_change_score": 39.6166,
       "headline": null
     },
     {
@@ -1635,16 +1612,16 @@
       "roles": "ceo|cfo|director|operating_executive|ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.0124761571724892,
-      "conviction_score": 49.5029,
-      "behavior_change_score": 28.426,
+      "conviction_score": 49.3392,
+      "behavior_change_score": 27.9584,
       "headline": null
     }
   ],
   "summary": {
     "price_date": "2026-07-31",
     "current_price": 13.5,
-    "average_reported_purchase_price": 13.288082,
-    "percent_vs_average_purchase_price": 1.594796,
+    "average_reported_purchase_price": 13.202241,
+    "percent_vs_average_purchase_price": 2.255364,
     "first_purchase_date": "2026-07-23",
     "latest_purchase_date": "2026-07-29",
     "return_since_first_purchase": 2.350269,
@@ -1657,14 +1634,14 @@
     "volatility_percentile": 79.888268,
     "trend": "falling",
     "buyers": 1,
-    "purchase_days": 5,
-    "purchase_events": 5,
-    "total_reported_purchase_value": 97003.0
+    "purchase_days": 4,
+    "purchase_events": 4,
+    "total_reported_purchase_value": 76573.0
   },
   "quality": {
     "price_rows_available": 756,
-    "price_points_exported": 256,
-    "purchase_markers_exported": 5,
+    "price_points_exported": 255,
+    "purchase_markers_exported": 4,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",
     "price_quality": null
