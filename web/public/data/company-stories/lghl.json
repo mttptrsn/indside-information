@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
   "as_of_date": "2026-08-03",
   "freshness": {
-    "latest_sec_filing_date": "2026-07-31",
+    "latest_sec_filing_date": "2026-08-03",
     "latest_price_date": "2026-08-03",
-    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
   },
   "ticker": "LGHL",
   "yf_ticker": "LGHL",
@@ -1532,7 +1532,7 @@
       "date": "2026-07-31",
       "close": 0.9240000247955322,
       "adjusted_close": 0.9240000247955322,
-      "volume": 643500
+      "volume": 664600
     }
   ],
   "purchase_markers": [
@@ -1552,17 +1552,34 @@
       "conviction_score": 46.6883,
       "behavior_change_score": 53.75,
       "headline": null
+    },
+    {
+      "event_id": "4157b9c0ce5daa69493ce521",
+      "transaction_date": "2026-07-31",
+      "price_date": "2026-07-31",
+      "market_price": 0.9240000247955322,
+      "reported_purchase_price": 0.943,
+      "purchase_value": 32396.765,
+      "shares": 34355.0,
+      "owner_cik": 1475597,
+      "owner_name": null,
+      "roles": "ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 85.13195390905712,
+      "conviction_score": 47.0724,
+      "behavior_change_score": 54.3059,
+      "headline": null
     }
   ],
   "summary": {
     "price_date": "2026-07-31",
     "current_price": 0.924,
-    "average_reported_purchase_price": 0.954,
-    "percent_vs_average_purchase_price": -3.144651,
+    "average_reported_purchase_price": 0.94791,
+    "percent_vs_average_purchase_price": -2.522425,
     "first_purchase_date": "2026-07-24",
-    "latest_purchase_date": "2026-07-24",
+    "latest_purchase_date": "2026-07-31",
     "return_since_first_purchase": 1.427005,
-    "return_since_latest_purchase": 1.427005,
+    "return_since_latest_purchase": 0.0,
     "drawdown_from_52_week_high": -99.690297,
     "drawdown_from_3_year_high": -99.996574,
     "distance_from_200_day_average": -96.613622,
@@ -1571,14 +1588,14 @@
     "volatility_percentile": 89.944134,
     "trend": "falling",
     "buyers": 1,
-    "purchase_days": 1,
-    "purchase_events": 1,
-    "total_reported_purchase_value": 26427.708
+    "purchase_days": 2,
+    "purchase_events": 2,
+    "total_reported_purchase_value": 58824.473
   },
   "quality": {
     "price_rows_available": 756,
     "price_points_exported": 253,
-    "purchase_markers_exported": 1,
+    "purchase_markers_exported": 2,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",
     "price_quality": null

@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
   "as_of_date": "2026-08-03",
   "freshness": {
-    "latest_sec_filing_date": "2026-07-31",
+    "latest_sec_filing_date": "2026-08-03",
     "latest_price_date": "2026-08-03",
-    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
   },
   "limitations": [
     "Insider purchases are research evidence, not a prediction or recommendation.",
@@ -13,149 +13,147 @@
     "Price and company metadata use yfinance and may be incomplete or revised."
   ],
   "counts": {
-    "normalized_transactions": 3833,
-    "qualifying_purchases": 296,
-    "purchase_events": 218,
-    "event_signals": 218,
-    "company_signals": 79,
-    "companies": 617,
-    "eligible_companies": 297,
+    "normalized_transactions": 4879,
+    "qualifying_purchases": 363,
+    "purchase_events": 261,
+    "event_signals": 261,
+    "company_signals": 96,
+    "companies": 783,
+    "eligible_companies": 409,
     "exceptional_signals": 0,
-    "cluster_signals": 218
+    "cluster_signals": 261
   },
   "market_pulse": {
-    "median_behavior_change": 44.88825,
-    "median_conviction": 38.59905,
-    "total_reported_purchase_value": 1707186114.629277,
-    "active_company_count": 79
+    "median_behavior_change": 45.1459,
+    "median_conviction": 38.1502,
+    "total_reported_purchase_value": 1715751540.228131,
+    "active_company_count": 96
   },
   "featured_discoveries": [
     {
       "rank": 1,
       "category": "under_the_radar",
-      "ticker": "SCTX",
-      "issuer_cik": 1853921,
+      "ticker": "NXTC",
+      "issuer_cik": 1661059,
       "company_name": null,
-      "headline": "First recorded open-market purchase by director",
-      "purchase_value": 15000000.0,
-      "purchase_multiple": null,
-      "ownership_increase_percent": 286.67670035117897,
-      "buyer_count": 13,
+      "headline": "Insider purchase was 45.6× larger than prior median",
+      "purchase_value": 1444745.96,
+      "purchase_multiple": 45.60804029618555,
+      "ownership_increase_percent": 74.46613742352504,
+      "buyer_count": 2,
       "operating_executive_count": 0,
-      "behavior_change_score": 54.5,
-      "conviction_score": 67.175,
-      "abnormality_score": 60.0,
-      "silence_break_score": 70.0,
-      "cluster_score": 100.0,
+      "behavior_change_score": 78.3111,
+      "conviction_score": 57.6084,
+      "abnormality_score": 100.0,
+      "silence_break_score": 25.03287671232877,
+      "cluster_score": 50.0,
       "market_cap": 0.0,
       "sector": null,
       "industry": null,
-      "transaction_date": "2026-07-27T00:00:00",
-      "filing_date": 20260729,
-      "quality": "limited",
+      "transaction_date": "2026-07-30T00:00:00",
+      "filing_date": 20260803,
+      "quality": "high",
       "discovery_eligible": null,
       "reason_codes": [
         "indirect_only",
-        "sparse_history"
+        "microcap_or_illiquid"
       ],
       "source_accession_numbers": [
-        "0000947871-26-000734"
+        "0001940272-26-000013"
       ]
     },
     {
       "rank": 2,
       "category": "under_the_radar",
-      "ticker": "SCTX",
-      "issuer_cik": 1853921,
+      "ticker": "NXTC",
+      "issuer_cik": 1661059,
       "company_name": null,
-      "headline": "First recorded open-market purchase by director",
-      "purchase_value": 36115495.0,
-      "purchase_multiple": null,
-      "ownership_increase_percent": 341.6230201390382,
-      "buyer_count": 4,
+      "headline": "Insider purchase was 45.6× larger than prior median",
+      "purchase_value": 1444745.96,
+      "purchase_multiple": 45.60804029618555,
+      "ownership_increase_percent": 74.46613742352504,
+      "buyer_count": 2,
       "operating_executive_count": 0,
-      "behavior_change_score": 54.5,
-      "conviction_score": 67.175,
-      "abnormality_score": 60.0,
-      "silence_break_score": 70.0,
-      "cluster_score": 100.0,
+      "behavior_change_score": 78.3111,
+      "conviction_score": 57.6084,
+      "abnormality_score": 100.0,
+      "silence_break_score": 25.03287671232877,
+      "cluster_score": 50.0,
       "market_cap": 0.0,
       "sector": null,
       "industry": null,
-      "transaction_date": "2026-07-24T00:00:00",
-      "filing_date": 20260728,
-      "quality": "limited",
+      "transaction_date": "2026-07-30T00:00:00",
+      "filing_date": 20260803,
+      "quality": "high",
       "discovery_eligible": null,
       "reason_codes": [
         "indirect_only",
-        "sparse_history"
+        "microcap_or_illiquid"
       ],
       "source_accession_numbers": [
-        "0000902664-26-003270"
+        "0001940272-26-000013"
       ]
     },
     {
       "rank": 3,
       "category": "under_the_radar",
-      "ticker": "SCTX",
-      "issuer_cik": 1853921,
+      "ticker": "PRQR",
+      "issuer_cik": 1612940,
       "company_name": null,
-      "headline": "First recorded open-market purchase by director",
-      "purchase_value": 36115495.0,
+      "headline": "First recorded open-market purchase by ceo",
+      "purchase_value": 353960.0,
       "purchase_multiple": null,
-      "ownership_increase_percent": 341.6230201390382,
-      "buyer_count": 4,
-      "operating_executive_count": 0,
-      "behavior_change_score": 54.5,
-      "conviction_score": 67.175,
+      "ownership_increase_percent": 66.66666666666666,
+      "buyer_count": 1,
+      "operating_executive_count": 1,
+      "behavior_change_score": 56.6,
+      "conviction_score": 68.6606,
       "abnormality_score": 60.0,
       "silence_break_score": 70.0,
-      "cluster_score": 100.0,
+      "cluster_score": 40.0,
       "market_cap": 0.0,
       "sector": null,
       "industry": null,
-      "transaction_date": "2026-07-24T00:00:00",
-      "filing_date": 20260728,
+      "transaction_date": "2026-07-31T00:00:00",
+      "filing_date": 20260803,
       "quality": "limited",
       "discovery_eligible": null,
       "reason_codes": [
-        "indirect_only",
         "sparse_history"
       ],
       "source_accession_numbers": [
-        "0000902664-26-003270"
+        "0001104659-26-089780"
       ]
     },
     {
       "rank": 4,
       "category": "under_the_radar",
-      "ticker": "SCTX",
-      "issuer_cik": 1853921,
+      "ticker": "DCX",
+      "issuer_cik": 1957413,
       "company_name": null,
-      "headline": "First recorded open-market purchase by director",
-      "purchase_value": 15000000.0,
+      "headline": "First recorded open-market purchase by ceo",
+      "purchase_value": 51250.0,
       "purchase_multiple": null,
-      "ownership_increase_percent": 286.67670035117897,
-      "buyer_count": 13,
-      "operating_executive_count": 0,
-      "behavior_change_score": 54.5,
-      "conviction_score": 67.175,
+      "ownership_increase_percent": 100.0,
+      "buyer_count": 1,
+      "operating_executive_count": 1,
+      "behavior_change_score": 56.6,
+      "conviction_score": 66.8622,
       "abnormality_score": 60.0,
       "silence_break_score": 70.0,
-      "cluster_score": 100.0,
+      "cluster_score": 40.0,
       "market_cap": 0.0,
       "sector": null,
       "industry": null,
-      "transaction_date": "2026-07-27T00:00:00",
-      "filing_date": 20260729,
+      "transaction_date": "2026-07-30T00:00:00",
+      "filing_date": 20260803,
       "quality": "limited",
       "discovery_eligible": null,
       "reason_codes": [
-        "indirect_only",
         "sparse_history"
       ],
       "source_accession_numbers": [
-        "0000947871-26-000733"
+        "0001493152-26-035804"
       ]
     },
     {
@@ -187,7 +185,7 @@
         "sparse_history"
       ],
       "source_accession_numbers": [
-        "0000947871-26-000733"
+        "0000947871-26-000734"
       ]
     },
     {
@@ -225,174 +223,145 @@
     {
       "rank": 7,
       "category": "under_the_radar",
-      "ticker": "XAIR",
-      "issuer_cik": 1641631,
+      "ticker": "SCTX",
+      "issuer_cik": 1853921,
       "company_name": null,
-      "headline": "First recorded open-market purchase by ceo",
-      "purchase_value": 199998.72,
+      "headline": "First recorded open-market purchase by director",
+      "purchase_value": 36115495.0,
       "purchase_multiple": null,
-      "ownership_increase_percent": 34722.0,
-      "buyer_count": 2,
-      "operating_executive_count": 2,
-      "behavior_change_score": 56.6,
-      "conviction_score": 61.8293,
+      "ownership_increase_percent": 341.6230201390382,
+      "buyer_count": 4,
+      "operating_executive_count": 0,
+      "behavior_change_score": 54.5,
+      "conviction_score": 67.175,
       "abnormality_score": 60.0,
       "silence_break_score": 70.0,
-      "cluster_score": 80.0,
+      "cluster_score": 100.0,
       "market_cap": 0.0,
       "sector": null,
       "industry": null,
-      "transaction_date": "2026-07-29T00:00:00",
-      "filing_date": 20260731,
+      "transaction_date": "2026-07-24T00:00:00",
+      "filing_date": 20260728,
       "quality": "limited",
       "discovery_eligible": null,
       "reason_codes": [
-        "microcap_or_illiquid",
+        "indirect_only",
         "sparse_history"
       ],
       "source_accession_numbers": [
-        "0001493152-26-035702"
+        "0000902664-26-003270"
       ]
     },
     {
       "rank": 8,
       "category": "under_the_radar",
-      "ticker": "LBRT",
-      "issuer_cik": 1694028,
+      "ticker": "SCTX",
+      "issuer_cik": 1853921,
       "company_name": null,
       "headline": "First recorded open-market purchase by director",
-      "purchase_value": 250008.50943,
+      "purchase_value": 15000000.0,
       "purchase_multiple": null,
-      "ownership_increase_percent": 50.97773437249196,
-      "buyer_count": 1,
+      "ownership_increase_percent": 286.67670035117897,
+      "buyer_count": 13,
       "operating_executive_count": 0,
       "behavior_change_score": 54.5,
-      "conviction_score": 62.142,
+      "conviction_score": 67.175,
       "abnormality_score": 60.0,
       "silence_break_score": 70.0,
-      "cluster_score": 25.0,
+      "cluster_score": 100.0,
       "market_cap": 0.0,
       "sector": null,
       "industry": null,
-      "transaction_date": "2026-07-28T00:00:00",
-      "filing_date": 20260730,
+      "transaction_date": "2026-07-27T00:00:00",
+      "filing_date": 20260729,
       "quality": "limited",
       "discovery_eligible": null,
       "reason_codes": [
+        "indirect_only",
         "sparse_history"
       ],
       "source_accession_numbers": [
-        "0001628280-26-051130"
+        "0000947871-26-000733"
       ]
     },
     {
       "rank": 9,
       "category": "under_the_radar",
-      "ticker": "ACI",
-      "issuer_cik": 1646972,
+      "ticker": "SCTX",
+      "issuer_cik": 1853921,
       "company_name": null,
-      "headline": "First recorded open-market purchase by insider",
-      "purchase_value": 1962284.5,
+      "headline": "First recorded open-market purchase by director",
+      "purchase_value": 15000000.0,
       "purchase_multiple": null,
-      "ownership_increase_percent": 123.15270935960592,
-      "buyer_count": 1,
+      "ownership_increase_percent": 286.67670035117897,
+      "buyer_count": 13,
       "operating_executive_count": 0,
-      "behavior_change_score": 53.5,
-      "conviction_score": 62.1095,
+      "behavior_change_score": 54.5,
+      "conviction_score": 67.175,
       "abnormality_score": 60.0,
       "silence_break_score": 70.0,
-      "cluster_score": 25.0,
+      "cluster_score": 100.0,
       "market_cap": 0.0,
       "sector": null,
       "industry": null,
       "transaction_date": "2026-07-27T00:00:00",
-      "filing_date": 20260728,
+      "filing_date": 20260729,
       "quality": "limited",
       "discovery_eligible": null,
       "reason_codes": [
+        "indirect_only",
         "sparse_history"
       ],
       "source_accession_numbers": [
-        "0001628280-26-050285"
+        "0000947871-26-000733"
       ]
     },
     {
       "rank": 10,
       "category": "under_the_radar",
-      "ticker": "EQBK",
-      "issuer_cik": 1227500,
+      "ticker": "SCTX",
+      "issuer_cik": 1853921,
       "company_name": null,
       "headline": "First recorded open-market purchase by director",
-      "purchase_value": 50429.416,
+      "purchase_value": 36115495.0,
       "purchase_multiple": null,
-      "ownership_increase_percent": 89.68268359020854,
-      "buyer_count": 1,
+      "ownership_increase_percent": 341.6230201390382,
+      "buyer_count": 4,
       "operating_executive_count": 0,
       "behavior_change_score": 54.5,
-      "conviction_score": 60.6522,
+      "conviction_score": 67.175,
       "abnormality_score": 60.0,
       "silence_break_score": 70.0,
-      "cluster_score": 25.0,
+      "cluster_score": 100.0,
       "market_cap": 0.0,
       "sector": null,
       "industry": null,
-      "transaction_date": "2026-07-28T00:00:00",
-      "filing_date": 20260729,
+      "transaction_date": "2026-07-24T00:00:00",
+      "filing_date": 20260728,
       "quality": "limited",
       "discovery_eligible": null,
       "reason_codes": [
+        "indirect_only",
         "sparse_history"
       ],
       "source_accession_numbers": [
-        "0002133572-26-000004"
+        "0000902664-26-003270"
       ]
     },
     {
       "rank": 11,
       "category": "under_the_radar",
-      "ticker": "XAIR",
-      "issuer_cik": 1641631,
+      "ticker": "HNVR",
+      "issuer_cik": 1828588,
       "company_name": null,
-      "headline": "First recorded open-market purchase by cfo",
-      "purchase_value": 24998.4,
+      "headline": "First recorded open-market purchase by president",
+      "purchase_value": 268800.0,
       "purchase_multiple": null,
-      "ownership_increase_percent": 100.0,
-      "buyer_count": 2,
-      "operating_executive_count": 2,
-      "behavior_change_score": 56.2,
-      "conviction_score": 59.1141,
-      "abnormality_score": 60.0,
-      "silence_break_score": 70.0,
-      "cluster_score": 80.0,
-      "market_cap": 0.0,
-      "sector": null,
-      "industry": null,
-      "transaction_date": "2026-07-29T00:00:00",
-      "filing_date": 20260731,
-      "quality": "limited",
-      "discovery_eligible": null,
-      "reason_codes": [
-        "microcap_or_illiquid",
-        "sparse_history"
-      ],
-      "source_accession_numbers": [
-        "0001493152-26-035700"
-      ]
-    },
-    {
-      "rank": 12,
-      "category": "under_the_radar",
-      "ticker": "BMI",
-      "issuer_cik": 9092,
-      "company_name": null,
-      "headline": "First recorded open-market purchase by insider",
-      "purchase_value": 101571.9239,
-      "purchase_multiple": null,
-      "ownership_increase_percent": 63.322091062394605,
+      "ownership_increase_percent": 434.7826086956521,
       "buyer_count": 1,
-      "operating_executive_count": 0,
-      "behavior_change_score": 53.5,
-      "conviction_score": 59.3538,
+      "operating_executive_count": 1,
+      "behavior_change_score": 55.8,
+      "conviction_score": 64.7445,
       "abnormality_score": 60.0,
       "silence_break_score": 70.0,
       "cluster_score": 25.0,
@@ -400,20 +369,51 @@
       "sector": null,
       "industry": null,
       "transaction_date": "2026-07-30T00:00:00",
-      "filing_date": 20260731,
+      "filing_date": 20260803,
       "quality": "limited",
       "discovery_eligible": null,
       "reason_codes": [
         "sparse_history"
       ],
       "source_accession_numbers": [
-        "0001193125-26-328240"
+        "0001225208-26-006898"
+      ]
+    },
+    {
+      "rank": 12,
+      "category": "under_the_radar",
+      "ticker": "HOG",
+      "issuer_cik": 793952,
+      "company_name": null,
+      "headline": "First recorded open-market purchase by director",
+      "purchase_value": 982700.0,
+      "purchase_multiple": null,
+      "ownership_increase_percent": 525.9697567389875,
+      "buyer_count": 1,
+      "operating_executive_count": 0,
+      "behavior_change_score": 54.5,
+      "conviction_score": 63.4159,
+      "abnormality_score": 60.0,
+      "silence_break_score": 70.0,
+      "cluster_score": 25.0,
+      "market_cap": 0.0,
+      "sector": null,
+      "industry": null,
+      "transaction_date": "2026-07-31T00:00:00",
+      "filing_date": 20260803,
+      "quality": "limited",
+      "discovery_eligible": null,
+      "reason_codes": [
+        "sparse_history"
+      ],
+      "source_accession_numbers": [
+        "0001027730-26-000004"
       ]
     }
   ],
   "quality_summary": {
-    "acceptable": 2580,
-    "high": 1921,
-    "limited": 167
+    "acceptable": 3301,
+    "high": 2436,
+    "limited": 186
   }
 }

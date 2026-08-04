@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
   "as_of_date": "2026-08-03",
   "freshness": {
-    "latest_sec_filing_date": "2026-07-31",
+    "latest_sec_filing_date": "2026-08-03",
     "latest_price_date": "2026-08-03",
-    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
   },
   "ticker": "ASPSW",
   "yf_ticker": "ASPSW",
@@ -40,15 +40,49 @@
       "conviction_score": 37.2194,
       "behavior_change_score": 56.6,
       "headline": null
+    },
+    {
+      "event_id": "0a1b539645109bcc28a69554",
+      "transaction_date": "2026-07-29",
+      "price_date": "2026-07-17",
+      "market_price": 0.3899999856948852,
+      "reported_purchase_price": 5.1,
+      "purchase_value": 3575.1,
+      "shares": 701.0,
+      "owner_cik": 1785467,
+      "owner_name": null,
+      "roles": "director",
+      "direct_indirect": null,
+      "ownership_increase_percent": 1.8308608441287089,
+      "conviction_score": 28.9568,
+      "behavior_change_score": 44.8662,
+      "headline": null
+    },
+    {
+      "event_id": "8202b26348e8ade2662fe900",
+      "transaction_date": "2026-07-30",
+      "price_date": "2026-07-17",
+      "market_price": 0.3899999856948852,
+      "reported_purchase_price": 5.045,
+      "purchase_value": 5045.0,
+      "shares": 1000.0,
+      "owner_cik": 1785467,
+      "owner_name": null,
+      "roles": "director",
+      "direct_indirect": null,
+      "ownership_increase_percent": 2.5648259765574903,
+      "conviction_score": 29.9109,
+      "behavior_change_score": 46.1733,
+      "headline": null
     }
   ],
   "summary": {
     "price_date": "2026-07-17",
     "current_price": 0.39,
-    "average_reported_purchase_price": 5.18,
-    "percent_vs_average_purchase_price": -92.471043,
+    "average_reported_purchase_price": 5.146483,
+    "percent_vs_average_purchase_price": -92.42201,
     "first_purchase_date": "2026-07-28",
-    "latest_purchase_date": "2026-07-28",
+    "latest_purchase_date": "2026-07-30",
     "return_since_first_purchase": 0.0,
     "return_since_latest_purchase": 0.0,
     "drawdown_from_52_week_high": 0.0,
@@ -58,15 +92,15 @@
     "realized_volatility_63d": null,
     "volatility_percentile": null,
     "trend": "insufficient_history",
-    "buyers": 1,
-    "purchase_days": 1,
-    "purchase_events": 1,
-    "total_reported_purchase_value": 20720.0
+    "buyers": 2,
+    "purchase_days": 3,
+    "purchase_events": 3,
+    "total_reported_purchase_value": 29340.1
   },
   "quality": {
     "price_rows_available": 1,
     "price_points_exported": 1,
-    "purchase_markers_exported": 1,
+    "purchase_markers_exported": 3,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",
     "price_quality": null

@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
   "as_of_date": "2026-08-03",
   "freshness": {
-    "latest_sec_filing_date": "2026-07-31",
+    "latest_sec_filing_date": "2026-08-03",
     "latest_price_date": "2026-08-03",
-    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
   },
   "ticker": "GL-PD",
   "yf_ticker": "GL-PD",
@@ -17,16 +17,16 @@
   "price_unavailable_reason": "",
   "price_path": [
     {
-      "date": "2026-07-31",
-      "close": 15.43000030517578,
-      "adjusted_close": 15.43000030517578,
-      "volume": 13863
+      "date": "2026-08-03",
+      "close": 15.420000076293944,
+      "adjusted_close": 15.420000076293944,
+      "volume": 11544
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-07-31",
-    "current_price": 15.43,
+    "price_date": "2026-08-03",
+    "current_price": 15.42,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,

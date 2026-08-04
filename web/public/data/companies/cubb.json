@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
   "as_of_date": "2026-08-03",
   "freshness": {
-    "latest_sec_filing_date": "2026-07-31",
+    "latest_sec_filing_date": "2026-08-03",
     "latest_price_date": "2026-08-03",
-    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
   },
   "limitations": [
     "Company metadata and prices may be missing for inactive or unsupported symbols.",
@@ -20,14 +20,14 @@
     "yf_ticker": "CUBB",
     "is_active": true,
     "mapping_quality": "exact_cik",
-    "generated_at_utc": "2026-08-03T04:23:45.976357Z",
+    "generated_at_utc": "2026-08-04T07:51:02.467674Z",
     "quality": "high",
     "quality_flags": "filing_ticker_differs_from_sec_reference",
     "source_type": "sec_xml",
     "source_path": "data/raw/sec/filings/0001222371/0001222371-26-000009/filing.xml",
     "source_accession": "0001222371-26-000009",
     "parser_version": "v1",
-    "normalized_at_utc": "2026-08-03T04:23:45.976357Z",
+    "normalized_at_utc": "2026-08-04T07:51:02.467674Z",
     "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0001222371-26-000009\", \"source_path\": \"data/raw/sec/filings/0001222371/0001222371-26-000009/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}",
     "ticker": "CUBB",
     "company_name": "Customers Bancorp, Inc 5.375% S",
@@ -35,10 +35,10 @@
     "sector": null,
     "industry": null,
     "quote_type": "EQUITY",
-    "metadata_fetched_at_utc": "2026-08-03T04:27:40.323378Z",
+    "metadata_fetched_at_utc": "2026-08-04T07:55:49.987831Z",
     "metadata_quality": "high",
-    "latest_price": 22.440000534057617,
-    "average_dollar_volume_63d": 34287.314060756136,
+    "latest_price": null,
+    "average_dollar_volume_63d": 34766.625576634564,
     "discovery_eligible": false,
     "eligibility_reasons": "missing_market_cap|insufficient_liquidity"
   },

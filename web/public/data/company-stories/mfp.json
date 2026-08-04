@@ -1,0 +1,205 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
+  "as_of_date": "2026-08-03",
+  "freshness": {
+    "latest_sec_filing_date": "2026-08-03",
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
+  },
+  "ticker": "MFP",
+  "yf_ticker": "MFP",
+  "issuer_cik": 2088281,
+  "company_name": "Midera Food Processing, Inc.",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "price_available": true,
+  "price_unavailable_reason": "",
+  "price_path": [
+    {
+      "date": "2026-06-26",
+      "close": 110.5,
+      "adjusted_close": 110.5,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-29",
+      "close": 35.0,
+      "adjusted_close": 35.0,
+      "volume": 82100
+    },
+    {
+      "date": "2026-06-30",
+      "close": 40.0,
+      "adjusted_close": 40.0,
+      "volume": 29400
+    },
+    {
+      "date": "2026-07-01",
+      "close": 38.97999954223633,
+      "adjusted_close": 38.97999954223633,
+      "volume": 112300
+    },
+    {
+      "date": "2026-07-02",
+      "close": 36.0099983215332,
+      "adjusted_close": 36.0099983215332,
+      "volume": 187700
+    },
+    {
+      "date": "2026-07-06",
+      "close": 35.04999923706055,
+      "adjusted_close": 35.04999923706055,
+      "volume": 100400
+    },
+    {
+      "date": "2026-07-07",
+      "close": 36.59999847412109,
+      "adjusted_close": 36.59999847412109,
+      "volume": 8306000
+    },
+    {
+      "date": "2026-07-08",
+      "close": 39.0,
+      "adjusted_close": 39.0,
+      "volume": 1977400
+    },
+    {
+      "date": "2026-07-09",
+      "close": 44.0,
+      "adjusted_close": 44.0,
+      "volume": 2138800
+    },
+    {
+      "date": "2026-07-10",
+      "close": 41.43999862670898,
+      "adjusted_close": 41.43999862670898,
+      "volume": 1914500
+    },
+    {
+      "date": "2026-07-13",
+      "close": 42.59999847412109,
+      "adjusted_close": 42.59999847412109,
+      "volume": 1363900
+    },
+    {
+      "date": "2026-07-14",
+      "close": 43.5,
+      "adjusted_close": 43.5,
+      "volume": 1481000
+    },
+    {
+      "date": "2026-07-15",
+      "close": 43.470001220703125,
+      "adjusted_close": 43.470001220703125,
+      "volume": 1042500
+    },
+    {
+      "date": "2026-07-16",
+      "close": 44.68000030517578,
+      "adjusted_close": 44.68000030517578,
+      "volume": 893500
+    },
+    {
+      "date": "2026-07-17",
+      "close": 41.869998931884766,
+      "adjusted_close": 41.869998931884766,
+      "volume": 1109100
+    },
+    {
+      "date": "2026-07-20",
+      "close": 43.41999816894531,
+      "adjusted_close": 43.41999816894531,
+      "volume": 846700
+    },
+    {
+      "date": "2026-07-21",
+      "close": 45.84000015258789,
+      "adjusted_close": 45.84000015258789,
+      "volume": 1087200
+    },
+    {
+      "date": "2026-07-22",
+      "close": 44.68000030517578,
+      "adjusted_close": 44.68000030517578,
+      "volume": 1065000
+    },
+    {
+      "date": "2026-07-23",
+      "close": 47.75,
+      "adjusted_close": 47.75,
+      "volume": 995100
+    },
+    {
+      "date": "2026-07-24",
+      "close": 47.20000076293945,
+      "adjusted_close": 47.20000076293945,
+      "volume": 1230000
+    },
+    {
+      "date": "2026-07-27",
+      "close": 47.75,
+      "adjusted_close": 47.75,
+      "volume": 754200
+    },
+    {
+      "date": "2026-07-28",
+      "close": 46.58000183105469,
+      "adjusted_close": 46.58000183105469,
+      "volume": 1237900
+    },
+    {
+      "date": "2026-07-29",
+      "close": 46.61000061035156,
+      "adjusted_close": 46.61000061035156,
+      "volume": 788400
+    },
+    {
+      "date": "2026-07-30",
+      "close": 48.13999938964844,
+      "adjusted_close": 48.13999938964844,
+      "volume": 1162000
+    },
+    {
+      "date": "2026-07-31",
+      "close": 47.95000076293945,
+      "adjusted_close": 47.95000076293945,
+      "volume": 918200
+    }
+  ],
+  "purchase_markers": [],
+  "summary": {
+    "price_date": "2026-07-31",
+    "current_price": 47.950001,
+    "average_reported_purchase_price": null,
+    "percent_vs_average_purchase_price": null,
+    "first_purchase_date": null,
+    "latest_purchase_date": null,
+    "return_since_first_purchase": null,
+    "return_since_latest_purchase": null,
+    "drawdown_from_52_week_high": -56.606334,
+    "drawdown_from_3_year_high": -56.606334,
+    "distance_from_200_day_average": null,
+    "return_63_sessions": null,
+    "realized_volatility_63d": null,
+    "volatility_percentile": null,
+    "trend": "insufficient_history",
+    "buyers": 0,
+    "purchase_days": 0,
+    "purchase_events": 0,
+    "total_reported_purchase_value": 0
+  },
+  "quality": {
+    "price_rows_available": 25,
+    "price_points_exported": 25,
+    "purchase_markers_exported": 0,
+    "mapping_quality": "exact_cik",
+    "metadata_quality": "high",
+    "price_quality": null
+  },
+  "limitations": [
+    "Price history comes from yfinance and may be revised or unavailable.",
+    "Adjusted closes are used for market context; reported filing prices and values are never rewritten for later splits.",
+    "Returns describe what happened after disclosed purchases and are not live score inputs."
+  ]
+}

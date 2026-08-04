@@ -1,0 +1,47 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
+  "as_of_date": "2026-08-03",
+  "freshness": {
+    "latest_sec_filing_date": "2026-08-03",
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
+  },
+  "limitations": [],
+  "insider": {
+    "schema_version": "v1",
+    "insider_id": "0002051327",
+    "owner_cik": "0002051327",
+    "issuer_cik": "0000711669",
+    "canonical_name": "Canup Edward G",
+    "display_name": "Canup Edward G",
+    "raw_officer_title": "CHIEF BANKING OFFICER",
+    "normalized_roles": "other_officer",
+    "first_seen_date": "20260803",
+    "last_seen_date": "20260803",
+    "identity_quality": "exact_owner_cik",
+    "generated_at_utc": "2026-08-04T07:51:02.671756Z",
+    "quality": "high",
+    "quality_flags": "",
+    "source_type": "sec_xml",
+    "source_path": "data/raw/sec/filings/0002051327/0002051327-26-000014/filing.xml",
+    "source_accession": "0002051327-26-000014",
+    "parser_version": "v1",
+    "normalized_at_utc": "2026-08-04T07:51:02.671756Z",
+    "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0002051327-26-000014\", \"source_path\": \"data/raw/sec/filings/0002051327/0002051327-26-000014/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}"
+  },
+  "companies": [],
+  "purchase_events": [],
+  "histories": [],
+  "signals": [],
+  "behavior_profile": {
+    "purchase_count": 0,
+    "company_count": 0,
+    "total_purchase_value": 0,
+    "median_purchase_value": null,
+    "largest_purchase_value": null,
+    "median_days_between_purchases": null,
+    "highest_behavior_change": null,
+    "highest_conviction": null
+  }
+}

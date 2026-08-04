@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
   "as_of_date": "2026-08-03",
   "freshness": {
-    "latest_sec_filing_date": "2026-07-31",
+    "latest_sec_filing_date": "2026-08-03",
     "latest_price_date": "2026-08-03",
-    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
   },
   "ticker": "SCTX",
   "yf_ticker": "SCTX",
@@ -48,9 +48,9 @@
     },
     {
       "date": "2026-07-31",
-      "close": 19.459999084472656,
-      "adjusted_close": 19.459999084472656,
-      "volume": 100134
+      "close": 19.479999542236328,
+      "adjusted_close": 19.479999542236328,
+      "volume": 100204
     }
   ],
   "purchase_markers": [
@@ -329,15 +329,15 @@
   ],
   "summary": {
     "price_date": "2026-07-31",
-    "current_price": 19.459999,
+    "current_price": 19.48,
     "average_reported_purchase_price": 15.096379,
-    "percent_vs_average_purchase_price": 28.905082,
+    "percent_vs_average_purchase_price": 29.037567,
     "first_purchase_date": "2026-07-23",
     "latest_purchase_date": "2026-07-28",
-    "return_since_first_purchase": -10.115476,
-    "return_since_latest_purchase": 7.751936,
-    "drawdown_from_52_week_high": -10.115476,
-    "drawdown_from_3_year_high": -10.115476,
+    "return_since_first_purchase": -10.023095,
+    "return_since_latest_purchase": 7.862681,
+    "drawdown_from_52_week_high": -10.023095,
+    "drawdown_from_3_year_high": -10.023095,
     "distance_from_200_day_average": null,
     "return_63_sessions": null,
     "realized_volatility_63d": null,

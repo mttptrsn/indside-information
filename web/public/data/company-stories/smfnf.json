@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
   "as_of_date": "2026-08-03",
   "freshness": {
-    "latest_sec_filing_date": "2026-07-31",
+    "latest_sec_filing_date": "2026-08-03",
     "latest_price_date": "2026-08-03",
-    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
   },
   "ticker": "SMFNF",
   "yf_ticker": "SMFNF",
@@ -37,19 +37,19 @@
     {
       "date": "2023-08-09",
       "close": 14.80666732788086,
-      "adjusted_close": 13.65107536315918,
+      "adjusted_close": 13.651076316833496,
       "volume": 300
     },
     {
       "date": "2023-08-14",
       "close": 14.91333293914795,
-      "adjusted_close": 13.74941635131836,
+      "adjusted_close": 13.749417304992676,
       "volume": 300
     },
     {
       "date": "2023-08-17",
       "close": 14.143333435058594,
-      "adjusted_close": 13.03951358795166,
+      "adjusted_close": 13.039512634277344,
       "volume": 6000
     },
     {
@@ -67,25 +67,25 @@
     {
       "date": "2023-08-30",
       "close": 14.920000076293944,
-      "adjusted_close": 13.755563735961914,
+      "adjusted_close": 13.75556468963623,
       "volume": 300
     },
     {
       "date": "2023-09-05",
       "close": 14.946666717529297,
-      "adjusted_close": 13.780150413513184,
+      "adjusted_close": 13.780149459838867,
       "volume": 51300
     },
     {
       "date": "2023-09-08",
       "close": 15.94333267211914,
-      "adjusted_close": 14.699028968811035,
+      "adjusted_close": 14.699029922485352,
       "volume": 13800
     },
     {
       "date": "2023-09-13",
       "close": 16.516666412353516,
-      "adjusted_close": 15.227616310119627,
+      "adjusted_close": 15.227617263793944,
       "volume": 1500
     },
     {
@@ -157,7 +157,7 @@
     {
       "date": "2023-11-02",
       "close": 17.059999465942383,
-      "adjusted_close": 15.997037887573242,
+      "adjusted_close": 15.997036933898926,
       "volume": 300
     },
     {
@@ -199,19 +199,19 @@
     {
       "date": "2023-12-04",
       "close": 16.53333282470703,
-      "adjusted_close": 15.50318717956543,
+      "adjusted_close": 15.503186225891112,
       "volume": 12900
     },
     {
       "date": "2023-12-07",
       "close": 16.366666793823242,
-      "adjusted_close": 15.346903800964355,
+      "adjusted_close": 15.346904754638672,
       "volume": 300
     },
     {
       "date": "2023-12-12",
       "close": 16.350000381469727,
-      "adjusted_close": 15.33127498626709,
+      "adjusted_close": 15.331275939941406,
       "volume": 300
     },
     {
@@ -223,7 +223,7 @@
     {
       "date": "2023-12-20",
       "close": 15.216667175292969,
-      "adjusted_close": 14.268558502197266,
+      "adjusted_close": 14.26855754852295,
       "volume": 60600
     },
     {
@@ -253,7 +253,7 @@
     {
       "date": "2024-01-12",
       "close": 16.84666633605957,
-      "adjusted_close": 15.796995162963867,
+      "adjusted_close": 15.79699420928955,
       "volume": 600
     },
     {
@@ -319,7 +319,7 @@
     {
       "date": "2024-03-01",
       "close": 19.25,
-      "adjusted_close": 18.050582885742188,
+      "adjusted_close": 18.05058479309082,
       "volume": 300
     },
     {
@@ -331,13 +331,13 @@
     {
       "date": "2024-03-11",
       "close": 19.413333892822266,
-      "adjusted_close": 18.2037410736084,
+      "adjusted_close": 18.20374298095703,
       "volume": 300
     },
     {
       "date": "2024-03-14",
       "close": 19.69333267211914,
-      "adjusted_close": 18.46629524230957,
+      "adjusted_close": 18.466293334960938,
       "volume": 144300
     },
     {
@@ -349,7 +349,7 @@
     {
       "date": "2024-03-22",
       "close": 19.63999938964844,
-      "adjusted_close": 18.41628646850586,
+      "adjusted_close": 18.416284561157227,
       "volume": 300
     },
     {

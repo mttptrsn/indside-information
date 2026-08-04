@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
   "as_of_date": "2026-08-03",
   "freshness": {
-    "latest_sec_filing_date": "2026-07-31",
+    "latest_sec_filing_date": "2026-08-03",
     "latest_price_date": "2026-08-03",
-    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
   },
   "ticker": "LBGJ",
   "yf_ticker": "LBGJ",
@@ -1317,14 +1317,20 @@
       "close": 2.4100000858306885,
       "adjusted_close": 2.4100000858306885,
       "volume": 1067839
+    },
+    {
+      "date": "2026-07-31",
+      "close": 3.740000009536743,
+      "adjusted_close": 3.740000009536743,
+      "volume": 4751415
     }
   ],
   "purchase_markers": [
     {
       "event_id": "ed90378e631254c99a6e509d",
       "transaction_date": "2026-07-27",
-      "price_date": "2026-07-17",
-      "market_price": 2.4100000858306885,
+      "price_date": "2026-07-31",
+      "market_price": 3.740000009536743,
       "reported_purchase_price": 0.026,
       "purchase_value": 27785.446,
       "shares": 1068671.0,
@@ -1339,20 +1345,20 @@
     }
   ],
   "summary": {
-    "price_date": "2026-07-17",
-    "current_price": 2.41,
+    "price_date": "2026-07-31",
+    "current_price": 3.74,
     "average_reported_purchase_price": 0.026,
-    "percent_vs_average_purchase_price": 9169.231099,
+    "percent_vs_average_purchase_price": 14284.615421,
     "first_purchase_date": "2026-07-27",
     "latest_purchase_date": "2026-07-27",
     "return_since_first_purchase": 0.0,
     "return_since_latest_purchase": 0.0,
-    "drawdown_from_52_week_high": -98.49375,
-    "drawdown_from_3_year_high": -99.440835,
-    "distance_from_200_day_average": -93.476006,
-    "return_63_sessions": 121.100919,
-    "realized_volatility_63d": 148.579803,
-    "volatility_percentile": 63.104326,
+    "drawdown_from_52_week_high": -97.6625,
+    "drawdown_from_3_year_high": -99.132251,
+    "distance_from_200_day_average": -89.80767,
+    "return_63_sessions": 236.936933,
+    "realized_volatility_63d": 183.132092,
+    "volatility_percentile": 78.426396,
     "trend": "recovering",
     "buyers": 1,
     "purchase_days": 1,
@@ -1360,8 +1366,8 @@
     "total_reported_purchase_value": 27785.446
   },
   "quality": {
-    "price_rows_available": 433,
-    "price_points_exported": 217,
+    "price_rows_available": 434,
+    "price_points_exported": 218,
     "purchase_markers_exported": 1,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",

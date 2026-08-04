@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
   "as_of_date": "2026-08-03",
   "freshness": {
-    "latest_sec_filing_date": "2026-07-31",
+    "latest_sec_filing_date": "2026-08-03",
     "latest_price_date": "2026-08-03",
-    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
   },
   "limitations": [
     "Company metadata and prices may be missing for inactive or unsupported symbols.",
@@ -20,14 +20,14 @@
     "yf_ticker": "GL-PD",
     "is_active": true,
     "mapping_quality": "exact_cik",
-    "generated_at_utc": "2026-08-03T04:23:45.976357Z",
+    "generated_at_utc": "2026-08-04T07:51:02.467674Z",
     "quality": "high",
     "quality_flags": "filing_ticker_differs_from_sec_reference",
     "source_type": "sec_xml",
     "source_path": "data/raw/sec/filings/0001765569/0000320335-26-000210/filing.xml",
     "source_accession": "0000320335-26-000210",
     "parser_version": "v1",
-    "normalized_at_utc": "2026-08-03T04:23:45.976357Z",
+    "normalized_at_utc": "2026-08-04T07:51:02.467674Z",
     "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0000320335-26-000210\", \"source_path\": \"data/raw/sec/filings/0001765569/0000320335-26-000210/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}",
     "ticker": "GL-PD",
     "company_name": "Globe Life Inc. 4.25% Junior Su",
@@ -35,10 +35,10 @@
     "sector": null,
     "industry": null,
     "quote_type": "EQUITY",
-    "metadata_fetched_at_utc": "2026-08-03T04:27:59.823047Z",
+    "metadata_fetched_at_utc": "2026-08-04T07:56:16.180561Z",
     "metadata_quality": "high",
-    "latest_price": 15.43000030517578,
-    "average_dollar_volume_63d": 213906.09423065183,
+    "latest_price": 15.420000076293944,
+    "average_dollar_volume_63d": 178008.48088073728,
     "discovery_eligible": false,
     "eligibility_reasons": "missing_market_cap|insufficient_liquidity"
   },

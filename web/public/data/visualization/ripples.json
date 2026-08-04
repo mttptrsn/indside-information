@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
   "as_of_date": "2026-08-03",
   "freshness": {
-    "latest_sec_filing_date": "2026-07-31",
+    "latest_sec_filing_date": "2026-08-03",
     "latest_price_date": "2026-08-03",
-    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
   },
   "limitations": [],
   "ripples": [
@@ -538,18 +538,6 @@
       "headline": null
     },
     {
-      "event_id": "b44d2b4aa4b0f5b37d242cd9",
-      "ticker": "ACI",
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-27T00:00:00",
-      "purchase_value": 1962284.5,
-      "radius": 0.048158,
-      "conviction_score": 62.1095,
-      "behavior_change_score": 53.5,
-      "headline": null
-    },
-    {
       "event_id": "9d8f159741f4e979c0095a1c",
       "ticker": null,
       "company_name": null,
@@ -559,6 +547,30 @@
       "radius": 0.047316,
       "conviction_score": 31.0646,
       "behavior_change_score": 46.2664,
+      "headline": null
+    },
+    {
+      "event_id": "c91e9e44888ca7828cd92504",
+      "ticker": "NXTC",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-30T00:00:00",
+      "purchase_value": 1444745.96,
+      "radius": 0.041322,
+      "conviction_score": 57.6084,
+      "behavior_change_score": 78.3111,
+      "headline": null
+    },
+    {
+      "event_id": "cd90392a2df72ac1653780e6",
+      "ticker": "NXTC",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-30T00:00:00",
+      "purchase_value": 1444745.96,
+      "radius": 0.041322,
+      "conviction_score": 57.6084,
+      "behavior_change_score": 78.3111,
       "headline": null
     },
     {
@@ -730,6 +742,90 @@
       "headline": null
     },
     {
+      "event_id": "5aac1cd2a5e16f2c91312eba",
+      "ticker": "HOG",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 982700.0,
+      "radius": 0.03408,
+      "conviction_score": 63.4159,
+      "behavior_change_score": 54.5,
+      "headline": null
+    },
+    {
+      "event_id": "b3e73b810f78a90eb12060e9",
+      "ticker": "HUN",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-08-03T00:00:00",
+      "purchase_value": 981000.0,
+      "radius": 0.03405,
+      "conviction_score": 54.5425,
+      "behavior_change_score": 46.8795,
+      "headline": null
+    },
+    {
+      "event_id": "1d43e8bd5e85d992a21b0265",
+      "ticker": "PFBX",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 949093.5762,
+      "radius": 0.033492,
+      "conviction_score": 38.9042,
+      "behavior_change_score": 45.5456,
+      "headline": null
+    },
+    {
+      "event_id": "3cdc89ce2a78dd7ef174f25c",
+      "ticker": "PFBX",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 949093.5762,
+      "radius": 0.033492,
+      "conviction_score": 38.9042,
+      "behavior_change_score": 45.5456,
+      "headline": null
+    },
+    {
+      "event_id": "827ca1923ed0fe9a3a6b9e6d",
+      "ticker": "PFBX",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 949093.5762,
+      "radius": 0.033492,
+      "conviction_score": 38.9042,
+      "behavior_change_score": 45.5456,
+      "headline": null
+    },
+    {
+      "event_id": "9061cb37211936c690799a0c",
+      "ticker": "PFBX",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 949093.5762,
+      "radius": 0.033492,
+      "conviction_score": 38.9042,
+      "behavior_change_score": 45.5456,
+      "headline": null
+    },
+    {
+      "event_id": "a6fb7ea5573cf1bfb183b29c",
+      "ticker": "PFBX",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 949093.5762,
+      "radius": 0.033492,
+      "conviction_score": 38.9042,
+      "behavior_change_score": 45.5456,
+      "headline": null
+    },
+    {
       "event_id": "f66d5596dea7366f46c6e0f5",
       "ticker": "BBASX",
       "company_name": null,
@@ -737,7 +833,7 @@
       "date": "2026-07-29T00:00:00",
       "purchase_value": 897183.682,
       "radius": 0.032563,
-      "conviction_score": 43.2069,
+      "conviction_score": 36.2069,
       "behavior_change_score": 44.8714,
       "headline": null
     },
@@ -797,7 +893,7 @@
       "date": "2026-07-28T00:00:00",
       "purchase_value": 449937.799,
       "radius": 0.02306,
-      "conviction_score": 58.0435,
+      "conviction_score": 54.5435,
       "behavior_change_score": 47.3481,
       "headline": null
     },
@@ -874,15 +970,27 @@
       "headline": null
     },
     {
-      "event_id": "51efa0839a87c51f9d5dbaa0",
-      "ticker": "HDSN",
+      "event_id": "73b48c93891508aed4d9aafa",
+      "ticker": "PRQR",
       "company_name": null,
       "insider_name": null,
-      "date": "2026-07-29T00:00:00",
-      "purchase_value": 312102.96,
-      "radius": 0.019206,
-      "conviction_score": 45.7064,
-      "behavior_change_score": 43.9567,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 353960.0,
+      "radius": 0.020453,
+      "conviction_score": 68.6606,
+      "behavior_change_score": 56.6,
+      "headline": null
+    },
+    {
+      "event_id": "aae92bb4c362eb1da8538d21",
+      "ticker": "HNVR",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-30T00:00:00",
+      "purchase_value": 268800.0,
+      "radius": 0.017824,
+      "conviction_score": 64.7445,
+      "behavior_change_score": 55.8,
       "headline": null
     },
     {
@@ -895,18 +1003,6 @@
       "radius": 0.017462,
       "conviction_score": 37.0484,
       "behavior_change_score": 24.3894,
-      "headline": null
-    },
-    {
-      "event_id": "28a59fbdf7a028b91105240b",
-      "ticker": "LBRT",
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-28T00:00:00",
-      "purchase_value": 250008.50943,
-      "radius": 0.017189,
-      "conviction_score": 62.142,
-      "behavior_change_score": 54.5,
       "headline": null
     },
     {
@@ -982,27 +1078,15 @@
       "headline": null
     },
     {
-      "event_id": "730a5a156549dc81f65e695d",
-      "ticker": "BBASX",
+      "event_id": "37e5b8a565b0741c14e537f2",
+      "ticker": "BSX",
       "company_name": null,
       "insider_name": null,
-      "date": "2026-07-29T00:00:00",
-      "purchase_value": 224340.9406632,
-      "radius": 0.016283,
-      "conviction_score": 41.8935,
-      "behavior_change_score": 44.8563,
-      "headline": null
-    },
-    {
-      "event_id": "c043359d2960c727a99e149f",
-      "ticker": "BBASX",
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-29T00:00:00",
-      "purchase_value": 224340.9406632,
-      "radius": 0.016283,
-      "conviction_score": 41.8935,
-      "behavior_change_score": 44.8563,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 227399.5,
+      "radius": 0.016394,
+      "conviction_score": 40.7661,
+      "behavior_change_score": 48.4434,
       "headline": null
     },
     {
@@ -1078,27 +1162,51 @@
       "headline": null
     },
     {
-      "event_id": "48966d053efcf9e548d0b6ba",
-      "ticker": null,
+      "event_id": "d7ab6df1071fa88c47d1e480",
+      "ticker": "APMD",
       "company_name": null,
       "insider_name": null,
-      "date": "2026-07-24T00:00:00",
-      "purchase_value": 200045.85549,
-      "radius": 0.015376,
-      "conviction_score": 40.0846,
-      "behavior_change_score": 53.5,
+      "date": "2026-08-03T00:00:00",
+      "purchase_value": 200000.0,
+      "radius": 0.015374,
+      "conviction_score": 61.9343,
+      "behavior_change_score": 54.5,
       "headline": null
     },
     {
-      "event_id": "6f0aa608b3d65f498866ae11",
-      "ticker": "XAIR",
+      "event_id": "0600ee870bec651d83197fd5",
+      "ticker": "NXTC",
       "company_name": null,
       "insider_name": null,
-      "date": "2026-07-29T00:00:00",
-      "purchase_value": 199998.72,
-      "radius": 0.015374,
-      "conviction_score": 61.8293,
-      "behavior_change_score": 56.6,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 179374.54,
+      "radius": 0.01456,
+      "conviction_score": 36.8784,
+      "behavior_change_score": 55.2871,
+      "headline": null
+    },
+    {
+      "event_id": "624861c746dfcb7985a5073f",
+      "ticker": "NXTC",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 179374.54,
+      "radius": 0.01456,
+      "conviction_score": 36.8784,
+      "behavior_change_score": 55.2871,
+      "headline": null
+    },
+    {
+      "event_id": "f57f928e08b561c43e8ecc10",
+      "ticker": "BCML",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 150850.0,
+      "radius": 0.013352,
+      "conviction_score": 52.7719,
+      "behavior_change_score": 54.5,
       "headline": null
     },
     {
@@ -1186,6 +1294,18 @@
       "headline": null
     },
     {
+      "event_id": "93be51885eb221cbc4916a5d",
+      "ticker": "ACI",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 103320.0,
+      "radius": 0.01105,
+      "conviction_score": 57.3347,
+      "behavior_change_score": 46.5226,
+      "headline": null
+    },
+    {
       "event_id": "58909f377d77bda4a3b575c4",
       "ticker": "BMI",
       "company_name": null,
@@ -1195,6 +1315,18 @@
       "radius": 0.010956,
       "conviction_score": 59.3538,
       "behavior_change_score": 53.5,
+      "headline": null
+    },
+    {
+      "event_id": "ddab4d708f98a33811306722",
+      "ticker": "EQBK",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 100500.0,
+      "radius": 0.010898,
+      "conviction_score": 59.4529,
+      "behavior_change_score": 51.0542,
       "headline": null
     },
     {
@@ -1210,15 +1342,39 @@
       "headline": null
     },
     {
-      "event_id": "3d01d8d3c58f452297f0ba09",
-      "ticker": "OTLK",
+      "event_id": "b453d2867082b329b35c4fdb",
+      "ticker": null,
       "company_name": null,
       "insider_name": null,
-      "date": "2026-07-29T00:00:00",
-      "purchase_value": 99996.1836,
-      "radius": 0.010871,
-      "conviction_score": 49.3893,
+      "date": "2026-07-30T00:00:00",
+      "purchase_value": 99699.999,
+      "radius": 0.010855,
+      "conviction_score": 15.4084,
+      "behavior_change_score": 17.5895,
+      "headline": null
+    },
+    {
+      "event_id": "3b306b2381cb2aa817a09366",
+      "ticker": "MBLY",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-30T00:00:00",
+      "purchase_value": 98632.8,
+      "radius": 0.010797,
+      "conviction_score": 52.3765,
       "behavior_change_score": 54.5,
+      "headline": null
+    },
+    {
+      "event_id": "45338cb55fa3c875fd8c10ee",
+      "ticker": "BXSY",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 85879.0,
+      "radius": 0.010075,
+      "conviction_score": 31.2685,
+      "behavior_change_score": 47.5935,
       "headline": null
     },
     {
@@ -1231,18 +1387,6 @@
       "radius": 0.010062,
       "conviction_score": 27.4797,
       "behavior_change_score": 18.0115,
-      "headline": null
-    },
-    {
-      "event_id": "9f9b37fa5163dca8a3968bd3",
-      "ticker": "BXSY",
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-29T00:00:00",
-      "purchase_value": 85135.5,
-      "radius": 0.010031,
-      "conviction_score": 36.0704,
-      "behavior_change_score": 49.8846,
       "headline": null
     },
     {
@@ -1342,18 +1486,6 @@
       "headline": null
     },
     {
-      "event_id": "2b31d42a077bad48ba2e753e",
-      "ticker": "MXF",
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-29T00:00:00",
-      "purchase_value": 65663.18,
-      "radius": 0.008809,
-      "conviction_score": 35.077,
-      "behavior_change_score": 43.7769,
-      "headline": null
-    },
-    {
       "event_id": "235731bb6c258bf49d761ca6",
       "ticker": "OVLY",
       "company_name": null,
@@ -1366,15 +1498,15 @@
       "headline": null
     },
     {
-      "event_id": "51697aef682fe8c4985fccd6",
-      "ticker": "HCWB",
+      "event_id": "422654f9ade28b2a89b5aea3",
+      "ticker": "MXF",
       "company_name": null,
       "insider_name": null,
-      "date": "2026-07-29T00:00:00",
-      "purchase_value": 59997.85,
-      "radius": 0.008421,
-      "conviction_score": 53.6192,
-      "behavior_change_score": 51.1228,
+      "date": "2026-07-28T00:00:00",
+      "purchase_value": 56228.48,
+      "radius": 0.008152,
+      "conviction_score": 34.9263,
+      "behavior_change_score": 43.7728,
       "headline": null
     },
     {
@@ -1390,6 +1522,30 @@
       "headline": null
     },
     {
+      "event_id": "c29b1d75ad8c37038656c52a",
+      "ticker": "DCX",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-30T00:00:00",
+      "purchase_value": 51250.0,
+      "radius": 0.007783,
+      "conviction_score": 66.8622,
+      "behavior_change_score": 56.6,
+      "headline": null
+    },
+    {
+      "event_id": "3eeae35b20865765116e4306",
+      "ticker": "DBD",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 50602.86,
+      "radius": 0.007733,
+      "conviction_score": 50.5931,
+      "behavior_change_score": 51.9566,
+      "headline": null
+    },
+    {
       "event_id": "f6cbbd799511b3c53a011c89",
       "ticker": "EQBK",
       "company_name": null,
@@ -1399,6 +1555,18 @@
       "radius": 0.00772,
       "conviction_score": 60.6522,
       "behavior_change_score": 54.5,
+      "headline": null
+    },
+    {
+      "event_id": "80e720470263a3aaf64e381c",
+      "ticker": "RDWR",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 50420.0,
+      "radius": 0.007719,
+      "conviction_score": 51.228,
+      "behavior_change_score": 46.6264,
       "headline": null
     },
     {
@@ -1486,6 +1654,30 @@
       "headline": null
     },
     {
+      "event_id": "3aeb3eef9633c745b6072f00",
+      "ticker": "PKBK",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-29T00:00:00",
+      "purchase_value": 43784.0,
+      "radius": 0.007194,
+      "conviction_score": 51.386,
+      "behavior_change_score": 46.7099,
+      "headline": null
+    },
+    {
+      "event_id": "9c22527612102ab6cbffdea1",
+      "ticker": "CBAN",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-30T00:00:00",
+      "purchase_value": 43600.0,
+      "radius": 0.007178,
+      "conviction_score": 44.8534,
+      "behavior_change_score": 44.6527,
+      "headline": null
+    },
+    {
       "event_id": "cea3c7c3f4ac493e30942fa1",
       "ticker": "UROY",
       "company_name": null,
@@ -1522,6 +1714,30 @@
       "headline": null
     },
     {
+      "event_id": "40d4d2450a62e35803106970",
+      "ticker": "NXTC",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-27T00:00:00",
+      "purchase_value": 38985.3212,
+      "radius": 0.006788,
+      "conviction_score": 26.7937,
+      "behavior_change_score": 44.1652,
+      "headline": null
+    },
+    {
+      "event_id": "677bc8e5fe2dca8304aeac38",
+      "ticker": "NXTC",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-27T00:00:00",
+      "purchase_value": 38985.3212,
+      "radius": 0.006788,
+      "conviction_score": 26.7937,
+      "behavior_change_score": 44.1652,
+      "headline": null
+    },
+    {
       "event_id": "8a776cbf10b0d2b40b447bcf",
       "ticker": "AVBC",
       "company_name": null,
@@ -1543,18 +1759,6 @@
       "radius": 0.006692,
       "conviction_score": 20.7758,
       "behavior_change_score": 17.3174,
-      "headline": null
-    },
-    {
-      "event_id": "e636994e9d009bdea4722d97",
-      "ticker": "BXSY",
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-28T00:00:00",
-      "purchase_value": 34310.39,
-      "radius": 0.006368,
-      "conviction_score": 21.6206,
-      "behavior_change_score": 23.1982,
       "headline": null
     },
     {
@@ -1582,6 +1786,18 @@
       "headline": null
     },
     {
+      "event_id": "4157b9c0ce5daa69493ce521",
+      "ticker": "LGHL",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 32396.765,
+      "radius": 0.006188,
+      "conviction_score": 47.0724,
+      "behavior_change_score": 54.3059,
+      "headline": null
+    },
+    {
       "event_id": "f7ed28d49c084a0663c07af3",
       "ticker": "LOAN",
       "company_name": null,
@@ -1591,6 +1807,30 @@
       "radius": 0.006142,
       "conviction_score": 39.2237,
       "behavior_change_score": 46.7304,
+      "headline": null
+    },
+    {
+      "event_id": "9e3a0a3b0b1dd1d80725645d",
+      "ticker": "NXTC",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-28T00:00:00",
+      "purchase_value": 31677.44,
+      "radius": 0.006119,
+      "conviction_score": 18.1899,
+      "behavior_change_score": 20.414,
+      "headline": null
+    },
+    {
+      "event_id": "d7f7c4245c0f8615c24eb098",
+      "ticker": "NXTC",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-28T00:00:00",
+      "purchase_value": 31677.44,
+      "radius": 0.006119,
+      "conviction_score": 18.1899,
+      "behavior_change_score": 20.414,
       "headline": null
     },
     {
@@ -1702,18 +1942,6 @@
       "headline": null
     },
     {
-      "event_id": "ff80eaba6dea80508864ab33",
-      "ticker": "XAIR",
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-29T00:00:00",
-      "purchase_value": 24998.4,
-      "radius": 0.005435,
-      "conviction_score": 59.1141,
-      "behavior_change_score": 56.2,
-      "headline": null
-    },
-    {
       "event_id": "fe6536dfc91bfed7a5182b54",
       "ticker": "FFIN",
       "company_name": null,
@@ -1723,6 +1951,18 @@
       "radius": 0.005373,
       "conviction_score": 35.7997,
       "behavior_change_score": 44.6434,
+      "headline": null
+    },
+    {
+      "event_id": "684c189fc7128eeb02e496af",
+      "ticker": "RCKY",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-30T00:00:00",
+      "purchase_value": 24315.0,
+      "radius": 0.005361,
+      "conviction_score": 45.4515,
+      "behavior_change_score": 45.1311,
       "headline": null
     },
     {
@@ -1762,6 +2002,18 @@
       "headline": null
     },
     {
+      "event_id": "67de3d161b562d65a6738590",
+      "ticker": "GLSI",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-27T00:00:00",
+      "purchase_value": 20430.0,
+      "radius": 0.004914,
+      "conviction_score": 49.1179,
+      "behavior_change_score": 36.6149,
+      "headline": null
+    },
+    {
       "event_id": "9a1f10c92003b1f21931dd3f",
       "ticker": "GLSI",
       "company_name": null,
@@ -1769,20 +2021,8 @@
       "date": "2026-07-28T00:00:00",
       "purchase_value": 20385.0,
       "radius": 0.004908,
-      "conviction_score": 50.1665,
-      "behavior_change_score": 39.6166,
-      "headline": null
-    },
-    {
-      "event_id": "701d70180b8181d1c51eda4d",
-      "ticker": "HCWB",
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-29T00:00:00",
-      "purchase_value": 19997.56,
-      "radius": 0.004862,
-      "conviction_score": 55.0414,
-      "behavior_change_score": 53.5,
+      "conviction_score": 52.558,
+      "behavior_change_score": 35.021,
       "headline": null
     },
     {
@@ -1793,7 +2033,7 @@
       "date": "2026-07-29T00:00:00",
       "purchase_value": 19997.56,
       "radius": 0.004862,
-      "conviction_score": 39.6639,
+      "conviction_score": 30.5639,
       "behavior_change_score": 49.0629,
       "headline": null
     },
@@ -1807,6 +2047,30 @@
       "radius": 0.004754,
       "conviction_score": 45.4849,
       "behavior_change_score": 45.2969,
+      "headline": null
+    },
+    {
+      "event_id": "93b777196328043d0be5bf65",
+      "ticker": "CBNA",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-29T00:00:00",
+      "purchase_value": 17600.0,
+      "radius": 0.004561,
+      "conviction_score": 48.9417,
+      "behavior_change_score": 47.5769,
+      "headline": null
+    },
+    {
+      "event_id": "bf4465708d14b32195f67bb2",
+      "ticker": "ANIX",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 17350.0,
+      "radius": 0.004528,
+      "conviction_score": 58.2797,
+      "behavior_change_score": 57.2898,
       "headline": null
     },
     {
@@ -1834,6 +2098,42 @@
       "headline": null
     },
     {
+      "event_id": "fddd468210a158fa7eaa5c7a",
+      "ticker": "NXTC",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-29T00:00:00",
+      "purchase_value": 17050.0,
+      "radius": 0.004489,
+      "conviction_score": 18.4464,
+      "behavior_change_score": 23.3387,
+      "headline": null
+    },
+    {
+      "event_id": "ff75b4c2df75dce9713aee13",
+      "ticker": "NXTC",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-29T00:00:00",
+      "purchase_value": 17050.0,
+      "radius": 0.004489,
+      "conviction_score": 18.4464,
+      "behavior_change_score": 23.3387,
+      "headline": null
+    },
+    {
+      "event_id": "67af195a58649b8df23857bd",
+      "ticker": "CMS",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 14491.0,
+      "radius": 0.004138,
+      "conviction_score": 29.6853,
+      "behavior_change_score": 46.3153,
+      "headline": null
+    },
+    {
       "event_id": "e6ced55a5868c88e80155001",
       "ticker": "GLSI",
       "company_name": null,
@@ -1843,6 +2143,18 @@
       "radius": 0.004092,
       "conviction_score": 43.5236,
       "behavior_change_score": 21.6092,
+      "headline": null
+    },
+    {
+      "event_id": "664c8a08c9209e79e99f0089",
+      "ticker": "JUSH",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-30T00:00:00",
+      "purchase_value": 14096.0,
+      "radius": 0.004082,
+      "conviction_score": 26.992,
+      "behavior_change_score": 46.0523,
       "headline": null
     },
     {
@@ -1870,6 +2182,18 @@
       "headline": null
     },
     {
+      "event_id": "175f5b6e83e093b9962e5c87",
+      "ticker": "YQ",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 11017.534,
+      "radius": 0.003608,
+      "conviction_score": 38.1502,
+      "behavior_change_score": 64.23,
+      "headline": null
+    },
+    {
       "event_id": "535cfdaaf6bccf63b0e71c5f",
       "ticker": "ANIX",
       "company_name": null,
@@ -1879,6 +2203,18 @@
       "radius": 0.003563,
       "conviction_score": 41.9613,
       "behavior_change_score": 23.5551,
+      "headline": null
+    },
+    {
+      "event_id": "2d0fab7294cdc69392393cc2",
+      "ticker": "RVSB",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 10478.2,
+      "radius": 0.003519,
+      "conviction_score": 59.1899,
+      "behavior_change_score": 54.5,
       "headline": null
     },
     {
@@ -1966,6 +2302,18 @@
       "headline": null
     },
     {
+      "event_id": "203bfa486a843308f847be15",
+      "ticker": "PFSA",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 9251.55,
+      "radius": 0.003307,
+      "conviction_score": 32.3903,
+      "behavior_change_score": 65.7187,
+      "headline": null
+    },
+    {
       "event_id": "ed4692a29f6f13411ef7f6f7",
       "ticker": "GLSI",
       "company_name": null,
@@ -1973,8 +2321,8 @@
       "date": "2026-07-29T00:00:00",
       "purchase_value": 9170.0,
       "radius": 0.003292,
-      "conviction_score": 49.3392,
-      "behavior_change_score": 27.9584,
+      "conviction_score": 49.5029,
+      "behavior_change_score": 28.426,
       "headline": null
     },
     {
@@ -2158,6 +2506,42 @@
       "headline": null
     },
     {
+      "event_id": "4829e27a4390868a3cb2655c",
+      "ticker": "BMRC",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-30T00:00:00",
+      "purchase_value": 5053.7025,
+      "radius": 0.002444,
+      "conviction_score": 43.4099,
+      "behavior_change_score": 44.7571,
+      "headline": null
+    },
+    {
+      "event_id": "8202b26348e8ade2662fe900",
+      "ticker": "ASPS",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-30T00:00:00",
+      "purchase_value": 5045.0,
+      "radius": 0.002442,
+      "conviction_score": 29.9109,
+      "behavior_change_score": 46.1733,
+      "headline": null
+    },
+    {
+      "event_id": "d9fd6d406cbc0f4b81762a89",
+      "ticker": "DLPN",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-08-03T00:00:00",
+      "purchase_value": 4917.4,
+      "radius": 0.002411,
+      "conviction_score": 37.4823,
+      "behavior_change_score": 46.5711,
+      "headline": null
+    },
+    {
       "event_id": "2dcad6968f9b5de3f438342e",
       "ticker": "DLPN",
       "company_name": null,
@@ -2191,6 +2575,42 @@
       "radius": 0.002384,
       "conviction_score": 22.2289,
       "behavior_change_score": 44.5409,
+      "headline": null
+    },
+    {
+      "event_id": "a7f77941571fe56453c12a98",
+      "ticker": "PTIX",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-30T00:00:00",
+      "purchase_value": 4805.9948,
+      "radius": 0.002383,
+      "conviction_score": 48.5145,
+      "behavior_change_score": 55.5,
+      "headline": null
+    },
+    {
+      "event_id": "a9ecc1732a8bf06c48680f2a",
+      "ticker": "WLFC",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 4302.36,
+      "radius": 0.002255,
+      "conviction_score": 48.2953,
+      "behavior_change_score": 46.2121,
+      "headline": null
+    },
+    {
+      "event_id": "b4461d59c2001d227a6672e6",
+      "ticker": "ATLO",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 4228.0,
+      "radius": 0.002235,
+      "conviction_score": 43.2798,
+      "behavior_change_score": 44.7803,
       "headline": null
     },
     {
@@ -2266,6 +2686,30 @@
       "headline": null
     },
     {
+      "event_id": "0a1b539645109bcc28a69554",
+      "ticker": "ASPS",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-29T00:00:00",
+      "purchase_value": 3575.1,
+      "radius": 0.002056,
+      "conviction_score": 28.9568,
+      "behavior_change_score": 44.8662,
+      "headline": null
+    },
+    {
+      "event_id": "bdd886d6c122cb213f4b50af",
+      "ticker": "JUSH",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 2688.0,
+      "radius": 0.001782,
+      "conviction_score": 16.0874,
+      "behavior_change_score": 20.014,
+      "headline": null
+    },
+    {
       "event_id": "35c217c09268cec2b2f40da1",
       "ticker": "NONE",
       "company_name": null,
@@ -2326,15 +2770,15 @@
       "headline": null
     },
     {
-      "event_id": "8655c38a855d16f2b5346407",
-      "ticker": "KWY",
+      "event_id": "10f161af3be03baa87907c63",
+      "ticker": "RCG",
       "company_name": null,
       "insider_name": null,
       "date": "2026-07-30T00:00:00",
-      "purchase_value": 2496.44,
-      "radius": 0.001718,
-      "conviction_score": 54.156,
-      "behavior_change_score": 46.6039,
+      "purchase_value": 2313.36,
+      "radius": 0.001654,
+      "conviction_score": 34.184,
+      "behavior_change_score": 47.3019,
       "headline": null
     },
     {
@@ -2347,6 +2791,30 @@
       "radius": 0.001651,
       "conviction_score": 30.3919,
       "behavior_change_score": 47.9045,
+      "headline": null
+    },
+    {
+      "event_id": "e41dc206669457b28841d9d2",
+      "ticker": "RCG",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-29T00:00:00",
+      "purchase_value": 2298.24,
+      "radius": 0.001648,
+      "conviction_score": 31.8431,
+      "behavior_change_score": 40.631,
+      "headline": null
+    },
+    {
+      "event_id": "de8d6d44b2a95e81dc6b2b88",
+      "ticker": "RCG",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-31T00:00:00",
+      "purchase_value": 2290.68,
+      "radius": 0.001645,
+      "conviction_score": 28.9314,
+      "behavior_change_score": 32.3207,
       "headline": null
     },
     {
@@ -2410,18 +2878,6 @@
       "headline": null
     },
     {
-      "event_id": "a5dafdd3b21f13781fd5148d",
-      "ticker": "KWY",
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-30T00:00:00",
-      "purchase_value": 1562.52,
-      "radius": 0.001359,
-      "conviction_score": 52.9736,
-      "behavior_change_score": 46.2256,
-      "headline": null
-    },
-    {
       "event_id": "59898df1b58875f587c0e79c",
       "ticker": "PFSA",
       "company_name": null,
@@ -2446,15 +2902,27 @@
       "headline": null
     },
     {
-      "event_id": "a913ca8f71074de53fe58856",
-      "ticker": "GF",
+      "event_id": "454a5778a624f292dc8df26e",
+      "ticker": "GOOD",
       "company_name": null,
       "insider_name": null,
-      "date": "2026-07-29T00:00:00",
-      "purchase_value": 1116.0,
-      "radius": 0.001148,
-      "conviction_score": 19.344,
-      "behavior_change_score": 43.7505,
+      "date": "2026-08-03T00:00:00",
+      "purchase_value": 1258.0,
+      "radius": 0.001219,
+      "conviction_score": 20.5267,
+      "behavior_change_score": 43.9255,
+      "headline": null
+    },
+    {
+      "event_id": "1dddc250542516909b3f52e4",
+      "ticker": "PFSA",
+      "company_name": null,
+      "insider_name": null,
+      "date": "2026-07-30T00:00:00",
+      "purchase_value": 1073.63,
+      "radius": 0.001126,
+      "conviction_score": 12.3143,
+      "behavior_change_score": 20.3298,
       "headline": null
     },
     {
@@ -2467,18 +2935,6 @@
       "radius": 0.001102,
       "conviction_score": 19.2672,
       "behavior_change_score": 43.7509,
-      "headline": null
-    },
-    {
-      "event_id": "dab9051fd423f26a08469c81",
-      "ticker": "FRAF",
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-29T00:00:00",
-      "purchase_value": 1025.28,
-      "radius": 0.001101,
-      "conviction_score": 41.5476,
-      "behavior_change_score": 44.5134,
       "headline": null
     },
     {
@@ -2551,78 +3007,6 @@
       "radius": 0.000696,
       "conviction_score": 19.2159,
       "behavior_change_score": 20.6248,
-      "headline": null
-    },
-    {
-      "event_id": "4f20044406ef7097b15501de",
-      "ticker": "DLHC",
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-23T00:00:00",
-      "purchase_value": 402.7025,
-      "radius": 0.00069,
-      "conviction_score": 19.5897,
-      "behavior_change_score": 35.7334,
-      "headline": null
-    },
-    {
-      "event_id": "43a45139b70884f3ff6f5cfd",
-      "ticker": "TPL",
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-28T00:00:00",
-      "purchase_value": 393.09,
-      "radius": 0.000682,
-      "conviction_score": 21.4532,
-      "behavior_change_score": 27.1244,
-      "headline": null
-    },
-    {
-      "event_id": "76e11de5a7ff761bd1ad2802",
-      "ticker": "DLHC",
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-27T00:00:00",
-      "purchase_value": 50.9,
-      "radius": 0.000245,
-      "conviction_score": 15.9956,
-      "behavior_change_score": 30.9664,
-      "headline": null
-    },
-    {
-      "event_id": "b6c84c435387985f29e287c9",
-      "ticker": null,
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-23T00:00:00",
-      "purchase_value": 9.9924,
-      "radius": 0.000109,
-      "conviction_score": 34.9421,
-      "behavior_change_score": 52.0,
-      "headline": null
-    },
-    {
-      "event_id": "086c831f6d01e3ee2793489d",
-      "ticker": null,
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-23T00:00:00",
-      "purchase_value": 9.9924,
-      "radius": 0.000109,
-      "conviction_score": 33.4521,
-      "behavior_change_score": 55.8,
-      "headline": null
-    },
-    {
-      "event_id": "0468e7f35d2bb3b077c982a1",
-      "ticker": null,
-      "company_name": null,
-      "insider_name": null,
-      "date": "2026-07-23T00:00:00",
-      "purchase_value": 9.9924,
-      "radius": 0.000109,
-      "conviction_score": 28.9671,
-      "behavior_change_score": 53.5,
       "headline": null
     }
   ]

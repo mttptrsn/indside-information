@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
   "as_of_date": "2026-08-03",
   "freshness": {
-    "latest_sec_filing_date": "2026-07-31",
+    "latest_sec_filing_date": "2026-08-03",
     "latest_price_date": "2026-08-03",
-    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
   },
   "ticker": "YQ",
   "yf_ticker": "YQ",
@@ -1558,17 +1558,34 @@
       "conviction_score": 27.1512,
       "behavior_change_score": 46.8056,
       "headline": null
+    },
+    {
+      "event_id": "175f5b6e83e093b9962e5c87",
+      "transaction_date": "2026-07-31",
+      "price_date": "2026-07-31",
+      "market_price": 1.9299999475479128,
+      "reported_purchase_price": 1.8898,
+      "purchase_value": 11017.534,
+      "shares": 5830.0,
+      "owner_cik": 1843196,
+      "owner_name": null,
+      "roles": "ceo|director|operating_executive|other_officer|ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 11.867201335314592,
+      "conviction_score": 38.1502,
+      "behavior_change_score": 64.23,
+      "headline": null
     }
   ],
   "summary": {
     "price_date": "2026-07-31",
     "current_price": 1.93,
-    "average_reported_purchase_price": 1.8628,
-    "percent_vs_average_purchase_price": 3.60747,
+    "average_reported_purchase_price": 1.887667,
+    "percent_vs_average_purchase_price": 2.242591,
     "first_purchase_date": "2026-07-30",
-    "latest_purchase_date": "2026-07-30",
+    "latest_purchase_date": "2026-07-31",
     "return_since_first_purchase": 10.285711,
-    "return_since_latest_purchase": 10.285711,
+    "return_since_latest_purchase": 0.0,
     "drawdown_from_52_week_high": -69.020868,
     "drawdown_from_3_year_high": -69.020868,
     "distance_from_200_day_average": -40.150215,
@@ -1577,14 +1594,14 @@
     "volatility_percentile": 51.117318,
     "trend": "below_trend",
     "buyers": 1,
-    "purchase_days": 1,
-    "purchase_events": 1,
-    "total_reported_purchase_value": 931.4
+    "purchase_days": 2,
+    "purchase_events": 2,
+    "total_reported_purchase_value": 11948.934
   },
   "quality": {
     "price_rows_available": 756,
     "price_points_exported": 254,
-    "purchase_markers_exported": 1,
+    "purchase_markers_exported": 2,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",
     "price_quality": null

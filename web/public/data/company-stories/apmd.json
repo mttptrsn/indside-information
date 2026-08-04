@@ -1,0 +1,79 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
+  "as_of_date": "2026-08-03",
+  "freshness": {
+    "latest_sec_filing_date": "2026-08-03",
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
+  },
+  "ticker": "APMD",
+  "yf_ticker": "APMD",
+  "issuer_cik": 1745648,
+  "company_name": "Apnimed, Inc. Common Stock",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "price_available": true,
+  "price_unavailable_reason": "",
+  "price_path": [
+    {
+      "date": "2026-07-31",
+      "close": 25.0,
+      "adjusted_close": 25.0,
+      "volume": 3444700
+    }
+  ],
+  "purchase_markers": [
+    {
+      "event_id": "d7ab6df1071fa88c47d1e480",
+      "transaction_date": "2026-08-03",
+      "price_date": "2026-07-31",
+      "market_price": 25.0,
+      "reported_purchase_price": 16.0,
+      "purchase_value": 200000.0,
+      "shares": 12500.0,
+      "owner_cik": 1264519,
+      "owner_name": null,
+      "roles": "director",
+      "direct_indirect": null,
+      "ownership_increase_percent": 100.0,
+      "conviction_score": 61.9343,
+      "behavior_change_score": 54.5,
+      "headline": null
+    }
+  ],
+  "summary": {
+    "price_date": "2026-07-31",
+    "current_price": 25.0,
+    "average_reported_purchase_price": 16.0,
+    "percent_vs_average_purchase_price": 56.25,
+    "first_purchase_date": "2026-08-03",
+    "latest_purchase_date": "2026-08-03",
+    "return_since_first_purchase": 0.0,
+    "return_since_latest_purchase": 0.0,
+    "drawdown_from_52_week_high": 0.0,
+    "drawdown_from_3_year_high": 0.0,
+    "distance_from_200_day_average": null,
+    "return_63_sessions": null,
+    "realized_volatility_63d": null,
+    "volatility_percentile": null,
+    "trend": "insufficient_history",
+    "buyers": 1,
+    "purchase_days": 1,
+    "purchase_events": 1,
+    "total_reported_purchase_value": 200000.0
+  },
+  "quality": {
+    "price_rows_available": 1,
+    "price_points_exported": 1,
+    "purchase_markers_exported": 1,
+    "mapping_quality": "exact_cik",
+    "metadata_quality": "high",
+    "price_quality": null
+  },
+  "limitations": [
+    "Price history comes from yfinance and may be revised or unavailable.",
+    "Adjusted closes are used for market context; reported filing prices and values are never rewritten for later splits.",
+    "Returns describe what happened after disclosed purchases and are not live score inputs."
+  ]
+}

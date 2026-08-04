@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-03T04:28:55.249613Z",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
   "as_of_date": "2026-08-03",
   "freshness": {
-    "latest_sec_filing_date": "2026-07-31",
+    "latest_sec_filing_date": "2026-08-03",
     "latest_price_date": "2026-08-03",
-    "exported_at_utc": "2026-08-03T04:28:55.249613Z"
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
   },
   "ticker": "HCWB",
   "yf_ticker": "HCWB",
@@ -1532,44 +1532,10 @@
       "date": "2026-07-31",
       "close": 3.200000047683716,
       "adjusted_close": 3.200000047683716,
-      "volume": 62100
+      "volume": 64700
     }
   ],
   "purchase_markers": [
-    {
-      "event_id": "51697aef682fe8c4985fccd6",
-      "transaction_date": "2026-07-29",
-      "price_date": "2026-07-29",
-      "market_price": 2.5799999237060547,
-      "reported_purchase_price": 2.585,
-      "purchase_value": 59997.85,
-      "shares": 23210.0,
-      "owner_cik": 1866258,
-      "owner_name": null,
-      "roles": "ceo|director|operating_executive|other_officer|ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 22.61411799093877,
-      "conviction_score": 53.6192,
-      "behavior_change_score": 51.1228,
-      "headline": null
-    },
-    {
-      "event_id": "701d70180b8181d1c51eda4d",
-      "transaction_date": "2026-07-29",
-      "price_date": "2026-07-29",
-      "market_price": 2.5799999237060547,
-      "reported_purchase_price": 2.585,
-      "purchase_value": 19997.56,
-      "shares": 7736.0,
-      "owner_cik": 1866254,
-      "owner_name": null,
-      "roles": "other_officer",
-      "direct_indirect": null,
-      "ownership_increase_percent": 810.0523560209424,
-      "conviction_score": 55.0414,
-      "behavior_change_score": 53.5,
-      "headline": null
-    },
     {
       "event_id": "b3107d816e205916e261f1a4",
       "transaction_date": "2026-07-29",
@@ -1583,7 +1549,7 @@
       "roles": "director",
       "direct_indirect": null,
       "ownership_increase_percent": 22.814675002949155,
-      "conviction_score": 39.6639,
+      "conviction_score": 30.5639,
       "behavior_change_score": 49.0629,
       "headline": null
     }
@@ -1604,15 +1570,15 @@
     "realized_volatility_63d": 602.651166,
     "volatility_percentile": 87.150838,
     "trend": "recovering",
-    "buyers": 3,
+    "buyers": 1,
     "purchase_days": 1,
-    "purchase_events": 3,
-    "total_reported_purchase_value": 99992.97
+    "purchase_events": 1,
+    "total_reported_purchase_value": 19997.56
   },
   "quality": {
     "price_rows_available": 756,
     "price_points_exported": 253,
-    "purchase_markers_exported": 3,
+    "purchase_markers_exported": 1,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",
     "price_quality": null

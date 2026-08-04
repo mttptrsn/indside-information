@@ -1,0 +1,253 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
+  "as_of_date": "2026-08-03",
+  "freshness": {
+    "latest_sec_filing_date": "2026-08-03",
+    "latest_price_date": "2026-08-03",
+    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
+  },
+  "ticker": "HONA",
+  "yf_ticker": "HONA",
+  "issuer_cik": 2089271,
+  "company_name": "Honeywell Aerospace Inc.",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "price_available": true,
+  "price_unavailable_reason": "",
+  "price_path": [
+    {
+      "date": "2026-06-15",
+      "close": 200.0,
+      "adjusted_close": 200.0,
+      "volume": 400
+    },
+    {
+      "date": "2026-06-16",
+      "close": 269.95001220703125,
+      "adjusted_close": 269.95001220703125,
+      "volume": 7300
+    },
+    {
+      "date": "2026-06-17",
+      "close": 269.95001220703125,
+      "adjusted_close": 269.95001220703125,
+      "volume": 11700
+    },
+    {
+      "date": "2026-06-18",
+      "close": 267.79998779296875,
+      "adjusted_close": 267.79998779296875,
+      "volume": 2800
+    },
+    {
+      "date": "2026-06-22",
+      "close": 261.0299987792969,
+      "adjusted_close": 261.0299987792969,
+      "volume": 9500
+    },
+    {
+      "date": "2026-06-23",
+      "close": 245.0,
+      "adjusted_close": 245.0,
+      "volume": 8400
+    },
+    {
+      "date": "2026-06-24",
+      "close": 245.0,
+      "adjusted_close": 245.0,
+      "volume": 29600
+    },
+    {
+      "date": "2026-06-25",
+      "close": 221.00999450683597,
+      "adjusted_close": 221.00999450683597,
+      "volume": 44000
+    },
+    {
+      "date": "2026-06-26",
+      "close": 221.00999450683597,
+      "adjusted_close": 221.00999450683597,
+      "volume": 3493900
+    },
+    {
+      "date": "2026-06-29",
+      "close": 220.19000244140625,
+      "adjusted_close": 220.19000244140625,
+      "volume": 8471200
+    },
+    {
+      "date": "2026-06-30",
+      "close": 221.0800018310547,
+      "adjusted_close": 221.0800018310547,
+      "volume": 5986300
+    },
+    {
+      "date": "2026-07-01",
+      "close": 227.2899932861328,
+      "adjusted_close": 227.2899932861328,
+      "volume": 6509700
+    },
+    {
+      "date": "2026-07-02",
+      "close": 247.1499938964844,
+      "adjusted_close": 247.1499938964844,
+      "volume": 5557200
+    },
+    {
+      "date": "2026-07-06",
+      "close": 237.6999969482422,
+      "adjusted_close": 237.6999969482422,
+      "volume": 7550800
+    },
+    {
+      "date": "2026-07-07",
+      "close": 238.13999938964844,
+      "adjusted_close": 238.13999938964844,
+      "volume": 4866100
+    },
+    {
+      "date": "2026-07-08",
+      "close": 224.3500061035156,
+      "adjusted_close": 224.3500061035156,
+      "volume": 4156700
+    },
+    {
+      "date": "2026-07-09",
+      "close": 223.1199951171875,
+      "adjusted_close": 223.1199951171875,
+      "volume": 3395200
+    },
+    {
+      "date": "2026-07-10",
+      "close": 220.75,
+      "adjusted_close": 220.75,
+      "volume": 1926200
+    },
+    {
+      "date": "2026-07-13",
+      "close": 213.0500030517578,
+      "adjusted_close": 213.0500030517578,
+      "volume": 2956700
+    },
+    {
+      "date": "2026-07-14",
+      "close": 207.50999450683597,
+      "adjusted_close": 207.50999450683597,
+      "volume": 3334200
+    },
+    {
+      "date": "2026-07-15",
+      "close": 212.5500030517578,
+      "adjusted_close": 212.5500030517578,
+      "volume": 2107800
+    },
+    {
+      "date": "2026-07-16",
+      "close": 208.3699951171875,
+      "adjusted_close": 208.3699951171875,
+      "volume": 2878500
+    },
+    {
+      "date": "2026-07-17",
+      "close": 211.6300048828125,
+      "adjusted_close": 211.6300048828125,
+      "volume": 2548500
+    },
+    {
+      "date": "2026-07-20",
+      "close": 202.47000122070312,
+      "adjusted_close": 202.47000122070312,
+      "volume": 3279200
+    },
+    {
+      "date": "2026-07-21",
+      "close": 200.13999938964844,
+      "adjusted_close": 200.13999938964844,
+      "volume": 3221200
+    },
+    {
+      "date": "2026-07-22",
+      "close": 207.77999877929688,
+      "adjusted_close": 207.77999877929688,
+      "volume": 2348800
+    },
+    {
+      "date": "2026-07-23",
+      "close": 195.8699951171875,
+      "adjusted_close": 195.8699951171875,
+      "volume": 3436200
+    },
+    {
+      "date": "2026-07-24",
+      "close": 204.07000732421875,
+      "adjusted_close": 204.07000732421875,
+      "volume": 2709400
+    },
+    {
+      "date": "2026-07-27",
+      "close": 210.8300018310547,
+      "adjusted_close": 210.8300018310547,
+      "volume": 1850500
+    },
+    {
+      "date": "2026-07-28",
+      "close": 215.8999938964844,
+      "adjusted_close": 215.8999938964844,
+      "volume": 2215400
+    },
+    {
+      "date": "2026-07-29",
+      "close": 205.19000244140625,
+      "adjusted_close": 205.19000244140625,
+      "volume": 2102500
+    },
+    {
+      "date": "2026-07-30",
+      "close": 204.32000732421875,
+      "adjusted_close": 204.32000732421875,
+      "volume": 2174100
+    },
+    {
+      "date": "2026-07-31",
+      "close": 206.7400054931641,
+      "adjusted_close": 206.7400054931641,
+      "volume": 2319000
+    }
+  ],
+  "purchase_markers": [],
+  "summary": {
+    "price_date": "2026-07-31",
+    "current_price": 206.740005,
+    "average_reported_purchase_price": null,
+    "percent_vs_average_purchase_price": null,
+    "first_purchase_date": null,
+    "latest_purchase_date": null,
+    "return_since_first_purchase": null,
+    "return_since_latest_purchase": null,
+    "drawdown_from_52_week_high": -23.415449,
+    "drawdown_from_3_year_high": -23.415449,
+    "distance_from_200_day_average": null,
+    "return_63_sessions": null,
+    "realized_volatility_63d": null,
+    "volatility_percentile": null,
+    "trend": "insufficient_history",
+    "buyers": 0,
+    "purchase_days": 0,
+    "purchase_events": 0,
+    "total_reported_purchase_value": 0
+  },
+  "quality": {
+    "price_rows_available": 33,
+    "price_points_exported": 33,
+    "purchase_markers_exported": 0,
+    "mapping_quality": "exact_cik",
+    "metadata_quality": "high",
+    "price_quality": null
+  },
+  "limitations": [
+    "Price history comes from yfinance and may be revised or unavailable.",
+    "Adjusted closes are used for market context; reported filing prices and values are never rewritten for later splits.",
+    "Returns describe what happened after disclosed purchases and are not live score inputs."
+  ]
+}
