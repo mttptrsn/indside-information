@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
-  "as_of_date": "2026-08-03",
+  "generated_at_utc": "2026-08-05T09:17:25.572065Z",
+  "as_of_date": "2026-08-05",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-03",
-    "latest_price_date": "2026-08-03",
-    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
+    "latest_sec_filing_date": "2026-08-04",
+    "latest_price_date": "2026-08-05",
+    "exported_at_utc": "2026-08-05T09:17:25.572065Z"
   },
   "ticker": "FXHO",
   "yf_ticker": "FXHO",
@@ -17,1540 +17,1540 @@
   "price_unavailable_reason": "",
   "price_path": [
     {
-      "date": "2023-07-27",
-      "close": 610000.0,
-      "adjusted_close": 610000.0,
+      "date": "2023-07-31",
+      "close": 750000.0,
+      "adjusted_close": 750000.0,
+      "volume": 6
+    },
+    {
+      "date": "2023-08-03",
+      "close": 632500.0,
+      "adjusted_close": 632500.0,
+      "volume": 0
+    },
+    {
+      "date": "2023-08-08",
+      "close": 631250.0,
+      "adjusted_close": 631250.0,
       "volume": 1
     },
     {
-      "date": "2023-08-01",
-      "close": 662500.0,
-      "adjusted_close": 662500.0,
-      "volume": 1
+      "date": "2023-08-11",
+      "close": 665000.0,
+      "adjusted_close": 665000.0,
+      "volume": 0
     },
     {
-      "date": "2023-08-04",
-      "close": 653750.0,
-      "adjusted_close": 653750.0,
-      "volume": 5
-    },
-    {
-      "date": "2023-08-09",
+      "date": "2023-08-16",
       "close": 625000.0,
       "adjusted_close": 625000.0,
       "volume": 0
     },
     {
-      "date": "2023-08-14",
-      "close": 662500.0,
-      "adjusted_close": 662500.0,
+      "date": "2023-08-21",
+      "close": 581250.0,
+      "adjusted_close": 581250.0,
       "volume": 0
     },
     {
-      "date": "2023-08-17",
-      "close": 648750.0,
-      "adjusted_close": 648750.0,
+      "date": "2023-08-24",
+      "close": 548750.0,
+      "adjusted_close": 548750.0,
       "volume": 0
     },
     {
-      "date": "2023-08-22",
-      "close": 587500.0,
-      "adjusted_close": 587500.0,
+      "date": "2023-08-29",
+      "close": 595000.0,
+      "adjusted_close": 595000.0,
       "volume": 0
     },
     {
-      "date": "2023-08-25",
-      "close": 568750.0,
-      "adjusted_close": 568750.0,
-      "volume": 0
-    },
-    {
-      "date": "2023-08-30",
-      "close": 611250.0,
-      "adjusted_close": 611250.0,
-      "volume": 0
-    },
-    {
-      "date": "2023-09-05",
+      "date": "2023-09-01",
       "close": 597500.0,
       "adjusted_close": 597500.0,
       "volume": 0
     },
     {
-      "date": "2023-09-08",
-      "close": 445000.0,
-      "adjusted_close": 445000.0,
+      "date": "2023-09-07",
+      "close": 497500.0,
+      "adjusted_close": 497500.0,
       "volume": 0
     },
     {
-      "date": "2023-09-13",
+      "date": "2023-09-12",
       "close": 475000.0,
       "adjusted_close": 475000.0,
       "volume": 0
     },
     {
-      "date": "2023-09-18",
-      "close": 413750.0,
-      "adjusted_close": 413750.0,
+      "date": "2023-09-15",
+      "close": 486250.0,
+      "adjusted_close": 486250.0,
+      "volume": 1
+    },
+    {
+      "date": "2023-09-20",
+      "close": 421250.0,
+      "adjusted_close": 421250.0,
       "volume": 0
     },
     {
-      "date": "2023-09-21",
-      "close": 403750.0,
-      "adjusted_close": 403750.0,
+      "date": "2023-09-25",
+      "close": 412500.0,
+      "adjusted_close": 412500.0,
       "volume": 0
     },
     {
-      "date": "2023-09-26",
-      "close": 396250.0,
-      "adjusted_close": 396250.0,
-      "volume": 0
-    },
-    {
-      "date": "2023-09-29",
-      "close": 362500.0,
-      "adjusted_close": 362500.0,
-      "volume": 0
-    },
-    {
-      "date": "2023-10-04",
-      "close": 368750.0,
-      "adjusted_close": 368750.0,
-      "volume": 0
-    },
-    {
-      "date": "2023-10-09",
-      "close": 333750.0,
-      "adjusted_close": 333750.0,
-      "volume": 0
-    },
-    {
-      "date": "2023-10-12",
-      "close": 370000.0,
-      "adjusted_close": 370000.0,
-      "volume": 3
-    },
-    {
-      "date": "2023-10-17",
-      "close": 408750.0,
-      "adjusted_close": 408750.0,
-      "volume": 0
-    },
-    {
-      "date": "2023-10-20",
+      "date": "2023-09-28",
       "close": 375000.0,
       "adjusted_close": 375000.0,
       "volume": 0
     },
     {
-      "date": "2023-10-25",
-      "close": 381250.0,
-      "adjusted_close": 381250.0,
+      "date": "2023-10-03",
+      "close": 366250.0,
+      "adjusted_close": 366250.0,
       "volume": 0
     },
     {
-      "date": "2023-10-30",
-      "close": 332500.0,
-      "adjusted_close": 332500.0,
-      "volume": 0
-    },
-    {
-      "date": "2023-11-02",
+      "date": "2023-10-06",
       "close": 338750.0,
       "adjusted_close": 338750.0,
       "volume": 0
     },
     {
-      "date": "2023-11-07",
-      "close": 348750.0,
-      "adjusted_close": 348750.0,
+      "date": "2023-10-11",
+      "close": 351250.0,
+      "adjusted_close": 351250.0,
       "volume": 0
     },
     {
-      "date": "2023-11-10",
-      "close": 333750.0,
-      "adjusted_close": 333750.0,
+      "date": "2023-10-16",
+      "close": 362500.0,
+      "adjusted_close": 362500.0,
       "volume": 0
     },
     {
-      "date": "2023-11-15",
-      "close": 313750.0,
-      "adjusted_close": 313750.0,
+      "date": "2023-10-19",
+      "close": 381250.0,
+      "adjusted_close": 381250.0,
       "volume": 0
     },
     {
-      "date": "2023-11-20",
-      "close": 320000.0,
-      "adjusted_close": 320000.0,
+      "date": "2023-10-24",
+      "close": 382500.0,
+      "adjusted_close": 382500.0,
       "volume": 0
     },
     {
-      "date": "2023-11-24",
-      "close": 313750.0,
-      "adjusted_close": 313750.0,
+      "date": "2023-10-27",
+      "close": 352500.0,
+      "adjusted_close": 352500.0,
       "volume": 0
     },
     {
-      "date": "2023-11-29",
-      "close": 325000.0,
-      "adjusted_close": 325000.0,
-      "volume": 0
-    },
-    {
-      "date": "2023-12-04",
-      "close": 310000.0,
-      "adjusted_close": 310000.0,
-      "volume": 0
-    },
-    {
-      "date": "2023-12-07",
-      "close": 297500.0,
-      "adjusted_close": 297500.0,
-      "volume": 0
-    },
-    {
-      "date": "2023-12-12",
-      "close": 287500.0,
-      "adjusted_close": 287500.0,
-      "volume": 0
-    },
-    {
-      "date": "2023-12-15",
-      "close": 281250.0,
-      "adjusted_close": 281250.0,
-      "volume": 0
-    },
-    {
-      "date": "2023-12-20",
-      "close": 262500.0,
-      "adjusted_close": 262500.0,
-      "volume": 0
-    },
-    {
-      "date": "2023-12-26",
-      "close": 287500.0,
-      "adjusted_close": 287500.0,
-      "volume": 0
-    },
-    {
-      "date": "2023-12-29",
-      "close": 343750.0,
-      "adjusted_close": 343750.0,
-      "volume": 1
-    },
-    {
-      "date": "2024-01-04",
-      "close": 306250.0,
-      "adjusted_close": 306250.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-01-09",
-      "close": 297500.0,
-      "adjusted_close": 297500.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-01-12",
-      "close": 290000.0,
-      "adjusted_close": 290000.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-01-18",
-      "close": 287500.0,
-      "adjusted_close": 287500.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-01-23",
-      "close": 287500.0,
-      "adjusted_close": 287500.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-01-26",
-      "close": 265000.0,
-      "adjusted_close": 265000.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-01-31",
-      "close": 250000.0,
-      "adjusted_close": 250000.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-02-05",
-      "close": 250000.0,
-      "adjusted_close": 250000.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-02-08",
-      "close": 293750.0,
-      "adjusted_close": 293750.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-02-13",
-      "close": 287500.0,
-      "adjusted_close": 287500.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-02-16",
-      "close": 356250.0,
-      "adjusted_close": 356250.0,
-      "volume": 3
-    },
-    {
-      "date": "2024-02-22",
-      "close": 360000.0,
-      "adjusted_close": 360000.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-02-27",
-      "close": 321250.0,
-      "adjusted_close": 321250.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-03-01",
-      "close": 321250.0,
-      "adjusted_close": 321250.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-03-06",
-      "close": 288750.0,
-      "adjusted_close": 288750.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-03-11",
-      "close": 305000.0,
-      "adjusted_close": 305000.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-03-14",
-      "close": 287500.0,
-      "adjusted_close": 287500.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-03-19",
-      "close": 262500.0,
-      "adjusted_close": 262500.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-03-22",
-      "close": 270000.0,
-      "adjusted_close": 270000.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-03-27",
-      "close": 282500.0,
-      "adjusted_close": 282500.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-04-02",
-      "close": 276250.0,
-      "adjusted_close": 276250.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-04-05",
-      "close": 231250.0,
-      "adjusted_close": 231250.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-04-10",
-      "close": 350000.0,
-      "adjusted_close": 350000.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-04-15",
-      "close": 348750.0,
-      "adjusted_close": 348750.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-04-18",
-      "close": 287500.0,
-      "adjusted_close": 287500.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-04-23",
-      "close": 298750.0,
-      "adjusted_close": 298750.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-04-26",
-      "close": 341250.0,
-      "adjusted_close": 341250.0,
-      "volume": 0
-    },
-    {
-      "date": "2024-05-01",
+      "date": "2023-11-01",
       "close": 328750.0,
       "adjusted_close": 328750.0,
       "volume": 0
     },
     {
-      "date": "2024-05-06",
-      "close": 323750.0,
-      "adjusted_close": 323750.0,
+      "date": "2023-11-06",
+      "close": 347500.0,
+      "adjusted_close": 347500.0,
       "volume": 0
     },
     {
-      "date": "2024-05-09",
-      "close": 401250.0,
-      "adjusted_close": 401250.0,
+      "date": "2023-11-09",
+      "close": 333750.0,
+      "adjusted_close": 333750.0,
       "volume": 0
     },
     {
-      "date": "2024-05-14",
-      "close": 442500.0,
-      "adjusted_close": 442500.0,
+      "date": "2023-11-14",
+      "close": 316250.0,
+      "adjusted_close": 316250.0,
       "volume": 0
     },
     {
-      "date": "2024-05-17",
-      "close": 525000.0,
-      "adjusted_close": 525000.0,
+      "date": "2023-11-17",
+      "close": 320000.0,
+      "adjusted_close": 320000.0,
       "volume": 0
     },
     {
-      "date": "2024-05-22",
-      "close": 512500.0,
-      "adjusted_close": 512500.0,
+      "date": "2023-11-22",
+      "close": 312500.0,
+      "adjusted_close": 312500.0,
       "volume": 0
     },
     {
-      "date": "2024-05-28",
-      "close": 563750.0,
-      "adjusted_close": 563750.0,
+      "date": "2023-11-28",
+      "close": 293750.0,
+      "adjusted_close": 293750.0,
       "volume": 0
     },
     {
-      "date": "2024-05-31",
-      "close": 606250.0,
-      "adjusted_close": 606250.0,
+      "date": "2023-12-01",
+      "close": 325000.0,
+      "adjusted_close": 325000.0,
       "volume": 0
     },
     {
-      "date": "2024-06-05",
+      "date": "2023-12-06",
+      "close": 303750.0,
+      "adjusted_close": 303750.0,
+      "volume": 0
+    },
+    {
+      "date": "2023-12-11",
+      "close": 290000.0,
+      "adjusted_close": 290000.0,
+      "volume": 0
+    },
+    {
+      "date": "2023-12-14",
+      "close": 293750.0,
+      "adjusted_close": 293750.0,
+      "volume": 0
+    },
+    {
+      "date": "2023-12-19",
+      "close": 272500.0,
+      "adjusted_close": 272500.0,
+      "volume": 0
+    },
+    {
+      "date": "2023-12-22",
+      "close": 307500.0,
+      "adjusted_close": 307500.0,
+      "volume": 0
+    },
+    {
+      "date": "2023-12-28",
+      "close": 325000.0,
+      "adjusted_close": 325000.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-01-03",
+      "close": 302500.0,
+      "adjusted_close": 302500.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-01-08",
+      "close": 297500.0,
+      "adjusted_close": 297500.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-01-11",
+      "close": 262500.0,
+      "adjusted_close": 262500.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-01-17",
+      "close": 298750.0,
+      "adjusted_close": 298750.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-01-22",
+      "close": 282500.0,
+      "adjusted_close": 282500.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-01-25",
+      "close": 281250.0,
+      "adjusted_close": 281250.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-01-30",
+      "close": 238750.0,
+      "adjusted_close": 238750.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-02-02",
+      "close": 251250.0,
+      "adjusted_close": 251250.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-02-07",
+      "close": 265000.0,
+      "adjusted_close": 265000.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-02-12",
+      "close": 265000.0,
+      "adjusted_close": 265000.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-02-15",
+      "close": 350000.0,
+      "adjusted_close": 350000.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-02-21",
+      "close": 361250.0,
+      "adjusted_close": 361250.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-02-26",
+      "close": 325000.0,
+      "adjusted_close": 325000.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-02-29",
+      "close": 318750.0,
+      "adjusted_close": 318750.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-03-05",
+      "close": 295000.0,
+      "adjusted_close": 295000.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-03-08",
+      "close": 306250.0,
+      "adjusted_close": 306250.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-03-13",
+      "close": 277500.0,
+      "adjusted_close": 277500.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-03-18",
+      "close": 275000.0,
+      "adjusted_close": 275000.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-03-21",
+      "close": 285000.0,
+      "adjusted_close": 285000.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-03-26",
+      "close": 282500.0,
+      "adjusted_close": 282500.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-04-01",
+      "close": 275000.0,
+      "adjusted_close": 275000.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-04-04",
+      "close": 272500.0,
+      "adjusted_close": 272500.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-04-09",
+      "close": 375000.0,
+      "adjusted_close": 375000.0,
+      "volume": 2
+    },
+    {
+      "date": "2024-04-12",
+      "close": 327500.0,
+      "adjusted_close": 327500.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-04-17",
+      "close": 301250.0,
+      "adjusted_close": 301250.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-04-22",
+      "close": 302500.0,
+      "adjusted_close": 302500.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-04-25",
+      "close": 340000.0,
+      "adjusted_close": 340000.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-04-30",
+      "close": 338750.0,
+      "adjusted_close": 338750.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-05-03",
+      "close": 325000.0,
+      "adjusted_close": 325000.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-05-08",
+      "close": 405000.0,
+      "adjusted_close": 405000.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-05-13",
+      "close": 435000.0,
+      "adjusted_close": 435000.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-05-16",
+      "close": 501250.0,
+      "adjusted_close": 501250.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-05-21",
+      "close": 550000.0,
+      "adjusted_close": 550000.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-05-24",
+      "close": 532500.0,
+      "adjusted_close": 532500.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-05-30",
+      "close": 550000.0,
+      "adjusted_close": 550000.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-06-04",
+      "close": 683750.0,
+      "adjusted_close": 683750.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-06-07",
       "close": 687500.0,
       "adjusted_close": 687500.0,
       "volume": 0
     },
     {
-      "date": "2024-06-10",
-      "close": 675000.0,
-      "adjusted_close": 675000.0,
+      "date": "2024-06-12",
+      "close": 638750.0,
+      "adjusted_close": 638750.0,
       "volume": 0
     },
     {
-      "date": "2024-06-13",
-      "close": 588750.0,
-      "adjusted_close": 588750.0,
+      "date": "2024-06-17",
+      "close": 612500.0,
+      "adjusted_close": 612500.0,
       "volume": 0
     },
     {
-      "date": "2024-06-18",
-      "close": 607500.0,
-      "adjusted_close": 607500.0,
+      "date": "2024-06-21",
+      "close": 737500.0,
+      "adjusted_close": 737500.0,
       "volume": 0
     },
     {
-      "date": "2024-06-24",
-      "close": 928750.0,
-      "adjusted_close": 928750.0,
+      "date": "2024-06-26",
+      "close": 875000.0,
+      "adjusted_close": 875000.0,
       "volume": 0
     },
     {
-      "date": "2024-06-27",
-      "close": 852500.0,
-      "adjusted_close": 852500.0,
+      "date": "2024-07-01",
+      "close": 898750.0,
+      "adjusted_close": 898750.0,
       "volume": 0
     },
     {
-      "date": "2024-07-02",
-      "close": 918750.0,
-      "adjusted_close": 918750.0,
+      "date": "2024-07-05",
+      "close": 1017500.0,
+      "adjusted_close": 1017500.0,
       "volume": 0
     },
     {
-      "date": "2024-07-08",
-      "close": 1086250.0,
-      "adjusted_close": 1086250.0,
+      "date": "2024-07-10",
+      "close": 1181250.0,
+      "adjusted_close": 1181250.0,
       "volume": 0
     },
     {
-      "date": "2024-07-11",
-      "close": 1250000.0,
-      "adjusted_close": 1250000.0,
+      "date": "2024-07-15",
+      "close": 1187500.0,
+      "adjusted_close": 1187500.0,
       "volume": 0
     },
     {
-      "date": "2024-07-16",
-      "close": 1217500.0,
-      "adjusted_close": 1217500.0,
+      "date": "2024-07-18",
+      "close": 1212500.0,
+      "adjusted_close": 1212500.0,
       "volume": 0
     },
     {
-      "date": "2024-07-19",
-      "close": 1058750.0,
-      "adjusted_close": 1058750.0,
+      "date": "2024-07-23",
+      "close": 1187500.0,
+      "adjusted_close": 1187500.0,
       "volume": 0
     },
     {
-      "date": "2024-07-24",
-      "close": 1175000.0,
-      "adjusted_close": 1175000.0,
+      "date": "2024-07-26",
+      "close": 1337500.0,
+      "adjusted_close": 1337500.0,
       "volume": 0
     },
     {
-      "date": "2024-07-29",
+      "date": "2024-07-31",
+      "close": 1562500.0,
+      "adjusted_close": 1562500.0,
+      "volume": 0
+    },
+    {
+      "date": "2024-08-05",
       "close": 1350000.0,
       "adjusted_close": 1350000.0,
       "volume": 0
     },
     {
-      "date": "2024-08-01",
-      "close": 1662500.0,
-      "adjusted_close": 1662500.0,
+      "date": "2024-08-08",
+      "close": 1625000.0,
+      "adjusted_close": 1625000.0,
       "volume": 0
     },
     {
-      "date": "2024-08-06",
-      "close": 1300000.0,
-      "adjusted_close": 1300000.0,
+      "date": "2024-08-13",
+      "close": 1762500.0,
+      "adjusted_close": 1762500.0,
       "volume": 0
     },
     {
-      "date": "2024-08-09",
-      "close": 1500000.0,
-      "adjusted_close": 1500000.0,
+      "date": "2024-08-16",
+      "close": 2150000.0,
+      "adjusted_close": 2150000.0,
       "volume": 0
     },
     {
-      "date": "2024-08-14",
-      "close": 1825000.0,
-      "adjusted_close": 1825000.0,
+      "date": "2024-08-21",
+      "close": 2250000.0,
+      "adjusted_close": 2250000.0,
       "volume": 0
     },
     {
-      "date": "2024-08-19",
-      "close": 2031250.0,
-      "adjusted_close": 2031250.0,
+      "date": "2024-08-26",
+      "close": 2625000.0,
+      "adjusted_close": 2625000.0,
       "volume": 0
     },
     {
-      "date": "2024-08-22",
-      "close": 2737500.0,
-      "adjusted_close": 2737500.0,
-      "volume": 1
+      "date": "2024-08-29",
+      "close": 113750.0,
+      "adjusted_close": 113750.0,
+      "volume": 780
     },
     {
-      "date": "2024-08-27",
-      "close": 2787500.0,
-      "adjusted_close": 2787500.0,
-      "volume": 0
+      "date": "2024-09-04",
+      "close": 87500.0,
+      "adjusted_close": 87500.0,
+      "volume": 120
     },
     {
-      "date": "2024-08-30",
-      "close": 95000.0,
-      "adjusted_close": 95000.0,
-      "volume": 309
+      "date": "2024-09-09",
+      "close": 60000.0,
+      "adjusted_close": 60000.0,
+      "volume": 206
     },
     {
-      "date": "2024-09-05",
-      "close": 81250.0,
-      "adjusted_close": 81250.0,
-      "volume": 91
+      "date": "2024-09-12",
+      "close": 38450.0,
+      "adjusted_close": 38450.0,
+      "volume": 145
     },
     {
-      "date": "2024-09-10",
-      "close": 50000.0,
-      "adjusted_close": 50000.0,
-      "volume": 113
+      "date": "2024-09-17",
+      "close": 27650.0,
+      "adjusted_close": 27650.0,
+      "volume": 56
     },
     {
-      "date": "2024-09-13",
-      "close": 33000.0,
-      "adjusted_close": 33000.0,
-      "volume": 133
+      "date": "2024-09-20",
+      "close": 28600.0,
+      "adjusted_close": 28600.0,
+      "volume": 158
     },
     {
-      "date": "2024-09-18",
-      "close": 25500.0,
-      "adjusted_close": 25500.0,
-      "volume": 53
+      "date": "2024-09-25",
+      "close": 23100.0,
+      "adjusted_close": 23100.0,
+      "volume": 49
     },
     {
-      "date": "2024-09-23",
-      "close": 25400.0,
-      "adjusted_close": 25400.0,
-      "volume": 39
+      "date": "2024-09-30",
+      "close": 23700.0,
+      "adjusted_close": 23700.0,
+      "volume": 52
     },
     {
-      "date": "2024-09-26",
-      "close": 24400.0,
-      "adjusted_close": 24400.0,
-      "volume": 60
+      "date": "2024-10-03",
+      "close": 21550.0,
+      "adjusted_close": 21550.0,
+      "volume": 25
     },
     {
-      "date": "2024-10-01",
-      "close": 21650.0,
-      "adjusted_close": 21650.0,
-      "volume": 23
-    },
-    {
-      "date": "2024-10-04",
-      "close": 21400.0,
-      "adjusted_close": 21400.0,
-      "volume": 20
-    },
-    {
-      "date": "2024-10-09",
-      "close": 18300.0,
-      "adjusted_close": 18300.0,
-      "volume": 20
-    },
-    {
-      "date": "2024-10-14",
-      "close": 21250.0,
-      "adjusted_close": 21250.0,
-      "volume": 41
-    },
-    {
-      "date": "2024-10-17",
-      "close": 22050.0,
-      "adjusted_close": 22050.0,
-      "volume": 18
-    },
-    {
-      "date": "2024-10-22",
-      "close": 23500.0,
-      "adjusted_close": 23500.0,
-      "volume": 28
-    },
-    {
-      "date": "2024-10-25",
-      "close": 21250.0,
-      "adjusted_close": 21250.0,
-      "volume": 7
-    },
-    {
-      "date": "2024-10-30",
-      "close": 21950.0,
-      "adjusted_close": 21950.0,
-      "volume": 8
-    },
-    {
-      "date": "2024-11-04",
-      "close": 19950.0,
-      "adjusted_close": 19950.0,
-      "volume": 9
-    },
-    {
-      "date": "2024-11-07",
-      "close": 15650.0,
-      "adjusted_close": 15650.0,
-      "volume": 31
-    },
-    {
-      "date": "2024-11-12",
-      "close": 19050.0,
-      "adjusted_close": 19050.0,
-      "volume": 18
-    },
-    {
-      "date": "2024-11-15",
-      "close": 16450.0,
-      "adjusted_close": 16450.0,
-      "volume": 8
-    },
-    {
-      "date": "2024-11-20",
-      "close": 17100.0,
-      "adjusted_close": 17100.0,
-      "volume": 7
-    },
-    {
-      "date": "2024-11-25",
-      "close": 17250.0,
-      "adjusted_close": 17250.0,
-      "volume": 9
-    },
-    {
-      "date": "2024-11-29",
-      "close": 17400.0,
-      "adjusted_close": 17400.0,
-      "volume": 3
-    },
-    {
-      "date": "2024-12-04",
-      "close": 16700.0,
-      "adjusted_close": 16700.0,
-      "volume": 36
-    },
-    {
-      "date": "2024-12-09",
-      "close": 17350.0,
-      "adjusted_close": 17350.0,
-      "volume": 19
-    },
-    {
-      "date": "2024-12-12",
-      "close": 20900.0,
-      "adjusted_close": 20900.0,
-      "volume": 76
-    },
-    {
-      "date": "2024-12-17",
-      "close": 14000.0,
-      "adjusted_close": 14000.0,
-      "volume": 15
-    },
-    {
-      "date": "2024-12-20",
-      "close": 13550.0,
-      "adjusted_close": 13550.0,
-      "volume": 12
-    },
-    {
-      "date": "2024-12-26",
-      "close": 15250.0,
-      "adjusted_close": 15250.0,
-      "volume": 17
-    },
-    {
-      "date": "2024-12-31",
-      "close": 15650.0,
-      "adjusted_close": 15650.0,
-      "volume": 43
-    },
-    {
-      "date": "2025-01-06",
-      "close": 20000.0,
-      "adjusted_close": 20000.0,
-      "volume": 44
-    },
-    {
-      "date": "2025-01-10",
-      "close": 15700.0,
-      "adjusted_close": 15700.0,
-      "volume": 44
-    },
-    {
-      "date": "2025-01-15",
-      "close": 16100.0,
-      "adjusted_close": 16100.0,
-      "volume": 13
-    },
-    {
-      "date": "2025-01-21",
-      "close": 14250.0,
-      "adjusted_close": 14250.0,
-      "volume": 19
-    },
-    {
-      "date": "2025-01-24",
-      "close": 15200.0,
-      "adjusted_close": 15200.0,
-      "volume": 13
-    },
-    {
-      "date": "2025-01-29",
-      "close": 14550.0,
-      "adjusted_close": 14550.0,
-      "volume": 7
-    },
-    {
-      "date": "2025-02-03",
-      "close": 13500.0,
-      "adjusted_close": 13500.0,
-      "volume": 8
-    },
-    {
-      "date": "2025-02-06",
-      "close": 13550.0,
-      "adjusted_close": 13550.0,
-      "volume": 10
-    },
-    {
-      "date": "2025-02-11",
-      "close": 14100.0,
-      "adjusted_close": 14100.0,
-      "volume": 21
-    },
-    {
-      "date": "2025-02-14",
-      "close": 14000.0,
-      "adjusted_close": 14000.0,
-      "volume": 9
-    },
-    {
-      "date": "2025-02-20",
-      "close": 13450.0,
-      "adjusted_close": 13450.0,
-      "volume": 3
-    },
-    {
-      "date": "2025-02-25",
-      "close": 13100.0,
-      "adjusted_close": 13100.0,
-      "volume": 6
-    },
-    {
-      "date": "2025-02-28",
-      "close": 11650.0,
-      "adjusted_close": 11650.0,
-      "volume": 7
-    },
-    {
-      "date": "2025-03-05",
-      "close": 11150.0,
-      "adjusted_close": 11150.0,
-      "volume": 3
-    },
-    {
-      "date": "2025-03-10",
-      "close": 10600.0,
-      "adjusted_close": 10600.0,
-      "volume": 6
-    },
-    {
-      "date": "2025-03-13",
-      "close": 9900.0,
-      "adjusted_close": 9900.0,
-      "volume": 5
-    },
-    {
-      "date": "2025-03-18",
-      "close": 9950.0,
-      "adjusted_close": 9950.0,
-      "volume": 3
-    },
-    {
-      "date": "2025-03-21",
-      "close": 11850.0,
-      "adjusted_close": 11850.0,
-      "volume": 5
-    },
-    {
-      "date": "2025-03-26",
-      "close": 8100.0,
-      "adjusted_close": 8100.0,
-      "volume": 45
-    },
-    {
-      "date": "2025-03-31",
-      "close": 7900.0,
-      "adjusted_close": 7900.0,
+      "date": "2024-10-08",
+      "close": 19100.0,
+      "adjusted_close": 19100.0,
       "volume": 32
     },
     {
-      "date": "2025-04-03",
-      "close": 6500.0,
-      "adjusted_close": 6500.0,
-      "volume": 11
-    },
-    {
-      "date": "2025-04-08",
-      "close": 6150.0,
-      "adjusted_close": 6150.0,
-      "volume": 11
-    },
-    {
-      "date": "2025-04-11",
-      "close": 10750.0,
-      "adjusted_close": 10750.0,
-      "volume": 238
-    },
-    {
-      "date": "2025-04-16",
-      "close": 8815.0,
-      "adjusted_close": 8815.0,
-      "volume": 43
-    },
-    {
-      "date": "2025-04-22",
-      "close": 7450.0,
-      "adjusted_close": 7450.0,
-      "volume": 11
-    },
-    {
-      "date": "2025-04-25",
-      "close": 10250.0,
-      "adjusted_close": 10250.0,
-      "volume": 237
-    },
-    {
-      "date": "2025-04-30",
-      "close": 10000.0,
-      "adjusted_close": 10000.0,
-      "volume": 7
-    },
-    {
-      "date": "2025-05-05",
-      "close": 9750.0,
-      "adjusted_close": 9750.0,
-      "volume": 9
-    },
-    {
-      "date": "2025-05-08",
-      "close": 8900.0,
-      "adjusted_close": 8900.0,
-      "volume": 6
-    },
-    {
-      "date": "2025-05-13",
-      "close": 11050.0,
-      "adjusted_close": 11050.0,
-      "volume": 24
-    },
-    {
-      "date": "2025-05-16",
-      "close": 9550.0,
-      "adjusted_close": 9550.0,
-      "volume": 4
-    },
-    {
-      "date": "2025-05-21",
-      "close": 11350.0,
-      "adjusted_close": 11350.0,
+      "date": "2024-10-11",
+      "close": 19400.0,
+      "adjusted_close": 19400.0,
       "volume": 15
     },
     {
-      "date": "2025-05-27",
-      "close": 4300.0,
-      "adjusted_close": 4300.0,
-      "volume": 141
+      "date": "2024-10-16",
+      "close": 21600.0,
+      "adjusted_close": 21600.0,
+      "volume": 52
     },
     {
-      "date": "2025-05-30",
-      "close": 4600.0,
-      "adjusted_close": 4600.0,
-      "volume": 15
+      "date": "2024-10-21",
+      "close": 21350.0,
+      "adjusted_close": 21350.0,
+      "volume": 22
     },
     {
-      "date": "2025-06-04",
-      "close": 4695.0,
-      "adjusted_close": 4695.0,
-      "volume": 11
-    },
-    {
-      "date": "2025-06-09",
-      "close": 4500.0,
-      "adjusted_close": 4500.0,
-      "volume": 10
-    },
-    {
-      "date": "2025-06-12",
-      "close": 4500.0,
-      "adjusted_close": 4500.0,
-      "volume": 10
-    },
-    {
-      "date": "2025-06-17",
-      "close": 4630.0,
-      "adjusted_close": 4630.0,
-      "volume": 9
-    },
-    {
-      "date": "2025-06-23",
-      "close": 4500.0,
-      "adjusted_close": 4500.0,
-      "volume": 17
-    },
-    {
-      "date": "2025-06-26",
-      "close": 4500.0,
-      "adjusted_close": 4500.0,
-      "volume": 9
-    },
-    {
-      "date": "2025-07-01",
-      "close": 4675.0,
-      "adjusted_close": 4675.0,
-      "volume": 2
-    },
-    {
-      "date": "2025-07-07",
-      "close": 4900.0,
-      "adjusted_close": 4900.0,
-      "volume": 10
-    },
-    {
-      "date": "2025-07-10",
-      "close": 5050.0,
-      "adjusted_close": 5050.0,
-      "volume": 3
-    },
-    {
-      "date": "2025-07-15",
-      "close": 5300.0,
-      "adjusted_close": 5300.0,
-      "volume": 28
-    },
-    {
-      "date": "2025-07-18",
-      "close": 5875.0,
-      "adjusted_close": 5875.0,
-      "volume": 54
-    },
-    {
-      "date": "2025-07-23",
-      "close": 5850.0,
-      "adjusted_close": 5850.0,
-      "volume": 2
-    },
-    {
-      "date": "2025-07-28",
-      "close": 5950.0,
-      "adjusted_close": 5950.0,
-      "volume": 4
-    },
-    {
-      "date": "2025-07-31",
-      "close": 5500.0,
-      "adjusted_close": 5500.0,
-      "volume": 2
-    },
-    {
-      "date": "2025-08-05",
-      "close": 5800.0,
-      "adjusted_close": 5800.0,
-      "volume": 19
-    },
-    {
-      "date": "2025-08-08",
-      "close": 5500.0,
-      "adjusted_close": 5500.0,
-      "volume": 1
-    },
-    {
-      "date": "2025-08-13",
-      "close": 5400.0,
-      "adjusted_close": 5400.0,
-      "volume": 3
-    },
-    {
-      "date": "2025-08-18",
-      "close": 4550.0,
-      "adjusted_close": 4550.0,
-      "volume": 34
-    },
-    {
-      "date": "2025-08-21",
-      "close": 4510.0,
-      "adjusted_close": 4510.0,
-      "volume": 2
-    },
-    {
-      "date": "2025-08-26",
-      "close": 4550.0,
-      "adjusted_close": 4550.0,
-      "volume": 6
-    },
-    {
-      "date": "2025-08-29",
-      "close": 4455.0,
-      "adjusted_close": 4455.0,
-      "volume": 12
-    },
-    {
-      "date": "2025-09-04",
-      "close": 5200.0,
-      "adjusted_close": 5200.0,
-      "volume": 19
-    },
-    {
-      "date": "2025-09-09",
-      "close": 5750.0,
-      "adjusted_close": 5750.0,
-      "volume": 13
-    },
-    {
-      "date": "2025-09-12",
-      "close": 6700.0,
-      "adjusted_close": 6700.0,
-      "volume": 702
-    },
-    {
-      "date": "2025-09-17",
-      "close": 5550.0,
-      "adjusted_close": 5550.0,
-      "volume": 15
-    },
-    {
-      "date": "2025-09-22",
-      "close": 5950.0,
-      "adjusted_close": 5950.0,
-      "volume": 16
-    },
-    {
-      "date": "2025-09-25",
-      "close": 5450.0,
-      "adjusted_close": 5450.0,
-      "volume": 7
-    },
-    {
-      "date": "2025-09-30",
-      "close": 5600.0,
-      "adjusted_close": 5600.0,
-      "volume": 10
-    },
-    {
-      "date": "2025-10-03",
-      "close": 5850.0,
-      "adjusted_close": 5850.0,
-      "volume": 14
-    },
-    {
-      "date": "2025-10-08",
-      "close": 6025.0,
-      "adjusted_close": 6025.0,
+      "date": "2024-10-24",
+      "close": 21750.0,
+      "adjusted_close": 21750.0,
       "volume": 8
     },
     {
-      "date": "2025-10-13",
-      "close": 6100.0,
-      "adjusted_close": 6100.0,
+      "date": "2024-10-29",
+      "close": 22500.0,
+      "adjusted_close": 22500.0,
+      "volume": 7
+    },
+    {
+      "date": "2024-11-01",
+      "close": 21000.0,
+      "adjusted_close": 21000.0,
+      "volume": 8
+    },
+    {
+      "date": "2024-11-06",
+      "close": 18700.0,
+      "adjusted_close": 18700.0,
+      "volume": 9
+    },
+    {
+      "date": "2024-11-11",
+      "close": 19900.0,
+      "adjusted_close": 19900.0,
+      "volume": 87
+    },
+    {
+      "date": "2024-11-14",
+      "close": 17750.0,
+      "adjusted_close": 17750.0,
+      "volume": 7
+    },
+    {
+      "date": "2024-11-19",
+      "close": 16800.0,
+      "adjusted_close": 16800.0,
+      "volume": 8
+    },
+    {
+      "date": "2024-11-22",
+      "close": 17350.0,
+      "adjusted_close": 17350.0,
+      "volume": 5
+    },
+    {
+      "date": "2024-11-27",
+      "close": 17050.0,
+      "adjusted_close": 17050.0,
+      "volume": 7
+    },
+    {
+      "date": "2024-12-03",
+      "close": 19500.0,
+      "adjusted_close": 19500.0,
+      "volume": 19
+    },
+    {
+      "date": "2024-12-06",
+      "close": 16250.0,
+      "adjusted_close": 16250.0,
+      "volume": 7
+    },
+    {
+      "date": "2024-12-11",
+      "close": 15750.0,
+      "adjusted_close": 15750.0,
+      "volume": 12
+    },
+    {
+      "date": "2024-12-16",
+      "close": 14500.0,
+      "adjusted_close": 14500.0,
+      "volume": 16
+    },
+    {
+      "date": "2024-12-19",
+      "close": 13500.0,
+      "adjusted_close": 13500.0,
+      "volume": 10
+    },
+    {
+      "date": "2024-12-24",
+      "close": 14950.0,
+      "adjusted_close": 14950.0,
+      "volume": 16
+    },
+    {
+      "date": "2024-12-30",
+      "close": 15500.0,
+      "adjusted_close": 15500.0,
+      "volume": 18
+    },
+    {
+      "date": "2025-01-03",
+      "close": 20500.0,
+      "adjusted_close": 20500.0,
+      "volume": 150
+    },
+    {
+      "date": "2025-01-08",
+      "close": 16550.0,
+      "adjusted_close": 16550.0,
+      "volume": 21
+    },
+    {
+      "date": "2025-01-14",
+      "close": 14350.0,
+      "adjusted_close": 14350.0,
+      "volume": 16
+    },
+    {
+      "date": "2025-01-17",
+      "close": 15050.0,
+      "adjusted_close": 15050.0,
+      "volume": 6
+    },
+    {
+      "date": "2025-01-23",
+      "close": 14600.0,
+      "adjusted_close": 14600.0,
+      "volume": 7
+    },
+    {
+      "date": "2025-01-28",
+      "close": 14850.0,
+      "adjusted_close": 14850.0,
+      "volume": 8
+    },
+    {
+      "date": "2025-01-31",
+      "close": 13550.0,
+      "adjusted_close": 13550.0,
+      "volume": 12
+    },
+    {
+      "date": "2025-02-05",
+      "close": 13700.0,
+      "adjusted_close": 13700.0,
+      "volume": 6
+    },
+    {
+      "date": "2025-02-10",
+      "close": 13250.0,
+      "adjusted_close": 13250.0,
+      "volume": 8
+    },
+    {
+      "date": "2025-02-13",
+      "close": 14350.0,
+      "adjusted_close": 14350.0,
+      "volume": 6
+    },
+    {
+      "date": "2025-02-19",
+      "close": 13650.0,
+      "adjusted_close": 13650.0,
+      "volume": 4
+    },
+    {
+      "date": "2025-02-24",
+      "close": 13550.0,
+      "adjusted_close": 13550.0,
+      "volume": 8
+    },
+    {
+      "date": "2025-02-27",
+      "close": 12450.0,
+      "adjusted_close": 12450.0,
+      "volume": 7
+    },
+    {
+      "date": "2025-03-04",
+      "close": 10750.0,
+      "adjusted_close": 10750.0,
+      "volume": 10
+    },
+    {
+      "date": "2025-03-07",
+      "close": 11700.0,
+      "adjusted_close": 11700.0,
+      "volume": 5
+    },
+    {
+      "date": "2025-03-12",
+      "close": 10000.0,
+      "adjusted_close": 10000.0,
       "volume": 3
     },
     {
-      "date": "2025-10-16",
-      "close": 675.0,
-      "adjusted_close": 675.0,
-      "volume": 8306
+      "date": "2025-03-17",
+      "close": 10400.0,
+      "adjusted_close": 10400.0,
+      "volume": 5
     },
     {
-      "date": "2025-10-21",
-      "close": 335.0,
-      "adjusted_close": 335.0,
-      "volume": 5803
+      "date": "2025-03-20",
+      "close": 11250.0,
+      "adjusted_close": 11250.0,
+      "volume": 3
     },
     {
-      "date": "2025-10-24",
-      "close": 320.0,
-      "adjusted_close": 320.0,
-      "volume": 11646
+      "date": "2025-03-25",
+      "close": 10350.0,
+      "adjusted_close": 10350.0,
+      "volume": 9
     },
     {
-      "date": "2025-10-29",
-      "close": 245.0,
-      "adjusted_close": 245.0,
-      "volume": 15593
+      "date": "2025-03-28",
+      "close": 7550.0,
+      "adjusted_close": 7550.0,
+      "volume": 12
     },
     {
-      "date": "2025-11-03",
-      "close": 265.0,
-      "adjusted_close": 265.0,
-      "volume": 33425
+      "date": "2025-04-02",
+      "close": 7100.0,
+      "adjusted_close": 7100.0,
+      "volume": 27
     },
     {
-      "date": "2025-11-06",
-      "close": 235.0,
-      "adjusted_close": 235.0,
-      "volume": 17826
+      "date": "2025-04-07",
+      "close": 6125.0,
+      "adjusted_close": 6125.0,
+      "volume": 17
     },
     {
-      "date": "2025-11-11",
-      "close": 160.0,
-      "adjusted_close": 160.0,
-      "volume": 13270
+      "date": "2025-04-10",
+      "close": 6650.0,
+      "adjusted_close": 6650.0,
+      "volume": 4
     },
     {
-      "date": "2025-11-14",
-      "close": 120.0,
-      "adjusted_close": 120.0,
-      "volume": 288609
+      "date": "2025-04-15",
+      "close": 8000.0,
+      "adjusted_close": 8000.0,
+      "volume": 13
     },
     {
-      "date": "2025-11-19",
-      "close": 115.0,
-      "adjusted_close": 115.0,
-      "volume": 14468
+      "date": "2025-04-21",
+      "close": 6800.0,
+      "adjusted_close": 6800.0,
+      "volume": 5
     },
     {
-      "date": "2025-11-24",
-      "close": 71.5,
-      "adjusted_close": 71.5,
-      "volume": 15020
+      "date": "2025-04-24",
+      "close": 8000.0,
+      "adjusted_close": 8000.0,
+      "volume": 5
     },
     {
-      "date": "2025-11-28",
-      "close": 58.5,
-      "adjusted_close": 58.5,
-      "volume": 3902
+      "date": "2025-04-29",
+      "close": 10250.0,
+      "adjusted_close": 10250.0,
+      "volume": 17
     },
     {
-      "date": "2025-12-03",
-      "close": 54.0,
-      "adjusted_close": 54.0,
-      "volume": 4408
+      "date": "2025-05-02",
+      "close": 10010.0,
+      "adjusted_close": 10010.0,
+      "volume": 4
     },
     {
-      "date": "2025-12-08",
-      "close": 60.0,
-      "adjusted_close": 60.0,
-      "volume": 5384
+      "date": "2025-05-07",
+      "close": 8750.0,
+      "adjusted_close": 8750.0,
+      "volume": 4
     },
     {
-      "date": "2025-12-11",
-      "close": 54.5,
-      "adjusted_close": 54.5,
-      "volume": 3620
+      "date": "2025-05-12",
+      "close": 9700.0,
+      "adjusted_close": 9700.0,
+      "volume": 10
     },
     {
-      "date": "2025-12-16",
-      "close": 43.400001525878906,
-      "adjusted_close": 43.400001525878906,
-      "volume": 2526
+      "date": "2025-05-15",
+      "close": 9800.0,
+      "adjusted_close": 9800.0,
+      "volume": 10
     },
     {
-      "date": "2025-12-19",
-      "close": 36.45000076293945,
-      "adjusted_close": 36.45000076293945,
-      "volume": 3932
+      "date": "2025-05-20",
+      "close": 11550.0,
+      "adjusted_close": 11550.0,
+      "volume": 42
     },
     {
-      "date": "2025-12-24",
-      "close": 33.5,
-      "adjusted_close": 33.5,
-      "volume": 1726
+      "date": "2025-05-23",
+      "close": 5750.0,
+      "adjusted_close": 5750.0,
+      "volume": 267
     },
     {
-      "date": "2025-12-30",
-      "close": 31.649999618530277,
-      "adjusted_close": 31.649999618530277,
-      "volume": 3640
+      "date": "2025-05-29",
+      "close": 5000.0,
+      "adjusted_close": 5000.0,
+      "volume": 67
     },
     {
-      "date": "2026-01-05",
-      "close": 40.5,
-      "adjusted_close": 40.5,
-      "volume": 15452
+      "date": "2025-06-03",
+      "close": 4525.0,
+      "adjusted_close": 4525.0,
+      "volume": 13
     },
     {
-      "date": "2026-01-08",
-      "close": 34.25,
-      "adjusted_close": 34.25,
-      "volume": 4662
+      "date": "2025-06-06",
+      "close": 4500.0,
+      "adjusted_close": 4500.0,
+      "volume": 14
     },
     {
-      "date": "2026-01-13",
+      "date": "2025-06-11",
+      "close": 4485.0,
+      "adjusted_close": 4485.0,
+      "volume": 7
+    },
+    {
+      "date": "2025-06-16",
+      "close": 5150.0,
+      "adjusted_close": 5150.0,
+      "volume": 71
+    },
+    {
+      "date": "2025-06-20",
+      "close": 4550.0,
+      "adjusted_close": 4550.0,
+      "volume": 8
+    },
+    {
+      "date": "2025-06-25",
+      "close": 4650.0,
+      "adjusted_close": 4650.0,
+      "volume": 6
+    },
+    {
+      "date": "2025-06-30",
+      "close": 4810.0,
+      "adjusted_close": 4810.0,
+      "volume": 3
+    },
+    {
+      "date": "2025-07-03",
+      "close": 4875.0,
+      "adjusted_close": 4875.0,
+      "volume": 5
+    },
+    {
+      "date": "2025-07-09",
+      "close": 4850.0,
+      "adjusted_close": 4850.0,
+      "volume": 5
+    },
+    {
+      "date": "2025-07-14",
+      "close": 5300.0,
+      "adjusted_close": 5300.0,
+      "volume": 29
+    },
+    {
+      "date": "2025-07-17",
+      "close": 5475.0,
+      "adjusted_close": 5475.0,
+      "volume": 12
+    },
+    {
+      "date": "2025-07-22",
+      "close": 5775.0,
+      "adjusted_close": 5775.0,
+      "volume": 29
+    },
+    {
+      "date": "2025-07-25",
+      "close": 5900.0,
+      "adjusted_close": 5900.0,
+      "volume": 4
+    },
+    {
+      "date": "2025-07-30",
+      "close": 5450.0,
+      "adjusted_close": 5450.0,
+      "volume": 9
+    },
+    {
+      "date": "2025-08-04",
+      "close": 5400.0,
+      "adjusted_close": 5400.0,
+      "volume": 9
+    },
+    {
+      "date": "2025-08-07",
+      "close": 5750.0,
+      "adjusted_close": 5750.0,
+      "volume": 20
+    },
+    {
+      "date": "2025-08-12",
+      "close": 5350.0,
+      "adjusted_close": 5350.0,
+      "volume": 7
+    },
+    {
+      "date": "2025-08-15",
+      "close": 5050.0,
+      "adjusted_close": 5050.0,
+      "volume": 18
+    },
+    {
+      "date": "2025-08-20",
+      "close": 4650.0,
+      "adjusted_close": 4650.0,
+      "volume": 4
+    },
+    {
+      "date": "2025-08-25",
+      "close": 4650.0,
+      "adjusted_close": 4650.0,
+      "volume": 8
+    },
+    {
+      "date": "2025-08-28",
+      "close": 4350.0,
+      "adjusted_close": 4350.0,
+      "volume": 1
+    },
+    {
+      "date": "2025-09-03",
+      "close": 4900.0,
+      "adjusted_close": 4900.0,
+      "volume": 12
+    },
+    {
+      "date": "2025-09-08",
+      "close": 5450.0,
+      "adjusted_close": 5450.0,
+      "volume": 4
+    },
+    {
+      "date": "2025-09-11",
+      "close": 6400.0,
+      "adjusted_close": 6400.0,
+      "volume": 1190
+    },
+    {
+      "date": "2025-09-16",
+      "close": 5500.0,
+      "adjusted_close": 5500.0,
+      "volume": 41
+    },
+    {
+      "date": "2025-09-19",
+      "close": 5950.0,
+      "adjusted_close": 5950.0,
+      "volume": 15
+    },
+    {
+      "date": "2025-09-24",
+      "close": 5500.0,
+      "adjusted_close": 5500.0,
+      "volume": 11
+    },
+    {
+      "date": "2025-09-29",
+      "close": 5300.0,
+      "adjusted_close": 5300.0,
+      "volume": 4
+    },
+    {
+      "date": "2025-10-02",
+      "close": 5650.0,
+      "adjusted_close": 5650.0,
+      "volume": 16
+    },
+    {
+      "date": "2025-10-07",
+      "close": 5850.0,
+      "adjusted_close": 5850.0,
+      "volume": 8
+    },
+    {
+      "date": "2025-10-10",
+      "close": 5850.0,
+      "adjusted_close": 5850.0,
+      "volume": 7
+    },
+    {
+      "date": "2025-10-15",
+      "close": 6050.0,
+      "adjusted_close": 6050.0,
+      "volume": 9
+    },
+    {
+      "date": "2025-10-20",
+      "close": 325.0,
+      "adjusted_close": 325.0,
+      "volume": 10705
+    },
+    {
+      "date": "2025-10-23",
+      "close": 345.0,
+      "adjusted_close": 345.0,
+      "volume": 16722
+    },
+    {
+      "date": "2025-10-28",
+      "close": 280.0,
+      "adjusted_close": 280.0,
+      "volume": 18907
+    },
+    {
+      "date": "2025-10-31",
+      "close": 230.0,
+      "adjusted_close": 230.0,
+      "volume": 65359
+    },
+    {
+      "date": "2025-11-05",
+      "close": 250.0,
+      "adjusted_close": 250.0,
+      "volume": 14031
+    },
+    {
+      "date": "2025-11-10",
+      "close": 190.0,
+      "adjusted_close": 190.0,
+      "volume": 13639
+    },
+    {
+      "date": "2025-11-13",
+      "close": 100.0,
+      "adjusted_close": 100.0,
+      "volume": 21353
+    },
+    {
+      "date": "2025-11-18",
+      "close": 140.0,
+      "adjusted_close": 140.0,
+      "volume": 33244
+    },
+    {
+      "date": "2025-11-21",
+      "close": 82.5,
+      "adjusted_close": 82.5,
+      "volume": 11872
+    },
+    {
+      "date": "2025-11-26",
+      "close": 61.0,
+      "adjusted_close": 61.0,
+      "volume": 6510
+    },
+    {
+      "date": "2025-12-02",
+      "close": 56.0,
+      "adjusted_close": 56.0,
+      "volume": 5546
+    },
+    {
+      "date": "2025-12-05",
+      "close": 56.5,
+      "adjusted_close": 56.5,
+      "volume": 4656
+    },
+    {
+      "date": "2025-12-10",
+      "close": 55.0,
+      "adjusted_close": 55.0,
+      "volume": 7970
+    },
+    {
+      "date": "2025-12-15",
+      "close": 42.25,
+      "adjusted_close": 42.25,
+      "volume": 5608
+    },
+    {
+      "date": "2025-12-18",
+      "close": 37.45000076293945,
+      "adjusted_close": 37.45000076293945,
+      "volume": 4134
+    },
+    {
+      "date": "2025-12-23",
+      "close": 34.45000076293945,
+      "adjusted_close": 34.45000076293945,
+      "volume": 4006
+    },
+    {
+      "date": "2025-12-29",
+      "close": 30.5,
+      "adjusted_close": 30.5,
+      "volume": 3474
+    },
+    {
+      "date": "2026-01-02",
+      "close": 42.0,
+      "adjusted_close": 42.0,
+      "volume": 106148
+    },
+    {
+      "date": "2026-01-07",
+      "close": 38.900001525878906,
+      "adjusted_close": 38.900001525878906,
+      "volume": 6404
+    },
+    {
+      "date": "2026-01-12",
+      "close": 35.5,
+      "adjusted_close": 35.5,
+      "volume": 2194
+    },
+    {
+      "date": "2026-01-15",
+      "close": 38.54999923706055,
+      "adjusted_close": 38.54999923706055,
+      "volume": 1616
+    },
+    {
+      "date": "2026-01-21",
       "close": 37.0,
       "adjusted_close": 37.0,
-      "volume": 1934
+      "volume": 2960
     },
     {
-      "date": "2026-01-16",
-      "close": 37.59999847412109,
-      "adjusted_close": 37.59999847412109,
-      "volume": 2128
+      "date": "2026-01-26",
+      "close": 27.0,
+      "adjusted_close": 27.0,
+      "volume": 2050
     },
     {
-      "date": "2026-01-22",
-      "close": 31.450000762939453,
-      "adjusted_close": 31.450000762939453,
-      "volume": 9702
+      "date": "2026-01-29",
+      "close": 30.350000381469727,
+      "adjusted_close": 30.350000381469727,
+      "volume": 2272
     },
     {
-      "date": "2026-01-27",
-      "close": 29.25,
-      "adjusted_close": 29.25,
-      "volume": 3290
+      "date": "2026-02-03",
+      "close": 55.0,
+      "adjusted_close": 55.0,
+      "volume": 164330
     },
     {
-      "date": "2026-01-30",
-      "close": 29.899999618530277,
-      "adjusted_close": 29.899999618530277,
-      "volume": 1796
+      "date": "2026-02-06",
+      "close": 31.149999618530277,
+      "adjusted_close": 31.149999618530277,
+      "volume": 20914
     },
     {
-      "date": "2026-02-04",
-      "close": 36.5,
-      "adjusted_close": 36.5,
-      "volume": 73330
+      "date": "2026-02-11",
+      "close": 34.599998474121094,
+      "adjusted_close": 34.599998474121094,
+      "volume": 43944
     },
     {
-      "date": "2026-02-09",
-      "close": 30.0,
-      "adjusted_close": 30.0,
-      "volume": 5544
-    },
-    {
-      "date": "2026-02-12",
-      "close": 30.0,
-      "adjusted_close": 30.0,
-      "volume": 3670
-    },
-    {
-      "date": "2026-02-18",
-      "close": 26.399999618530277,
-      "adjusted_close": 26.399999618530277,
-      "volume": 4910
-    },
-    {
-      "date": "2026-02-23",
-      "close": 31.5,
-      "adjusted_close": 31.5,
-      "volume": 3890
-    },
-    {
-      "date": "2026-02-26",
-      "close": 35.900001525878906,
-      "adjusted_close": 35.900001525878906,
-      "volume": 5670
-    },
-    {
-      "date": "2026-03-03",
-      "close": 31.899999618530277,
-      "adjusted_close": 31.899999618530277,
-      "volume": 2650
-    },
-    {
-      "date": "2026-03-06",
-      "close": 30.0,
-      "adjusted_close": 30.0,
-      "volume": 660
-    },
-    {
-      "date": "2026-03-11",
-      "close": 29.700000762939453,
-      "adjusted_close": 29.700000762939453,
-      "volume": 880
-    },
-    {
-      "date": "2026-03-16",
-      "close": 30.100000381469727,
-      "adjusted_close": 30.100000381469727,
-      "volume": 13020
-    },
-    {
-      "date": "2026-03-19",
-      "close": 28.200000762939453,
-      "adjusted_close": 28.200000762939453,
-      "volume": 760
-    },
-    {
-      "date": "2026-03-24",
-      "close": 27.200000762939453,
-      "adjusted_close": 27.200000762939453,
-      "volume": 3110
-    },
-    {
-      "date": "2026-03-27",
-      "close": 28.799999237060547,
-      "adjusted_close": 28.799999237060547,
-      "volume": 9020
-    },
-    {
-      "date": "2026-04-01",
-      "close": 26.100000381469727,
-      "adjusted_close": 26.100000381469727,
-      "volume": 1070
-    },
-    {
-      "date": "2026-04-07",
-      "close": 26.299999237060547,
-      "adjusted_close": 26.299999237060547,
-      "volume": 850
-    },
-    {
-      "date": "2026-04-10",
+      "date": "2026-02-17",
       "close": 25.799999237060547,
       "adjusted_close": 25.799999237060547,
-      "volume": 500
+      "volume": 9470
     },
     {
-      "date": "2026-04-15",
-      "close": 25.5,
-      "adjusted_close": 25.5,
-      "volume": 870
-    },
-    {
-      "date": "2026-04-20",
-      "close": 22.899999618530277,
-      "adjusted_close": 22.899999618530277,
-      "volume": 930
-    },
-    {
-      "date": "2026-04-23",
-      "close": 22.3799991607666,
-      "adjusted_close": 22.3799991607666,
-      "volume": 1060
-    },
-    {
-      "date": "2026-04-28",
-      "close": 20.299999237060547,
-      "adjusted_close": 20.299999237060547,
-      "volume": 610
-    },
-    {
-      "date": "2026-05-01",
-      "close": 15.0,
-      "adjusted_close": 15.0,
-      "volume": 2910970
-    },
-    {
-      "date": "2026-05-06",
-      "close": 9.770000457763672,
-      "adjusted_close": 9.770000457763672,
-      "volume": 84900
-    },
-    {
-      "date": "2026-05-11",
-      "close": 10.699999809265137,
-      "adjusted_close": 10.699999809265137,
-      "volume": 12130
-    },
-    {
-      "date": "2026-05-14",
-      "close": 8.880000114440918,
-      "adjusted_close": 8.880000114440918,
+      "date": "2026-02-20",
+      "close": 31.299999237060547,
+      "adjusted_close": 31.299999237060547,
       "volume": 9830
     },
     {
-      "date": "2026-05-19",
-      "close": 8.380000114440918,
-      "adjusted_close": 8.380000114440918,
-      "volume": 5950
+      "date": "2026-02-25",
+      "close": 34.099998474121094,
+      "adjusted_close": 34.099998474121094,
+      "volume": 3920
     },
     {
-      "date": "2026-05-22",
-      "close": 11.300000190734863,
-      "adjusted_close": 11.300000190734863,
-      "volume": 26540
+      "date": "2026-03-02",
+      "close": 34.400001525878906,
+      "adjusted_close": 34.400001525878906,
+      "volume": 1680
     },
     {
-      "date": "2026-05-28",
-      "close": 10.199999809265137,
-      "adjusted_close": 10.199999809265137,
-      "volume": 2360
+      "date": "2026-03-05",
+      "close": 29.0,
+      "adjusted_close": 29.0,
+      "volume": 1860
     },
     {
-      "date": "2026-06-02",
-      "close": 9.699999809265137,
-      "adjusted_close": 9.699999809265137,
-      "volume": 38600
+      "date": "2026-03-10",
+      "close": 31.5,
+      "adjusted_close": 31.5,
+      "volume": 2090
     },
     {
-      "date": "2026-06-05",
-      "close": 10.100000381469728,
-      "adjusted_close": 10.100000381469728,
-      "volume": 12360
+      "date": "2026-03-13",
+      "close": 30.200000762939453,
+      "adjusted_close": 30.200000762939453,
+      "volume": 149200
     },
     {
-      "date": "2026-06-10",
-      "close": 10.0,
-      "adjusted_close": 10.0,
-      "volume": 64640
+      "date": "2026-03-18",
+      "close": 28.399999618530277,
+      "adjusted_close": 28.399999618530277,
+      "volume": 2530
     },
     {
-      "date": "2026-06-15",
-      "close": 9.829999923706056,
-      "adjusted_close": 9.829999923706056,
-      "volume": 157920
+      "date": "2026-03-23",
+      "close": 24.700000762939453,
+      "adjusted_close": 24.700000762939453,
+      "volume": 610
     },
     {
-      "date": "2026-06-18",
-      "close": 5.269999980926514,
-      "adjusted_close": 5.269999980926514,
-      "volume": 63070
+      "date": "2026-03-26",
+      "close": 27.799999237060547,
+      "adjusted_close": 27.799999237060547,
+      "volume": 1820
     },
     {
-      "date": "2026-06-24",
-      "close": 5.920000076293945,
-      "adjusted_close": 5.920000076293945,
-      "volume": 68500
+      "date": "2026-03-31",
+      "close": 27.100000381469727,
+      "adjusted_close": 27.100000381469727,
+      "volume": 1080
     },
     {
-      "date": "2026-06-29",
-      "close": 6.699999809265137,
-      "adjusted_close": 6.699999809265137,
-      "volume": 50300
+      "date": "2026-04-06",
+      "close": 25.600000381469727,
+      "adjusted_close": 25.600000381469727,
+      "volume": 890
     },
     {
-      "date": "2026-07-02",
-      "close": 7.199999809265137,
-      "adjusted_close": 7.199999809265137,
-      "volume": 92100
+      "date": "2026-04-09",
+      "close": 25.799999237060547,
+      "adjusted_close": 25.799999237060547,
+      "volume": 830
     },
     {
-      "date": "2026-07-08",
-      "close": 14.520000457763672,
-      "adjusted_close": 14.520000457763672,
-      "volume": 84800
+      "date": "2026-04-14",
+      "close": 26.399999618530277,
+      "adjusted_close": 26.399999618530277,
+      "volume": 610
     },
     {
-      "date": "2026-07-13",
-      "close": 15.600000381469728,
-      "adjusted_close": 15.600000381469728,
-      "volume": 32100
+      "date": "2026-04-17",
+      "close": 24.100000381469727,
+      "adjusted_close": 24.100000381469727,
+      "volume": 420
     },
     {
-      "date": "2026-07-16",
-      "close": 16.0,
-      "adjusted_close": 16.0,
-      "volume": 56700
+      "date": "2026-04-22",
+      "close": 23.799999237060547,
+      "adjusted_close": 23.799999237060547,
+      "volume": 1940
     },
     {
-      "date": "2026-07-21",
-      "close": 14.869999885559082,
-      "adjusted_close": 14.869999885559082,
-      "volume": 159900
+      "date": "2026-04-27",
+      "close": 21.0,
+      "adjusted_close": 21.0,
+      "volume": 300
     },
     {
-      "date": "2026-07-24",
-      "close": 12.039999961853027,
-      "adjusted_close": 12.039999961853027,
-      "volume": 32800
+      "date": "2026-04-30",
+      "close": 18.549999237060547,
+      "adjusted_close": 18.549999237060547,
+      "volume": 1290
     },
     {
-      "date": "2026-07-29",
-      "close": 8.770000457763672,
-      "adjusted_close": 8.770000457763672,
-      "volume": 49800
+      "date": "2026-05-05",
+      "close": 11.399999618530272,
+      "adjusted_close": 11.399999618530272,
+      "volume": 30790
+    },
+    {
+      "date": "2026-05-08",
+      "close": 9.859999656677246,
+      "adjusted_close": 9.859999656677246,
+      "volume": 5460
+    },
+    {
+      "date": "2026-05-13",
+      "close": 9.649999618530272,
+      "adjusted_close": 9.649999618530272,
+      "volume": 8770
+    },
+    {
+      "date": "2026-05-18",
+      "close": 8.84000015258789,
+      "adjusted_close": 8.84000015258789,
+      "volume": 6060
+    },
+    {
+      "date": "2026-05-21",
+      "close": 9.199999809265137,
+      "adjusted_close": 9.199999809265137,
+      "volume": 4230
+    },
+    {
+      "date": "2026-05-27",
+      "close": 10.300000190734863,
+      "adjusted_close": 10.300000190734863,
+      "volume": 3700
+    },
+    {
+      "date": "2026-06-01",
+      "close": 11.5,
+      "adjusted_close": 11.5,
+      "volume": 436040
+    },
+    {
+      "date": "2026-06-04",
+      "close": 10.5,
+      "adjusted_close": 10.5,
+      "volume": 8600
+    },
+    {
+      "date": "2026-06-09",
+      "close": 9.960000038146973,
+      "adjusted_close": 9.960000038146973,
+      "volume": 85760
+    },
+    {
+      "date": "2026-06-12",
+      "close": 8.399999618530273,
+      "adjusted_close": 8.399999618530273,
+      "volume": 203610
+    },
+    {
+      "date": "2026-06-17",
+      "close": 7.070000171661377,
+      "adjusted_close": 7.070000171661377,
+      "volume": 88560
+    },
+    {
+      "date": "2026-06-23",
+      "close": 6.110000133514404,
+      "adjusted_close": 6.110000133514404,
+      "volume": 127300
+    },
+    {
+      "date": "2026-06-26",
+      "close": 6.210000038146973,
+      "adjusted_close": 6.210000038146973,
+      "volume": 111000
+    },
+    {
+      "date": "2026-07-01",
+      "close": 9.600000381469728,
+      "adjusted_close": 9.600000381469728,
+      "volume": 76600
+    },
+    {
+      "date": "2026-07-07",
+      "close": 15.100000381469728,
+      "adjusted_close": 15.100000381469728,
+      "volume": 264400
+    },
+    {
+      "date": "2026-07-10",
+      "close": 17.479999542236328,
+      "adjusted_close": 17.479999542236328,
+      "volume": 40900
+    },
+    {
+      "date": "2026-07-15",
+      "close": 19.020000457763672,
+      "adjusted_close": 19.020000457763672,
+      "volume": 67000
+    },
+    {
+      "date": "2026-07-20",
+      "close": 14.800000190734863,
+      "adjusted_close": 14.800000190734863,
+      "volume": 22200
+    },
+    {
+      "date": "2026-07-23",
+      "close": 12.300000190734863,
+      "adjusted_close": 12.300000190734863,
+      "volume": 11600
+    },
+    {
+      "date": "2026-07-28",
+      "close": 10.300000190734863,
+      "adjusted_close": 10.300000190734863,
+      "volume": 41400
     },
     {
       "date": "2026-07-31",
       "close": 10.579999923706056,
       "adjusted_close": 10.579999923706056,
       "volume": 451600
+    },
+    {
+      "date": "2026-08-04",
+      "close": 9.789999961853027,
+      "adjusted_close": 9.789999961853027,
+      "volume": 265900
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-07-31",
-    "current_price": 10.58,
+    "price_date": "2026-08-04",
+    "current_price": 9.79,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -99.84209,
-    "drawdown_from_3_year_high": -99.99962,
-    "distance_from_200_day_average": -90.829936,
-    "return_63_sessions": -42.964958,
-    "realized_volatility_63d": 408.912684,
-    "volatility_percentile": 100.0,
+    "drawdown_from_52_week_high": -99.853881,
+    "drawdown_from_3_year_high": -99.999649,
+    "distance_from_200_day_average": -82.113011,
+    "return_63_sessions": -24.108525,
+    "realized_volatility_63d": 407.47475,
+    "volatility_percentile": 99.72067,
     "trend": "falling",
     "buyers": 0,
     "purchase_days": 0,

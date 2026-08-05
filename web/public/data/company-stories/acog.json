@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-04T07:57:19.810067Z",
-  "as_of_date": "2026-08-03",
+  "generated_at_utc": "2026-08-05T09:17:25.572065Z",
+  "as_of_date": "2026-08-05",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-03",
-    "latest_price_date": "2026-08-03",
-    "exported_at_utc": "2026-08-04T07:57:19.810067Z"
+    "latest_sec_filing_date": "2026-08-04",
+    "latest_price_date": "2026-08-05",
+    "exported_at_utc": "2026-08-05T09:17:25.572065Z"
   },
   "ticker": "ACOG",
   "yf_ticker": "ACOG",
@@ -1311,6 +1311,18 @@
       "close": 8.279999732971191,
       "adjusted_close": 8.279999732971191,
       "volume": 154500
+    },
+    {
+      "date": "2026-08-03",
+      "close": 8.430000305175781,
+      "adjusted_close": 8.430000305175781,
+      "volume": 70700
+    },
+    {
+      "date": "2026-08-04",
+      "close": 8.9399995803833,
+      "adjusted_close": 8.9399995803833,
+      "volume": 49000
     }
   ],
   "purchase_markers": [
@@ -1330,33 +1342,67 @@
       "conviction_score": 19.2672,
       "behavior_change_score": 43.7509,
       "headline": null
+    },
+    {
+      "event_id": "3047ef634d3e7e136a0e23b6",
+      "transaction_date": "2026-07-31",
+      "price_date": "2026-07-31",
+      "market_price": 8.279999732971191,
+      "reported_purchase_price": 7.9226,
+      "purchase_value": 22975.54,
+      "shares": 2900.0,
+      "owner_cik": 1595855,
+      "owner_name": null,
+      "roles": "ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 0.0968176053133501,
+      "conviction_score": 27.5417,
+      "behavior_change_score": 59.0654,
+      "headline": null
+    },
+    {
+      "event_id": "d5f2be58548f4fd25a5725f9",
+      "transaction_date": "2026-08-03",
+      "price_date": "2026-08-03",
+      "market_price": 8.430000305175781,
+      "reported_purchase_price": 8.0,
+      "purchase_value": 400000.0,
+      "shares": 50000.0,
+      "owner_cik": 1595855,
+      "owner_name": null,
+      "roles": "ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 1.6676544740000994,
+      "conviction_score": 32.6666,
+      "behavior_change_score": 65.0342,
+      "headline": null
     }
   ],
   "summary": {
-    "price_date": "2026-07-31",
-    "current_price": 8.28,
-    "average_reported_purchase_price": 7.9,
-    "percent_vs_average_purchase_price": 4.810123,
+    "price_date": "2026-08-04",
+    "current_price": 8.94,
+    "average_reported_purchase_price": 7.995522,
+    "percent_vs_average_purchase_price": 11.81258,
     "first_purchase_date": "2026-07-24",
-    "latest_purchase_date": "2026-07-24",
-    "return_since_first_purchase": 4.810122,
-    "return_since_latest_purchase": 4.810122,
-    "drawdown_from_52_week_high": -17.117118,
-    "drawdown_from_3_year_high": -26.33452,
-    "distance_from_200_day_average": 32.07163,
-    "return_63_sessions": 38.693468,
-    "realized_volatility_63d": 58.865357,
-    "volatility_percentile": 3.084833,
+    "latest_purchase_date": "2026-08-03",
+    "return_since_first_purchase": 13.16455,
+    "return_since_latest_purchase": 6.049813,
+    "drawdown_from_52_week_high": -10.510513,
+    "drawdown_from_3_year_high": -20.462636,
+    "distance_from_200_day_average": 42.240601,
+    "return_63_sessions": 47.768583,
+    "realized_volatility_63d": 59.845287,
+    "volatility_percentile": 4.859335,
     "trend": "advancing",
     "buyers": 1,
-    "purchase_days": 1,
-    "purchase_events": 1,
-    "total_reported_purchase_value": 1027.0
+    "purchase_days": 3,
+    "purchase_events": 3,
+    "total_reported_purchase_value": 424002.54
   },
   "quality": {
-    "price_rows_available": 429,
-    "price_points_exported": 216,
-    "purchase_markers_exported": 1,
+    "price_rows_available": 431,
+    "price_points_exported": 218,
+    "purchase_markers_exported": 3,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",
     "price_quality": null
