@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-05T09:17:25.572065Z",
+  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
   "as_of_date": "2026-08-05",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-04",
+    "latest_sec_filing_date": "2026-08-05",
     "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-05T09:17:25.572065Z"
+    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
   },
   "ticker": "AEBI",
   "yf_ticker": "AEBI",
@@ -31,13 +31,13 @@
     {
       "date": "2025-07-09",
       "close": 11.81999969482422,
-      "adjusted_close": 11.72518253326416,
+      "adjusted_close": 11.725183486938477,
       "volume": 646900
     },
     {
       "date": "2025-07-11",
       "close": 11.06999969482422,
-      "adjusted_close": 10.981199264526367,
+      "adjusted_close": 10.981200218200684,
       "volume": 386700
     },
     {
@@ -49,13 +49,13 @@
     {
       "date": "2025-07-17",
       "close": 10.239999771118164,
-      "adjusted_close": 10.15785789489746,
+      "adjusted_close": 10.157856941223145,
       "volume": 547500
     },
     {
       "date": "2025-07-21",
       "close": 9.260000228881836,
-      "adjusted_close": 9.18571949005127,
+      "adjusted_close": 9.185720443725586,
       "volume": 685700
     },
     {
@@ -91,43 +91,43 @@
     {
       "date": "2025-08-06",
       "close": 10.489999771118164,
-      "adjusted_close": 10.405853271484377,
+      "adjusted_close": 10.40585231781006,
       "volume": 371800
     },
     {
       "date": "2025-08-08",
       "close": 11.119999885559082,
-      "adjusted_close": 11.03079891204834,
+      "adjusted_close": 11.030799865722656,
       "volume": 528900
     },
     {
       "date": "2025-08-12",
       "close": 11.489999771118164,
-      "adjusted_close": 11.39783000946045,
+      "adjusted_close": 11.397830963134766,
       "volume": 310500
     },
     {
       "date": "2025-08-14",
       "close": 12.149999618530272,
-      "adjusted_close": 12.052536964416504,
+      "adjusted_close": 12.052536010742188,
       "volume": 890800
     },
     {
       "date": "2025-08-18",
       "close": 11.899999618530272,
-      "adjusted_close": 11.80454158782959,
+      "adjusted_close": 11.804542541503906,
       "volume": 248900
     },
     {
       "date": "2025-08-20",
       "close": 11.479999542236328,
-      "adjusted_close": 11.387909889221191,
+      "adjusted_close": 11.387910842895508,
       "volume": 252500
     },
     {
       "date": "2025-08-22",
       "close": 12.239999771118164,
-      "adjusted_close": 12.14181423187256,
+      "adjusted_close": 12.141815185546877,
       "volume": 356600
     },
     {
@@ -145,7 +145,7 @@
     {
       "date": "2025-09-02",
       "close": 12.0,
-      "adjusted_close": 11.928263664245604,
+      "adjusted_close": 11.928264617919922,
       "volume": 517200
     },
     {
@@ -157,13 +157,13 @@
     {
       "date": "2025-09-08",
       "close": 11.760000228881836,
-      "adjusted_close": 11.689698219299316,
+      "adjusted_close": 11.689699172973633,
       "volume": 256500
     },
     {
       "date": "2025-09-10",
       "close": 11.81999969482422,
-      "adjusted_close": 11.749340057373049,
+      "adjusted_close": 11.74933910369873,
       "volume": 214500
     },
     {
@@ -175,13 +175,13 @@
     {
       "date": "2025-09-16",
       "close": 12.520000457763672,
-      "adjusted_close": 12.445155143737791,
+      "adjusted_close": 12.44515609741211,
       "volume": 188200
     },
     {
       "date": "2025-09-18",
       "close": 12.6899995803833,
-      "adjusted_close": 12.61413860321045,
+      "adjusted_close": 12.614137649536133,
       "volume": 260700
     },
     {
@@ -199,7 +199,7 @@
     {
       "date": "2025-09-26",
       "close": 12.710000038146973,
-      "adjusted_close": 12.63401985168457,
+      "adjusted_close": 12.634018898010254,
       "volume": 186100
     },
     {
@@ -223,13 +223,13 @@
     {
       "date": "2025-10-08",
       "close": 11.829999923706056,
-      "adjusted_close": 11.759279251098633,
+      "adjusted_close": 11.75928020477295,
       "volume": 147500
     },
     {
       "date": "2025-10-10",
       "close": 11.130000114440918,
-      "adjusted_close": 11.063465118408203,
+      "adjusted_close": 11.063464164733888,
       "volume": 308800
     },
     {
@@ -277,25 +277,25 @@
     {
       "date": "2025-11-03",
       "close": 11.140000343322754,
-      "adjusted_close": 11.073404312133787,
+      "adjusted_close": 11.073405265808104,
       "volume": 266100
     },
     {
       "date": "2025-11-05",
       "close": 10.989999771118164,
-      "adjusted_close": 10.924301147460938,
+      "adjusted_close": 10.924302101135254,
       "volume": 255700
     },
     {
       "date": "2025-11-07",
       "close": 11.0,
-      "adjusted_close": 10.934242248535156,
+      "adjusted_close": 10.93424129486084,
       "volume": 302000
     },
     {
       "date": "2025-11-11",
       "close": 10.5600004196167,
-      "adjusted_close": 10.496871948242188,
+      "adjusted_close": 10.496872901916504,
       "volume": 146000
     },
     {
@@ -343,7 +343,7 @@
     {
       "date": "2025-12-04",
       "close": 12.529999732971191,
-      "adjusted_close": 12.483807563781738,
+      "adjusted_close": 12.483806610107422,
       "volume": 270700
     },
     {
@@ -355,7 +355,7 @@
     {
       "date": "2025-12-10",
       "close": 13.270000457763672,
-      "adjusted_close": 13.221078872680664,
+      "adjusted_close": 13.22107982635498,
       "volume": 191900
     },
     {
@@ -367,7 +367,7 @@
     {
       "date": "2025-12-16",
       "close": 13.5,
-      "adjusted_close": 13.450231552124023,
+      "adjusted_close": 13.450230598449709,
       "volume": 220100
     },
     {
@@ -397,7 +397,7 @@
     {
       "date": "2025-12-31",
       "close": 12.649999618530272,
-      "adjusted_close": 12.603363990783691,
+      "adjusted_close": 12.603364944458008,
       "volume": 113400
     },
     {
@@ -427,7 +427,7 @@
     {
       "date": "2026-01-15",
       "close": 14.8100004196167,
-      "adjusted_close": 14.755401611328123,
+      "adjusted_close": 14.75540256500244,
       "volume": 187800
     },
     {
@@ -457,7 +457,7 @@
     {
       "date": "2026-01-30",
       "close": 14.640000343322754,
-      "adjusted_close": 14.586029052734377,
+      "adjusted_close": 14.58602809906006,
       "volume": 208700
     },
     {
@@ -475,19 +475,19 @@
     {
       "date": "2026-02-09",
       "close": 15.489999771118164,
-      "adjusted_close": 15.432893753051758,
+      "adjusted_close": 15.432894706726074,
       "volume": 108000
     },
     {
       "date": "2026-02-11",
       "close": 15.520000457763672,
-      "adjusted_close": 15.46278476715088,
+      "adjusted_close": 15.462783813476562,
       "volume": 152900
     },
     {
       "date": "2026-02-13",
       "close": 15.510000228881836,
-      "adjusted_close": 15.452820777893066,
+      "adjusted_close": 15.452821731567385,
       "volume": 207200
     },
     {
@@ -839,28 +839,28 @@
       "volume": 258800
     },
     {
-      "date": "2026-08-04",
-      "close": 13.369999885559082,
-      "adjusted_close": 13.369999885559082,
-      "volume": 237400
+      "date": "2026-08-05",
+      "close": 13.100000381469728,
+      "adjusted_close": 13.100000381469728,
+      "volume": 231800
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-04",
-    "current_price": 13.37,
+    "price_date": "2026-08-05",
+    "current_price": 13.1,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -14.173321,
-    "drawdown_from_3_year_high": -14.173321,
-    "distance_from_200_day_average": 7.07346,
-    "return_63_sessions": 22.575883,
-    "realized_volatility_63d": 54.224499,
-    "volatility_percentile": 46.581197,
+    "drawdown_from_52_week_high": -15.906542,
+    "drawdown_from_3_year_high": -15.906542,
+    "distance_from_200_day_average": 4.836947,
+    "return_63_sessions": 14.247073,
+    "realized_volatility_63d": 53.563167,
+    "volatility_percentile": 45.531915,
     "trend": "advancing",
     "buyers": 0,
     "purchase_days": 0,
@@ -868,7 +868,7 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 274,
+    "price_rows_available": 275,
     "price_points_exported": 138,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",

@@ -1,0 +1,47 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
+  "as_of_date": "2026-08-05",
+  "freshness": {
+    "latest_sec_filing_date": "2026-08-05",
+    "latest_price_date": "2026-08-05",
+    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+  },
+  "limitations": [],
+  "insider": {
+    "schema_version": "v1",
+    "insider_id": "0001533098",
+    "owner_cik": "0001533098",
+    "issuer_cik": "0001158449",
+    "canonical_name": "Smith Gregory L",
+    "display_name": "Smith Gregory L",
+    "raw_officer_title": "",
+    "normalized_roles": "director",
+    "first_seen_date": "20260728",
+    "last_seen_date": "20260728",
+    "identity_quality": "exact_owner_cik",
+    "generated_at_utc": "2026-08-06T08:41:52.055626Z",
+    "quality": "high",
+    "quality_flags": "",
+    "source_type": "sec_xml",
+    "source_path": "data/raw/sec/filings/0001158449/0001193125-26-320993/filing.xml",
+    "source_accession": "0001193125-26-320993",
+    "parser_version": "v1",
+    "normalized_at_utc": "2026-08-06T08:41:52.055626Z",
+    "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0001193125-26-320993\", \"source_path\": \"data/raw/sec/filings/0001158449/0001193125-26-320993/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}"
+  },
+  "companies": [],
+  "purchase_events": [],
+  "histories": [],
+  "signals": [],
+  "behavior_profile": {
+    "purchase_count": 0,
+    "company_count": 0,
+    "total_purchase_value": 0,
+    "median_purchase_value": null,
+    "largest_purchase_value": null,
+    "median_days_between_purchases": null,
+    "highest_behavior_change": null,
+    "highest_conviction": null
+  }
+}

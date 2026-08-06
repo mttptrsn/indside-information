@@ -1,0 +1,61 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
+  "as_of_date": "2026-08-05",
+  "freshness": {
+    "latest_sec_filing_date": "2026-08-05",
+    "latest_price_date": "2026-08-05",
+    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+  },
+  "limitations": [
+    "Company metadata and prices may be missing for inactive or unsupported symbols.",
+    "Indirect ownership should be interpreted with the source filing footnotes."
+  ],
+  "company": {
+    "schema_version": "v1",
+    "issuer_cik": 894556,
+    "issuer_name": "CitroTech Inc.",
+    "primary_ticker": "CITR",
+    "exchange": "ASE",
+    "yf_ticker": "CITR",
+    "is_active": true,
+    "mapping_quality": "exact_cik",
+    "generated_at_utc": "2026-08-06T08:41:51.738164Z",
+    "quality": "high",
+    "quality_flags": null,
+    "source_type": "sec_xml",
+    "source_path": "data/raw/sec/filings/0001514881/0001640334-26-001254/filing.xml",
+    "source_accession": "0001640334-26-001254",
+    "parser_version": "v1",
+    "normalized_at_utc": "2026-08-06T08:41:51.738164Z",
+    "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0001640334-26-001254\", \"source_path\": \"data/raw/sec/filings/0001514881/0001640334-26-001254/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}",
+    "ticker": "CITR",
+    "company_name": "CitroTech Inc.",
+    "market_cap": null,
+    "sector": null,
+    "industry": null,
+    "quote_type": "EQUITY",
+    "metadata_fetched_at_utc": "2026-08-06T08:50:05.091437Z",
+    "metadata_quality": "high",
+    "latest_price": 5.809999942779541,
+    "average_dollar_volume_63d": 249645.76792792667,
+    "discovery_eligible": false,
+    "eligibility_reasons": "missing_market_cap|insufficient_liquidity"
+  },
+  "current_signal": null,
+  "latest_event_signal": null,
+  "buyers": [],
+  "purchase_events": [],
+  "purchase_campaigns": [],
+  "executive_histories": [],
+  "event_signals": [],
+  "qualifying_transactions": [],
+  "stats": {
+    "purchase_event_count": 0,
+    "unique_buyer_count": 0,
+    "total_purchase_value": 0,
+    "largest_purchase_value": 0,
+    "median_conviction": null,
+    "highest_behavior_change": null
+  }
+}

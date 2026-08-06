@@ -1,0 +1,61 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
+  "as_of_date": "2026-08-05",
+  "freshness": {
+    "latest_sec_filing_date": "2026-08-05",
+    "latest_price_date": "2026-08-05",
+    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+  },
+  "limitations": [
+    "Company metadata and prices may be missing for inactive or unsupported symbols.",
+    "Indirect ownership should be interpreted with the source filing footnotes."
+  ],
+  "company": {
+    "schema_version": "v1",
+    "issuer_cik": 889331,
+    "issuer_name": "LITTELFUSE INC /DE",
+    "primary_ticker": "LFUS",
+    "exchange": null,
+    "yf_ticker": "LFUS",
+    "is_active": true,
+    "mapping_quality": "exact_cik",
+    "generated_at_utc": "2026-08-06T08:41:51.738164Z",
+    "quality": "high",
+    "quality_flags": null,
+    "source_type": "sec_xml",
+    "source_path": "data/raw/sec/filings/0002115144/0002115144-26-000010/filing.xml",
+    "source_accession": "0002115144-26-000010",
+    "parser_version": "v1",
+    "normalized_at_utc": "2026-08-06T08:41:51.738164Z",
+    "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0002115144-26-000010\", \"source_path\": \"data/raw/sec/filings/0002115144/0002115144-26-000010/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}",
+    "ticker": "LFUS",
+    "company_name": null,
+    "market_cap": null,
+    "sector": null,
+    "industry": null,
+    "quote_type": null,
+    "metadata_fetched_at_utc": "2026-08-06T08:51:11.643205Z",
+    "metadata_quality": "limited",
+    "latest_price": 461.1600036621094,
+    "average_dollar_volume_63d": 170934152.87519184,
+    "discovery_eligible": false,
+    "eligibility_reasons": "missing_market_cap"
+  },
+  "current_signal": null,
+  "latest_event_signal": null,
+  "buyers": [],
+  "purchase_events": [],
+  "purchase_campaigns": [],
+  "executive_histories": [],
+  "event_signals": [],
+  "qualifying_transactions": [],
+  "stats": {
+    "purchase_event_count": 0,
+    "unique_buyer_count": 0,
+    "total_purchase_value": 0,
+    "largest_purchase_value": 0,
+    "median_conviction": null,
+    "highest_behavior_change": null
+  }
+}

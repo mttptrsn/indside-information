@@ -1,6 +1,6 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-05T09:17:25.572065Z",
+  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
   "as_of_date": "2026-08-05",
   "ticker": "FIZZ",
   "issuer_cik": 69891,
@@ -90,7 +90,7 @@
       "prior_median_ownership_increase_percent": null,
       "history_depth": "no_history",
       "history_quality": "limited",
-      "generated_at_utc": "2026-08-05T09:17:17.120538Z",
+      "generated_at_utc": "2026-08-06T08:51:12.117538Z",
       "quality": "limited",
       "quality_flags": "no_prior_history",
       "accession_number": "0001437749-26-024894",
@@ -160,11 +160,11 @@
       "behavior_change_score": 47.3571,
       "behavior_components": "{\"abnormality_score\": 60.0, \"acceleration_score\": 0.0, \"history_quality_score\": 20, \"ownership_score\": 28.57142857142857, \"role_score\": 50, \"silence_break_score\": 70.0, \"velocity_score\": 40}",
       "behavior_missing": "[]",
-      "conviction_score": 47.8609,
+      "conviction_score": 35.9609,
       "conviction_grade": "ordinary",
-      "conviction_components": "{\"absolute_purchase_size\": 55.71562716490569, \"behavior_change\": 47.3571, \"cluster_confirmation\": 25.0, \"company_context\": 100, \"data_quality\": 100, \"direct_ownership\": 100, \"ownership_increase\": 28.57142857142857, \"role_quality\": 50}",
-      "conviction_penalties": "{\"sparse_history\": 4.0}",
-      "reason_codes": "sparse_history",
+      "conviction_components": "{\"absolute_purchase_size\": 55.71562716490569, \"behavior_change\": 47.3571, \"cluster_confirmation\": 25.0, \"company_context\": 35, \"data_quality\": 100, \"direct_ownership\": 100, \"ownership_increase\": 28.57142857142857, \"role_quality\": 50}",
+      "conviction_penalties": "{\"microcap_or_illiquid\": 8.0, \"sparse_history\": 4.0}",
+      "reason_codes": "microcap_or_illiquid|sparse_history",
       "drawdown_label": "deep_drawdown"
     }
   ]

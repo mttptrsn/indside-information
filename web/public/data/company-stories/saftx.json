@@ -1,0 +1,337 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
+  "as_of_date": "2026-08-05",
+  "freshness": {
+    "latest_sec_filing_date": "2026-08-05",
+    "latest_price_date": "2026-08-05",
+    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+  },
+  "ticker": "SAFTX",
+  "yf_ticker": "SAFTX",
+  "issuer_cik": 2028174,
+  "company_name": "Sound Point Alternative Income Fund",
+  "sector": null,
+  "industry": null,
+  "price_available": true,
+  "price_unavailable_reason": "",
+  "price_path": [
+    {
+      "date": "2026-06-03",
+      "close": 20.049999237060547,
+      "adjusted_close": 20.049999237060547,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-04",
+      "close": 20.059999465942383,
+      "adjusted_close": 20.059999465942383,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-05",
+      "close": 20.100000381469727,
+      "adjusted_close": 20.100000381469727,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-08",
+      "close": 20.100000381469727,
+      "adjusted_close": 20.100000381469727,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-09",
+      "close": 20.09000015258789,
+      "adjusted_close": 20.09000015258789,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-10",
+      "close": 20.09000015258789,
+      "adjusted_close": 20.09000015258789,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-11",
+      "close": 20.07999992370605,
+      "adjusted_close": 20.07999992370605,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-12",
+      "close": 20.09000015258789,
+      "adjusted_close": 20.09000015258789,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-15",
+      "close": 20.09000015258789,
+      "adjusted_close": 20.09000015258789,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-16",
+      "close": 20.100000381469727,
+      "adjusted_close": 20.100000381469727,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-17",
+      "close": 20.100000381469727,
+      "adjusted_close": 20.100000381469727,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-18",
+      "close": 20.11000061035156,
+      "adjusted_close": 20.11000061035156,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-22",
+      "close": 20.11000061035156,
+      "adjusted_close": 20.11000061035156,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-23",
+      "close": 20.1200008392334,
+      "adjusted_close": 20.1200008392334,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-24",
+      "close": 20.1200008392334,
+      "adjusted_close": 20.1200008392334,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-25",
+      "close": 20.1299991607666,
+      "adjusted_close": 20.1299991607666,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-26",
+      "close": 20.13999938964844,
+      "adjusted_close": 20.13999938964844,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-29",
+      "close": 20.170000076293945,
+      "adjusted_close": 20.170000076293945,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-30",
+      "close": 20.18000030517578,
+      "adjusted_close": 20.18000030517578,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-01",
+      "close": 20.190000534057617,
+      "adjusted_close": 20.190000534057617,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-02",
+      "close": 20.209999084472656,
+      "adjusted_close": 20.209999084472656,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-06",
+      "close": 20.21999931335449,
+      "adjusted_close": 20.21999931335449,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-07",
+      "close": 20.21999931335449,
+      "adjusted_close": 20.21999931335449,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-08",
+      "close": 20.21999931335449,
+      "adjusted_close": 20.21999931335449,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-09",
+      "close": 20.21999931335449,
+      "adjusted_close": 20.21999931335449,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-10",
+      "close": 20.239999771118164,
+      "adjusted_close": 20.239999771118164,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-13",
+      "close": 20.239999771118164,
+      "adjusted_close": 20.239999771118164,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-14",
+      "close": 20.25,
+      "adjusted_close": 20.25,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-15",
+      "close": 20.26000022888184,
+      "adjusted_close": 20.26000022888184,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-16",
+      "close": 20.26000022888184,
+      "adjusted_close": 20.26000022888184,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-17",
+      "close": 20.270000457763672,
+      "adjusted_close": 20.270000457763672,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-20",
+      "close": 20.270000457763672,
+      "adjusted_close": 20.270000457763672,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-21",
+      "close": 20.280000686645508,
+      "adjusted_close": 20.280000686645508,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-22",
+      "close": 20.280000686645508,
+      "adjusted_close": 20.280000686645508,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-23",
+      "close": 20.280000686645508,
+      "adjusted_close": 20.280000686645508,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-24",
+      "close": 20.290000915527344,
+      "adjusted_close": 20.290000915527344,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-27",
+      "close": 20.299999237060547,
+      "adjusted_close": 20.299999237060547,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-28",
+      "close": 20.299999237060547,
+      "adjusted_close": 20.299999237060547,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-29",
+      "close": 20.299999237060547,
+      "adjusted_close": 20.299999237060547,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-30",
+      "close": 20.309999465942383,
+      "adjusted_close": 20.309999465942383,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-31",
+      "close": 20.31999969482422,
+      "adjusted_close": 20.31999969482422,
+      "volume": 0
+    },
+    {
+      "date": "2026-08-03",
+      "close": 20.31999969482422,
+      "adjusted_close": 20.31999969482422,
+      "volume": 0
+    },
+    {
+      "date": "2026-08-04",
+      "close": 20.350000381469727,
+      "adjusted_close": 20.350000381469727,
+      "volume": 0
+    },
+    {
+      "date": "2026-08-05",
+      "close": 20.36000061035156,
+      "adjusted_close": 20.36000061035156,
+      "volume": 0
+    }
+  ],
+  "purchase_markers": [
+    {
+      "event_id": "5ca2130ddee63e6c6dcfff58",
+      "transaction_date": "2026-08-03",
+      "price_date": "2026-08-03",
+      "market_price": 20.31999969482422,
+      "reported_purchase_price": 20.32,
+      "purchase_value": 31999.996960000004,
+      "shares": 1574.803,
+      "owner_cik": 2100406,
+      "owner_name": null,
+      "roles": "director",
+      "direct_indirect": null,
+      "ownership_increase_percent": null,
+      "conviction_score": 48.3289,
+      "behavior_change_score": 54.5,
+      "headline": null
+    }
+  ],
+  "summary": {
+    "price_date": "2026-08-05",
+    "current_price": 20.360001,
+    "average_reported_purchase_price": 20.32,
+    "percent_vs_average_purchase_price": 0.196853,
+    "first_purchase_date": "2026-08-03",
+    "latest_purchase_date": "2026-08-03",
+    "return_since_first_purchase": 0.196855,
+    "return_since_latest_purchase": 0.196855,
+    "drawdown_from_52_week_high": 0.0,
+    "drawdown_from_3_year_high": 0.0,
+    "distance_from_200_day_average": 0.793216,
+    "return_63_sessions": null,
+    "realized_volatility_63d": 0.774852,
+    "volatility_percentile": 75.0,
+    "trend": "insufficient_history",
+    "buyers": 1,
+    "purchase_days": 1,
+    "purchase_events": 1,
+    "total_reported_purchase_value": 31999.99696
+  },
+  "quality": {
+    "price_rows_available": 44,
+    "price_points_exported": 44,
+    "purchase_markers_exported": 1,
+    "mapping_quality": "filing_symbol",
+    "metadata_quality": "high",
+    "price_quality": null
+  },
+  "limitations": [
+    "Price history comes from yfinance and may be revised or unavailable.",
+    "Adjusted closes are used for market context; reported filing prices and values are never rewritten for later splits.",
+    "Returns describe what happened after disclosed purchases and are not live score inputs."
+  ]
+}

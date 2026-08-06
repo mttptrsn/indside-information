@@ -1,18 +1,18 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-05T09:17:25.572065Z",
+  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
   "as_of_date": "2026-08-05",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-04",
+    "latest_sec_filing_date": "2026-08-05",
     "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-05T09:17:25.572065Z"
+    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
   },
   "ticker": "STDN",
   "yf_ticker": "STDN",
   "issuer_cik": 2086716,
-  "company_name": "Standard Nuclear, Inc.",
-  "sector": "Basic Materials",
-  "industry": "Specialty Chemicals",
+  "company_name": null,
+  "sector": null,
+  "industry": null,
   "price_available": true,
   "price_unavailable_reason": "",
   "price_path": [
@@ -98,21 +98,27 @@
       "date": "2026-08-04",
       "close": 8.40999984741211,
       "adjusted_close": 8.40999984741211,
-      "volume": 1245400
+      "volume": 1247800
+    },
+    {
+      "date": "2026-08-05",
+      "close": 8.229999542236328,
+      "adjusted_close": 8.229999542236328,
+      "volume": 272000
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-04",
-    "current_price": 8.41,
+    "price_date": "2026-08-05",
+    "current_price": 8.23,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -31.626019,
-    "drawdown_from_3_year_high": -31.626019,
+    "drawdown_from_52_week_high": -33.089436,
+    "drawdown_from_3_year_high": -33.089436,
     "distance_from_200_day_average": null,
     "return_63_sessions": null,
     "realized_volatility_63d": null,
@@ -124,11 +130,11 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 14,
-    "price_points_exported": 14,
+    "price_rows_available": 15,
+    "price_points_exported": 15,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
-    "metadata_quality": "high",
+    "metadata_quality": "limited",
     "price_quality": null
   },
   "limitations": [

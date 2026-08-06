@@ -1,0 +1,61 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
+  "as_of_date": "2026-08-05",
+  "freshness": {
+    "latest_sec_filing_date": "2026-08-05",
+    "latest_price_date": "2026-08-05",
+    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+  },
+  "limitations": [
+    "Company metadata and prices may be missing for inactive or unsupported symbols.",
+    "Indirect ownership should be interpreted with the source filing footnotes."
+  ],
+  "company": {
+    "schema_version": "v1",
+    "issuer_cik": 1308547,
+    "issuer_name": "Dolby Laboratories, Inc.",
+    "primary_ticker": "DLB",
+    "exchange": "NYQ",
+    "yf_ticker": "DLB",
+    "is_active": true,
+    "mapping_quality": "exact_cik",
+    "generated_at_utc": "2026-08-06T08:41:51.738164Z",
+    "quality": "high",
+    "quality_flags": null,
+    "source_type": "sec_xml",
+    "source_path": "data/raw/sec/filings/0001308547/0001193125-26-335473/filing.xml",
+    "source_accession": "0001193125-26-335473",
+    "parser_version": "v1",
+    "normalized_at_utc": "2026-08-06T08:41:51.738164Z",
+    "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0001193125-26-335473\", \"source_path\": \"data/raw/sec/filings/0001308547/0001193125-26-335473/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}",
+    "ticker": "DLB",
+    "company_name": "Dolby Laboratories, Inc.",
+    "market_cap": 5747516928.0,
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "quote_type": "EQUITY",
+    "metadata_fetched_at_utc": "2026-08-06T08:49:27.651522Z",
+    "metadata_quality": "high",
+    "latest_price": 61.36000061035156,
+    "average_dollar_volume_63d": 49862015.54108272,
+    "discovery_eligible": true,
+    "eligibility_reasons": null
+  },
+  "current_signal": null,
+  "latest_event_signal": null,
+  "buyers": [],
+  "purchase_events": [],
+  "purchase_campaigns": [],
+  "executive_histories": [],
+  "event_signals": [],
+  "qualifying_transactions": [],
+  "stats": {
+    "purchase_event_count": 0,
+    "unique_buyer_count": 0,
+    "total_purchase_value": 0,
+    "largest_purchase_value": 0,
+    "median_conviction": null,
+    "highest_behavior_change": null
+  }
+}

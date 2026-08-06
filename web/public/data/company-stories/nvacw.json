@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-05T09:17:25.572065Z",
+  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
   "as_of_date": "2026-08-05",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-04",
+    "latest_sec_filing_date": "2026-08-05",
     "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-05T09:17:25.572065Z"
+    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
   },
   "ticker": "NVACW",
   "yf_ticker": "NVACW",
@@ -74,15 +74,49 @@
       "conviction_score": 32.3903,
       "behavior_change_score": 65.7187,
       "headline": null
+    },
+    {
+      "event_id": "a0212e9e721fd158dcaf952f",
+      "transaction_date": "2026-08-03",
+      "price_date": "2025-10-28",
+      "market_price": 0.1099999994039535,
+      "reported_purchase_price": 0.958,
+      "purchase_value": 13944.648,
+      "shares": 14556.0,
+      "owner_cik": 1475597,
+      "owner_name": null,
+      "roles": "ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 15.527228118833008,
+      "conviction_score": 40.2701,
+      "behavior_change_score": 72.1792,
+      "headline": null
+    },
+    {
+      "event_id": "29a5a8d6760a36ddb2cb35b6",
+      "transaction_date": "2026-08-04",
+      "price_date": "2025-10-28",
+      "market_price": 0.1099999994039535,
+      "reported_purchase_price": 0.954,
+      "purchase_value": 1305.072,
+      "shares": 1368.0,
+      "owner_cik": 1475597,
+      "owner_name": null,
+      "roles": "ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 1.2631462313367374,
+      "conviction_score": 21.8049,
+      "behavior_change_score": 35.5011,
+      "headline": null
     }
   ],
   "summary": {
     "price_date": "2025-10-28",
     "current_price": 0.11,
-    "average_reported_purchase_price": 1.041513,
-    "percent_vs_average_purchase_price": -89.438441,
+    "average_reported_purchase_price": 0.992253,
+    "percent_vs_average_purchase_price": -88.91412,
     "first_purchase_date": "2026-07-29",
-    "latest_purchase_date": "2026-07-31",
+    "latest_purchase_date": "2026-08-04",
     "return_since_first_purchase": 0.0,
     "return_since_latest_purchase": 0.0,
     "drawdown_from_52_week_high": 0.0,
@@ -93,14 +127,14 @@
     "volatility_percentile": null,
     "trend": "insufficient_history",
     "buyers": 1,
-    "purchase_days": 3,
-    "purchase_events": 3,
-    "total_reported_purchase_value": 11648.28
+    "purchase_days": 5,
+    "purchase_events": 5,
+    "total_reported_purchase_value": 26898.0
   },
   "quality": {
     "price_rows_available": 1,
     "price_points_exported": 1,
-    "purchase_markers_exported": 3,
+    "purchase_markers_exported": 5,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",
     "price_quality": null
