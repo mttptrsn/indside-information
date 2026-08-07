@@ -1,0 +1,61 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
+  "freshness": {
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
+  },
+  "limitations": [
+    "Company metadata and prices may be missing for inactive or unsupported symbols.",
+    "Indirect ownership should be interpreted with the source filing footnotes."
+  ],
+  "company": {
+    "schema_version": "v1",
+    "issuer_cik": 717538,
+    "issuer_name": "ARROW FINANCIAL CORP",
+    "primary_ticker": "AROW",
+    "exchange": "NMS",
+    "yf_ticker": "AROW",
+    "is_active": true,
+    "mapping_quality": "exact_cik",
+    "generated_at_utc": "2026-08-07T06:07:42.079712Z",
+    "quality": "high",
+    "quality_flags": null,
+    "source_type": "sec_xml",
+    "source_path": "data/raw/sec/filings/0001692175/0001692175-26-000010/filing.xml",
+    "source_accession": "0001692175-26-000010",
+    "parser_version": "v1",
+    "normalized_at_utc": "2026-08-07T06:07:42.079712Z",
+    "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0001692175-26-000010\", \"source_path\": \"data/raw/sec/filings/0001692175/0001692175-26-000010/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}",
+    "ticker": "AROW",
+    "company_name": "Arrow Financial Corporation",
+    "market_cap": 660664896.0,
+    "sector": "Financial Services",
+    "industry": "Banks - Regional",
+    "quote_type": "EQUITY",
+    "metadata_fetched_at_utc": "2026-08-07T06:15:30.543948Z",
+    "metadata_quality": "high",
+    "latest_price": 39.970001220703125,
+    "average_dollar_volume_63d": 3502342.500402057,
+    "discovery_eligible": true,
+    "eligibility_reasons": null
+  },
+  "current_signal": null,
+  "latest_event_signal": null,
+  "buyers": [],
+  "purchase_events": [],
+  "purchase_campaigns": [],
+  "executive_histories": [],
+  "event_signals": [],
+  "qualifying_transactions": [],
+  "stats": {
+    "purchase_event_count": 0,
+    "unique_buyer_count": 0,
+    "total_purchase_value": 0,
+    "largest_purchase_value": 0,
+    "median_conviction": null,
+    "highest_behavior_change": null
+  }
+}

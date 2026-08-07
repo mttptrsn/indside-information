@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "NWOEF",
   "yf_ticker": "NWOEF",
@@ -19,43 +19,43 @@
     {
       "date": "2024-02-08",
       "close": 8.532179832458496,
-      "adjusted_close": 8.2750883102417,
+      "adjusted_close": 8.275087356567383,
       "volume": 131003
     },
     {
       "date": "2024-02-13",
       "close": 8.532179832458496,
-      "adjusted_close": 8.2750883102417,
+      "adjusted_close": 8.275087356567383,
       "volume": 0
     },
     {
       "date": "2024-02-16",
       "close": 8.532179832458496,
-      "adjusted_close": 8.2750883102417,
+      "adjusted_close": 8.275087356567383,
       "volume": 0
     },
     {
       "date": "2024-02-22",
       "close": 8.532179832458496,
-      "adjusted_close": 8.2750883102417,
+      "adjusted_close": 8.275087356567383,
       "volume": 0
     },
     {
       "date": "2024-02-27",
       "close": 10.0,
-      "adjusted_close": 9.69867992401123,
+      "adjusted_close": 9.698678970336914,
       "volume": 114
     },
     {
       "date": "2024-03-01",
       "close": 10.0,
-      "adjusted_close": 9.69867992401123,
+      "adjusted_close": 9.698678970336914,
       "volume": 0
     },
     {
       "date": "2024-03-06",
       "close": 10.0,
-      "adjusted_close": 9.69867992401123,
+      "adjusted_close": 9.698678970336914,
       "volume": 0
     },
     {
@@ -1282,7 +1282,7 @@
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
     "drawdown_from_52_week_high": -29.974382,
-    "drawdown_from_3_year_high": -53.39572,
+    "drawdown_from_3_year_high": -53.395715,
     "distance_from_200_day_average": -9.73524,
     "return_63_sessions": -9.960159,
     "realized_volatility_63d": 20.848464,

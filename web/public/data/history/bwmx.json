@@ -1,7 +1,7 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "ticker": "BWMX",
   "issuer_cik": 1788257,
   "events": [
@@ -136,7 +136,7 @@
       "prior_median_ownership_increase_percent": 0.2318002983259444,
       "history_depth": "sparse",
       "history_quality": "acceptable",
-      "generated_at_utc": "2026-08-06T08:51:12.117538Z",
+      "generated_at_utc": "2026-08-07T06:16:16.414034Z",
       "quality": "acceptable",
       "quality_flags": "sparse_prior_history",
       "accession_number": "0001213900-26-085199",
@@ -206,11 +206,11 @@
       "behavior_change_score": 18.33,
       "behavior_components": "{\"abnormality_score\": 0.30202704610645187, \"acceleration_score\": 0.0, \"history_quality_score\": 45, \"ownership_score\": 0.0386872508125482, \"role_score\": 50, \"silence_break_score\": 25.13150684931507, \"velocity_score\": 56.29440162617051}",
       "behavior_missing": "[]",
-      "conviction_score": 27.3522,
+      "conviction_score": 15.4522,
       "conviction_grade": "ordinary",
-      "conviction_components": "{\"absolute_purchase_size\": 68.88015042366858, \"behavior_change\": 18.33, \"cluster_confirmation\": 25.0, \"company_context\": 100, \"data_quality\": 100, \"direct_ownership\": 35, \"ownership_increase\": 0.0386872508125482, \"role_quality\": 50}",
-      "conviction_penalties": "{\"indirect_only\": 5.0, \"sparse_history\": 4.0}",
-      "reason_codes": "indirect_only|sparse_history",
+      "conviction_components": "{\"absolute_purchase_size\": 68.88015042366858, \"behavior_change\": 18.33, \"cluster_confirmation\": 25.0, \"company_context\": 35, \"data_quality\": 100, \"direct_ownership\": 35, \"ownership_increase\": 0.0386872508125482, \"role_quality\": 50}",
+      "conviction_penalties": "{\"indirect_only\": 5.0, \"microcap_or_illiquid\": 8.0, \"sparse_history\": 4.0}",
+      "reason_codes": "indirect_only|microcap_or_illiquid|sparse_history",
       "drawdown_label": "moderate_pullback"
     },
     {
@@ -250,7 +250,7 @@
       "prior_median_ownership_increase_percent": null,
       "history_depth": "no_history",
       "history_quality": "limited",
-      "generated_at_utc": "2026-08-06T08:51:12.117538Z",
+      "generated_at_utc": "2026-08-07T06:16:16.414034Z",
       "quality": "limited",
       "quality_flags": "no_prior_history",
       "accession_number": "0001213900-26-082849",
@@ -320,11 +320,11 @@
       "behavior_change_score": 44.5464,
       "behavior_components": "{\"abnormality_score\": 60.0, \"acceleration_score\": 0.0, \"history_quality_score\": 20, \"ownership_score\": 0.4636005966518888, \"role_score\": 50, \"silence_break_score\": 70.0, \"velocity_score\": 40}",
       "behavior_missing": "[]",
-      "conviction_score": 38.8589,
+      "conviction_score": 26.9589,
       "conviction_grade": "ordinary",
-      "conviction_components": "{\"absolute_purchase_size\": 84.08046769764532, \"behavior_change\": 44.5464, \"cluster_confirmation\": 25.0, \"company_context\": 100, \"data_quality\": 100, \"direct_ownership\": 35, \"ownership_increase\": 0.4636005966518888, \"role_quality\": 50}",
-      "conviction_penalties": "{\"indirect_only\": 5.0, \"sparse_history\": 4.0}",
-      "reason_codes": "indirect_only|sparse_history",
+      "conviction_components": "{\"absolute_purchase_size\": 84.08046769764532, \"behavior_change\": 44.5464, \"cluster_confirmation\": 25.0, \"company_context\": 35, \"data_quality\": 100, \"direct_ownership\": 35, \"ownership_increase\": 0.4636005966518888, \"role_quality\": 50}",
+      "conviction_penalties": "{\"indirect_only\": 5.0, \"microcap_or_illiquid\": 8.0, \"sparse_history\": 4.0}",
+      "reason_codes": "indirect_only|microcap_or_illiquid|sparse_history",
       "drawdown_label": "moderate_pullback"
     }
   ]

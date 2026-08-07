@@ -1,0 +1,259 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
+  "freshness": {
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
+  },
+  "ticker": "OPI",
+  "yf_ticker": "OPI",
+  "issuer_cik": 1456772,
+  "company_name": "Office Properties Income Trust",
+  "sector": "Real Estate",
+  "industry": "REIT - Office",
+  "price_available": true,
+  "price_unavailable_reason": "",
+  "price_path": [
+    {
+      "date": "2026-06-18",
+      "close": 33.849998474121094,
+      "adjusted_close": 33.849998474121094,
+      "volume": 0
+    },
+    {
+      "date": "2026-06-22",
+      "close": 17.0,
+      "adjusted_close": 17.0,
+      "volume": 51100
+    },
+    {
+      "date": "2026-06-23",
+      "close": 16.309999465942383,
+      "adjusted_close": 16.309999465942383,
+      "volume": 40100
+    },
+    {
+      "date": "2026-06-24",
+      "close": 18.920000076293945,
+      "adjusted_close": 18.920000076293945,
+      "volume": 16100
+    },
+    {
+      "date": "2026-06-25",
+      "close": 17.799999237060547,
+      "adjusted_close": 17.799999237060547,
+      "volume": 15600
+    },
+    {
+      "date": "2026-06-26",
+      "close": 17.190000534057617,
+      "adjusted_close": 17.190000534057617,
+      "volume": 8800
+    },
+    {
+      "date": "2026-06-29",
+      "close": 16.780000686645508,
+      "adjusted_close": 16.780000686645508,
+      "volume": 38600
+    },
+    {
+      "date": "2026-06-30",
+      "close": 17.0,
+      "adjusted_close": 17.0,
+      "volume": 129500
+    },
+    {
+      "date": "2026-07-01",
+      "close": 16.299999237060547,
+      "adjusted_close": 16.299999237060547,
+      "volume": 35900
+    },
+    {
+      "date": "2026-07-02",
+      "close": 16.600000381469727,
+      "adjusted_close": 16.600000381469727,
+      "volume": 86100
+    },
+    {
+      "date": "2026-07-06",
+      "close": 16.440000534057617,
+      "adjusted_close": 16.440000534057617,
+      "volume": 39400
+    },
+    {
+      "date": "2026-07-07",
+      "close": 16.75,
+      "adjusted_close": 16.75,
+      "volume": 53100
+    },
+    {
+      "date": "2026-07-08",
+      "close": 16.68000030517578,
+      "adjusted_close": 16.68000030517578,
+      "volume": 52800
+    },
+    {
+      "date": "2026-07-09",
+      "close": 16.5,
+      "adjusted_close": 16.5,
+      "volume": 52500
+    },
+    {
+      "date": "2026-07-10",
+      "close": 17.5,
+      "adjusted_close": 17.5,
+      "volume": 85600
+    },
+    {
+      "date": "2026-07-13",
+      "close": 17.079999923706055,
+      "adjusted_close": 17.079999923706055,
+      "volume": 30100
+    },
+    {
+      "date": "2026-07-14",
+      "close": 17.959999084472656,
+      "adjusted_close": 17.959999084472656,
+      "volume": 55500
+    },
+    {
+      "date": "2026-07-15",
+      "close": 18.5,
+      "adjusted_close": 18.5,
+      "volume": 7392600
+    },
+    {
+      "date": "2026-07-16",
+      "close": 18.809999465942383,
+      "adjusted_close": 18.809999465942383,
+      "volume": 46000
+    },
+    {
+      "date": "2026-07-17",
+      "close": 18.0,
+      "adjusted_close": 18.0,
+      "volume": 9688100
+    },
+    {
+      "date": "2026-07-20",
+      "close": 18.93000030517578,
+      "adjusted_close": 18.93000030517578,
+      "volume": 291800
+    },
+    {
+      "date": "2026-07-21",
+      "close": 18.21999931335449,
+      "adjusted_close": 18.21999931335449,
+      "volume": 52500
+    },
+    {
+      "date": "2026-07-22",
+      "close": 18.06999969482422,
+      "adjusted_close": 18.06999969482422,
+      "volume": 20200
+    },
+    {
+      "date": "2026-07-23",
+      "close": 18.059999465942383,
+      "adjusted_close": 18.059999465942383,
+      "volume": 72700
+    },
+    {
+      "date": "2026-07-24",
+      "close": 18.3700008392334,
+      "adjusted_close": 18.3700008392334,
+      "volume": 18300
+    },
+    {
+      "date": "2026-07-27",
+      "close": 18.190000534057617,
+      "adjusted_close": 18.190000534057617,
+      "volume": 87900
+    },
+    {
+      "date": "2026-07-28",
+      "close": 18.489999771118164,
+      "adjusted_close": 18.489999771118164,
+      "volume": 126700
+    },
+    {
+      "date": "2026-07-29",
+      "close": 17.450000762939453,
+      "adjusted_close": 17.450000762939453,
+      "volume": 64600
+    },
+    {
+      "date": "2026-07-30",
+      "close": 18.3799991607666,
+      "adjusted_close": 18.3799991607666,
+      "volume": 20800
+    },
+    {
+      "date": "2026-07-31",
+      "close": 18.790000915527344,
+      "adjusted_close": 18.790000915527344,
+      "volume": 54400
+    },
+    {
+      "date": "2026-08-03",
+      "close": 19.270000457763672,
+      "adjusted_close": 19.270000457763672,
+      "volume": 324800
+    },
+    {
+      "date": "2026-08-04",
+      "close": 18.90999984741211,
+      "adjusted_close": 18.90999984741211,
+      "volume": 243400
+    },
+    {
+      "date": "2026-08-05",
+      "close": 19.0,
+      "adjusted_close": 19.0,
+      "volume": 90700
+    },
+    {
+      "date": "2026-08-06",
+      "close": 18.6200008392334,
+      "adjusted_close": 18.6200008392334,
+      "volume": 450200
+    }
+  ],
+  "purchase_markers": [],
+  "summary": {
+    "price_date": "2026-08-06",
+    "current_price": 18.620001,
+    "average_reported_purchase_price": null,
+    "percent_vs_average_purchase_price": null,
+    "first_purchase_date": null,
+    "latest_purchase_date": null,
+    "return_since_first_purchase": null,
+    "return_since_latest_purchase": null,
+    "drawdown_from_52_week_high": -44.99261,
+    "drawdown_from_3_year_high": -44.99261,
+    "distance_from_200_day_average": null,
+    "return_63_sessions": null,
+    "realized_volatility_63d": null,
+    "volatility_percentile": null,
+    "trend": "insufficient_history",
+    "buyers": 0,
+    "purchase_days": 0,
+    "purchase_events": 0,
+    "total_reported_purchase_value": 0
+  },
+  "quality": {
+    "price_rows_available": 34,
+    "price_points_exported": 34,
+    "purchase_markers_exported": 0,
+    "mapping_quality": "exact_cik",
+    "metadata_quality": "high",
+    "price_quality": null
+  },
+  "limitations": [
+    "Price history comes from yfinance and may be revised or unavailable.",
+    "Adjusted closes are used for market context; reported filing prices and values are never rewritten for later splits.",
+    "Returns describe what happened after disclosed purchases and are not live score inputs."
+  ]
+}

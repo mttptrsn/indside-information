@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "WRB-PH",
   "yf_ticker": "WRB-PH",
@@ -17,16 +17,16 @@
   "price_unavailable_reason": "",
   "price_path": [
     {
-      "date": "2026-08-05",
-      "close": 15.170000076293944,
-      "adjusted_close": 15.170000076293944,
-      "volume": 8433
+      "date": "2026-08-06",
+      "close": 15.0600004196167,
+      "adjusted_close": 15.0600004196167,
+      "volume": 9078
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 15.17,
+    "price_date": "2026-08-06",
+    "current_price": 15.06,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,

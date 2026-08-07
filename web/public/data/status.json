@@ -1,15 +1,15 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "pipeline": {
     "version": "0.4.0",
-    "latest_run_id": "4393ecc456814c9eb900e92542d477d6",
+    "latest_run_id": "ae77363b88d84f6d96ec6c20a1a52660",
     "overall_status": "complete",
     "stage_statuses": {
       "contracts": "complete",
@@ -26,25 +26,25 @@
     "errors": []
   },
   "source_counts": {
-    "filings": 3271,
-    "issuers": 1209,
-    "insiders": 3129,
-    "transactions": 7915,
-    "purchase_events": 362,
-    "event_signals": 362,
-    "company_signals": 139
+    "filings": 3808,
+    "issuers": 1350,
+    "insiders": 3597,
+    "transactions": 9391,
+    "purchase_events": 408,
+    "event_signals": 408,
+    "company_signals": 161
   },
   "source_summaries": {
     "normalization": {
       "counts": {
-        "filings": 3271,
-        "footnotes": 8172,
-        "insiders": 3129,
-        "issuers": 1209,
-        "securities": 1662,
-        "transactions": 7915
+        "filings": 3808,
+        "footnotes": 9481,
+        "insiders": 3597,
+        "issuers": 1350,
+        "securities": 1856,
+        "transactions": 9391
       },
-      "generated_at_utc": "2026-08-06T08:41:57.426807Z",
+      "generated_at_utc": "2026-08-07T06:07:48.799628Z",
       "quality": "high",
       "schema_version": "v1",
       "source_lineage": {
@@ -54,16 +54,16 @@
       }
     },
     "prices": {
-      "generated_at_utc": "2026-08-06T08:48:03.165009Z",
+      "generated_at_utc": "2026-08-07T06:13:59.902337Z",
       "schema_version": "v1",
-      "tickers": 1173,
-      "unusable": 35
+      "tickers": 1316,
+      "unusable": 69
     },
     "enrichment": {
-      "companies": 1209,
-      "generated_at_utc": "2026-08-06T08:51:12.103279Z",
-      "purchase_campaigns": 234,
-      "purchase_events": 362,
+      "companies": 1350,
+      "generated_at_utc": "2026-08-07T06:16:16.400694Z",
+      "purchase_campaigns": 264,
+      "purchase_events": 408,
       "quality": "high",
       "schema_version": "v1",
       "source_lineage": {
@@ -74,9 +74,9 @@
       "ticker_filter": ""
     },
     "signals": {
-      "company_signals": 139,
-      "event_signals": 362,
-      "generated_at_utc": "2026-08-06T08:51:14.895940Z",
+      "company_signals": 161,
+      "event_signals": 408,
+      "generated_at_utc": "2026-08-07T06:16:19.622662Z",
       "schema_version": "v1"
     }
   }

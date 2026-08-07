@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "limitations": [],
   "groups": {
@@ -175,40 +175,6 @@
       {
         "rank": 6,
         "category": "breaking_habits",
-        "ticker": "TSM",
-        "issuer_cik": 1046179,
-        "company_name": null,
-        "headline": "Insider purchase was 11.6× larger than prior median",
-        "purchase_value": 67970.0,
-        "purchase_multiple": 11.618803418803418,
-        "ownership_increase_percent": 25.0,
-        "buyer_count": 1,
-        "operating_executive_count": 0,
-        "behavior_change_score": 77.5,
-        "conviction_score": 32.58,
-        "abnormality_score": 100.0,
-        "silence_break_score": 100.0,
-        "cluster_score": 25.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-07-28T00:00:00",
-        "filing_date": 20260730,
-        "quality": "limited",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "indirect_only",
-          "microcap_or_illiquid",
-          "missing_price",
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0001046179-26-000461"
-        ]
-      },
-      {
-        "rank": 7,
-        "category": "breaking_habits",
         "ticker": "APCX",
         "issuer_cik": 1070050,
         "company_name": null,
@@ -241,26 +207,26 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 7,
         "category": "breaking_habits",
         "ticker": "ACOG",
         "issuer_cik": 1655923,
         "company_name": null,
-        "headline": "Insider purchase was 22.4× larger than prior median",
-        "purchase_value": 22975.54,
-        "purchase_multiple": 22.371509250243427,
-        "ownership_increase_percent": 0.0968176053133501,
+        "headline": "Insider purchase was 17.4× larger than prior median",
+        "purchase_value": 400000.0,
+        "purchase_multiple": 17.40981931219027,
+        "ownership_increase_percent": 1.6676544740000994,
         "buyer_count": 1,
         "operating_executive_count": 0,
-        "behavior_change_score": 59.0654,
-        "conviction_score": 27.5417,
+        "behavior_change_score": 59.3533,
+        "conviction_score": 30.6783,
         "abnormality_score": 100.0,
-        "silence_break_score": 25.23013698630137,
+        "silence_break_score": 25.0986301369863,
         "cluster_score": 25.0,
         "market_cap": 0.0,
         "sector": null,
         "industry": null,
-        "transaction_date": "2026-07-31T00:00:00",
+        "transaction_date": "2026-08-03T00:00:00",
         "filing_date": 20260804,
         "quality": "acceptable",
         "discovery_eligible": null,
@@ -271,6 +237,39 @@
         ],
         "source_accession_numbers": [
           "0001493152-26-036015"
+        ]
+      },
+      {
+        "rank": 8,
+        "category": "breaking_habits",
+        "ticker": "LOOP",
+        "issuer_cik": 1504678,
+        "company_name": null,
+        "headline": "Director purchase was 9.8× larger than prior median",
+        "purchase_value": 47171.25,
+        "purchase_multiple": 9.80536747015751,
+        "ownership_increase_percent": 1.942055450862863,
+        "buyer_count": 1,
+        "operating_executive_count": 0,
+        "behavior_change_score": 59.9066,
+        "conviction_score": 30.1484,
+        "abnormality_score": 99.31878614555129,
+        "silence_break_score": 25.03287671232877,
+        "cluster_score": 25.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-30T00:00:00",
+        "filing_date": 20260731,
+        "quality": "acceptable",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "indirect_only",
+          "microcap_or_illiquid",
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0001193125-26-328705"
         ]
       }
     ],
@@ -310,39 +309,6 @@
       {
         "rank": 2,
         "category": "quiet_buyers",
-        "ticker": "STFS",
-        "issuer_cik": 2003061,
-        "company_name": null,
-        "headline": "First recorded open-market purchase by cfo",
-        "purchase_value": 2600000.0,
-        "purchase_multiple": null,
-        "ownership_increase_percent": 6153.846153846154,
-        "buyer_count": 1,
-        "operating_executive_count": 1,
-        "behavior_change_score": 56.2,
-        "conviction_score": 48.9364,
-        "abnormality_score": 60.0,
-        "silence_break_score": 70.0,
-        "cluster_score": 40.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-07-22T00:00:00",
-        "filing_date": 20260728,
-        "quality": "limited",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "indirect_only",
-          "microcap_or_illiquid",
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0001213900-26-082081"
-        ]
-      },
-      {
-        "rank": 3,
-        "category": "quiet_buyers",
         "ticker": "EVGN",
         "issuer_cik": 1574565,
         "company_name": null,
@@ -373,7 +339,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 3,
         "category": "quiet_buyers",
         "ticker": "HCWB",
         "issuer_cik": 1828673,
@@ -405,39 +371,7 @@
         ]
       },
       {
-        "rank": 5,
-        "category": "quiet_buyers",
-        "ticker": "LBGJ",
-        "issuer_cik": 1896425,
-        "company_name": null,
-        "headline": "First recorded open-market purchase by insider",
-        "purchase_value": 27785.446,
-        "purchase_multiple": null,
-        "ownership_increase_percent": 642.5777163129096,
-        "buyer_count": 1,
-        "operating_executive_count": 0,
-        "behavior_change_score": 53.75,
-        "conviction_score": 46.735,
-        "abnormality_score": 60.0,
-        "silence_break_score": 70.0,
-        "cluster_score": 25.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-07-27T00:00:00",
-        "filing_date": 20260728,
-        "quality": "limited",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "microcap_or_illiquid",
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0001475597-26-000172"
-        ]
-      },
-      {
-        "rank": 6,
+        "rank": 4,
         "category": "quiet_buyers",
         "ticker": "HOG",
         "issuer_cik": 793952,
@@ -468,7 +402,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 5,
         "category": "quiet_buyers",
         "ticker": "HNVR",
         "issuer_cik": 1828588,
@@ -499,7 +433,7 @@
         ]
       },
       {
-        "rank": 8,
+        "rank": 6,
         "category": "quiet_buyers",
         "ticker": "NNOX",
         "issuer_cik": 1795251,
@@ -508,13 +442,13 @@
         "purchase_value": 29700.0,
         "purchase_multiple": null,
         "ownership_increase_percent": 423.51129363449695,
-        "buyer_count": 3,
-        "operating_executive_count": 1,
+        "buyer_count": 2,
+        "operating_executive_count": 0,
         "behavior_change_score": 54.5,
-        "conviction_score": 57.3595,
+        "conviction_score": 51.7595,
         "abnormality_score": 60.0,
         "silence_break_score": 70.0,
-        "cluster_score": 90.0,
+        "cluster_score": 50.0,
         "market_cap": 0.0,
         "sector": null,
         "industry": null,
@@ -529,11 +463,137 @@
         "source_accession_numbers": [
           "0001213900-26-082533"
         ]
+      },
+      {
+        "rank": 7,
+        "category": "quiet_buyers",
+        "ticker": "IONS",
+        "issuer_cik": 874015,
+        "company_name": null,
+        "headline": "First recorded open-market purchase by director",
+        "purchase_value": 800700.0,
+        "purchase_multiple": null,
+        "ownership_increase_percent": 375.0,
+        "buyer_count": 1,
+        "operating_executive_count": 0,
+        "behavior_change_score": 54.5,
+        "conviction_score": 54.3253,
+        "abnormality_score": 60.0,
+        "silence_break_score": 70.0,
+        "cluster_score": 25.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-30T00:00:00",
+        "filing_date": 20260731,
+        "quality": "limited",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "indirect_only",
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0000874015-26-000254"
+        ]
+      },
+      {
+        "rank": 8,
+        "category": "quiet_buyers",
+        "ticker": "SCTX",
+        "issuer_cik": 1853921,
+        "company_name": null,
+        "headline": "First recorded open-market purchase by director",
+        "purchase_value": 15000000.0,
+        "purchase_multiple": null,
+        "ownership_increase_percent": 286.67670035117897,
+        "buyer_count": 9,
+        "operating_executive_count": 0,
+        "behavior_change_score": 54.5,
+        "conviction_score": 67.175,
+        "abnormality_score": 60.0,
+        "silence_break_score": 70.0,
+        "cluster_score": 100.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-27T00:00:00",
+        "filing_date": 20260729,
+        "quality": "limited",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "indirect_only",
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0000947871-26-000733"
+        ]
       }
     ],
     "wolf_packs": [
       {
         "rank": 1,
+        "category": "wolf_packs",
+        "ticker": "JMKE",
+        "issuer_cik": 2127043,
+        "company_name": null,
+        "headline": "6 insiders bought within 14 days",
+        "purchase_value": 230000.0,
+        "purchase_multiple": 3.333333333333333,
+        "ownership_increase_percent": 23255.81395348837,
+        "buyer_count": 6,
+        "operating_executive_count": 2,
+        "behavior_change_score": 77.0333,
+        "conviction_score": 83.1711,
+        "abnormality_score": 76.66666666666667,
+        "silence_break_score": 100.0,
+        "cluster_score": 100.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-31T00:00:00",
+        "filing_date": 20260804,
+        "quality": "limited",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0001193125-26-332933"
+        ]
+      },
+      {
+        "rank": 2,
+        "category": "wolf_packs",
+        "ticker": "JMKE",
+        "issuer_cik": 2127043,
+        "company_name": null,
+        "headline": "6 insiders bought within 14 days",
+        "purchase_value": 345000.0,
+        "purchase_multiple": null,
+        "ownership_increase_percent": 100.0,
+        "buyer_count": 6,
+        "operating_executive_count": 2,
+        "behavior_change_score": 55.9,
+        "conviction_score": 75.6718,
+        "abnormality_score": 60.0,
+        "silence_break_score": 70.0,
+        "cluster_score": 100.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-31T00:00:00",
+        "filing_date": 20260804,
+        "quality": "limited",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0001193125-26-332934"
+        ]
+      },
+      {
+        "rank": 3,
         "category": "wolf_packs",
         "ticker": "ORN",
         "issuer_cik": 1402829,
@@ -564,115 +624,19 @@
         ]
       },
       {
-        "rank": 2,
-        "category": "wolf_packs",
-        "ticker": "SCTX",
-        "issuer_cik": 1853921,
-        "company_name": null,
-        "headline": "12 insiders bought within 14 days",
-        "purchase_value": 15000000.0,
-        "purchase_multiple": null,
-        "ownership_increase_percent": 286.67670035117897,
-        "buyer_count": 12,
-        "operating_executive_count": 0,
-        "behavior_change_score": 54.5,
-        "conviction_score": 67.175,
-        "abnormality_score": 60.0,
-        "silence_break_score": 70.0,
-        "cluster_score": 100.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-07-27T00:00:00",
-        "filing_date": 20260729,
-        "quality": "limited",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "indirect_only",
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0000947871-26-000733"
-        ]
-      },
-      {
-        "rank": 3,
-        "category": "wolf_packs",
-        "ticker": "SCTX",
-        "issuer_cik": 1853921,
-        "company_name": null,
-        "headline": "12 insiders bought within 14 days",
-        "purchase_value": 15000000.0,
-        "purchase_multiple": null,
-        "ownership_increase_percent": 286.67670035117897,
-        "buyer_count": 12,
-        "operating_executive_count": 0,
-        "behavior_change_score": 54.5,
-        "conviction_score": 67.175,
-        "abnormality_score": 60.0,
-        "silence_break_score": 70.0,
-        "cluster_score": 100.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-07-27T00:00:00",
-        "filing_date": 20260729,
-        "quality": "limited",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "indirect_only",
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0000947871-26-000733"
-        ]
-      },
-      {
         "rank": 4,
         "category": "wolf_packs",
-        "ticker": "SCTX",
-        "issuer_cik": 1853921,
+        "ticker": "JMKE",
+        "issuer_cik": 2127043,
         "company_name": null,
-        "headline": "12 insiders bought within 14 days",
-        "purchase_value": 15000000.0,
+        "headline": "6 insiders bought within 14 days",
+        "purchase_value": 230000.0,
         "purchase_multiple": null,
-        "ownership_increase_percent": 286.67670035117897,
-        "buyer_count": 12,
-        "operating_executive_count": 0,
-        "behavior_change_score": 54.5,
-        "conviction_score": 67.175,
-        "abnormality_score": 60.0,
-        "silence_break_score": 70.0,
-        "cluster_score": 100.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-07-27T00:00:00",
-        "filing_date": 20260729,
-        "quality": "limited",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "indirect_only",
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0000947871-26-000734"
-        ]
-      },
-      {
-        "rank": 5,
-        "category": "wolf_packs",
-        "ticker": "ORN",
-        "issuer_cik": 1402829,
-        "company_name": null,
-        "headline": "4 insiders bought within 14 days",
-        "purchase_value": 49998.75,
-        "purchase_multiple": null,
-        "ownership_increase_percent": 9.089757968235592,
-        "buyer_count": 4,
-        "operating_executive_count": 1,
-        "behavior_change_score": 48.018,
-        "conviction_score": 61.777,
+        "ownership_increase_percent": 100.0,
+        "buyer_count": 6,
+        "operating_executive_count": 2,
+        "behavior_change_score": 53.5,
+        "conviction_score": 70.6144,
         "abnormality_score": 60.0,
         "silence_break_score": 70.0,
         "cluster_score": 100.0,
@@ -687,88 +651,54 @@
           "sparse_history"
         ],
         "source_accession_numbers": [
-          "0002021289-26-000008"
+          "0001193125-26-332935"
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "category": "wolf_packs",
-        "ticker": "GBFH",
-        "issuer_cik": 1791145,
+        "ticker": "JMKE",
+        "issuer_cik": 2127043,
         "company_name": null,
-        "headline": "7 insiders bought within 14 days",
-        "purchase_value": 281382.2115,
-        "purchase_multiple": 0.6737387791427771,
-        "ownership_increase_percent": 151.98929734760353,
-        "buyer_count": 7,
-        "operating_executive_count": 2,
-        "behavior_change_score": 32.4478,
-        "conviction_score": 59.4938,
-        "abnormality_score": 2.35808572699972,
-        "silence_break_score": 25.03287671232877,
-        "cluster_score": 100.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-08-04T00:00:00",
-        "filing_date": 20260805,
-        "quality": "acceptable",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "indirect_only",
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0001193125-26-335471"
-        ]
-      },
-      {
-        "rank": 7,
-        "category": "wolf_packs",
-        "ticker": "BRTMU",
-        "issuer_cik": 2131350,
-        "company_name": null,
-        "headline": "5 insiders bought within 14 days",
-        "purchase_value": 6875000.0,
+        "headline": "6 insiders bought within 14 days",
+        "purchase_value": 57500.0,
         "purchase_multiple": null,
         "ownership_increase_percent": 100.0,
-        "buyer_count": 5,
-        "operating_executive_count": 1,
-        "behavior_change_score": 55.9,
-        "conviction_score": 57.6563,
+        "buyer_count": 6,
+        "operating_executive_count": 2,
+        "behavior_change_score": 53.5,
+        "conviction_score": 69.3243,
         "abnormality_score": 60.0,
         "silence_break_score": 70.0,
         "cluster_score": 100.0,
         "market_cap": 0.0,
         "sector": null,
         "industry": null,
-        "transaction_date": "2026-07-22T00:00:00",
+        "transaction_date": "2026-07-31T00:00:00",
         "filing_date": 20260804,
         "quality": "limited",
         "discovery_eligible": null,
         "reason_codes": [
-          "indirect_only",
-          "microcap_or_illiquid",
           "sparse_history"
         ],
         "source_accession_numbers": [
-          "0001193125-26-333412"
+          "0001193125-26-332937"
         ]
       },
       {
-        "rank": 8,
+        "rank": 6,
         "category": "wolf_packs",
-        "ticker": "FUNC",
-        "issuer_cik": 763907,
+        "ticker": "CAMP",
+        "issuer_cik": 1736730,
         "company_name": null,
         "headline": "4 insiders bought within 14 days",
-        "purchase_value": 2918.67864,
+        "purchase_value": 10809.15,
         "purchase_multiple": null,
-        "ownership_increase_percent": 0.2336775672438477,
+        "ownership_increase_percent": 108.1023102310231,
         "buyer_count": 4,
         "operating_executive_count": 2,
-        "behavior_change_score": 46.6467,
-        "conviction_score": 57.1678,
+        "behavior_change_score": 53.5,
+        "conviction_score": 67.7688,
         "abnormality_score": 60.0,
         "silence_break_score": 70.0,
         "cluster_score": 100.0,
@@ -783,13 +713,139 @@
           "sparse_history"
         ],
         "source_accession_numbers": [
-          "0001014100-26-000024"
+          "0001628280-26-053512"
+        ]
+      },
+      {
+        "rank": 7,
+        "category": "wolf_packs",
+        "ticker": "SCTX",
+        "issuer_cik": 1853921,
+        "company_name": null,
+        "headline": "9 insiders bought within 14 days",
+        "purchase_value": 15000000.0,
+        "purchase_multiple": null,
+        "ownership_increase_percent": 286.67670035117897,
+        "buyer_count": 9,
+        "operating_executive_count": 0,
+        "behavior_change_score": 54.5,
+        "conviction_score": 67.175,
+        "abnormality_score": 60.0,
+        "silence_break_score": 70.0,
+        "cluster_score": 100.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-27T00:00:00",
+        "filing_date": 20260729,
+        "quality": "limited",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "indirect_only",
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0000947871-26-000733"
+        ]
+      },
+      {
+        "rank": 8,
+        "category": "wolf_packs",
+        "ticker": "SCTX",
+        "issuer_cik": 1853921,
+        "company_name": null,
+        "headline": "9 insiders bought within 14 days",
+        "purchase_value": 15000000.0,
+        "purchase_multiple": null,
+        "ownership_increase_percent": 286.67670035117897,
+        "buyer_count": 9,
+        "operating_executive_count": 0,
+        "behavior_change_score": 54.5,
+        "conviction_score": 67.175,
+        "abnormality_score": 60.0,
+        "silence_break_score": 70.0,
+        "cluster_score": 100.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-27T00:00:00",
+        "filing_date": 20260729,
+        "quality": "limited",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "indirect_only",
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0000947871-26-000733"
         ]
       }
     ],
     "growing_positions": [
       {
         "rank": 1,
+        "category": "growing_positions",
+        "ticker": "JMKE",
+        "issuer_cik": 2127043,
+        "company_name": null,
+        "headline": "CFO increased direct holdings by 23256%",
+        "purchase_value": 230000.0,
+        "purchase_multiple": 3.333333333333333,
+        "ownership_increase_percent": 23255.81395348837,
+        "buyer_count": 6,
+        "operating_executive_count": 2,
+        "behavior_change_score": 77.0333,
+        "conviction_score": 83.1711,
+        "abnormality_score": 76.66666666666667,
+        "silence_break_score": 100.0,
+        "cluster_score": 100.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-31T00:00:00",
+        "filing_date": 20260804,
+        "quality": "limited",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0001193125-26-332933"
+        ]
+      },
+      {
+        "rank": 2,
+        "category": "growing_positions",
+        "ticker": "JMKE",
+        "issuer_cik": 2127043,
+        "company_name": null,
+        "headline": "COO increased direct holdings by 100%",
+        "purchase_value": 345000.0,
+        "purchase_multiple": null,
+        "ownership_increase_percent": 100.0,
+        "buyer_count": 6,
+        "operating_executive_count": 2,
+        "behavior_change_score": 55.9,
+        "conviction_score": 75.6718,
+        "abnormality_score": 60.0,
+        "silence_break_score": 70.0,
+        "cluster_score": 100.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-31T00:00:00",
+        "filing_date": 20260804,
+        "quality": "limited",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0001193125-26-332934"
+        ]
+      },
+      {
+        "rank": 3,
         "category": "growing_positions",
         "ticker": "ORN",
         "issuer_cik": 1402829,
@@ -820,7 +876,69 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "category": "growing_positions",
+        "ticker": "JMKE",
+        "issuer_cik": 2127043,
+        "company_name": null,
+        "headline": "Insider increased direct holdings by 100%",
+        "purchase_value": 230000.0,
+        "purchase_multiple": null,
+        "ownership_increase_percent": 100.0,
+        "buyer_count": 6,
+        "operating_executive_count": 2,
+        "behavior_change_score": 53.5,
+        "conviction_score": 70.6144,
+        "abnormality_score": 60.0,
+        "silence_break_score": 70.0,
+        "cluster_score": 100.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-31T00:00:00",
+        "filing_date": 20260804,
+        "quality": "limited",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0001193125-26-332935"
+        ]
+      },
+      {
+        "rank": 5,
+        "category": "growing_positions",
+        "ticker": "JMKE",
+        "issuer_cik": 2127043,
+        "company_name": null,
+        "headline": "Insider increased direct holdings by 100%",
+        "purchase_value": 57500.0,
+        "purchase_multiple": null,
+        "ownership_increase_percent": 100.0,
+        "buyer_count": 6,
+        "operating_executive_count": 2,
+        "behavior_change_score": 53.5,
+        "conviction_score": 69.3243,
+        "abnormality_score": 60.0,
+        "silence_break_score": 70.0,
+        "cluster_score": 100.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-31T00:00:00",
+        "filing_date": 20260804,
+        "quality": "limited",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0001193125-26-332937"
+        ]
+      },
+      {
+        "rank": 6,
         "category": "growing_positions",
         "ticker": "PRQR",
         "issuer_cik": 1612940,
@@ -851,7 +969,7 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 7,
         "category": "growing_positions",
         "ticker": "HLI",
         "issuer_cik": 1302215,
@@ -882,158 +1000,34 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 8,
         "category": "growing_positions",
-        "ticker": "DCX",
-        "issuer_cik": 1957413,
+        "ticker": "CAMP",
+        "issuer_cik": 1736730,
         "company_name": null,
-        "headline": "CEO increased direct holdings by 100%",
-        "purchase_value": 51250.0,
+        "headline": "Insider increased direct holdings by 108%",
+        "purchase_value": 10809.15,
         "purchase_multiple": null,
-        "ownership_increase_percent": 100.0,
-        "buyer_count": 1,
-        "operating_executive_count": 1,
-        "behavior_change_score": 56.6,
-        "conviction_score": 66.8622,
+        "ownership_increase_percent": 108.1023102310231,
+        "buyer_count": 4,
+        "operating_executive_count": 2,
+        "behavior_change_score": 53.5,
+        "conviction_score": 67.7688,
         "abnormality_score": 60.0,
         "silence_break_score": 70.0,
-        "cluster_score": 40.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-07-30T00:00:00",
-        "filing_date": 20260803,
-        "quality": "limited",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0001493152-26-035804"
-        ]
-      },
-      {
-        "rank": 5,
-        "category": "growing_positions",
-        "ticker": "APMD",
-        "issuer_cik": 1745648,
-        "company_name": null,
-        "headline": "Director increased direct holdings by 100%",
-        "purchase_value": 200000.0,
-        "purchase_multiple": null,
-        "ownership_increase_percent": 100.0,
-        "buyer_count": 2,
-        "operating_executive_count": 0,
-        "behavior_change_score": 54.5,
-        "conviction_score": 65.4343,
-        "abnormality_score": 60.0,
-        "silence_break_score": 70.0,
-        "cluster_score": 50.0,
+        "cluster_score": 100.0,
         "market_cap": 0.0,
         "sector": null,
         "industry": null,
         "transaction_date": "2026-08-03T00:00:00",
-        "filing_date": 20260803,
+        "filing_date": 20260805,
         "quality": "limited",
         "discovery_eligible": null,
         "reason_codes": [
           "sparse_history"
         ],
         "source_accession_numbers": [
-          "0001193125-26-330507"
-        ]
-      },
-      {
-        "rank": 6,
-        "category": "growing_positions",
-        "ticker": "GSHD",
-        "issuer_cik": 1726978,
-        "company_name": null,
-        "headline": "Director increased direct holdings by 100%",
-        "purchase_value": 101024.0,
-        "purchase_multiple": null,
-        "ownership_increase_percent": 100.0,
-        "buyer_count": 2,
-        "operating_executive_count": 0,
-        "behavior_change_score": 54.5,
-        "conviction_score": 64.7988,
-        "abnormality_score": 60.0,
-        "silence_break_score": 70.0,
-        "cluster_score": 50.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-07-31T00:00:00",
-        "filing_date": 20260803,
-        "quality": "limited",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0001570186-26-000005"
-        ]
-      },
-      {
-        "rank": 7,
-        "category": "growing_positions",
-        "ticker": "HNVR",
-        "issuer_cik": 1828588,
-        "company_name": null,
-        "headline": "President increased direct holdings by 435%",
-        "purchase_value": 268800.0,
-        "purchase_multiple": null,
-        "ownership_increase_percent": 434.7826086956521,
-        "buyer_count": 1,
-        "operating_executive_count": 1,
-        "behavior_change_score": 55.8,
-        "conviction_score": 64.7445,
-        "abnormality_score": 60.0,
-        "silence_break_score": 70.0,
-        "cluster_score": 25.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-07-30T00:00:00",
-        "filing_date": 20260803,
-        "quality": "limited",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0001225208-26-006898"
-        ]
-      },
-      {
-        "rank": 8,
-        "category": "growing_positions",
-        "ticker": "HOG",
-        "issuer_cik": 793952,
-        "company_name": null,
-        "headline": "Director increased direct holdings by 526%",
-        "purchase_value": 982700.0,
-        "purchase_multiple": null,
-        "ownership_increase_percent": 525.9697567389875,
-        "buyer_count": 1,
-        "operating_executive_count": 0,
-        "behavior_change_score": 54.5,
-        "conviction_score": 63.4159,
-        "abnormality_score": 60.0,
-        "silence_break_score": 70.0,
-        "cluster_score": 25.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-07-31T00:00:00",
-        "filing_date": 20260803,
-        "quality": "limited",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0001027730-26-000004"
+          "0001628280-26-053512"
         ]
       }
     ],
@@ -1041,34 +1035,33 @@
       {
         "rank": 1,
         "category": "accelerating",
-        "ticker": "ACOG",
-        "issuer_cik": 1655923,
+        "ticker": "NXTC",
+        "issuer_cik": 1661059,
         "company_name": null,
         "headline": "Purchase size and frequency are accelerating",
-        "purchase_value": 400000.0,
-        "purchase_multiple": 33.329805928872524,
-        "ownership_increase_percent": 1.6676544740000994,
-        "buyer_count": 1,
+        "purchase_value": 1444745.96,
+        "purchase_multiple": 45.60804029618555,
+        "ownership_increase_percent": 74.46613742352504,
+        "buyer_count": 2,
         "operating_executive_count": 0,
-        "behavior_change_score": 65.0342,
-        "conviction_score": 32.6666,
-        "abnormality_score": 87.65992856816442,
-        "silence_break_score": 25.0986301369863,
-        "cluster_score": 25.0,
+        "behavior_change_score": 78.3111,
+        "conviction_score": 57.6084,
+        "abnormality_score": 100.0,
+        "silence_break_score": 25.03287671232877,
+        "cluster_score": 50.0,
         "market_cap": 0.0,
         "sector": null,
         "industry": null,
-        "transaction_date": "2026-08-03T00:00:00",
-        "filing_date": 20260804,
-        "quality": "acceptable",
+        "transaction_date": "2026-07-30T00:00:00",
+        "filing_date": 20260803,
+        "quality": "high",
         "discovery_eligible": null,
         "reason_codes": [
           "indirect_only",
-          "microcap_or_illiquid",
-          "sparse_history"
+          "microcap_or_illiquid"
         ],
         "source_accession_numbers": [
-          "0001493152-26-036015"
+          "0001940272-26-000013"
         ]
       },
       {
@@ -1105,38 +1098,6 @@
       },
       {
         "rank": 3,
-        "category": "accelerating",
-        "ticker": "NXTC",
-        "issuer_cik": 1661059,
-        "company_name": null,
-        "headline": "Purchase size and frequency are accelerating",
-        "purchase_value": 1444745.96,
-        "purchase_multiple": 45.60804029618555,
-        "ownership_increase_percent": 74.46613742352504,
-        "buyer_count": 2,
-        "operating_executive_count": 0,
-        "behavior_change_score": 78.3111,
-        "conviction_score": 57.6084,
-        "abnormality_score": 100.0,
-        "silence_break_score": 25.03287671232877,
-        "cluster_score": 50.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-07-30T00:00:00",
-        "filing_date": 20260803,
-        "quality": "high",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "indirect_only",
-          "microcap_or_illiquid"
-        ],
-        "source_accession_numbers": [
-          "0001940272-26-000013"
-        ]
-      },
-      {
-        "rank": 4,
         "category": "accelerating",
         "ticker": "APCX",
         "issuer_cik": 1070050,
@@ -1170,40 +1131,39 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 4,
         "category": "accelerating",
-        "ticker": "MLPT",
-        "issuer_cik": 1770069,
+        "ticker": "GF",
+        "issuer_cik": 858706,
         "company_name": null,
         "headline": "Purchase size and frequency are accelerating",
-        "purchase_value": 13000000.0,
-        "purchase_multiple": 11.232102127214665,
-        "ownership_increase_percent": 5.0234370969476645,
-        "buyer_count": 2,
+        "purchase_value": 21390.4,
+        "purchase_multiple": 12.00392828081596,
+        "ownership_increase_percent": 0.0502313940219737,
+        "buyer_count": 1,
         "operating_executive_count": 0,
-        "behavior_change_score": 61.9365,
-        "conviction_score": 42.7834,
-        "abnormality_score": 84.99306618814757,
+        "behavior_change_score": 65.8702,
+        "conviction_score": 33.8457,
+        "abnormality_score": 94.33566154881282,
         "silence_break_score": 25.03287671232877,
-        "cluster_score": 50.0,
+        "cluster_score": 25.0,
         "market_cap": 0.0,
         "sector": null,
         "industry": null,
-        "transaction_date": "2026-07-30T00:00:00",
-        "filing_date": 20260730,
-        "quality": "acceptable",
+        "transaction_date": "2026-08-04T00:00:00",
+        "filing_date": 20260806,
+        "quality": "high",
         "discovery_eligible": null,
         "reason_codes": [
           "indirect_only",
-          "missing_price",
-          "sparse_history"
+          "microcap_or_illiquid"
         ],
         "source_accession_numbers": [
-          "0001900201-26-000003"
+          "0001510281-26-000261"
         ]
       },
       {
-        "rank": 6,
+        "rank": 5,
         "category": "accelerating",
         "ticker": "PFSA",
         "issuer_cik": 1859807,
@@ -1236,39 +1196,7 @@
         ]
       },
       {
-        "rank": 7,
-        "category": "accelerating",
-        "ticker": "DLHC",
-        "issuer_cik": 785557,
-        "company_name": null,
-        "headline": "Purchase size and frequency are accelerating",
-        "purchase_value": 5075.4816,
-        "purchase_multiple": 2.366165413533835,
-        "ownership_increase_percent": 0.0483150750864167,
-        "buyer_count": 1,
-        "operating_executive_count": 0,
-        "behavior_change_score": 44.9793,
-        "conviction_score": 25.1947,
-        "abnormality_score": 35.04904240921498,
-        "silence_break_score": 25.03287671232877,
-        "cluster_score": 25.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-08-05T00:00:00",
-        "filing_date": 20260805,
-        "quality": "high",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "indirect_only",
-          "microcap_or_illiquid"
-        ],
-        "source_accession_numbers": [
-          "0001628280-26-053455"
-        ]
-      },
-      {
-        "rank": 8,
+        "rank": 6,
         "category": "accelerating",
         "ticker": "NXTC",
         "issuer_cik": 1661059,
@@ -1298,42 +1226,77 @@
         "source_accession_numbers": [
           "0001940272-26-000013"
         ]
+      },
+      {
+        "rank": 7,
+        "category": "accelerating",
+        "ticker": "NXTC",
+        "issuer_cik": 1661059,
+        "company_name": null,
+        "headline": "Purchase size and frequency are accelerating",
+        "purchase_value": 179374.54,
+        "purchase_multiple": 5.07691850569802,
+        "ownership_increase_percent": 5.291087804394593,
+        "buyer_count": 2,
+        "operating_executive_count": 0,
+        "behavior_change_score": 55.2871,
+        "conviction_score": 36.8784,
+        "abnormality_score": 62.15482702553243,
+        "silence_break_score": 25.03287671232877,
+        "cluster_score": 50.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-31T00:00:00",
+        "filing_date": 20260803,
+        "quality": "high",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "indirect_only",
+          "microcap_or_illiquid"
+        ],
+        "source_accession_numbers": [
+          "0001940272-26-000013"
+        ]
+      },
+      {
+        "rank": 8,
+        "category": "accelerating",
+        "ticker": "MLPT",
+        "issuer_cik": 1770069,
+        "company_name": null,
+        "headline": "Purchase size and frequency are accelerating",
+        "purchase_value": 13000000.0,
+        "purchase_multiple": 11.232102127214665,
+        "ownership_increase_percent": 5.0234370969476645,
+        "buyer_count": 1,
+        "operating_executive_count": 0,
+        "behavior_change_score": 61.9365,
+        "conviction_score": 27.3834,
+        "abnormality_score": 84.99306618814757,
+        "silence_break_score": 25.03287671232877,
+        "cluster_score": 25.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-30T00:00:00",
+        "filing_date": 20260730,
+        "quality": "acceptable",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "indirect_only",
+          "microcap_or_illiquid",
+          "missing_price",
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0001900201-26-000003"
+        ]
       }
     ],
     "contrarian": [
       {
         "rank": 1,
-        "category": "contrarian",
-        "ticker": "DCX",
-        "issuer_cik": 1957413,
-        "company_name": null,
-        "headline": "First recorded open-market purchase by ceo",
-        "purchase_value": 51250.0,
-        "purchase_multiple": null,
-        "ownership_increase_percent": 100.0,
-        "buyer_count": 1,
-        "operating_executive_count": 1,
-        "behavior_change_score": 56.6,
-        "conviction_score": 66.8622,
-        "abnormality_score": 60.0,
-        "silence_break_score": 70.0,
-        "cluster_score": 40.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-07-30T00:00:00",
-        "filing_date": 20260803,
-        "quality": "limited",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0001493152-26-035804"
-        ]
-      },
-      {
-        "rank": 2,
         "category": "contrarian",
         "ticker": "ORN",
         "issuer_cik": 1402829,
@@ -1361,6 +1324,38 @@
         ],
         "source_accession_numbers": [
           "0002099433-26-000003"
+        ]
+      },
+      {
+        "rank": 2,
+        "category": "contrarian",
+        "ticker": "REBN",
+        "issuer_cik": 1707910,
+        "company_name": null,
+        "headline": "First recorded open-market purchase by ceo",
+        "purchase_value": 23649660000.0,
+        "purchase_multiple": null,
+        "ownership_increase_percent": 100.0,
+        "buyer_count": 1,
+        "operating_executive_count": 1,
+        "behavior_change_score": 56.6,
+        "conviction_score": 61.97,
+        "abnormality_score": 60.0,
+        "silence_break_score": 70.0,
+        "cluster_score": 55.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-14T00:00:00",
+        "filing_date": 20260806,
+        "quality": "limited",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "microcap_or_illiquid",
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0001213900-26-086304"
         ]
       },
       {
@@ -1398,36 +1393,68 @@
       {
         "rank": 4,
         "category": "contrarian",
-        "ticker": "OTLK",
-        "issuer_cik": 1649989,
+        "ticker": "CAMP",
+        "issuer_cik": 1736730,
         "company_name": null,
-        "headline": "First recorded open-market purchase by director",
-        "purchase_value": 99996.1836,
+        "headline": "First recorded open-market purchase by insider",
+        "purchase_value": 10809.15,
         "purchase_multiple": null,
-        "ownership_increase_percent": 75.96954783633555,
-        "buyer_count": 1,
-        "operating_executive_count": 0,
-        "behavior_change_score": 54.5,
-        "conviction_score": 61.2893,
+        "ownership_increase_percent": 108.1023102310231,
+        "buyer_count": 4,
+        "operating_executive_count": 2,
+        "behavior_change_score": 53.5,
+        "conviction_score": 67.7688,
         "abnormality_score": 60.0,
         "silence_break_score": 70.0,
-        "cluster_score": 25.0,
+        "cluster_score": 100.0,
         "market_cap": 0.0,
         "sector": null,
         "industry": null,
-        "transaction_date": "2026-07-29T00:00:00",
-        "filing_date": 20260729,
+        "transaction_date": "2026-08-03T00:00:00",
+        "filing_date": 20260805,
         "quality": "limited",
         "discovery_eligible": null,
         "reason_codes": [
           "sparse_history"
         ],
         "source_accession_numbers": [
-          "0001649989-26-000008"
+          "0001628280-26-053512"
         ]
       },
       {
         "rank": 5,
+        "category": "contrarian",
+        "ticker": "LUMN",
+        "issuer_cik": 18926,
+        "company_name": null,
+        "headline": "First recorded open-market purchase by ceo",
+        "purchase_value": 612680.0,
+        "purchase_multiple": null,
+        "ownership_increase_percent": 100.0,
+        "buyer_count": 1,
+        "operating_executive_count": 1,
+        "behavior_change_score": 56.6,
+        "conviction_score": 60.2712,
+        "abnormality_score": 60.0,
+        "silence_break_score": 70.0,
+        "cluster_score": 40.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-08-06T00:00:00",
+        "filing_date": 20260806,
+        "quality": "limited",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "indirect_only",
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0001831269-26-000002"
+        ]
+      },
+      {
+        "rank": 6,
         "category": "contrarian",
         "ticker": "LBRT",
         "issuer_cik": 1694028,
@@ -1458,7 +1485,7 @@
         ]
       },
       {
-        "rank": 6,
+        "rank": 7,
         "category": "contrarian",
         "ticker": "PRQR",
         "issuer_cik": 1612940,
@@ -1489,7 +1516,7 @@
         ]
       },
       {
-        "rank": 7,
+        "rank": 8,
         "category": "contrarian",
         "ticker": "XAIR",
         "issuer_cik": 1641631,
@@ -1519,71 +1546,38 @@
         "source_accession_numbers": [
           "0001493152-26-035700"
         ]
-      },
-      {
-        "rank": 8,
-        "category": "contrarian",
-        "ticker": "GBFH",
-        "issuer_cik": 1791145,
-        "company_name": null,
-        "headline": "CEO purchase was 0.7× larger than prior median",
-        "purchase_value": 281382.2115,
-        "purchase_multiple": 0.6737387791427771,
-        "ownership_increase_percent": 151.98929734760353,
-        "buyer_count": 7,
-        "operating_executive_count": 2,
-        "behavior_change_score": 32.4478,
-        "conviction_score": 59.4938,
-        "abnormality_score": 2.35808572699972,
-        "silence_break_score": 25.03287671232877,
-        "cluster_score": 100.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-08-04T00:00:00",
-        "filing_date": 20260805,
-        "quality": "acceptable",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "indirect_only",
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0001193125-26-335471"
-        ]
       }
     ],
     "under_the_radar": [
       {
         "rank": 1,
         "category": "under_the_radar",
-        "ticker": "NXTC",
-        "issuer_cik": 1661059,
+        "ticker": "JMKE",
+        "issuer_cik": 2127043,
         "company_name": null,
-        "headline": "Insider purchase was 45.6× larger than prior median",
-        "purchase_value": 1444745.96,
-        "purchase_multiple": 45.60804029618555,
-        "ownership_increase_percent": 74.46613742352504,
-        "buyer_count": 2,
-        "operating_executive_count": 0,
-        "behavior_change_score": 78.3111,
-        "conviction_score": 57.6084,
-        "abnormality_score": 100.0,
-        "silence_break_score": 25.03287671232877,
-        "cluster_score": 50.0,
+        "headline": "CFO purchase was 3.3× larger than prior median",
+        "purchase_value": 230000.0,
+        "purchase_multiple": 3.333333333333333,
+        "ownership_increase_percent": 23255.81395348837,
+        "buyer_count": 6,
+        "operating_executive_count": 2,
+        "behavior_change_score": 77.0333,
+        "conviction_score": 83.1711,
+        "abnormality_score": 76.66666666666667,
+        "silence_break_score": 100.0,
+        "cluster_score": 100.0,
         "market_cap": 0.0,
         "sector": null,
         "industry": null,
-        "transaction_date": "2026-07-30T00:00:00",
-        "filing_date": 20260803,
-        "quality": "high",
+        "transaction_date": "2026-07-31T00:00:00",
+        "filing_date": 20260804,
+        "quality": "limited",
         "discovery_eligible": null,
         "reason_codes": [
-          "indirect_only",
-          "microcap_or_illiquid"
+          "sparse_history"
         ],
         "source_accession_numbers": [
-          "0001940272-26-000013"
+          "0001193125-26-332933"
         ]
       },
       {
@@ -1621,6 +1615,69 @@
       {
         "rank": 3,
         "category": "under_the_radar",
+        "ticker": "NXTC",
+        "issuer_cik": 1661059,
+        "company_name": null,
+        "headline": "Insider purchase was 45.6× larger than prior median",
+        "purchase_value": 1444745.96,
+        "purchase_multiple": 45.60804029618555,
+        "ownership_increase_percent": 74.46613742352504,
+        "buyer_count": 2,
+        "operating_executive_count": 0,
+        "behavior_change_score": 78.3111,
+        "conviction_score": 57.6084,
+        "abnormality_score": 100.0,
+        "silence_break_score": 25.03287671232877,
+        "cluster_score": 50.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-30T00:00:00",
+        "filing_date": 20260803,
+        "quality": "high",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "indirect_only",
+          "microcap_or_illiquid"
+        ],
+        "source_accession_numbers": [
+          "0001940272-26-000013"
+        ]
+      },
+      {
+        "rank": 4,
+        "category": "under_the_radar",
+        "ticker": "JMKE",
+        "issuer_cik": 2127043,
+        "company_name": null,
+        "headline": "First recorded open-market purchase by coo",
+        "purchase_value": 345000.0,
+        "purchase_multiple": null,
+        "ownership_increase_percent": 100.0,
+        "buyer_count": 6,
+        "operating_executive_count": 2,
+        "behavior_change_score": 55.9,
+        "conviction_score": 75.6718,
+        "abnormality_score": 60.0,
+        "silence_break_score": 70.0,
+        "cluster_score": 100.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-31T00:00:00",
+        "filing_date": 20260804,
+        "quality": "limited",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0001193125-26-332934"
+        ]
+      },
+      {
+        "rank": 5,
+        "category": "under_the_radar",
         "ticker": "ORN",
         "issuer_cik": 1402829,
         "company_name": null,
@@ -1650,7 +1707,7 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 6,
         "category": "under_the_radar",
         "ticker": "PRQR",
         "issuer_cik": 1612940,
@@ -1681,7 +1738,38 @@
         ]
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "category": "under_the_radar",
+        "ticker": "JMKE",
+        "issuer_cik": 2127043,
+        "company_name": null,
+        "headline": "First recorded open-market purchase by insider",
+        "purchase_value": 230000.0,
+        "purchase_multiple": null,
+        "ownership_increase_percent": 100.0,
+        "buyer_count": 6,
+        "operating_executive_count": 2,
+        "behavior_change_score": 53.5,
+        "conviction_score": 70.6144,
+        "abnormality_score": 60.0,
+        "silence_break_score": 70.0,
+        "cluster_score": 100.0,
+        "market_cap": 0.0,
+        "sector": null,
+        "industry": null,
+        "transaction_date": "2026-07-31T00:00:00",
+        "filing_date": 20260804,
+        "quality": "limited",
+        "discovery_eligible": null,
+        "reason_codes": [
+          "sparse_history"
+        ],
+        "source_accession_numbers": [
+          "0001193125-26-332935"
+        ]
+      },
+      {
+        "rank": 8,
         "category": "under_the_radar",
         "ticker": "HLI",
         "issuer_cik": 1302215,
@@ -1709,101 +1797,6 @@
         ],
         "source_accession_numbers": [
           "0001302215-26-000069"
-        ]
-      },
-      {
-        "rank": 6,
-        "category": "under_the_radar",
-        "ticker": "DCX",
-        "issuer_cik": 1957413,
-        "company_name": null,
-        "headline": "First recorded open-market purchase by ceo",
-        "purchase_value": 51250.0,
-        "purchase_multiple": null,
-        "ownership_increase_percent": 100.0,
-        "buyer_count": 1,
-        "operating_executive_count": 1,
-        "behavior_change_score": 56.6,
-        "conviction_score": 66.8622,
-        "abnormality_score": 60.0,
-        "silence_break_score": 70.0,
-        "cluster_score": 40.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-07-30T00:00:00",
-        "filing_date": 20260803,
-        "quality": "limited",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0001493152-26-035804"
-        ]
-      },
-      {
-        "rank": 7,
-        "category": "under_the_radar",
-        "ticker": "SCTX",
-        "issuer_cik": 1853921,
-        "company_name": null,
-        "headline": "First recorded open-market purchase by director",
-        "purchase_value": 15000000.0,
-        "purchase_multiple": null,
-        "ownership_increase_percent": 286.67670035117897,
-        "buyer_count": 12,
-        "operating_executive_count": 0,
-        "behavior_change_score": 54.5,
-        "conviction_score": 67.175,
-        "abnormality_score": 60.0,
-        "silence_break_score": 70.0,
-        "cluster_score": 100.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-07-27T00:00:00",
-        "filing_date": 20260729,
-        "quality": "limited",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "indirect_only",
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0000947871-26-000734"
-        ]
-      },
-      {
-        "rank": 8,
-        "category": "under_the_radar",
-        "ticker": "SCTX",
-        "issuer_cik": 1853921,
-        "company_name": null,
-        "headline": "First recorded open-market purchase by director",
-        "purchase_value": 15000000.0,
-        "purchase_multiple": null,
-        "ownership_increase_percent": 286.67670035117897,
-        "buyer_count": 12,
-        "operating_executive_count": 0,
-        "behavior_change_score": 54.5,
-        "conviction_score": 67.175,
-        "abnormality_score": 60.0,
-        "silence_break_score": 70.0,
-        "cluster_score": 100.0,
-        "market_cap": 0.0,
-        "sector": null,
-        "industry": null,
-        "transaction_date": "2026-07-27T00:00:00",
-        "filing_date": 20260729,
-        "quality": "limited",
-        "discovery_eligible": null,
-        "reason_codes": [
-          "indirect_only",
-          "sparse_history"
-        ],
-        "source_accession_numbers": [
-          "0000947871-26-000733"
         ]
       }
     ]

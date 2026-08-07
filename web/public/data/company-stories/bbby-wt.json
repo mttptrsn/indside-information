@@ -1,0 +1,79 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
+  "freshness": {
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
+  },
+  "ticker": "BBBY-WT",
+  "yf_ticker": "BBBY-WT",
+  "issuer_cik": 1130713,
+  "company_name": "Bed Bath & Beyond, Inc. WT",
+  "sector": null,
+  "industry": null,
+  "price_available": true,
+  "price_unavailable_reason": "",
+  "price_path": [
+    {
+      "date": "2026-08-06",
+      "close": 0.3357000052928924,
+      "adjusted_close": 0.3357000052928924,
+      "volume": 65831
+    }
+  ],
+  "purchase_markers": [
+    {
+      "event_id": "eca3887fda3f15e58cab998f",
+      "transaction_date": "2026-08-05",
+      "price_date": "2026-08-06",
+      "market_price": 0.3357000052928924,
+      "reported_purchase_price": 4.67,
+      "purchase_value": 202593.94,
+      "shares": 43382.0,
+      "owner_cik": 1136478,
+      "owner_name": null,
+      "roles": "ceo|chairman|director|executive_chairman|operating_executive",
+      "direct_indirect": null,
+      "ownership_increase_percent": 6.477284264717301,
+      "conviction_score": 34.7493,
+      "behavior_change_score": 47.8955,
+      "headline": null
+    }
+  ],
+  "summary": {
+    "price_date": "2026-08-06",
+    "current_price": 0.3357,
+    "average_reported_purchase_price": 4.67,
+    "percent_vs_average_purchase_price": -92.811563,
+    "first_purchase_date": "2026-08-05",
+    "latest_purchase_date": "2026-08-05",
+    "return_since_first_purchase": 0.0,
+    "return_since_latest_purchase": 0.0,
+    "drawdown_from_52_week_high": 0.0,
+    "drawdown_from_3_year_high": 0.0,
+    "distance_from_200_day_average": null,
+    "return_63_sessions": null,
+    "realized_volatility_63d": null,
+    "volatility_percentile": null,
+    "trend": "insufficient_history",
+    "buyers": 1,
+    "purchase_days": 1,
+    "purchase_events": 1,
+    "total_reported_purchase_value": 202593.94
+  },
+  "quality": {
+    "price_rows_available": 1,
+    "price_points_exported": 1,
+    "purchase_markers_exported": 1,
+    "mapping_quality": "exact_cik",
+    "metadata_quality": "high",
+    "price_quality": null
+  },
+  "limitations": [
+    "Price history comes from yfinance and may be revised or unavailable.",
+    "Adjusted closes are used for market context; reported filing prices and values are never rewritten for later splits.",
+    "Returns describe what happened after disclosed purchases and are not live score inputs."
+  ]
+}

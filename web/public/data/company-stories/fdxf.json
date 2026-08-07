@@ -1,18 +1,18 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "FDXF",
   "yf_ticker": "FDXF",
   "issuer_cik": 2082247,
-  "company_name": null,
-  "sector": null,
-  "industry": null,
+  "company_name": "FedEx Freight Holding Company, Inc.",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
   "price_available": true,
   "price_unavailable_reason": "",
   "price_path": [
@@ -308,25 +308,31 @@
       "date": "2026-08-05",
       "close": 143.02999877929688,
       "adjusted_close": 143.02999877929688,
-      "volume": 838400
+      "volume": 846200
+    },
+    {
+      "date": "2026-08-06",
+      "close": 146.4199981689453,
+      "adjusted_close": 146.4199981689453,
+      "volume": 835200
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 143.029999,
+    "price_date": "2026-08-06",
+    "current_price": 146.419998,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -24.105914,
-    "drawdown_from_3_year_high": -24.105914,
-    "distance_from_200_day_average": -8.177523,
+    "drawdown_from_52_week_high": -22.307125,
+    "drawdown_from_3_year_high": -22.307125,
+    "distance_from_200_day_average": -5.888252,
     "return_63_sessions": null,
-    "realized_volatility_63d": 82.854927,
-    "volatility_percentile": 11.111111,
+    "realized_volatility_63d": 82.161056,
+    "volatility_percentile": 10.0,
     "trend": "insufficient_history",
     "buyers": 0,
     "purchase_days": 0,
@@ -334,11 +340,11 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 49,
-    "price_points_exported": 49,
+    "price_rows_available": 50,
+    "price_points_exported": 50,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
-    "metadata_quality": "limited",
+    "metadata_quality": "high",
     "price_quality": null
   },
   "limitations": [

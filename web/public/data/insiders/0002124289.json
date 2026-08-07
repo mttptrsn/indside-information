@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "limitations": [],
   "insider": {
@@ -20,14 +20,14 @@
     "first_seen_date": "20260731",
     "last_seen_date": "20260731",
     "identity_quality": "exact_owner_cik",
-    "generated_at_utc": "2026-08-06T08:41:52.055626Z",
+    "generated_at_utc": "2026-08-07T06:07:42.438270Z",
     "quality": "high",
     "quality_flags": "",
     "source_type": "sec_xml",
     "source_path": "data/raw/sec/filings/0001098146/0001437749-26-025193/filing.xml",
     "source_accession": "0001437749-26-025193",
     "parser_version": "v1",
-    "normalized_at_utc": "2026-08-06T08:41:52.055626Z",
+    "normalized_at_utc": "2026-08-07T06:07:42.438270Z",
     "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0001437749-26-025193\", \"source_path\": \"data/raw/sec/filings/0001098146/0001437749-26-025193/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}"
   },
   "companies": [],

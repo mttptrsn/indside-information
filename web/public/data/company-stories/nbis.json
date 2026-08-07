@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "NBIS",
   "yf_ticker": "NBIS",
@@ -1361,36 +1361,36 @@
       "volume": 21356700
     },
     {
-      "date": "2026-08-05",
-      "close": 218.9900054931641,
-      "adjusted_close": 218.9900054931641,
-      "volume": 15689800
+      "date": "2026-08-06",
+      "close": 189.8800048828125,
+      "adjusted_close": 189.8800048828125,
+      "volume": 26549300
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 218.990005,
+    "price_date": "2026-08-06",
+    "current_price": 189.880005,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -23.614356,
-    "drawdown_from_3_year_high": -23.614356,
-    "distance_from_200_day_average": 53.578987,
-    "return_63_sessions": 24.482724,
-    "realized_volatility_63d": 131.921648,
-    "volatility_percentile": 91.666667,
-    "trend": "advancing",
+    "drawdown_from_52_week_high": -33.768181,
+    "drawdown_from_3_year_high": -33.768181,
+    "distance_from_200_day_average": 32.807993,
+    "return_63_sessions": -2.670558,
+    "realized_volatility_63d": 133.172225,
+    "volatility_percentile": 93.154034,
+    "trend": "holding_above_trend",
     "buyers": 0,
     "purchase_days": 0,
     "purchase_events": 0,
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 448,
+    "price_rows_available": 449,
     "price_points_exported": 225,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",

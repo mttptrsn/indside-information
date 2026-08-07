@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "CBNA",
   "yf_ticker": "CBNA",
@@ -1401,6 +1401,12 @@
       "close": 47.59999847412109,
       "adjusted_close": 47.59999847412109,
       "volume": 31100
+    },
+    {
+      "date": "2026-08-06",
+      "close": 48.0099983215332,
+      "adjusted_close": 48.0099983215332,
+      "volume": 32000
     }
   ],
   "purchase_markers": [
@@ -1423,20 +1429,20 @@
     }
   ],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 47.599998,
+    "price_date": "2026-08-06",
+    "current_price": 48.009998,
     "average_reported_purchase_price": 44.0,
-    "percent_vs_average_purchase_price": 8.181815,
+    "percent_vs_average_purchase_price": 9.113633,
     "first_purchase_date": "2026-07-29",
     "latest_purchase_date": "2026-07-29",
-    "return_since_first_purchase": 7.303872,
-    "return_since_latest_purchase": 7.303872,
-    "drawdown_from_52_week_high": -0.480877,
-    "drawdown_from_3_year_high": -0.480877,
-    "distance_from_200_day_average": 32.585723,
-    "return_63_sessions": 30.661537,
-    "realized_volatility_63d": 38.320431,
-    "volatility_percentile": 91.646778,
+    "return_since_first_purchase": 8.228128,
+    "return_since_latest_purchase": 8.228128,
+    "drawdown_from_52_week_high": 0.0,
+    "drawdown_from_3_year_high": 0.0,
+    "distance_from_200_day_average": 33.385745,
+    "return_63_sessions": 29.059133,
+    "realized_volatility_63d": 38.181583,
+    "volatility_percentile": 90.714286,
     "trend": "advancing",
     "buyers": 1,
     "purchase_days": 1,
@@ -1444,8 +1450,8 @@
     "total_reported_purchase_value": 17600.0
   },
   "quality": {
-    "price_rows_available": 459,
-    "price_points_exported": 231,
+    "price_rows_available": 460,
+    "price_points_exported": 232,
     "purchase_markers_exported": 1,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",

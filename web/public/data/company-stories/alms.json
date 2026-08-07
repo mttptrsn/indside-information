@@ -1,18 +1,18 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "ALMS",
   "yf_ticker": "ALMS",
   "issuer_cik": 1847367,
-  "company_name": "Alumis Inc.",
-  "sector": "Healthcare",
-  "industry": "Biotechnology",
+  "company_name": null,
+  "sector": null,
+  "industry": null,
   "price_available": true,
   "price_unavailable_reason": "",
   "price_path": [
@@ -1073,40 +1073,40 @@
       "volume": 754400
     },
     {
-      "date": "2026-08-05",
-      "close": 27.1200008392334,
-      "adjusted_close": 27.1200008392334,
-      "volume": 629100
+      "date": "2026-08-06",
+      "close": 27.799999237060547,
+      "adjusted_close": 27.799999237060547,
+      "volume": 653500
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 27.120001,
+    "price_date": "2026-08-06",
+    "current_price": 27.799999,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -10.495044,
-    "drawdown_from_3_year_high": -10.495044,
-    "distance_from_200_day_average": 33.570073,
-    "return_63_sessions": 3.788755,
-    "realized_volatility_63d": 70.671536,
-    "volatility_percentile": 30.390144,
-    "trend": "holding_above_trend",
+    "drawdown_from_52_week_high": -8.250825,
+    "drawdown_from_3_year_high": -8.250825,
+    "distance_from_200_day_average": 36.137701,
+    "return_63_sessions": 9.019605,
+    "realized_volatility_63d": 70.630243,
+    "volatility_percentile": 30.122951,
+    "trend": "advancing",
     "buyers": 0,
     "purchase_days": 0,
     "purchase_events": 0,
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 527,
+    "price_rows_available": 528,
     "price_points_exported": 177,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
-    "metadata_quality": "high",
+    "metadata_quality": "limited",
     "price_quality": null
   },
   "limitations": [

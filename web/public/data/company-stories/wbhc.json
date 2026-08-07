@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "WBHC",
   "yf_ticker": "WBHC",
@@ -1552,6 +1552,23 @@
       "conviction_score": 22.4687,
       "behavior_change_score": 44.5072,
       "headline": null
+    },
+    {
+      "event_id": "72bf6258da03bfb97d429931",
+      "transaction_date": "2026-08-06",
+      "price_date": "2026-08-05",
+      "market_price": 550.0,
+      "reported_purchase_price": 83.45,
+      "purchase_value": 248847.9,
+      "shares": 2982.0,
+      "owner_cik": 1252872,
+      "owner_name": null,
+      "roles": "director",
+      "direct_indirect": null,
+      "ownership_increase_percent": 2.636418290483432,
+      "conviction_score": 31.055,
+      "behavior_change_score": 45.0273,
+      "headline": null
     }
   ],
   "summary": {
@@ -1560,7 +1577,7 @@
     "average_reported_purchase_price": 83.45,
     "percent_vs_average_purchase_price": 559.077292,
     "first_purchase_date": "2026-08-05",
-    "latest_purchase_date": "2026-08-05",
+    "latest_purchase_date": "2026-08-06",
     "return_since_first_purchase": 0.0,
     "return_since_latest_purchase": 0.0,
     "drawdown_from_52_week_high": 0.0,
@@ -1570,15 +1587,15 @@
     "realized_volatility_63d": 0.0,
     "volatility_percentile": 43.156425,
     "trend": "holding_above_trend",
-    "buyers": 1,
-    "purchase_days": 1,
-    "purchase_events": 1,
-    "total_reported_purchase_value": 2503.5
+    "buyers": 2,
+    "purchase_days": 2,
+    "purchase_events": 2,
+    "total_reported_purchase_value": 251351.4
   },
   "quality": {
     "price_rows_available": 756,
     "price_points_exported": 253,
-    "purchase_markers_exported": 1,
+    "purchase_markers_exported": 2,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",
     "price_quality": null

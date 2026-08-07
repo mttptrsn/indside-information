@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "GBFH",
   "yf_ticker": "GBFH",
@@ -1067,10 +1067,10 @@
       "volume": 236000
     },
     {
-      "date": "2026-08-05",
-      "close": 20.38999938964844,
-      "adjusted_close": 20.38999938964844,
-      "volume": 189600
+      "date": "2026-08-06",
+      "close": 20.850000381469727,
+      "adjusted_close": 20.850000381469727,
+      "volume": 189400
     }
   ],
   "purchase_markers": [
@@ -1212,20 +1212,20 @@
     }
   ],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 20.389999,
+    "price_date": "2026-08-06",
+    "current_price": 20.85,
     "average_reported_purchase_price": 21.515012,
-    "percent_vs_average_purchase_price": -5.228967,
+    "percent_vs_average_purchase_price": -3.09092,
     "first_purchase_date": "2026-08-03",
     "latest_purchase_date": "2026-08-04",
-    "return_since_first_purchase": -6.894978,
-    "return_since_latest_purchase": -4.941731,
-    "drawdown_from_52_week_high": -51.463937,
-    "drawdown_from_3_year_high": -53.659092,
-    "distance_from_200_day_average": -34.861955,
-    "return_63_sessions": -27.100465,
-    "realized_volatility_63d": 71.541359,
-    "volatility_percentile": 98.752599,
+    "return_since_first_purchase": -4.794517,
+    "return_since_latest_purchase": -2.797204,
+    "drawdown_from_52_week_high": -50.368957,
+    "drawdown_from_3_year_high": -52.613635,
+    "distance_from_200_day_average": -33.192133,
+    "return_63_sessions": -28.128231,
+    "realized_volatility_63d": 71.259899,
+    "volatility_percentile": 98.547718,
     "trend": "falling",
     "buyers": 7,
     "purchase_days": 2,
@@ -1233,7 +1233,7 @@
     "total_reported_purchase_value": 1718253.4225
   },
   "quality": {
-    "price_rows_available": 521,
+    "price_rows_available": 522,
     "price_points_exported": 176,
     "purchase_markers_exported": 8,
     "mapping_quality": "exact_cik",

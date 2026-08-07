@@ -1,18 +1,18 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "CTNM",
   "yf_ticker": "CTNM",
   "issuer_cik": 1855175,
-  "company_name": "Contineum Therapeutics, Inc.",
-  "sector": "Healthcare",
-  "industry": "Biotechnology",
+  "company_name": null,
+  "sector": null,
+  "industry": null,
   "price_available": true,
   "price_unavailable_reason": "",
   "price_path": [
@@ -1187,40 +1187,40 @@
       "volume": 315000
     },
     {
-      "date": "2026-08-05",
-      "close": 15.270000457763672,
-      "adjusted_close": 15.270000457763672,
-      "volume": 247900
+      "date": "2026-08-06",
+      "close": 15.350000381469728,
+      "adjusted_close": 15.350000381469728,
+      "volume": 227500
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 15.27,
+    "price_date": "2026-08-06",
+    "current_price": 15.35,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -6.833429,
-    "drawdown_from_3_year_high": -29.793101,
-    "distance_from_200_day_average": 17.861137,
-    "return_63_sessions": 6.115359,
-    "realized_volatility_63d": 64.963568,
-    "volatility_percentile": 31.009174,
-    "trend": "advancing",
+    "drawdown_from_52_week_high": -6.345327,
+    "drawdown_from_3_year_high": -29.425286,
+    "distance_from_200_day_average": 18.311958,
+    "return_63_sessions": 2.744316,
+    "realized_volatility_63d": 64.544665,
+    "volatility_percentile": 30.21978,
+    "trend": "holding_above_trend",
     "buyers": 0,
     "purchase_days": 0,
     "purchase_events": 0,
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 585,
+    "price_rows_available": 586,
     "price_points_exported": 196,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
-    "metadata_quality": "high",
+    "metadata_quality": "limited",
     "price_quality": null
   },
   "limitations": [

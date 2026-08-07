@@ -1,7 +1,7 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "ticker": "ANIK",
   "issuer_cik": 898437,
   "events": [
@@ -136,7 +136,7 @@
       "prior_median_ownership_increase_percent": 1.9225223493223107,
       "history_depth": "sparse",
       "history_quality": "acceptable",
-      "generated_at_utc": "2026-08-06T08:51:12.117538Z",
+      "generated_at_utc": "2026-08-07T06:16:16.414034Z",
       "quality": "acceptable",
       "quality_flags": "sparse_prior_history",
       "accession_number": "0001193125-26-335269",
@@ -206,11 +206,11 @@
       "behavior_change_score": 21.7868,
       "behavior_components": "{\"abnormality_score\": 3.427452398168233, \"acceleration_score\": 0.0, \"history_quality_score\": 45, \"ownership_score\": 3.77251721210978, \"role_score\": 50, \"silence_break_score\": 25.03287671232877, \"velocity_score\": 69.68908170643529}",
       "behavior_missing": "[]",
-      "conviction_score": 36.8091,
+      "conviction_score": 24.9091,
       "conviction_grade": "ordinary",
-      "conviction_components": "{\"absolute_purchase_size\": 61.540240380891866, \"behavior_change\": 21.7868, \"cluster_confirmation\": 25.0, \"company_context\": 100, \"data_quality\": 100, \"direct_ownership\": 100, \"ownership_increase\": 3.77251721210978, \"role_quality\": 50}",
-      "conviction_penalties": "{\"sparse_history\": 4.0}",
-      "reason_codes": "sparse_history",
+      "conviction_components": "{\"absolute_purchase_size\": 61.540240380891866, \"behavior_change\": 21.7868, \"cluster_confirmation\": 25.0, \"company_context\": 35, \"data_quality\": 100, \"direct_ownership\": 100, \"ownership_increase\": 3.77251721210978, \"role_quality\": 50}",
+      "conviction_penalties": "{\"microcap_or_illiquid\": 8.0, \"sparse_history\": 4.0}",
+      "reason_codes": "microcap_or_illiquid|sparse_history",
       "drawdown_label": "near_highs"
     },
     {
@@ -250,7 +250,7 @@
       "prior_median_ownership_increase_percent": null,
       "history_depth": "no_history",
       "history_quality": "limited",
-      "generated_at_utc": "2026-08-06T08:51:12.117538Z",
+      "generated_at_utc": "2026-08-07T06:16:16.414034Z",
       "quality": "limited",
       "quality_flags": "no_prior_history",
       "accession_number": "0001193125-26-335269",
@@ -320,11 +320,11 @@
       "behavior_change_score": 44.8845,
       "behavior_components": "{\"abnormality_score\": 60.0, \"acceleration_score\": 0.0, \"history_quality_score\": 20, \"ownership_score\": 3.8450446986446214, \"role_score\": 50, \"silence_break_score\": 70.0, \"velocity_score\": 40}",
       "behavior_missing": "[]",
-      "conviction_score": 44.9215,
+      "conviction_score": 33.0215,
       "conviction_grade": "ordinary",
-      "conviction_components": "{\"absolute_purchase_size\": 61.67019198807131, \"behavior_change\": 44.8845, \"cluster_confirmation\": 25.0, \"company_context\": 100, \"data_quality\": 100, \"direct_ownership\": 100, \"ownership_increase\": 3.8450446986446214, \"role_quality\": 50}",
-      "conviction_penalties": "{\"sparse_history\": 4.0}",
-      "reason_codes": "sparse_history",
+      "conviction_components": "{\"absolute_purchase_size\": 61.67019198807131, \"behavior_change\": 44.8845, \"cluster_confirmation\": 25.0, \"company_context\": 35, \"data_quality\": 100, \"direct_ownership\": 100, \"ownership_increase\": 3.8450446986446214, \"role_quality\": 50}",
+      "conviction_penalties": "{\"microcap_or_illiquid\": 8.0, \"sparse_history\": 4.0}",
+      "reason_codes": "microcap_or_illiquid|sparse_history",
       "drawdown_label": "near_highs"
     }
   ]

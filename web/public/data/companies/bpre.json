@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "limitations": [
     "Company metadata and prices may be missing for inactive or unsupported symbols.",
@@ -20,14 +20,14 @@
     "yf_ticker": "BPRE",
     "is_active": true,
     "mapping_quality": "exact_cik",
-    "generated_at_utc": "2026-08-06T08:41:51.738164Z",
+    "generated_at_utc": "2026-08-07T06:07:42.079712Z",
     "quality": "high",
     "quality_flags": null,
     "source_type": "sec_xml",
     "source_path": "data/raw/sec/filings/0001551047/0001398344-26-013581/filing.xml",
     "source_accession": "0001398344-26-013581",
     "parser_version": "v1",
-    "normalized_at_utc": "2026-08-06T08:41:51.738164Z",
+    "normalized_at_utc": "2026-08-07T06:07:42.079712Z",
     "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0001398344-26-013581\", \"source_path\": \"data/raw/sec/filings/0001551047/0001398344-26-013581/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}",
     "ticker": "BPRE",
     "company_name": "Bluerock Private Real Estate Fund",
@@ -35,10 +35,10 @@
     "sector": "Financial Services",
     "industry": "Asset Management",
     "quote_type": "EQUITY",
-    "metadata_fetched_at_utc": "2026-08-06T08:50:11.363549Z",
+    "metadata_fetched_at_utc": "2026-08-07T06:15:47.047030Z",
     "metadata_quality": "high",
-    "latest_price": 13.390000343322754,
-    "average_dollar_volume_63d": 11194222.718344796,
+    "latest_price": 12.770000457763672,
+    "average_dollar_volume_63d": 11235581.846527826,
     "discovery_eligible": false,
     "eligibility_reasons": "missing_market_cap"
   },

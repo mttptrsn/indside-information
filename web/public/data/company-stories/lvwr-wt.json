@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "LVWR-WT",
   "yf_ticker": "LVWR-WT",
@@ -17,15 +17,15 @@
   "price_unavailable_reason": "",
   "price_path": [
     {
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "close": 0.0359999984502792,
       "adjusted_close": 0.0359999984502792,
-      "volume": 2172
+      "volume": 4056
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
+    "price_date": "2026-08-06",
     "current_price": 0.036,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,

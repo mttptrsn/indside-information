@@ -1,18 +1,18 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "SARO",
   "yf_ticker": "SARO",
   "issuer_cik": 2025410,
-  "company_name": "StandardAero, Inc.",
-  "sector": "Industrials",
-  "industry": "Aerospace & Defense",
+  "company_name": null,
+  "sector": null,
+  "industry": null,
   "price_available": true,
   "price_unavailable_reason": "",
   "price_path": [
@@ -1401,24 +1401,30 @@
       "close": 31.01000022888184,
       "adjusted_close": 31.01000022888184,
       "volume": 3638100
+    },
+    {
+      "date": "2026-08-06",
+      "close": 30.0,
+      "adjusted_close": 30.0,
+      "volume": 4570500
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 31.01,
+    "price_date": "2026-08-06",
+    "current_price": 30.0,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -6.370769,
-    "drawdown_from_3_year_high": -6.370769,
-    "distance_from_200_day_average": 11.077282,
-    "return_63_sessions": 23.545816,
-    "realized_volatility_63d": 44.303144,
-    "volatility_percentile": 79.334917,
+    "drawdown_from_52_week_high": -9.420287,
+    "drawdown_from_3_year_high": -9.420287,
+    "distance_from_200_day_average": 7.407155,
+    "return_63_sessions": 14.242192,
+    "realized_volatility_63d": 44.034923,
+    "volatility_percentile": 77.014218,
     "trend": "advancing",
     "buyers": 0,
     "purchase_days": 0,
@@ -1426,11 +1432,11 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 461,
-    "price_points_exported": 231,
+    "price_rows_available": 462,
+    "price_points_exported": 232,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
-    "metadata_quality": "high",
+    "metadata_quality": "limited",
     "price_quality": null
   },
   "limitations": [

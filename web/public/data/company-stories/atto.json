@@ -1,0 +1,113 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
+  "freshness": {
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
+  },
+  "ticker": "ATTO",
+  "yf_ticker": "ATTO",
+  "issuer_cik": 2058707,
+  "company_name": "Attovia Therapeutics, Inc. Common Stock",
+  "sector": null,
+  "industry": null,
+  "price_available": true,
+  "price_unavailable_reason": "",
+  "price_path": [
+    {
+      "date": "2026-08-06",
+      "close": 20.3799991607666,
+      "adjusted_close": 20.3799991607666,
+      "volume": 412565
+    }
+  ],
+  "purchase_markers": [
+    {
+      "event_id": "182e0e88d7c28f212298a2df",
+      "transaction_date": "2026-08-06",
+      "price_date": "2026-08-06",
+      "market_price": 20.3799991607666,
+      "reported_purchase_price": 17.0,
+      "purchase_value": 9999995.0,
+      "shares": 588235.0,
+      "owner_cik": 1911580,
+      "owner_name": null,
+      "roles": "ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 10.568403252761687,
+      "conviction_score": 46.9887,
+      "behavior_change_score": 45.8637,
+      "headline": null
+    },
+    {
+      "event_id": "b9bc6e4c7dffd963cb4d66d1",
+      "transaction_date": "2026-08-06",
+      "price_date": "2026-08-06",
+      "market_price": 20.3799991607666,
+      "reported_purchase_price": 17.0,
+      "purchase_value": 9999995.0,
+      "shares": 588235.0,
+      "owner_cik": 1911592,
+      "owner_name": null,
+      "roles": "ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 10.568403252761687,
+      "conviction_score": 46.9887,
+      "behavior_change_score": 45.8637,
+      "headline": null
+    },
+    {
+      "event_id": "d17d7031e153ecd529293bea",
+      "transaction_date": "2026-08-06",
+      "price_date": "2026-08-06",
+      "market_price": 20.3799991607666,
+      "reported_purchase_price": 17.0,
+      "purchase_value": 9999995.0,
+      "shares": 588235.0,
+      "owner_cik": 1911623,
+      "owner_name": null,
+      "roles": "ten_percent_owner",
+      "direct_indirect": null,
+      "ownership_increase_percent": 10.568403252761687,
+      "conviction_score": 46.9887,
+      "behavior_change_score": 45.8637,
+      "headline": null
+    }
+  ],
+  "summary": {
+    "price_date": "2026-08-06",
+    "current_price": 20.379999,
+    "average_reported_purchase_price": 17.0,
+    "percent_vs_average_purchase_price": 19.882348,
+    "first_purchase_date": "2026-08-06",
+    "latest_purchase_date": "2026-08-06",
+    "return_since_first_purchase": 0.0,
+    "return_since_latest_purchase": 0.0,
+    "drawdown_from_52_week_high": 0.0,
+    "drawdown_from_3_year_high": 0.0,
+    "distance_from_200_day_average": null,
+    "return_63_sessions": null,
+    "realized_volatility_63d": null,
+    "volatility_percentile": null,
+    "trend": "insufficient_history",
+    "buyers": 3,
+    "purchase_days": 1,
+    "purchase_events": 3,
+    "total_reported_purchase_value": 29999985.0
+  },
+  "quality": {
+    "price_rows_available": 1,
+    "price_points_exported": 1,
+    "purchase_markers_exported": 3,
+    "mapping_quality": "exact_cik",
+    "metadata_quality": "high",
+    "price_quality": null
+  },
+  "limitations": [
+    "Price history comes from yfinance and may be revised or unavailable.",
+    "Adjusted closes are used for market context; reported filing prices and values are never rewritten for later splits.",
+    "Returns describe what happened after disclosed purchases and are not live score inputs."
+  ]
+}

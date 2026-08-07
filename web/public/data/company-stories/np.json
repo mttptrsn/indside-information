@@ -1,18 +1,18 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "NP",
   "yf_ticker": "NP",
   "issuer_cik": 2067129,
-  "company_name": "Neptune Insurance Holdings Inc.",
-  "sector": "Financial Services",
-  "industry": "Insurance Brokers",
+  "company_name": null,
+  "sector": null,
+  "industry": null,
   "price_available": true,
   "price_unavailable_reason": "",
   "price_path": [
@@ -1287,24 +1287,30 @@
       "close": 32.810001373291016,
       "adjusted_close": 32.810001373291016,
       "volume": 582700
+    },
+    {
+      "date": "2026-08-06",
+      "close": 32.83000183105469,
+      "adjusted_close": 32.83000183105469,
+      "volume": 345300
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 32.810001,
+    "price_date": "2026-08-06",
+    "current_price": 32.830002,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -6.550838,
-    "drawdown_from_3_year_high": -6.550838,
-    "distance_from_200_day_average": 25.149004,
-    "return_63_sessions": 31.820017,
-    "realized_volatility_63d": 73.21665,
-    "volatility_percentile": 62.209302,
+    "drawdown_from_52_week_high": -6.493873,
+    "drawdown_from_3_year_high": -6.493873,
+    "distance_from_200_day_average": 25.041666,
+    "return_63_sessions": 31.42515,
+    "realized_volatility_63d": 73.222088,
+    "volatility_percentile": 62.427746,
     "trend": "advancing",
     "buyers": 0,
     "purchase_days": 0,
@@ -1312,11 +1318,11 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 212,
-    "price_points_exported": 212,
+    "price_rows_available": 213,
+    "price_points_exported": 213,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
-    "metadata_quality": "high",
+    "metadata_quality": "limited",
     "price_quality": null
   },
   "limitations": [

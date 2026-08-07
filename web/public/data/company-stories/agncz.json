@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "AGNCZ",
   "yf_ticker": "AGNCZ",
@@ -1401,24 +1401,30 @@
       "close": 25.420000076293945,
       "adjusted_close": 25.420000076293945,
       "volume": 23600
+    },
+    {
+      "date": "2026-08-06",
+      "close": 25.4950008392334,
+      "adjusted_close": 25.4950008392334,
+      "volume": 29300
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 25.42,
+    "price_date": "2026-08-06",
+    "current_price": 25.495001,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -0.078618,
-    "drawdown_from_3_year_high": -0.078618,
-    "distance_from_200_day_average": 3.619722,
-    "return_63_sessions": 1.645568,
-    "realized_volatility_63d": 4.091853,
-    "volatility_percentile": 41.361257,
+    "drawdown_from_52_week_high": 0.0,
+    "drawdown_from_3_year_high": 0.0,
+    "distance_from_200_day_average": 3.883515,
+    "return_63_sessions": 2.185338,
+    "realized_volatility_63d": 4.091702,
+    "volatility_percentile": 41.145833,
     "trend": "holding_above_trend",
     "buyers": 0,
     "purchase_days": 0,
@@ -1426,8 +1432,8 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 231,
-    "price_points_exported": 231,
+    "price_rows_available": 232,
+    "price_points_exported": 232,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",

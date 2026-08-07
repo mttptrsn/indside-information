@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "ACOG",
   "yf_ticker": "ACOG",
@@ -1289,12 +1289,6 @@
       "volume": 359700
     },
     {
-      "date": "2026-07-24",
-      "close": 7.900000095367432,
-      "adjusted_close": 7.900000095367432,
-      "volume": 29300
-    },
-    {
       "date": "2026-07-27",
       "close": 8.579999923706055,
       "adjusted_close": 8.579999923706055,
@@ -1325,30 +1319,13 @@
       "volume": 49000
     },
     {
-      "date": "2026-08-05",
-      "close": 8.520000457763672,
-      "adjusted_close": 8.520000457763672,
-      "volume": 92400
+      "date": "2026-08-06",
+      "close": 8.670000076293945,
+      "adjusted_close": 8.670000076293945,
+      "volume": 15100
     }
   ],
   "purchase_markers": [
-    {
-      "event_id": "3b4be6256229c51a982caf4b",
-      "transaction_date": "2026-07-24",
-      "price_date": "2026-07-24",
-      "market_price": 7.900000095367432,
-      "reported_purchase_price": 7.9,
-      "purchase_value": 1027.0,
-      "shares": 130.0,
-      "owner_cik": 1595855,
-      "owner_name": null,
-      "roles": "ten_percent_owner",
-      "direct_indirect": null,
-      "ownership_increase_percent": 0.0043402879213459,
-      "conviction_score": 19.2672,
-      "behavior_change_score": 43.7509,
-      "headline": null
-    },
     {
       "event_id": "3047ef634d3e7e136a0e23b6",
       "transaction_date": "2026-07-31",
@@ -1362,8 +1339,8 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 0.0968176053133501,
-      "conviction_score": 27.5417,
-      "behavior_change_score": 59.0654,
+      "conviction_score": 22.1881,
+      "behavior_change_score": 43.7694,
       "headline": null
     },
     {
@@ -1379,36 +1356,36 @@
       "roles": "ten_percent_owner",
       "direct_indirect": null,
       "ownership_increase_percent": 1.6676544740000994,
-      "conviction_score": 32.6666,
-      "behavior_change_score": 65.0342,
+      "conviction_score": 30.6783,
+      "behavior_change_score": 59.3533,
       "headline": null
     }
   ],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 8.52,
-    "average_reported_purchase_price": 7.995522,
-    "percent_vs_average_purchase_price": 6.55965,
-    "first_purchase_date": "2026-07-24",
+    "price_date": "2026-08-06",
+    "current_price": 8.67,
+    "average_reported_purchase_price": 7.995757,
+    "percent_vs_average_purchase_price": 8.432512,
+    "first_purchase_date": "2026-07-31",
     "latest_purchase_date": "2026-08-03",
-    "return_since_first_purchase": 7.848106,
-    "return_since_latest_purchase": 1.067617,
-    "drawdown_from_52_week_high": -14.714708,
-    "drawdown_from_3_year_high": -24.199283,
-    "distance_from_200_day_average": 35.400906,
-    "return_63_sessions": 33.542325,
-    "realized_volatility_63d": 60.004822,
-    "volatility_percentile": 5.612245,
+    "return_since_first_purchase": 4.710149,
+    "return_since_latest_purchase": 2.846972,
+    "drawdown_from_52_week_high": -13.21321,
+    "drawdown_from_3_year_high": -22.864766,
+    "distance_from_200_day_average": 37.580286,
+    "return_63_sessions": 35.893416,
+    "realized_volatility_63d": 60.044988,
+    "volatility_percentile": 5.852417,
     "trend": "advancing",
     "buyers": 1,
-    "purchase_days": 3,
-    "purchase_events": 3,
-    "total_reported_purchase_value": 424002.54
+    "purchase_days": 2,
+    "purchase_events": 2,
+    "total_reported_purchase_value": 422975.54
   },
   "quality": {
-    "price_rows_available": 432,
-    "price_points_exported": 219,
-    "purchase_markers_exported": 3,
+    "price_rows_available": 433,
+    "price_points_exported": 218,
+    "purchase_markers_exported": 2,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",
     "price_quality": null

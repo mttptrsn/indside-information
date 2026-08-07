@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "CRCL",
   "yf_ticker": "CRCL",
@@ -896,12 +896,18 @@
       "date": "2026-08-05",
       "close": 63.27999877929688,
       "adjusted_close": 63.27999877929688,
-      "volume": 20012700
+      "volume": 20101200
+    },
+    {
+      "date": "2026-08-06",
+      "close": 63.27999877929688,
+      "adjusted_close": 63.27999877929688,
+      "volume": 12303700
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
+    "price_date": "2026-08-06",
     "current_price": 63.279999,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
@@ -911,10 +917,10 @@
     "return_since_latest_purchase": null,
     "drawdown_from_52_week_high": -61.227868,
     "drawdown_from_3_year_high": -75.980263,
-    "distance_from_200_day_average": -28.607975,
-    "return_63_sessions": -44.583591,
-    "realized_volatility_63d": 90.228632,
-    "volatility_percentile": 33.201581,
+    "distance_from_200_day_average": -28.352505,
+    "return_63_sessions": -48.045979,
+    "realized_volatility_63d": 88.972039,
+    "volatility_percentile": 27.952756,
     "trend": "falling",
     "buyers": 0,
     "purchase_days": 0,
@@ -922,8 +928,8 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 293,
-    "price_points_exported": 147,
+    "price_rows_available": 294,
+    "price_points_exported": 148,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",

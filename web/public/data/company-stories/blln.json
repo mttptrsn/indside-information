@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "BLLN",
   "yf_ticker": "BLLN",
@@ -1130,34 +1130,40 @@
       "date": "2026-08-05",
       "close": 149.97000122070312,
       "adjusted_close": 149.97000122070312,
-      "volume": 910100
+      "volume": 922100
+    },
+    {
+      "date": "2026-08-06",
+      "close": 91.6500015258789,
+      "adjusted_close": 91.6500015258789,
+      "volume": 3745900
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 149.970001,
+    "price_date": "2026-08-06",
+    "current_price": 91.650002,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": 0.0,
-    "drawdown_from_3_year_high": 0.0,
-    "distance_from_200_day_average": 57.173092,
-    "return_63_sessions": 87.697119,
-    "realized_volatility_63d": 74.135113,
-    "volatility_percentile": 0.684932,
-    "trend": "advancing",
+    "drawdown_from_52_week_high": -38.887777,
+    "drawdown_from_3_year_high": -38.887777,
+    "distance_from_200_day_average": -3.927747,
+    "return_63_sessions": 12.592137,
+    "realized_volatility_63d": 109.036582,
+    "volatility_percentile": 100.0,
+    "trend": "recovering",
     "buyers": 0,
     "purchase_days": 0,
     "purchase_events": 0,
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 186,
-    "price_points_exported": 186,
+    "price_rows_available": 187,
+    "price_points_exported": 187,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
     "metadata_quality": "limited",

@@ -1,0 +1,61 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
+  "freshness": {
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
+  },
+  "limitations": [
+    "Company metadata and prices may be missing for inactive or unsupported symbols.",
+    "Indirect ownership should be interpreted with the source filing footnotes."
+  ],
+  "company": {
+    "schema_version": "v1",
+    "issuer_cik": 1355848,
+    "issuer_name": "Kartoon Studios, Inc.",
+    "primary_ticker": "TOON",
+    "exchange": "ASE",
+    "yf_ticker": "TOON",
+    "is_active": true,
+    "mapping_quality": "exact_cik",
+    "generated_at_utc": "2026-08-07T06:07:42.079712Z",
+    "quality": "high",
+    "quality_flags": null,
+    "source_type": "sec_xml",
+    "source_path": "data/raw/sec/filings/0001355848/0001628280-26-054493/filing.xml",
+    "source_accession": "0001628280-26-054493",
+    "parser_version": "v1",
+    "normalized_at_utc": "2026-08-07T06:07:42.079712Z",
+    "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0001628280-26-054493\", \"source_path\": \"data/raw/sec/filings/0001355848/0001628280-26-054493/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}",
+    "ticker": "TOON",
+    "company_name": "Kartoon Studios Inc.",
+    "market_cap": 35053780.0,
+    "sector": "Communication Services",
+    "industry": "Entertainment",
+    "quote_type": "EQUITY",
+    "metadata_fetched_at_utc": "2026-08-07T06:15:15.704224Z",
+    "metadata_quality": "high",
+    "latest_price": 0.5929999947547913,
+    "average_dollar_volume_63d": 1203469.0628547517,
+    "discovery_eligible": false,
+    "eligibility_reasons": "market_cap_below_minimum|price_below_minimum"
+  },
+  "current_signal": null,
+  "latest_event_signal": null,
+  "buyers": [],
+  "purchase_events": [],
+  "purchase_campaigns": [],
+  "executive_histories": [],
+  "event_signals": [],
+  "qualifying_transactions": [],
+  "stats": {
+    "purchase_event_count": 0,
+    "unique_buyer_count": 0,
+    "total_purchase_value": 0,
+    "largest_purchase_value": 0,
+    "median_conviction": null,
+    "highest_behavior_change": null
+  }
+}

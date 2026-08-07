@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "ULS",
   "yf_ticker": "ULS",
@@ -19,13 +19,13 @@
     {
       "date": "2024-04-12",
       "close": 34.939998626708984,
-      "adjusted_close": 34.28863906860352,
+      "adjusted_close": 34.28863525390625,
       "volume": 14953800
     },
     {
       "date": "2024-04-17",
       "close": 33.9900016784668,
-      "adjusted_close": 33.356346130371094,
+      "adjusted_close": 33.356353759765625,
       "volume": 1187500
     },
     {
@@ -37,13 +37,13 @@
     {
       "date": "2024-04-25",
       "close": 33.88999938964844,
-      "adjusted_close": 33.25821304321289,
+      "adjusted_close": 33.258209228515625,
       "volume": 385000
     },
     {
       "date": "2024-04-30",
       "close": 35.099998474121094,
-      "adjusted_close": 34.44565963745117,
+      "adjusted_close": 34.445655822753906,
       "volume": 464300
     },
     {
@@ -55,25 +55,25 @@
     {
       "date": "2024-05-08",
       "close": 35.7599983215332,
-      "adjusted_close": 35.093353271484375,
+      "adjusted_close": 35.09334945678711,
       "volume": 259600
     },
     {
       "date": "2024-05-13",
       "close": 36.61000061035156,
-      "adjusted_close": 35.9275016784668,
+      "adjusted_close": 35.92750930786133,
       "volume": 239200
     },
     {
       "date": "2024-05-16",
       "close": 36.9900016784668,
-      "adjusted_close": 36.300418853759766,
+      "adjusted_close": 36.30042266845703,
       "volume": 426900
     },
     {
       "date": "2024-05-21",
       "close": 40.04999923706055,
-      "adjusted_close": 39.30337142944336,
+      "adjusted_close": 39.30337905883789,
       "volume": 1437100
     },
     {
@@ -85,13 +85,13 @@
     {
       "date": "2024-05-30",
       "close": 39.84000015258789,
-      "adjusted_close": 39.0972900390625,
+      "adjusted_close": 39.097293853759766,
       "volume": 429200
     },
     {
       "date": "2024-06-04",
       "close": 39.18999862670898,
-      "adjusted_close": 38.5844612121582,
+      "adjusted_close": 38.58445739746094,
       "volume": 463200
     },
     {
@@ -115,19 +115,19 @@
     {
       "date": "2024-06-21",
       "close": 41.84999847412109,
-      "adjusted_close": 41.2033576965332,
+      "adjusted_close": 41.20335006713867,
       "volume": 3456100
     },
     {
       "date": "2024-06-26",
       "close": 40.41999816894531,
-      "adjusted_close": 39.795448303222656,
+      "adjusted_close": 39.79545593261719,
       "volume": 645800
     },
     {
       "date": "2024-07-01",
       "close": 41.970001220703125,
-      "adjusted_close": 41.32150268554688,
+      "adjusted_close": 41.32149887084961,
       "volume": 1687800
     },
     {
@@ -139,7 +139,7 @@
     {
       "date": "2024-07-10",
       "close": 43.59999847412109,
-      "adjusted_close": 42.92631912231445,
+      "adjusted_close": 42.92631530761719,
       "volume": 205400
     },
     {
@@ -157,13 +157,13 @@
     {
       "date": "2024-07-23",
       "close": 44.75,
-      "adjusted_close": 44.05854415893555,
+      "adjusted_close": 44.05854797363281,
       "volume": 205000
     },
     {
       "date": "2024-07-26",
       "close": 45.61000061035156,
-      "adjusted_close": 44.9052619934082,
+      "adjusted_close": 44.90525817871094,
       "volume": 323200
     },
     {
@@ -181,13 +181,13 @@
     {
       "date": "2024-08-08",
       "close": 49.84999847412109,
-      "adjusted_close": 49.07974243164063,
+      "adjusted_close": 49.07973861694336,
       "volume": 1515500
     },
     {
       "date": "2024-08-13",
       "close": 51.459999084472656,
-      "adjusted_close": 50.66486358642578,
+      "adjusted_close": 50.66486740112305,
       "volume": 326600
     },
     {
@@ -199,7 +199,7 @@
     {
       "date": "2024-08-21",
       "close": 53.209999084472656,
-      "adjusted_close": 52.38782501220703,
+      "adjusted_close": 52.3878288269043,
       "volume": 221000
     },
     {
@@ -217,37 +217,37 @@
     {
       "date": "2024-09-04",
       "close": 52.29999923706055,
-      "adjusted_close": 51.60886001586914,
+      "adjusted_close": 51.608863830566406,
       "volume": 642200
     },
     {
       "date": "2024-09-09",
       "close": 49.0,
-      "adjusted_close": 48.35247802734375,
+      "adjusted_close": 48.35247039794922,
       "volume": 3307600
     },
     {
       "date": "2024-09-12",
       "close": 48.84999847412109,
-      "adjusted_close": 48.20444869995117,
+      "adjusted_close": 48.20445251464844,
       "volume": 747400
     },
     {
       "date": "2024-09-17",
       "close": 48.77000045776367,
-      "adjusted_close": 48.1255111694336,
+      "adjusted_close": 48.12550735473633,
       "volume": 825900
     },
     {
       "date": "2024-09-20",
       "close": 48.5,
-      "adjusted_close": 47.85907745361328,
+      "adjusted_close": 47.859073638916016,
       "volume": 830200
     },
     {
       "date": "2024-09-25",
       "close": 49.459999084472656,
-      "adjusted_close": 48.80639266967773,
+      "adjusted_close": 48.80638885498047,
       "volume": 875900
     },
     {
@@ -259,7 +259,7 @@
     {
       "date": "2024-10-03",
       "close": 49.86000061035156,
-      "adjusted_close": 49.20111083984375,
+      "adjusted_close": 49.20110702514648,
       "volume": 1954700
     },
     {
@@ -277,19 +277,19 @@
     {
       "date": "2024-10-16",
       "close": 54.290000915527344,
-      "adjusted_close": 53.57255935668945,
+      "adjusted_close": 53.57256317138672,
       "volume": 718300
     },
     {
       "date": "2024-10-21",
       "close": 52.9900016784668,
-      "adjusted_close": 52.28974914550781,
+      "adjusted_close": 52.28974151611328,
       "volume": 306000
     },
     {
       "date": "2024-10-24",
       "close": 52.90999984741211,
-      "adjusted_close": 52.2108039855957,
+      "adjusted_close": 52.21079635620117,
       "volume": 302500
     },
     {
@@ -307,13 +307,13 @@
     {
       "date": "2024-11-06",
       "close": 50.400001525878906,
-      "adjusted_close": 49.73397064208984,
+      "adjusted_close": 49.73397445678711,
       "volume": 2107500
     },
     {
       "date": "2024-11-11",
       "close": 51.619998931884766,
-      "adjusted_close": 50.93784713745117,
+      "adjusted_close": 50.93784332275391,
       "volume": 601200
     },
     {
@@ -349,7 +349,7 @@
     {
       "date": "2024-12-06",
       "close": 53.34999847412109,
-      "adjusted_close": 52.76792526245117,
+      "adjusted_close": 52.76792907714844,
       "volume": 522300
     },
     {
@@ -361,13 +361,13 @@
     {
       "date": "2024-12-16",
       "close": 51.5,
-      "adjusted_close": 50.938114166259766,
+      "adjusted_close": 50.93811798095703,
       "volume": 395800
     },
     {
       "date": "2024-12-19",
       "close": 49.45000076293945,
-      "adjusted_close": 48.91048812866211,
+      "adjusted_close": 48.91048431396485,
       "volume": 587300
     },
     {
@@ -379,19 +379,19 @@
     {
       "date": "2024-12-30",
       "close": 50.15999984741211,
-      "adjusted_close": 49.61273193359375,
+      "adjusted_close": 49.612735748291016,
       "volume": 1054000
     },
     {
       "date": "2025-01-03",
       "close": 49.310001373291016,
-      "adjusted_close": 48.77201461791992,
+      "adjusted_close": 48.772010803222656,
       "volume": 992300
     },
     {
       "date": "2025-01-08",
       "close": 49.38999938964844,
-      "adjusted_close": 48.85113906860352,
+      "adjusted_close": 48.85113525390625,
       "volume": 727200
     },
     {
@@ -403,13 +403,13 @@
     {
       "date": "2025-01-17",
       "close": 51.95000076293945,
-      "adjusted_close": 51.383209228515625,
+      "adjusted_close": 51.38321304321289,
       "volume": 147300
     },
     {
       "date": "2025-01-23",
       "close": 53.43000030517578,
-      "adjusted_close": 52.84705352783203,
+      "adjusted_close": 52.8470573425293,
       "volume": 338200
     },
     {
@@ -433,19 +433,19 @@
     {
       "date": "2025-02-10",
       "close": 54.66999816894531,
-      "adjusted_close": 54.07353210449219,
+      "adjusted_close": 54.07352828979492,
       "volume": 164200
     },
     {
       "date": "2025-02-13",
       "close": 57.34999847412109,
-      "adjusted_close": 56.72429275512695,
+      "adjusted_close": 56.72428894042969,
       "volume": 856200
     },
     {
       "date": "2025-02-19",
       "close": 55.58000183105469,
-      "adjusted_close": 54.97360610961914,
+      "adjusted_close": 54.97360229492188,
       "volume": 630200
     },
     {
@@ -463,13 +463,13 @@
     {
       "date": "2025-03-04",
       "close": 52.4900016784668,
-      "adjusted_close": 52.04487609863281,
+      "adjusted_close": 52.044883728027344,
       "volume": 561300
     },
     {
       "date": "2025-03-07",
       "close": 52.83000183105469,
-      "adjusted_close": 52.38199615478516,
+      "adjusted_close": 52.38199996948242,
       "volume": 766200
     },
     {
@@ -481,19 +481,19 @@
     {
       "date": "2025-03-17",
       "close": 52.38999938964844,
-      "adjusted_close": 51.94572067260742,
+      "adjusted_close": 51.94572448730469,
       "volume": 641600
     },
     {
       "date": "2025-03-20",
       "close": 53.720001220703125,
-      "adjusted_close": 53.26444625854492,
+      "adjusted_close": 53.26445007324219,
       "volume": 528300
     },
     {
       "date": "2025-03-25",
       "close": 54.75,
-      "adjusted_close": 54.28571319580078,
+      "adjusted_close": 54.28570938110352,
       "volume": 639300
     },
     {
@@ -517,7 +517,7 @@
     {
       "date": "2025-04-10",
       "close": 54.869998931884766,
-      "adjusted_close": 54.40469741821289,
+      "adjusted_close": 54.404693603515625,
       "volume": 1175200
     },
     {
@@ -529,13 +529,13 @@
     {
       "date": "2025-04-21",
       "close": 53.09000015258789,
-      "adjusted_close": 52.639793395996094,
+      "adjusted_close": 52.63978576660156,
       "volume": 680000
     },
     {
       "date": "2025-04-24",
       "close": 57.880001068115234,
-      "adjusted_close": 57.38916778564453,
+      "adjusted_close": 57.3891716003418,
       "volume": 1117500
     },
     {
@@ -553,13 +553,13 @@
     {
       "date": "2025-05-07",
       "close": 70.0,
-      "adjusted_close": 69.40638732910156,
+      "adjusted_close": 69.4063949584961,
       "volume": 2097700
     },
     {
       "date": "2025-05-12",
       "close": 70.3499984741211,
-      "adjusted_close": 69.75341796875,
+      "adjusted_close": 69.75341033935547,
       "volume": 1257000
     },
     {
@@ -589,7 +589,7 @@
     {
       "date": "2025-06-03",
       "close": 70.0999984741211,
-      "adjusted_close": 69.63304901123047,
+      "adjusted_close": 69.633056640625,
       "volume": 1020400
     },
     {
@@ -601,7 +601,7 @@
     {
       "date": "2025-06-11",
       "close": 70.44999694824219,
-      "adjusted_close": 69.98072052001953,
+      "adjusted_close": 69.98072814941406,
       "volume": 529900
     },
     {
@@ -637,13 +637,13 @@
     {
       "date": "2025-07-09",
       "close": 70.9000015258789,
-      "adjusted_close": 70.427734375,
+      "adjusted_close": 70.42772674560547,
       "volume": 725500
     },
     {
       "date": "2025-07-14",
       "close": 72.48999786376953,
-      "adjusted_close": 72.00713348388672,
+      "adjusted_close": 72.00714111328125,
       "volume": 621600
     },
     {
@@ -655,7 +655,7 @@
     {
       "date": "2025-07-22",
       "close": 70.55999755859375,
-      "adjusted_close": 70.0899887084961,
+      "adjusted_close": 70.08999633789062,
       "volume": 969300
     },
     {
@@ -673,7 +673,7 @@
     {
       "date": "2025-08-04",
       "close": 73.04000091552734,
-      "adjusted_close": 72.55347442626953,
+      "adjusted_close": 72.553466796875,
       "volume": 1012100
     },
     {
@@ -685,13 +685,13 @@
     {
       "date": "2025-08-12",
       "close": 67.2699966430664,
-      "adjusted_close": 66.82190704345703,
+      "adjusted_close": 66.8218994140625,
       "volume": 1352500
     },
     {
       "date": "2025-08-15",
       "close": 67.0999984741211,
-      "adjusted_close": 66.65303802490234,
+      "adjusted_close": 66.65304565429688,
       "volume": 927600
     },
     {
@@ -1179,24 +1179,30 @@
       "close": 79.05000305175781,
       "adjusted_close": 79.05000305175781,
       "volume": 1748600
+    },
+    {
+      "date": "2026-08-06",
+      "close": 76.86000061035156,
+      "adjusted_close": 76.86000061035156,
+      "volume": 1423100
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 79.050003,
+    "price_date": "2026-08-06",
+    "current_price": 76.860001,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -24.525418,
-    "drawdown_from_3_year_high": -24.525418,
-    "distance_from_200_day_average": -7.537472,
-    "return_63_sessions": -24.41733,
-    "realized_volatility_63d": 42.946497,
-    "volatility_percentile": 78.703704,
+    "drawdown_from_52_week_high": -26.616367,
+    "drawdown_from_3_year_high": -26.616367,
+    "distance_from_200_day_average": -10.108561,
+    "return_63_sessions": -26.616367,
+    "realized_volatility_63d": 43.18981,
+    "volatility_percentile": 78.743068,
     "trend": "falling",
     "buyers": 0,
     "purchase_days": 0,
@@ -1204,8 +1210,8 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 580,
-    "price_points_exported": 194,
+    "price_rows_available": 581,
+    "price_points_exported": 195,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",

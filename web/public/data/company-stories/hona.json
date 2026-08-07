@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "HONA",
   "yf_ticker": "HONA",
@@ -230,21 +230,27 @@
       "date": "2026-08-05",
       "close": 203.63999938964844,
       "adjusted_close": 203.63999938964844,
-      "volume": 4374200
+      "volume": 4401500
+    },
+    {
+      "date": "2026-08-06",
+      "close": 156.47000122070312,
+      "adjusted_close": 156.47000122070312,
+      "volume": 20593600
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 203.639999,
+    "price_date": "2026-08-06",
+    "current_price": 156.470001,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -24.563812,
-    "drawdown_from_3_year_high": -24.563812,
+    "drawdown_from_52_week_high": -42.037417,
+    "drawdown_from_3_year_high": -42.037417,
     "distance_from_200_day_average": null,
     "return_63_sessions": null,
     "realized_volatility_63d": null,
@@ -256,8 +262,8 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 36,
-    "price_points_exported": 36,
+    "price_rows_available": 37,
+    "price_points_exported": 37,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",

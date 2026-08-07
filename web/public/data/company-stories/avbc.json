@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "AVBC",
   "yf_ticker": "AVBC",
@@ -1539,6 +1539,12 @@
       "close": 21.739999771118164,
       "adjusted_close": 21.739999771118164,
       "volume": 225300
+    },
+    {
+      "date": "2026-08-06",
+      "close": 21.739999771118164,
+      "adjusted_close": 21.739999771118164,
+      "volume": 132000
     }
   ],
   "purchase_markers": [
@@ -1612,7 +1618,7 @@
     }
   ],
   "summary": {
-    "price_date": "2026-08-05",
+    "price_date": "2026-08-06",
     "current_price": 21.74,
     "average_reported_purchase_price": 19.068216,
     "percent_vs_average_purchase_price": 14.011712,
@@ -1622,10 +1628,10 @@
     "return_since_latest_purchase": 14.84416,
     "drawdown_from_52_week_high": -2.989737,
     "drawdown_from_3_year_high": -2.989737,
-    "distance_from_200_day_average": 17.475915,
-    "return_63_sessions": 6.12226,
-    "realized_volatility_63d": 30.224011,
-    "volatility_percentile": 100.0,
+    "distance_from_200_day_average": 17.248245,
+    "return_63_sessions": 6.850553,
+    "realized_volatility_63d": 30.181974,
+    "volatility_percentile": 99.534884,
     "trend": "advancing",
     "buyers": 2,
     "purchase_days": 3,
@@ -1633,8 +1639,8 @@
     "total_reported_purchase_value": 57833.9
   },
   "quality": {
-    "price_rows_available": 254,
-    "price_points_exported": 254,
+    "price_rows_available": 255,
+    "price_points_exported": 255,
     "purchase_markers_exported": 4,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",

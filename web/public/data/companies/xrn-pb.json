@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "limitations": [
     "Company metadata and prices may be missing for inactive or unsupported symbols.",
@@ -20,14 +20,14 @@
     "yf_ticker": "XRN-PB",
     "is_active": true,
     "mapping_quality": "exact_cik",
-    "generated_at_utc": "2026-08-06T08:41:51.738164Z",
+    "generated_at_utc": "2026-08-07T06:07:42.079712Z",
     "quality": "high",
     "quality_flags": "filing_ticker_differs_from_sec_reference",
     "source_type": "sec_xml",
     "source_path": "data/raw/sec/filings/0001533615/0001104659-26-091425/filing.xml",
     "source_accession": "0001104659-26-091425",
     "parser_version": "v1",
-    "normalized_at_utc": "2026-08-06T08:41:51.738164Z",
+    "normalized_at_utc": "2026-08-07T06:07:42.079712Z",
     "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0001104659-26-091425\", \"source_path\": \"data/raw/sec/filings/0001533615/0001104659-26-091425/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}",
     "ticker": "XRN-PB",
     "company_name": "Chiron Real Estate Inc.",
@@ -35,10 +35,10 @@
     "sector": "Real Estate",
     "industry": "REIT - Healthcare Facilities",
     "quote_type": "EQUITY",
-    "metadata_fetched_at_utc": "2026-08-06T08:50:07.956913Z",
+    "metadata_fetched_at_utc": "2026-08-07T06:15:43.771483Z",
     "metadata_quality": "high",
-    "latest_price": 25.670000076293945,
-    "average_dollar_volume_63d": 106897.24656937616,
+    "latest_price": null,
+    "average_dollar_volume_63d": 108105.10344320728,
     "discovery_eligible": false,
     "eligibility_reasons": "missing_market_cap|insufficient_liquidity"
   },

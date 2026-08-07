@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "ALH",
   "yf_ticker": "ALH",
@@ -1251,24 +1251,30 @@
       "close": 28.01000022888184,
       "adjusted_close": 28.01000022888184,
       "volume": 524200
+    },
+    {
+      "date": "2026-08-06",
+      "close": 27.540000915527344,
+      "adjusted_close": 27.540000915527344,
+      "volume": 264400
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 28.01,
+    "price_date": "2026-08-06",
+    "current_price": 27.540001,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": 0.0,
-    "drawdown_from_3_year_high": 0.0,
-    "distance_from_200_day_average": 17.522422,
-    "return_63_sessions": 9.414062,
-    "realized_volatility_63d": 29.373783,
-    "volatility_percentile": 7.831325,
+    "drawdown_from_52_week_high": -1.67797,
+    "drawdown_from_3_year_high": -1.67797,
+    "distance_from_200_day_average": 15.480659,
+    "return_63_sessions": 6.045443,
+    "realized_volatility_63d": 29.482189,
+    "volatility_percentile": 9.580838,
     "trend": "advancing",
     "buyers": 0,
     "purchase_days": 0,
@@ -1276,8 +1282,8 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 206,
-    "price_points_exported": 206,
+    "price_rows_available": 207,
+    "price_points_exported": 207,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
     "metadata_quality": "high",

@@ -1,16 +1,16 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "AGM-PI",
   "yf_ticker": "AGM-PI",
   "issuer_cik": 845877,
-  "company_name": "Federal Agricultural Mortgage Corp",
+  "company_name": null,
   "sector": null,
   "industry": null,
   "price_available": true,
@@ -314,25 +314,31 @@
       "date": "2026-08-05",
       "close": 24.09000015258789,
       "adjusted_close": 24.09000015258789,
-      "volume": 12663
+      "volume": 12694
+    },
+    {
+      "date": "2026-08-06",
+      "close": 24.030000686645508,
+      "adjusted_close": 24.030000686645508,
+      "volume": 17635
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 24.09,
+    "price_date": "2026-08-06",
+    "current_price": 24.030001,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -0.61881,
-    "drawdown_from_3_year_high": -0.61881,
-    "distance_from_200_day_average": 0.943501,
+    "drawdown_from_52_week_high": -0.866333,
+    "drawdown_from_3_year_high": -0.866333,
+    "distance_from_200_day_average": 0.678425,
     "return_63_sessions": null,
-    "realized_volatility_63d": 8.514765,
-    "volatility_percentile": 10.0,
+    "realized_volatility_63d": 8.446606,
+    "volatility_percentile": 9.090909,
     "trend": "insufficient_history",
     "buyers": 0,
     "purchase_days": 0,
@@ -340,11 +346,11 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 50,
-    "price_points_exported": 50,
+    "price_rows_available": 51,
+    "price_points_exported": 51,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
-    "metadata_quality": "high",
+    "metadata_quality": "limited",
     "price_quality": null
   },
   "limitations": [

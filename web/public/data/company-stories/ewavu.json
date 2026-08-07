@@ -1,18 +1,18 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "EWAVU",
   "yf_ticker": "EWAVU",
   "issuer_cik": 2100704,
-  "company_name": "East West Ave Acquisition Corp.",
-  "sector": "Financial Services",
-  "industry": "Shell Companies",
+  "company_name": null,
+  "sector": null,
+  "industry": null,
   "price_available": true,
   "price_unavailable_reason": "",
   "price_path": [
@@ -39,6 +39,12 @@
       "close": 9.949999809265137,
       "adjusted_close": 9.949999809265137,
       "volume": 81600
+    },
+    {
+      "date": "2026-08-06",
+      "close": 9.949999809265137,
+      "adjusted_close": 9.949999809265137,
+      "volume": 400
     }
   ],
   "purchase_markers": [
@@ -78,7 +84,7 @@
     }
   ],
   "summary": {
-    "price_date": "2026-08-05",
+    "price_date": "2026-08-06",
     "current_price": 9.95,
     "average_reported_purchase_price": 10.0,
     "percent_vs_average_purchase_price": -0.500002,
@@ -99,11 +105,11 @@
     "total_reported_purchase_value": 21740000.0
   },
   "quality": {
-    "price_rows_available": 4,
-    "price_points_exported": 4,
+    "price_rows_available": 5,
+    "price_points_exported": 5,
     "purchase_markers_exported": 2,
     "mapping_quality": "exact_cik",
-    "metadata_quality": "high",
+    "metadata_quality": "limited",
     "price_quality": null
   },
   "limitations": [

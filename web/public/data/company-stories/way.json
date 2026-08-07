@@ -1,18 +1,18 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "WAY",
   "yf_ticker": "WAY",
   "issuer_cik": 1990354,
-  "company_name": "Waystar Holding Corp.",
-  "sector": "Healthcare",
-  "industry": "Health Information Services",
+  "company_name": null,
+  "sector": null,
+  "industry": null,
   "price_available": true,
   "price_unavailable_reason": "",
   "price_path": [
@@ -1101,24 +1101,30 @@
       "close": 23.3799991607666,
       "adjusted_close": 23.3799991607666,
       "volume": 2285800
+    },
+    {
+      "date": "2026-08-06",
+      "close": 23.3700008392334,
+      "adjusted_close": 23.3700008392334,
+      "volume": 3794700
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 23.379999,
+    "price_date": "2026-08-06",
+    "current_price": 23.370001,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -42.822207,
-    "drawdown_from_3_year_high": -48.445425,
-    "distance_from_200_day_average": -12.114848,
-    "return_63_sessions": 13.385054,
-    "realized_volatility_63d": 67.74714,
-    "volatility_percentile": 99.401198,
+    "drawdown_from_52_week_high": -42.846659,
+    "drawdown_from_3_year_high": -48.467472,
+    "distance_from_200_day_average": -11.927142,
+    "return_63_sessions": 17.437192,
+    "realized_volatility_63d": 67.314326,
+    "volatility_percentile": 98.207171,
     "trend": "recovering",
     "buyers": 0,
     "purchase_days": 0,
@@ -1126,11 +1132,11 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 541,
-    "price_points_exported": 181,
+    "price_rows_available": 542,
+    "price_points_exported": 182,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
-    "metadata_quality": "high",
+    "metadata_quality": "limited",
     "price_quality": null
   },
   "limitations": [

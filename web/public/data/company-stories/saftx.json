@@ -1,16 +1,16 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "SAFTX",
   "yf_ticker": "SAFTX",
   "issuer_cik": 2028174,
-  "company_name": "Sound Point Alternative Income Fund",
+  "company_name": null,
   "sector": null,
   "industry": null,
   "price_available": true,
@@ -279,6 +279,12 @@
       "close": 20.36000061035156,
       "adjusted_close": 20.36000061035156,
       "volume": 0
+    },
+    {
+      "date": "2026-08-06",
+      "close": 20.36000061035156,
+      "adjusted_close": 20.36000061035156,
+      "volume": 0
     }
   ],
   "purchase_markers": [
@@ -301,7 +307,7 @@
     }
   ],
   "summary": {
-    "price_date": "2026-08-05",
+    "price_date": "2026-08-06",
     "current_price": 20.360001,
     "average_reported_purchase_price": 20.32,
     "percent_vs_average_purchase_price": 0.196853,
@@ -311,10 +317,10 @@
     "return_since_latest_purchase": 0.196855,
     "drawdown_from_52_week_high": 0.0,
     "drawdown_from_3_year_high": 0.0,
-    "distance_from_200_day_average": 0.793216,
+    "distance_from_200_day_average": 0.775452,
     "return_63_sessions": null,
-    "realized_volatility_63d": 0.774852,
-    "volatility_percentile": 75.0,
+    "realized_volatility_63d": 0.77054,
+    "volatility_percentile": 60.0,
     "trend": "insufficient_history",
     "buyers": 1,
     "purchase_days": 1,
@@ -322,11 +328,11 @@
     "total_reported_purchase_value": 31999.99696
   },
   "quality": {
-    "price_rows_available": 44,
-    "price_points_exported": 44,
+    "price_rows_available": 45,
+    "price_points_exported": 45,
     "purchase_markers_exported": 1,
     "mapping_quality": "filing_symbol",
-    "metadata_quality": "high",
+    "metadata_quality": "limited",
     "price_quality": null
   },
   "limitations": [

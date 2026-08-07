@@ -1,11 +1,11 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "NCRRP",
   "yf_ticker": "NCRRP",
@@ -181,133 +181,133 @@
     {
       "date": "2023-11-22",
       "close": 1171.25,
-      "adjusted_close": 1021.6641235351562,
+      "adjusted_close": 1021.6641845703124,
       "volume": 0
     },
     {
       "date": "2023-11-28",
       "close": 1171.25,
-      "adjusted_close": 1021.6641235351562,
+      "adjusted_close": 1021.6641845703124,
       "volume": 0
     },
     {
       "date": "2023-12-01",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2023-12-06",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2023-12-11",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2023-12-14",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2023-12-19",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2023-12-22",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2023-12-28",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2024-01-03",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2024-01-08",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2024-01-11",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2024-01-17",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2024-01-22",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2024-01-25",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2024-01-30",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2024-02-02",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2024-02-07",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2024-02-12",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2024-02-15",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2024-02-21",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
       "date": "2024-02-26",
       "close": 1171.25,
-      "adjusted_close": 1033.800537109375,
+      "adjusted_close": 1033.8006591796875,
       "volume": 0
     },
     {
@@ -445,283 +445,283 @@
     {
       "date": "2024-06-04",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-06-07",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-06-12",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-06-17",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-06-21",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-06-26",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-07-01",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-07-05",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-07-10",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-07-15",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-07-18",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-07-23",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-07-26",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-07-31",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-08-05",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-08-08",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-08-13",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-08-16",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-08-21",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-08-26",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-08-29",
       "close": 1171.25,
-      "adjusted_close": 1058.507568359375,
+      "adjusted_close": 1058.5076904296875,
       "volume": 0
     },
     {
       "date": "2024-09-04",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-09-09",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-09-12",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-09-17",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-09-20",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-09-25",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-09-30",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-10-03",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-10-08",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-10-11",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-10-16",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-10-21",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-10-24",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-10-29",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-11-01",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-11-06",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-11-11",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-11-14",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-11-19",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-11-22",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-11-27",
       "close": 1171.25,
-      "adjusted_close": 1071.0816650390625,
+      "adjusted_close": 1071.081787109375,
       "volume": 0
     },
     {
       "date": "2024-12-03",
       "close": 1171.25,
-      "adjusted_close": 1083.8050537109375,
+      "adjusted_close": 1083.80517578125,
       "volume": 0
     },
     {
       "date": "2024-12-06",
       "close": 1171.25,
-      "adjusted_close": 1083.8050537109375,
+      "adjusted_close": 1083.80517578125,
       "volume": 0
     },
     {
       "date": "2024-12-11",
       "close": 1171.25,
-      "adjusted_close": 1083.8050537109375,
+      "adjusted_close": 1083.80517578125,
       "volume": 0
     },
     {
       "date": "2024-12-16",
       "close": 1171.25,
-      "adjusted_close": 1083.8050537109375,
+      "adjusted_close": 1083.80517578125,
       "volume": 0
     },
     {
       "date": "2024-12-19",
       "close": 1171.25,
-      "adjusted_close": 1083.8050537109375,
+      "adjusted_close": 1083.80517578125,
       "volume": 0
     },
     {
@@ -817,127 +817,127 @@
     {
       "date": "2025-03-04",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-03-07",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-03-12",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-03-17",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-03-20",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-03-25",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-03-28",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-04-02",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-04-07",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-04-10",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-04-15",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-04-21",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-04-24",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-04-29",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-05-02",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-05-07",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-05-12",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-05-15",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-05-20",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-05-23",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
       "date": "2025-05-29",
       "close": 1100.053955078125,
-      "adjusted_close": 1030.8089599609375,
+      "adjusted_close": 1030.80908203125,
       "volume": 0
     },
     {
@@ -1033,163 +1033,163 @@
     {
       "date": "2025-08-07",
       "close": 1075.0,
-      "adjusted_close": 1020.0824584960938,
+      "adjusted_close": 1020.0825805664062,
       "volume": 3
     },
     {
       "date": "2025-08-12",
       "close": 1075.0,
-      "adjusted_close": 1020.0824584960938,
+      "adjusted_close": 1020.0825805664062,
       "volume": 2
     },
     {
       "date": "2025-08-15",
       "close": 1075.0,
-      "adjusted_close": 1020.0824584960938,
+      "adjusted_close": 1020.0825805664062,
       "volume": 0
     },
     {
       "date": "2025-08-20",
       "close": 1075.0,
-      "adjusted_close": 1020.0824584960938,
+      "adjusted_close": 1020.0825805664062,
       "volume": 0
     },
     {
       "date": "2025-08-25",
       "close": 1075.0,
-      "adjusted_close": 1020.0824584960938,
+      "adjusted_close": 1020.0825805664062,
       "volume": 0
     },
     {
       "date": "2025-08-28",
       "close": 1075.0,
-      "adjusted_close": 1020.0824584960938,
+      "adjusted_close": 1020.0825805664062,
       "volume": 0
     },
     {
       "date": "2025-09-03",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-09-08",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-09-11",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-09-16",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-09-19",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-09-24",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-09-29",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-10-02",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-10-07",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-10-10",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-10-15",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-10-20",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-10-23",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-10-28",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-10-31",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-11-05",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-11-10",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-11-13",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-11-18",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-11-21",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
       "date": "2025-11-26",
       "close": 1075.0,
-      "adjusted_close": 1033.299072265625,
+      "adjusted_close": 1033.2991943359375,
       "volume": 0
     },
     {
@@ -1546,8 +1546,8 @@
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
     "drawdown_from_52_week_high": -5.913358,
-    "drawdown_from_3_year_high": -7.547949,
-    "distance_from_200_day_average": -2.264616,
+    "drawdown_from_3_year_high": -7.54796,
+    "distance_from_200_day_average": -2.264618,
     "return_63_sessions": 1.391348,
     "realized_volatility_63d": 2.782697,
     "volatility_percentile": 58.240223,

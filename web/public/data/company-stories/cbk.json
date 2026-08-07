@@ -1,18 +1,18 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "CBK",
   "yf_ticker": "CBK",
   "issuer_cik": 1981546,
-  "company_name": "Commercial Bancgroup, Inc.",
-  "sector": "Financial Services",
-  "industry": "Banks - Regional",
+  "company_name": null,
+  "sector": null,
+  "industry": null,
   "price_available": true,
   "price_unavailable_reason": "",
   "price_path": [
@@ -55,7 +55,7 @@
     {
       "date": "2025-10-10",
       "close": 24.350000381469727,
-      "adjusted_close": 24.173458099365234,
+      "adjusted_close": 24.1734561920166,
       "volume": 164200
     },
     {
@@ -67,7 +67,7 @@
     {
       "date": "2025-10-14",
       "close": 24.68000030517578,
-      "adjusted_close": 24.50106239318848,
+      "adjusted_close": 24.50106430053711,
       "volume": 9300
     },
     {
@@ -85,7 +85,7 @@
     {
       "date": "2025-10-17",
       "close": 24.190000534057617,
-      "adjusted_close": 24.01461601257324,
+      "adjusted_close": 24.014617919921875,
       "volume": 28900
     },
     {
@@ -175,13 +175,13 @@
     {
       "date": "2025-11-07",
       "close": 24.200000762939453,
-      "adjusted_close": 24.02454376220703,
+      "adjusted_close": 24.024545669555664,
       "volume": 24000
     },
     {
       "date": "2025-11-10",
       "close": 24.21999931335449,
-      "adjusted_close": 24.044397354125977,
+      "adjusted_close": 24.04439926147461,
       "volume": 14300
     },
     {
@@ -199,7 +199,7 @@
     {
       "date": "2025-11-13",
       "close": 24.31999969482422,
-      "adjusted_close": 24.143674850463867,
+      "adjusted_close": 24.143672943115234,
       "volume": 28800
     },
     {
@@ -229,13 +229,13 @@
     {
       "date": "2025-11-20",
       "close": 23.8700008392334,
-      "adjusted_close": 23.69693756103516,
+      "adjusted_close": 23.696935653686523,
       "volume": 19600
     },
     {
       "date": "2025-11-21",
       "close": 24.32999992370605,
-      "adjusted_close": 24.153602600097656,
+      "adjusted_close": 24.153600692749023,
       "volume": 18300
     },
     {
@@ -247,7 +247,7 @@
     {
       "date": "2025-11-25",
       "close": 24.34000015258789,
-      "adjusted_close": 24.163530349731445,
+      "adjusted_close": 24.16352844238281,
       "volume": 46700
     },
     {
@@ -319,7 +319,7 @@
     {
       "date": "2025-12-12",
       "close": 24.90999984741211,
-      "adjusted_close": 24.72939682006836,
+      "adjusted_close": 24.729394912719727,
       "volume": 135200
     },
     {
@@ -331,7 +331,7 @@
     {
       "date": "2025-12-16",
       "close": 25.25,
-      "adjusted_close": 25.066932678222656,
+      "adjusted_close": 25.066930770874023,
       "volume": 119100
     },
     {
@@ -343,7 +343,7 @@
     {
       "date": "2025-12-18",
       "close": 25.25,
-      "adjusted_close": 25.066932678222656,
+      "adjusted_close": 25.066930770874023,
       "volume": 113500
     },
     {
@@ -373,7 +373,7 @@
     {
       "date": "2025-12-26",
       "close": 24.350000381469727,
-      "adjusted_close": 24.173458099365234,
+      "adjusted_close": 24.1734561920166,
       "volume": 17300
     },
     {
@@ -403,7 +403,7 @@
     {
       "date": "2026-01-05",
       "close": 24.36000061035156,
-      "adjusted_close": 24.183385848999023,
+      "adjusted_close": 24.18338394165039,
       "volume": 45400
     },
     {
@@ -415,7 +415,7 @@
     {
       "date": "2026-01-07",
       "close": 24.25,
-      "adjusted_close": 24.074180603027344,
+      "adjusted_close": 24.074182510375977,
       "volume": 42200
     },
     {
@@ -427,7 +427,7 @@
     {
       "date": "2026-01-09",
       "close": 24.200000762939453,
-      "adjusted_close": 24.02454376220703,
+      "adjusted_close": 24.024545669555664,
       "volume": 38300
     },
     {
@@ -439,13 +439,13 @@
     {
       "date": "2026-01-13",
       "close": 24.25,
-      "adjusted_close": 24.074180603027344,
+      "adjusted_close": 24.074182510375977,
       "volume": 22500
     },
     {
       "date": "2026-01-14",
       "close": 25.25,
-      "adjusted_close": 25.066932678222656,
+      "adjusted_close": 25.066930770874023,
       "volume": 56600
     },
     {
@@ -457,7 +457,7 @@
     {
       "date": "2026-01-16",
       "close": 25.559999465942383,
-      "adjusted_close": 25.374683380126957,
+      "adjusted_close": 25.37468147277832,
       "volume": 34600
     },
     {
@@ -475,7 +475,7 @@
     {
       "date": "2026-01-22",
       "close": 25.559999465942383,
-      "adjusted_close": 25.374683380126957,
+      "adjusted_close": 25.37468147277832,
       "volume": 35800
     },
     {
@@ -505,7 +505,7 @@
     {
       "date": "2026-01-29",
       "close": 26.40999984741211,
-      "adjusted_close": 26.218521118164062,
+      "adjusted_close": 26.21851921081543,
       "volume": 145700
     },
     {
@@ -541,19 +541,19 @@
     {
       "date": "2026-02-06",
       "close": 26.790000915527344,
-      "adjusted_close": 26.595766067504883,
+      "adjusted_close": 26.59576797485352,
       "volume": 42000
     },
     {
       "date": "2026-02-09",
       "close": 26.43000030517578,
-      "adjusted_close": 26.23837661743164,
+      "adjusted_close": 26.238374710083008,
       "volume": 41500
     },
     {
       "date": "2026-02-10",
       "close": 26.5,
-      "adjusted_close": 26.3078670501709,
+      "adjusted_close": 26.30786895751953,
       "volume": 55400
     },
     {
@@ -583,19 +583,19 @@
     {
       "date": "2026-02-18",
       "close": 26.56999969482422,
-      "adjusted_close": 26.37735939025879,
+      "adjusted_close": 26.377361297607425,
       "volume": 44000
     },
     {
       "date": "2026-02-19",
       "close": 26.520000457763672,
-      "adjusted_close": 26.32772254943848,
+      "adjusted_close": 26.32772445678711,
       "volume": 28200
     },
     {
       "date": "2026-02-20",
       "close": 26.729999542236328,
-      "adjusted_close": 26.53620147705078,
+      "adjusted_close": 26.53619956970215,
       "volume": 33400
     },
     {
@@ -619,7 +619,7 @@
     {
       "date": "2026-02-26",
       "close": 27.1299991607666,
-      "adjusted_close": 26.933298110961918,
+      "adjusted_close": 26.933300018310547,
       "volume": 56500
     },
     {
@@ -661,7 +661,7 @@
     {
       "date": "2026-03-09",
       "close": 25.270000457763672,
-      "adjusted_close": 25.086788177490234,
+      "adjusted_close": 25.0867862701416,
       "volume": 31200
     },
     {
@@ -679,7 +679,7 @@
     {
       "date": "2026-03-12",
       "close": 24.90999984741211,
-      "adjusted_close": 24.72939682006836,
+      "adjusted_close": 24.729394912719727,
       "volume": 24900
     },
     {
@@ -1281,6 +1281,12 @@
       "close": 35.439998626708984,
       "adjusted_close": 35.439998626708984,
       "volume": 65600
+    },
+    {
+      "date": "2026-08-06",
+      "close": 35.189998626708984,
+      "adjusted_close": 35.189998626708984,
+      "volume": 27000
     }
   ],
   "purchase_markers": [
@@ -1297,26 +1303,26 @@
       "roles": "cfo|operating_executive|other_officer",
       "direct_indirect": null,
       "ownership_increase_percent": 6.676254291456986,
-      "conviction_score": 52.1388,
+      "conviction_score": 40.2388,
       "behavior_change_score": 47.5353,
       "headline": null
     }
   ],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 35.439999,
+    "price_date": "2026-08-06",
+    "current_price": 35.189999,
     "average_reported_purchase_price": 34.74,
-    "percent_vs_average_purchase_price": 2.014964,
+    "percent_vs_average_purchase_price": 1.295333,
     "first_purchase_date": "2026-08-03",
     "latest_purchase_date": "2026-08-03",
-    "return_since_first_purchase": 2.132559,
-    "return_since_latest_purchase": 2.132559,
-    "drawdown_from_52_week_high": 0.0,
-    "drawdown_from_3_year_high": 0.0,
-    "distance_from_200_day_average": 29.496153,
-    "return_63_sessions": 23.628349,
-    "realized_volatility_63d": 21.442166,
-    "volatility_percentile": 33.918129,
+    "return_since_first_purchase": 1.412098,
+    "return_since_latest_purchase": 1.412098,
+    "drawdown_from_52_week_high": -0.705418,
+    "drawdown_from_3_year_high": -0.705418,
+    "distance_from_200_day_average": 28.32067,
+    "return_63_sessions": 22.119336,
+    "realized_volatility_63d": 21.541573,
+    "volatility_percentile": 38.372093,
     "trend": "advancing",
     "buyers": 1,
     "purchase_days": 1,
@@ -1324,11 +1330,11 @@
     "total_reported_purchase_value": 29529.0
   },
   "quality": {
-    "price_rows_available": 211,
-    "price_points_exported": 211,
+    "price_rows_available": 212,
+    "price_points_exported": 212,
     "purchase_markers_exported": 1,
     "mapping_quality": "exact_cik",
-    "metadata_quality": "high",
+    "metadata_quality": "limited",
     "price_quality": null
   },
   "limitations": [

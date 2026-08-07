@@ -1,7 +1,7 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "ticker": "DCX",
   "issuer_cik": 1957413,
   "events": [
@@ -45,7 +45,7 @@
       "split_adjusted_shares": 41000.0,
       "split_adjusted_price": 1.25,
       "evaluation_forward_return_1d": -0.1290322301539126,
-      "evaluation_forward_return_5d": null,
+      "evaluation_forward_return_5d": -0.1935483932991305,
       "evaluation_forward_return_21d": null,
       "evaluation_forward_return_63d": null,
       "evaluation_forward_return_126d": null,
@@ -90,7 +90,7 @@
       "prior_median_ownership_increase_percent": null,
       "history_depth": "no_history",
       "history_quality": "limited",
-      "generated_at_utc": "2026-08-06T08:51:12.117538Z",
+      "generated_at_utc": "2026-08-07T06:16:16.414034Z",
       "quality": "limited",
       "quality_flags": "no_prior_history",
       "accession_number": "0001493152-26-035804",
@@ -103,7 +103,7 @@
       "evaluation_forward_return_1d": -0.1290322301539126,
       "evaluation_forward_return_21d": null,
       "evaluation_forward_return_252d": null,
-      "evaluation_forward_return_5d": null,
+      "evaluation_forward_return_5d": -0.1935483932991305,
       "evaluation_forward_return_63d": null,
       "event_quality": "high",
       "first_reported_position": true,
@@ -160,11 +160,11 @@
       "behavior_change_score": 56.6,
       "behavior_components": "{\"abnormality_score\": 60.0, \"acceleration_score\": 0.0, \"history_quality_score\": 20, \"ownership_score\": 100, \"role_score\": 92, \"silence_break_score\": 70.0, \"velocity_score\": 40}",
       "behavior_missing": "[]",
-      "conviction_score": 66.8622,
-      "conviction_grade": "unusual",
-      "conviction_components": "{\"absolute_purchase_size\": 67.28134099611131, \"behavior_change\": 56.6, \"cluster_confirmation\": 40.0, \"company_context\": 100, \"data_quality\": 100, \"direct_ownership\": 100, \"ownership_increase\": 100, \"role_quality\": 92}",
-      "conviction_penalties": "{\"sparse_history\": 4.0}",
-      "reason_codes": "sparse_history",
+      "conviction_score": 54.9622,
+      "conviction_grade": "notable",
+      "conviction_components": "{\"absolute_purchase_size\": 67.28134099611131, \"behavior_change\": 56.6, \"cluster_confirmation\": 40.0, \"company_context\": 35, \"data_quality\": 100, \"direct_ownership\": 100, \"ownership_increase\": 100, \"role_quality\": 92}",
+      "conviction_penalties": "{\"microcap_or_illiquid\": 8.0, \"sparse_history\": 4.0}",
+      "reason_codes": "microcap_or_illiquid|sparse_history",
       "drawdown_label": "early_recovery"
     }
   ]

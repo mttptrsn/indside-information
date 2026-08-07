@@ -1,18 +1,18 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "SEPN",
   "yf_ticker": "SEPN",
   "issuer_cik": 1984086,
-  "company_name": "Septerna, Inc.",
-  "sector": "Healthcare",
-  "industry": "Biotechnology",
+  "company_name": null,
+  "sector": null,
+  "industry": null,
   "price_available": true,
   "price_unavailable_reason": "",
   "price_path": [
@@ -1349,28 +1349,28 @@
       "volume": 398900
     },
     {
-      "date": "2026-08-05",
-      "close": 38.7599983215332,
-      "adjusted_close": 38.7599983215332,
-      "volume": 442900
+      "date": "2026-08-06",
+      "close": 39.52999877929688,
+      "adjusted_close": 39.52999877929688,
+      "volume": 193700
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 38.759998,
+    "price_date": "2026-08-06",
+    "current_price": 39.529999,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -0.564395,
-    "drawdown_from_3_year_high": -0.564395,
-    "distance_from_200_day_average": 41.113116,
-    "return_63_sessions": 60.62992,
-    "realized_volatility_63d": 69.368225,
-    "volatility_percentile": 44.80198,
+    "drawdown_from_52_week_high": 0.0,
+    "drawdown_from_3_year_high": 0.0,
+    "distance_from_200_day_average": 43.460225,
+    "return_63_sessions": 59.975719,
+    "realized_volatility_63d": 69.335175,
+    "volatility_percentile": 44.691358,
     "trend": "advancing",
     "buyers": 0,
     "purchase_days": 0,
@@ -1378,11 +1378,11 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 444,
+    "price_rows_available": 445,
     "price_points_exported": 223,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
-    "metadata_quality": "high",
+    "metadata_quality": "limited",
     "price_quality": null
   },
   "limitations": [

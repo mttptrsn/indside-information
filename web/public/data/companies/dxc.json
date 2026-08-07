@@ -1,0 +1,61 @@
+{
+  "schema_version": "v1",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
+  "freshness": {
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
+  },
+  "limitations": [
+    "Company metadata and prices may be missing for inactive or unsupported symbols.",
+    "Indirect ownership should be interpreted with the source filing footnotes."
+  ],
+  "company": {
+    "schema_version": "v1",
+    "issuer_cik": 1688568,
+    "issuer_name": "DXC Technology Co",
+    "primary_ticker": "DXC",
+    "exchange": "NYQ",
+    "yf_ticker": "DXC",
+    "is_active": true,
+    "mapping_quality": "exact_cik",
+    "generated_at_utc": "2026-08-07T06:07:42.079712Z",
+    "quality": "high",
+    "quality_flags": null,
+    "source_type": "sec_xml",
+    "source_path": "data/raw/sec/filings/0001688568/0001688568-26-000077/filing.xml",
+    "source_accession": "0001688568-26-000077",
+    "parser_version": "v1",
+    "normalized_at_utc": "2026-08-07T06:07:42.079712Z",
+    "source_lineage": "{\"parser_version\": \"v1\", \"source_identifier\": \"0001688568-26-000077\", \"source_path\": \"data/raw/sec/filings/0001688568/0001688568-26-000077/filing.xml\", \"source_sha256\": \"\", \"source_type\": \"sec_xml\"}",
+    "ticker": "DXC",
+    "company_name": "DXC Technology Company",
+    "market_cap": 1771945728.0,
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "quote_type": "EQUITY",
+    "metadata_fetched_at_utc": "2026-08-07T06:14:42.452226Z",
+    "metadata_quality": "high",
+    "latest_price": 11.09000015258789,
+    "average_dollar_volume_63d": 53841119.52273656,
+    "discovery_eligible": true,
+    "eligibility_reasons": null
+  },
+  "current_signal": null,
+  "latest_event_signal": null,
+  "buyers": [],
+  "purchase_events": [],
+  "purchase_campaigns": [],
+  "executive_histories": [],
+  "event_signals": [],
+  "qualifying_transactions": [],
+  "stats": {
+    "purchase_event_count": 0,
+    "unique_buyer_count": 0,
+    "total_purchase_value": 0,
+    "largest_purchase_value": 0,
+    "median_conviction": null,
+    "highest_behavior_change": null
+  }
+}

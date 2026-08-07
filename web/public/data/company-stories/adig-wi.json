@@ -1,16 +1,16 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "ADIG-WI",
   "yf_ticker": "ADIG-WI",
   "issuer_cik": 2105139,
-  "company_name": "ADI Global Distribution Inc.",
+  "company_name": null,
   "sector": null,
   "industry": null,
   "price_available": true,
@@ -39,12 +39,18 @@
       "close": 24.979999542236328,
       "adjusted_close": 24.979999542236328,
       "volume": 1511018
+    },
+    {
+      "date": "2026-08-06",
+      "close": 26.299999237060547,
+      "adjusted_close": 26.299999237060547,
+      "volume": 1272165
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 24.98,
+    "price_date": "2026-08-06",
+    "current_price": 26.299999,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
@@ -64,11 +70,11 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 4,
-    "price_points_exported": 4,
+    "price_rows_available": 5,
+    "price_points_exported": 5,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
-    "metadata_quality": "high",
+    "metadata_quality": "limited",
     "price_quality": null
   },
   "limitations": [

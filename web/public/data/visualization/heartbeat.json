@@ -1,25 +1,14 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "limitations": [],
   "beats": [
-    {
-      "event_id": "544eb9b4431fc3c4da3e63c1",
-      "date": "2026-01-22T00:00:00+00:00",
-      "ticker": "AVR",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 28750000.0,
-      "amplitude": 0.5375,
-      "intensity": 0.5521,
-      "headline": null
-    },
     {
       "event_id": "25d44e1f43d4f6493e067271",
       "date": "2026-02-25T00:00:00+00:00",
@@ -230,6 +219,28 @@
       "headline": null
     },
     {
+      "event_id": "cb30c87be27f5c7230c43af1",
+      "date": "2026-06-04T00:00:00+00:00",
+      "ticker": "DGAC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 1817500.0,
+      "amplitude": 0.566,
+      "intensity": 0.5378,
+      "headline": null
+    },
+    {
+      "event_id": "748712529cb1e4638d364550",
+      "date": "2026-06-04T00:00:00+00:00",
+      "ticker": "DGAC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 1817500.0,
+      "amplitude": 0.5375,
+      "intensity": 0.4823,
+      "headline": null
+    },
+    {
       "event_id": "347106ce916533b03f79b4fc",
       "date": "2026-06-30T00:00:00+00:00",
       "ticker": "NONE",
@@ -373,14 +384,102 @@
       "headline": null
     },
     {
+      "event_id": "3ac2060a1b5ad6358f80a795",
+      "date": "2026-07-02T00:00:00+00:00",
+      "ticker": "DLHC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 28652.442,
+      "amplitude": 0.438,
+      "intensity": 0.2244,
+      "headline": null
+    },
+    {
+      "event_id": "e8572dc14727f0c375c2752d",
+      "date": "2026-07-06T00:00:00+00:00",
+      "ticker": "DLHC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 48882.2782,
+      "amplitude": 0.4604,
+      "intensity": 0.2377,
+      "headline": null
+    },
+    {
+      "event_id": "ea63420b925c002300862e97",
+      "date": "2026-07-07T00:00:00+00:00",
+      "ticker": "DLHC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 25856.0,
+      "amplitude": 0.27,
+      "intensity": 0.1646,
+      "headline": null
+    },
+    {
+      "event_id": "587e0b6563200f6b975a511e",
+      "date": "2026-07-08T00:00:00+00:00",
+      "ticker": "DLHC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 11703.2825,
+      "amplitude": 0.2666,
+      "intensity": 0.1958,
+      "headline": null
+    },
+    {
+      "event_id": "1dbe0b819490705e10ae1cf2",
+      "date": "2026-07-09T00:00:00+00:00",
+      "ticker": "DLHC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 25627.5,
+      "amplitude": 0.3185,
+      "intensity": 0.2215,
+      "headline": null
+    },
+    {
+      "event_id": "48e41f1b87b079eefd9156b7",
+      "date": "2026-07-10T00:00:00+00:00",
+      "ticker": "DLHC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 25456.0,
+      "amplitude": 0.3141,
+      "intensity": 0.2199,
+      "headline": null
+    },
+    {
       "event_id": "c72aeb075f897e24b70e5354",
       "date": "2026-07-13T00:00:00+00:00",
       "ticker": "DLHC",
       "company_name": null,
       "insider_name": null,
       "purchase_value": 22443.0882,
-      "amplitude": 0.4379,
-      "intensity": 0.222,
+      "amplitude": 0.3583,
+      "intensity": 0.2341,
+      "headline": null
+    },
+    {
+      "event_id": "163b270ca6250629ba734098",
+      "date": "2026-07-14T00:00:00+00:00",
+      "ticker": "REBN",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 23649660000.0,
+      "amplitude": 0.566,
+      "intensity": 0.6197,
+      "headline": null
+    },
+    {
+      "event_id": "885333eaff7281f9b596a2dc",
+      "date": "2026-07-17T00:00:00+00:00",
+      "ticker": "JBL",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 149814.95,
+      "amplitude": 0.4787,
+      "intensity": 0.3949,
       "headline": null
     },
     {
@@ -450,28 +549,6 @@
       "headline": null
     },
     {
-      "event_id": "fb75e58f8eac369bc2ed04cb",
-      "date": "2026-07-22T00:00:00+00:00",
-      "ticker": "STFS",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 2600000.0,
-      "amplitude": 0.562,
-      "intensity": 0.4894,
-      "headline": null
-    },
-    {
-      "event_id": "817722d912ad6541faa2a9f0",
-      "date": "2026-07-23T00:00:00+00:00",
-      "ticker": "DRIO",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 99999.9,
-      "amplitude": 0.545,
-      "intensity": 0.4939,
-      "headline": null
-    },
-    {
       "event_id": "0a81b9238a0afa3c77bf9c78",
       "date": "2026-07-23T00:00:00+00:00",
       "ticker": "CCFN",
@@ -500,217 +577,8 @@
       "company_name": null,
       "insider_name": null,
       "purchase_value": 402.7025,
-      "amplitude": 0.1738,
-      "intensity": 0.0917,
-      "headline": null
-    },
-    {
-      "event_id": "5ba58539b1c5ad260e2f48e5",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "SCTX",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 36115495.0,
-      "amplitude": 0.545,
-      "intensity": 0.6367,
-      "headline": null
-    },
-    {
-      "event_id": "8eb30ca87b38f5a9e82e21ab",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "SCTX",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 36115495.0,
-      "amplitude": 0.545,
-      "intensity": 0.6367,
-      "headline": null
-    },
-    {
-      "event_id": "98669dd17201f4a8e3e537c9",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "SCTX",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 36115495.0,
-      "amplitude": 0.545,
-      "intensity": 0.6367,
-      "headline": null
-    },
-    {
-      "event_id": "8bcf36bb33c66d81ba365911",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "BYRN",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 29584.5,
-      "amplitude": 0.4754,
-      "intensity": 0.4937,
-      "headline": null
-    },
-    {
-      "event_id": "29ae97678c36f64018662fc0",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 412776.81,
-      "amplitude": 0.4455,
-      "intensity": 0.4878,
-      "headline": null
-    },
-    {
-      "event_id": "94d93e4a6a9bca121b83214e",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 412776.81,
-      "amplitude": 0.4455,
-      "intensity": 0.4878,
-      "headline": null
-    },
-    {
-      "event_id": "a40f6b396e0c2081dde64183",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 412776.81,
-      "amplitude": 0.4455,
-      "intensity": 0.4878,
-      "headline": null
-    },
-    {
-      "event_id": "cd15666bbe6a0b8294f17e78",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 412776.81,
-      "amplitude": 0.4455,
-      "intensity": 0.4878,
-      "headline": null
-    },
-    {
-      "event_id": "dccc7840f88cd5eb063086db",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 412776.81,
-      "amplitude": 0.4455,
-      "intensity": 0.4878,
-      "headline": null
-    },
-    {
-      "event_id": "f0a4b5fabe4764822ff3c948",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 412776.81,
-      "amplitude": 0.4455,
-      "intensity": 0.4878,
-      "headline": null
-    },
-    {
-      "event_id": "1d952de487ebe8e5556dfc0b",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "NMZ",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 92.115,
-      "amplitude": 0.5375,
-      "intensity": 0.4792,
-      "headline": null
-    },
-    {
-      "event_id": "518687c7e0dcd38604c4979c",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "NMZ",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 92.115,
-      "amplitude": 0.5375,
-      "intensity": 0.4792,
-      "headline": null
-    },
-    {
-      "event_id": "1d3935f4fa5bcde888cdfaa1",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "NONE",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 30950172.26,
-      "amplitude": 0.5375,
-      "intensity": 0.4581,
-      "headline": null
-    },
-    {
-      "event_id": "1e20a5a14881566aff568d12",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "NONE",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 30950172.26,
-      "amplitude": 0.5375,
-      "intensity": 0.4581,
-      "headline": null
-    },
-    {
-      "event_id": "33126ecc65d93288c6f33031",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "NONE",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 30950172.26,
-      "amplitude": 0.5375,
-      "intensity": 0.4581,
-      "headline": null
-    },
-    {
-      "event_id": "6e2af718927aaf6ef1f225b4",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "NONE",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 30950172.26,
-      "amplitude": 0.5375,
-      "intensity": 0.4581,
-      "headline": null
-    },
-    {
-      "event_id": "7eb6f04820055c793a7a7fd0",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "GSHD",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 6630425.16,
-      "amplitude": 0.447,
-      "intensity": 0.4081,
-      "headline": null
-    },
-    {
-      "event_id": "4aba8fd1dce2b4f509fdea66",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "NONE",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 13681974.04,
-      "amplitude": 0.5035,
-      "intensity": 0.4054,
-      "headline": null
-    },
-    {
-      "event_id": "dab1b1b84832b9076bf1e42d",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "NONE",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 13681974.04,
-      "amplitude": 0.5035,
-      "intensity": 0.4054,
+      "amplitude": 0.3573,
+      "intensity": 0.1959,
       "headline": null
     },
     {
@@ -725,58 +593,14 @@
       "headline": null
     },
     {
-      "event_id": "528b157047152ccc0983c6d5",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "ZNB",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 5811.185,
-      "amplitude": 0.458,
-      "intensity": 0.3295,
-      "headline": null
-    },
-    {
-      "event_id": "9d8f159741f4e979c0095a1c",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": null,
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 1894299.99596,
-      "amplitude": 0.4627,
-      "intensity": 0.3106,
-      "headline": null
-    },
-    {
-      "event_id": "95a87ea90c0e54260aa88dcb",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "NONE",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 49980.0,
-      "amplitude": 0.4337,
-      "intensity": 0.225,
-      "headline": null
-    },
-    {
-      "event_id": "3b4be6256229c51a982caf4b",
-      "date": "2026-07-24T00:00:00+00:00",
-      "ticker": "ACOG",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 1027.0,
-      "amplitude": 0.4375,
-      "intensity": 0.1927,
-      "headline": null
-    },
-    {
       "event_id": "ae67116a3f46f86fc41c376d",
       "date": "2026-07-24T00:00:00+00:00",
       "ticker": "DLHC",
       "company_name": null,
       "insider_name": null,
       "purchase_value": 1993.9827,
-      "amplitude": 0.2979,
-      "intensity": 0.15,
+      "amplitude": 0.2904,
+      "intensity": 0.1874,
       "headline": null
     },
     {
@@ -810,28 +634,6 @@
       "purchase_value": 15000000.0,
       "amplitude": 0.545,
       "intensity": 0.6717,
-      "headline": null
-    },
-    {
-      "event_id": "1b403bac29aa58d9ea9ae9b9",
-      "date": "2026-07-27T00:00:00+00:00",
-      "ticker": "KRNY",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 138273.53000000003,
-      "amplitude": 0.5131,
-      "intensity": 0.5664,
-      "headline": null
-    },
-    {
-      "event_id": "04e492ee658fd147d3cb1acd",
-      "date": "2026-07-27T00:00:00+00:00",
-      "ticker": "MTAK",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 4525000.0,
-      "amplitude": 0.566,
-      "intensity": 0.5463,
       "headline": null
     },
     {
@@ -908,7 +710,7 @@
       "insider_name": null,
       "purchase_value": 46500.0,
       "amplitude": 0.545,
-      "intensity": 0.5428,
+      "intensity": 0.4868,
       "headline": null
     },
     {
@@ -919,84 +721,7 @@
       "insider_name": null,
       "purchase_value": 20430.0,
       "amplitude": 0.4661,
-      "intensity": 0.5261,
-      "headline": null
-    },
-    {
-      "event_id": "a7b588369deca35bab178c01",
-      "date": "2026-07-27T00:00:00+00:00",
-      "ticker": "ANIX",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 17200.0,
-      "amplitude": 0.4675,
-      "intensity": 0.5059,
-      "headline": null
-    },
-    {
-      "event_id": "fe0db6254e7231f58b4b4645",
-      "date": "2026-07-27T00:00:00+00:00",
-      "ticker": "NNOX",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 33480.0,
-      "amplitude": 0.566,
-      "intensity": 0.4917,
-      "headline": null
-    },
-    {
-      "event_id": "6073e926211708ddf54055af",
-      "date": "2026-07-27T00:00:00+00:00",
-      "ticker": "MTAK",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 4525000.0,
-      "amplitude": 0.5375,
-      "intensity": 0.4907,
-      "headline": null
-    },
-    {
-      "event_id": "ed90378e631254c99a6e509d",
-      "date": "2026-07-27T00:00:00+00:00",
-      "ticker": "LBGJ",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 27785.446,
-      "amplitude": 0.5375,
-      "intensity": 0.4673,
-      "headline": null
-    },
-    {
-      "event_id": "e7041868f59adb76df93d3b3",
-      "date": "2026-07-27T00:00:00+00:00",
-      "ticker": "ZNB",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 22669.5,
-      "amplitude": 0.576,
-      "intensity": 0.4315,
-      "headline": null
-    },
-    {
-      "event_id": "393c44470b8416c36edc64ce",
-      "date": "2026-07-27T00:00:00+00:00",
-      "ticker": "BWMX",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 768480.3,
-      "amplitude": 0.4455,
-      "intensity": 0.3886,
-      "headline": null
-    },
-    {
-      "event_id": "6f1851f93f6df54c386c75af",
-      "date": "2026-07-27T00:00:00+00:00",
-      "ticker": "BYRN",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 9428.77,
-      "amplitude": 0.448,
-      "intensity": 0.3865,
+      "intensity": 0.4071,
       "headline": null
     },
     {
@@ -1022,58 +747,14 @@
       "headline": null
     },
     {
-      "event_id": "f3927efc3140f7918b477a61",
+      "event_id": "393c44470b8416c36edc64ce",
       "date": "2026-07-27T00:00:00+00:00",
-      "ticker": "UNB",
+      "ticker": "BWMX",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 4660.0,
-      "amplitude": 0.4516,
-      "intensity": 0.3205,
-      "headline": null
-    },
-    {
-      "event_id": "7d4bcc6c6646fec8da04db8a",
-      "date": "2026-07-27T00:00:00+00:00",
-      "ticker": "GSHD",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 2473602.12,
-      "amplitude": 0.1889,
-      "intensity": 0.301,
-      "headline": null
-    },
-    {
-      "event_id": "d05cc7db97a4805972b40ee2",
-      "date": "2026-07-27T00:00:00+00:00",
-      "ticker": "RCG",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 2290.68,
-      "amplitude": 0.4377,
-      "intensity": 0.2894,
-      "headline": null
-    },
-    {
-      "event_id": "d419a88a13e362e7fb9d37c3",
-      "date": "2026-07-27T00:00:00+00:00",
-      "ticker": "NONE",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 1197272.7336000002,
-      "amplitude": 0.4426,
-      "intensity": 0.2753,
-      "headline": null
-    },
-    {
-      "event_id": "cd2e9b0013f3151aa1908de5",
-      "date": "2026-07-27T00:00:00+00:00",
-      "ticker": "TPL",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 409.31,
-      "amplitude": 0.4375,
-      "intensity": 0.2731,
+      "purchase_value": 768480.3,
+      "amplitude": 0.4455,
+      "intensity": 0.2696,
       "headline": null
     },
     {
@@ -1110,14 +791,14 @@
       "headline": null
     },
     {
-      "event_id": "0bd5b07917d3075195598db8",
+      "event_id": "4638d1ded8a005f2da709a93",
       "date": "2026-07-27T00:00:00+00:00",
-      "ticker": "GF",
+      "ticker": "NONE",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 3666.0,
-      "amplitude": 0.4375,
-      "intensity": 0.2045,
+      "purchase_value": 681194.1,
+      "amplitude": 0.4396,
+      "intensity": 0.1763,
       "headline": null
     },
     {
@@ -1127,8 +808,8 @@
       "company_name": null,
       "insider_name": null,
       "purchase_value": 50.9,
-      "amplitude": 0.2185,
-      "intensity": 0.128,
+      "amplitude": 0.3097,
+      "intensity": 0.16,
       "headline": null
     },
     {
@@ -1154,36 +835,14 @@
       "headline": null
     },
     {
-      "event_id": "694d83118f9b837d270e98b2",
+      "event_id": "dc6284db2c09c62e6e7beaa1",
       "date": "2026-07-28T00:00:00+00:00",
-      "ticker": "NNOX",
+      "ticker": "NWFL",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 29700.0,
-      "amplitude": 0.545,
-      "intensity": 0.5736,
-      "headline": null
-    },
-    {
-      "event_id": "c23b06aeaa1e15323f521352",
-      "date": "2026-07-28T00:00:00+00:00",
-      "ticker": "CVBF",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 455300.0,
-      "amplitude": 0.5058,
-      "intensity": 0.5663,
-      "headline": null
-    },
-    {
-      "event_id": "75b02b9c067ba851e6408a85",
-      "date": "2026-07-28T00:00:00+00:00",
-      "ticker": "MPLT",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 148702.4,
-      "amplitude": 0.545,
-      "intensity": 0.5626,
+      "purchase_value": 107105.0,
+      "amplitude": 0.5104,
+      "intensity": 0.5598,
       "headline": null
     },
     {
@@ -1198,6 +857,17 @@
       "headline": null
     },
     {
+      "event_id": "694d83118f9b837d270e98b2",
+      "date": "2026-07-28T00:00:00+00:00",
+      "ticker": "NNOX",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 29700.0,
+      "amplitude": 0.545,
+      "intensity": 0.5176,
+      "headline": null
+    },
+    {
       "event_id": "360b0b2e65865e16c997b3dc",
       "date": "2026-07-28T00:00:00+00:00",
       "ticker": "BFST",
@@ -1206,61 +876,6 @@
       "purchase_value": 47415.0,
       "amplitude": 0.4461,
       "intensity": 0.4527,
-      "headline": null
-    },
-    {
-      "event_id": "9a1f10c92003b1f21931dd3f",
-      "date": "2026-07-28T00:00:00+00:00",
-      "ticker": "GLSI",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 20385.0,
-      "amplitude": 0.2358,
-      "intensity": 0.4455,
-      "headline": null
-    },
-    {
-      "event_id": "f7ed28d49c084a0663c07af3",
-      "date": "2026-07-28T00:00:00+00:00",
-      "ticker": "LOAN",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 31920.0,
-      "amplitude": 0.4673,
-      "intensity": 0.3922,
-      "headline": null
-    },
-    {
-      "event_id": "26392256c59b7fa4c0c611b7",
-      "date": "2026-07-28T00:00:00+00:00",
-      "ticker": "SCTX",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 144266.25,
-      "amplitude": 0.1809,
-      "intensity": 0.3855,
-      "headline": null
-    },
-    {
-      "event_id": "83ba2ce94daae473fd7ab4b1",
-      "date": "2026-07-28T00:00:00+00:00",
-      "ticker": "SCTX",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 144266.25,
-      "amplitude": 0.1809,
-      "intensity": 0.3855,
-      "headline": null
-    },
-    {
-      "event_id": "d9e4476b35d325c2aff20140",
-      "date": "2026-07-28T00:00:00+00:00",
-      "ticker": "SCTX",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 144266.25,
-      "amplitude": 0.1809,
-      "intensity": 0.3855,
       "headline": null
     },
     {
@@ -1297,36 +912,14 @@
       "headline": null
     },
     {
-      "event_id": "72603c10e3fab4fe7b230247",
+      "event_id": "9a1f10c92003b1f21931dd3f",
       "date": "2026-07-28T00:00:00+00:00",
-      "ticker": "MLPT",
+      "ticker": "GLSI",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 2276903.7675,
-      "amplitude": 0.4396,
-      "intensity": 0.3416,
-      "headline": null
-    },
-    {
-      "event_id": "5b640aad473ddcd3dba0e37e",
-      "date": "2026-07-28T00:00:00+00:00",
-      "ticker": "TSM",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 67970.0,
-      "amplitude": 0.775,
-      "intensity": 0.3258,
-      "headline": null
-    },
-    {
-      "event_id": "1214c144de80391539eb5e16",
-      "date": "2026-07-28T00:00:00+00:00",
-      "ticker": "BYRN",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 5791.0867,
-      "amplitude": 0.2032,
-      "intensity": 0.2948,
+      "purchase_value": 20385.0,
+      "amplitude": 0.2358,
+      "intensity": 0.3265,
       "headline": null
     },
     {
@@ -1336,8 +929,8 @@
       "company_name": null,
       "insider_name": null,
       "purchase_value": 2305.8,
-      "amplitude": 0.4352,
-      "intensity": 0.2886,
+      "amplitude": 0.4377,
+      "intensity": 0.2894,
       "headline": null
     },
     {
@@ -1396,25 +989,47 @@
       "headline": null
     },
     {
-      "event_id": "0c27826306d363e2f0645ccd",
-      "date": "2026-07-28T00:00:00+00:00",
-      "ticker": "TSM",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 5850.0,
-      "amplitude": 0.4606,
-      "intensity": 0.2527,
-      "headline": null
-    },
-    {
       "event_id": "43a45139b70884f3ff6f5cfd",
       "date": "2026-07-28T00:00:00+00:00",
       "ticker": "TPL",
       "company_name": null,
       "insider_name": null,
       "purchase_value": 393.09,
-      "amplitude": 0.2059,
-      "intensity": 0.1917,
+      "amplitude": 0.4375,
+      "intensity": 0.2727,
+      "headline": null
+    },
+    {
+      "event_id": "5b640aad473ddcd3dba0e37e",
+      "date": "2026-07-28T00:00:00+00:00",
+      "ticker": "TSM",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 67970.0,
+      "amplitude": 0.485,
+      "intensity": 0.2243,
+      "headline": null
+    },
+    {
+      "event_id": "0c27826306d363e2f0645ccd",
+      "date": "2026-07-28T00:00:00+00:00",
+      "ticker": "TSM",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 5850.0,
+      "amplitude": 0.3361,
+      "intensity": 0.2091,
+      "headline": null
+    },
+    {
+      "event_id": "72603c10e3fab4fe7b230247",
+      "date": "2026-07-28T00:00:00+00:00",
+      "ticker": "MLPT",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 2276903.7675,
+      "amplitude": 0.4396,
+      "intensity": 0.1876,
       "headline": null
     },
     {
@@ -1448,17 +1063,6 @@
       "purchase_value": 199998.72,
       "amplitude": 0.566,
       "intensity": 0.6183,
-      "headline": null
-    },
-    {
-      "event_id": "3d01d8d3c58f452297f0ba09",
-      "date": "2026-07-29T00:00:00+00:00",
-      "ticker": "OTLK",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 99996.1836,
-      "amplitude": 0.545,
-      "intensity": 0.6129,
       "headline": null
     },
     {
@@ -1517,6 +1121,17 @@
       "headline": null
     },
     {
+      "event_id": "3d01d8d3c58f452297f0ba09",
+      "date": "2026-07-29T00:00:00+00:00",
+      "ticker": "OTLK",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 99996.1836,
+      "amplitude": 0.545,
+      "intensity": 0.4939,
+      "headline": null
+    },
+    {
       "event_id": "93b777196328043d0be5bf65",
       "date": "2026-07-29T00:00:00+00:00",
       "ticker": "CBNA",
@@ -1528,6 +1143,72 @@
       "headline": null
     },
     {
+      "event_id": "3709fe41fed8b0e966899104",
+      "date": "2026-07-29T00:00:00+00:00",
+      "ticker": "ARTV",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 208031.76,
+      "amplitude": 0.4452,
+      "intensity": 0.4811,
+      "headline": null
+    },
+    {
+      "event_id": "56c72d194a0cd513e38317f4",
+      "date": "2026-07-29T00:00:00+00:00",
+      "ticker": "ARTV",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 208031.76,
+      "amplitude": 0.4452,
+      "intensity": 0.4811,
+      "headline": null
+    },
+    {
+      "event_id": "6d509c2bd98727bcd53f4184",
+      "date": "2026-07-29T00:00:00+00:00",
+      "ticker": "ARTV",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 208031.76,
+      "amplitude": 0.4452,
+      "intensity": 0.4811,
+      "headline": null
+    },
+    {
+      "event_id": "d3e2a3ad1319e2a0409d60a2",
+      "date": "2026-07-29T00:00:00+00:00",
+      "ticker": "ARTV",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 208031.76,
+      "amplitude": 0.4452,
+      "intensity": 0.4811,
+      "headline": null
+    },
+    {
+      "event_id": "ea44f1b9fd5911de38589dd2",
+      "date": "2026-07-29T00:00:00+00:00",
+      "ticker": "ARTV",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 208031.76,
+      "amplitude": 0.4452,
+      "intensity": 0.4811,
+      "headline": null
+    },
+    {
+      "event_id": "f951f1b10a685b5da0feea74",
+      "date": "2026-07-29T00:00:00+00:00",
+      "ticker": "ARTV",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 208031.76,
+      "amplitude": 0.4452,
+      "intensity": 0.4811,
+      "headline": null
+    },
+    {
       "event_id": "51efa0839a87c51f9d5dbaa0",
       "date": "2026-07-29T00:00:00+00:00",
       "ticker": "HDSN",
@@ -1536,17 +1217,6 @@
       "purchase_value": 312102.96,
       "amplitude": 0.4396,
       "intensity": 0.4571,
-      "headline": null
-    },
-    {
-      "event_id": "ed4692a29f6f13411ef7f6f7",
-      "date": "2026-07-29T00:00:00+00:00",
-      "ticker": "GLSI",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 9170.0,
-      "amplitude": 0.2608,
-      "intensity": 0.4468,
       "headline": null
     },
     {
@@ -1613,72 +1283,6 @@
       "purchase_value": 19997.56,
       "amplitude": 0.4906,
       "intensity": 0.3966,
-      "headline": null
-    },
-    {
-      "event_id": "3709fe41fed8b0e966899104",
-      "date": "2026-07-29T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 208031.76,
-      "amplitude": 0.1981,
-      "intensity": 0.3946,
-      "headline": null
-    },
-    {
-      "event_id": "56c72d194a0cd513e38317f4",
-      "date": "2026-07-29T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 208031.76,
-      "amplitude": 0.1981,
-      "intensity": 0.3946,
-      "headline": null
-    },
-    {
-      "event_id": "6d509c2bd98727bcd53f4184",
-      "date": "2026-07-29T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 208031.76,
-      "amplitude": 0.1981,
-      "intensity": 0.3946,
-      "headline": null
-    },
-    {
-      "event_id": "d3e2a3ad1319e2a0409d60a2",
-      "date": "2026-07-29T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 208031.76,
-      "amplitude": 0.1981,
-      "intensity": 0.3946,
-      "headline": null
-    },
-    {
-      "event_id": "ea44f1b9fd5911de38589dd2",
-      "date": "2026-07-29T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 208031.76,
-      "amplitude": 0.1981,
-      "intensity": 0.3946,
-      "headline": null
-    },
-    {
-      "event_id": "f951f1b10a685b5da0feea74",
-      "date": "2026-07-29T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 208031.76,
-      "amplitude": 0.1981,
-      "intensity": 0.3946,
       "headline": null
     },
     {
@@ -1770,6 +1374,28 @@
       "headline": null
     },
     {
+      "event_id": "ed4692a29f6f13411ef7f6f7",
+      "date": "2026-07-29T00:00:00+00:00",
+      "ticker": "GLSI",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 9170.0,
+      "amplitude": 0.2608,
+      "intensity": 0.3278,
+      "headline": null
+    },
+    {
+      "event_id": "0aef142463cf8dcccc9207da",
+      "date": "2026-07-29T00:00:00+00:00",
+      "ticker": "[NONE]",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 31149.03466,
+      "amplitude": 0.486,
+      "intensity": 0.3276,
+      "headline": null
+    },
+    {
       "event_id": "93799410aba2cf1f112a2952",
       "date": "2026-07-29T00:00:00+00:00",
       "ticker": "COE",
@@ -1778,6 +1404,39 @@
       "purchase_value": 1844542.8,
       "amplitude": 0.2971,
       "intensity": 0.3206,
+      "headline": null
+    },
+    {
+      "event_id": "6384e86b5ae403449e1a4956",
+      "date": "2026-07-29T00:00:00+00:00",
+      "ticker": "[NONE]",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 6229806.77896,
+      "amplitude": 0.4472,
+      "intensity": 0.3137,
+      "headline": null
+    },
+    {
+      "event_id": "b1159cceec7e8339ee7963e7",
+      "date": "2026-07-29T00:00:00+00:00",
+      "ticker": "[NONE]",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 6229806.77896,
+      "amplitude": 0.4472,
+      "intensity": 0.3137,
+      "headline": null
+    },
+    {
+      "event_id": "cbf525508d987bd4d6759a14",
+      "date": "2026-07-29T00:00:00+00:00",
+      "ticker": "[NONE]",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 6229806.77896,
+      "amplitude": 0.4472,
+      "intensity": 0.3137,
       "headline": null
     },
     {
@@ -1858,6 +1517,17 @@
       "headline": null
     },
     {
+      "event_id": "f6d1356677326af0d1de7964",
+      "date": "2026-07-29T00:00:00+00:00",
+      "ticker": "TPL",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 394.14,
+      "amplitude": 0.4349,
+      "intensity": 0.2718,
+      "headline": null
+    },
+    {
       "event_id": "81dcbaf192764135ca2d2d41",
       "date": "2026-07-29T00:00:00+00:00",
       "ticker": "NTRS",
@@ -1866,39 +1536,6 @@
       "purchase_value": 45790.35,
       "amplitude": 0.4513,
       "intensity": 0.2613,
-      "headline": null
-    },
-    {
-      "event_id": "e41dc206669457b28841d9d2",
-      "date": "2026-07-29T00:00:00+00:00",
-      "ticker": "RCG",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 2298.24,
-      "amplitude": 0.3363,
-      "intensity": 0.2539,
-      "headline": null
-    },
-    {
-      "event_id": "f6d1356677326af0d1de7964",
-      "date": "2026-07-29T00:00:00+00:00",
-      "ticker": "TPL",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 394.14,
-      "amplitude": 0.3348,
-      "intensity": 0.2368,
-      "headline": null
-    },
-    {
-      "event_id": "0aef142463cf8dcccc9207da",
-      "date": "2026-07-29T00:00:00+00:00",
-      "ticker": "[NONE]",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 31149.03466,
-      "amplitude": 0.486,
-      "intensity": 0.2226,
       "headline": null
     },
     {
@@ -1924,14 +1561,25 @@
       "headline": null
     },
     {
-      "event_id": "23ad5cbe7cdc43c86758981f",
+      "event_id": "e41dc206669457b28841d9d2",
       "date": "2026-07-29T00:00:00+00:00",
-      "ticker": "MLPT",
+      "ticker": "RCG",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 37890.0,
-      "amplitude": 0.1732,
-      "intensity": 0.2078,
+      "purchase_value": 2298.24,
+      "amplitude": 0.2074,
+      "intensity": 0.2088,
+      "headline": null
+    },
+    {
+      "event_id": "a913ca8f71074de53fe58856",
+      "date": "2026-07-29T00:00:00+00:00",
+      "ticker": "GF",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 1116.0,
+      "amplitude": 0.4375,
+      "intensity": 0.1934,
       "headline": null
     },
     {
@@ -1957,14 +1605,14 @@
       "headline": null
     },
     {
-      "event_id": "a913ca8f71074de53fe58856",
+      "event_id": "23ad5cbe7cdc43c86758981f",
       "date": "2026-07-29T00:00:00+00:00",
-      "ticker": "GF",
+      "ticker": "MLPT",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 1116.0,
-      "amplitude": 0.1832,
-      "intensity": 0.1044,
+      "purchase_value": 37890.0,
+      "amplitude": 0.1732,
+      "intensity": 0.0538,
       "headline": null
     },
     {
@@ -1976,17 +1624,6 @@
       "purchase_value": 140000.0868,
       "amplitude": 0.4774,
       "intensity": 0.4216,
-      "headline": null
-    },
-    {
-      "event_id": "c29b1d75ad8c37038656c52a",
-      "date": "2026-07-30T00:00:00+00:00",
-      "ticker": "DCX",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 51250.0,
-      "amplitude": 0.566,
-      "intensity": 0.6686,
       "headline": null
     },
     {
@@ -2023,6 +1660,17 @@
       "headline": null
     },
     {
+      "event_id": "c29b1d75ad8c37038656c52a",
+      "date": "2026-07-30T00:00:00+00:00",
+      "ticker": "DCX",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 51250.0,
+      "amplitude": 0.566,
+      "intensity": 0.5496,
+      "headline": null
+    },
+    {
       "event_id": "2c8aaf50712d14ed03fe4c66",
       "date": "2026-07-30T00:00:00+00:00",
       "ticker": "IONS",
@@ -2031,6 +1679,50 @@
       "purchase_value": 800700.0,
       "amplitude": 0.545,
       "intensity": 0.5433,
+      "headline": null
+    },
+    {
+      "event_id": "8655c38a855d16f2b5346407",
+      "date": "2026-07-30T00:00:00+00:00",
+      "ticker": "KWY",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 2496.44,
+      "amplitude": 0.466,
+      "intensity": 0.5416,
+      "headline": null
+    },
+    {
+      "event_id": "a5dafdd3b21f13781fd5148d",
+      "date": "2026-07-30T00:00:00+00:00",
+      "ticker": "KWY",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 1562.52,
+      "amplitude": 0.4623,
+      "intensity": 0.5297,
+      "headline": null
+    },
+    {
+      "event_id": "3b306b2381cb2aa817a09366",
+      "date": "2026-07-30T00:00:00+00:00",
+      "ticker": "MBLY",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 98632.8,
+      "amplitude": 0.545,
+      "intensity": 0.5238,
+      "headline": null
+    },
+    {
+      "event_id": "cea3c7c3f4ac493e30942fa1",
+      "date": "2026-07-30T00:00:00+00:00",
+      "ticker": "UROY",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 43289.33,
+      "amplitude": 0.4706,
+      "intensity": 0.5192,
       "headline": null
     },
     {
@@ -2075,17 +1767,6 @@
       "purchase_value": 5053.7025,
       "amplitude": 0.4476,
       "intensity": 0.4341,
-      "headline": null
-    },
-    {
-      "event_id": "29ff492c4acb47f666dc98c6",
-      "date": "2026-07-30T00:00:00+00:00",
-      "ticker": "MLPT",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 13000000.0,
-      "amplitude": 0.6194,
-      "intensity": 0.4278,
       "headline": null
     },
     {
@@ -2155,17 +1836,6 @@
       "headline": null
     },
     {
-      "event_id": "10f161af3be03baa87907c63",
-      "date": "2026-07-30T00:00:00+00:00",
-      "ticker": "RCG",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 2313.36,
-      "amplitude": 0.4516,
-      "intensity": 0.3343,
-      "headline": null
-    },
-    {
       "event_id": "b7e98c207cce6293ba296e9f",
       "date": "2026-07-30T00:00:00+00:00",
       "ticker": "NMM",
@@ -2177,14 +1847,14 @@
       "headline": null
     },
     {
-      "event_id": "6d16c499407866fd884000cd",
+      "event_id": "9c22527612102ab6cbffdea1",
       "date": "2026-07-30T00:00:00+00:00",
-      "ticker": "DLHC",
+      "ticker": "CBAN",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 39399.0624,
-      "amplitude": 0.5939,
-      "intensity": 0.3222,
+      "purchase_value": 43600.0,
+      "amplitude": 0.4465,
+      "intensity": 0.3295,
       "headline": null
     },
     {
@@ -2210,6 +1880,39 @@
       "headline": null
     },
     {
+      "event_id": "10f161af3be03baa87907c63",
+      "date": "2026-07-30T00:00:00+00:00",
+      "ticker": "RCG",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 2313.36,
+      "amplitude": 0.4434,
+      "intensity": 0.2915,
+      "headline": null
+    },
+    {
+      "event_id": "6d16c499407866fd884000cd",
+      "date": "2026-07-30T00:00:00+00:00",
+      "ticker": "DLHC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 39399.0624,
+      "amplitude": 0.4917,
+      "intensity": 0.2865,
+      "headline": null
+    },
+    {
+      "event_id": "29ff492c4acb47f666dc98c6",
+      "date": "2026-07-30T00:00:00+00:00",
+      "ticker": "MLPT",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 13000000.0,
+      "amplitude": 0.6194,
+      "intensity": 0.2738,
+      "headline": null
+    },
+    {
       "event_id": "34550225c1552722ce3dd9fc",
       "date": "2026-07-30T00:00:00+00:00",
       "ticker": "YQ",
@@ -2221,14 +1924,25 @@
       "headline": null
     },
     {
+      "event_id": "b453d2867082b329b35c4fdb",
+      "date": "2026-07-30T00:00:00+00:00",
+      "ticker": null,
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 99699.999,
+      "amplitude": 0.4387,
+      "intensity": 0.2461,
+      "headline": null
+    },
+    {
       "event_id": "ffba21b9a4f49174bc61e22e",
       "date": "2026-07-30T00:00:00+00:00",
       "ticker": "TPL",
       "company_name": null,
       "insider_name": null,
       "purchase_value": 389.14,
-      "amplitude": 0.2738,
-      "intensity": 0.2553,
+      "amplitude": 0.2569,
+      "intensity": 0.2094,
       "headline": null
     },
     {
@@ -2254,6 +1968,28 @@
       "headline": null
     },
     {
+      "event_id": "68f66d30f75812502f9d7bbc",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "JMKE",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 230000.0,
+      "amplitude": 0.7703,
+      "intensity": 0.8317,
+      "headline": null
+    },
+    {
+      "event_id": "649cf752dc9548469d4800be",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "JMKE",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 345000.0,
+      "amplitude": 0.559,
+      "intensity": 0.7567,
+      "headline": null
+    },
+    {
       "event_id": "a57b7117465fdbb10c895ef0",
       "date": "2026-07-31T00:00:00+00:00",
       "ticker": "ORN",
@@ -2262,6 +1998,28 @@
       "purchase_value": 192430.0,
       "amplitude": 0.545,
       "intensity": 0.724,
+      "headline": null
+    },
+    {
+      "event_id": "9b4f819fb645f9ecf892717f",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "JMKE",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 230000.0,
+      "amplitude": 0.535,
+      "intensity": 0.7061,
+      "headline": null
+    },
+    {
+      "event_id": "570b11031aeedd5577595ca0",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "JMKE",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 57500.0,
+      "amplitude": 0.535,
+      "intensity": 0.6932,
       "headline": null
     },
     {
@@ -2276,6 +2034,17 @@
       "headline": null
     },
     {
+      "event_id": "6b5969f8c93f951dd2b5b1cc",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "JMKE",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 69000.0,
+      "amplitude": 0.562,
+      "intensity": 0.6586,
+      "headline": null
+    },
+    {
       "event_id": "59feb734f2eac95d03cdbaa6",
       "date": "2026-07-31T00:00:00+00:00",
       "ticker": "GSHD",
@@ -2284,6 +2053,17 @@
       "purchase_value": 101024.0,
       "amplitude": 0.545,
       "intensity": 0.648,
+      "headline": null
+    },
+    {
+      "event_id": "059957e4907981f8b178934d",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "JMKE",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 18400.0,
+      "amplitude": 0.416,
+      "intensity": 0.641,
       "headline": null
     },
     {
@@ -2309,6 +2089,17 @@
       "headline": null
     },
     {
+      "event_id": "0d686bfda956e07605d72812",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "JMKE",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 24932.0,
+      "amplitude": 0.545,
+      "intensity": 0.616,
+      "headline": null
+    },
+    {
       "event_id": "08129d8e5875df7654249e9e",
       "date": "2026-07-31T00:00:00+00:00",
       "ticker": "ARLP",
@@ -2317,6 +2108,17 @@
       "purchase_value": 78345.0,
       "amplitude": 0.545,
       "intensity": 0.6106,
+      "headline": null
+    },
+    {
+      "event_id": "17edaa0e1d4f627fa16734c4",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "JMKE",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 75095.0,
+      "amplitude": 0.535,
+      "intensity": 0.6067,
       "headline": null
     },
     {
@@ -2331,14 +2133,25 @@
       "headline": null
     },
     {
-      "event_id": "81bfe8847d5ecd1123a0b143",
+      "event_id": "2d0fab7294cdc69392393cc2",
       "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "SHEN",
+      "ticker": "RVSB",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 49999.99238,
-      "amplitude": 0.4717,
-      "intensity": 0.5766,
+      "purchase_value": 10478.2,
+      "amplitude": 0.545,
+      "intensity": 0.5919,
+      "headline": null
+    },
+    {
+      "event_id": "4860d1058674a35d6e71094b",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "CMCO",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 147525.0,
+      "amplitude": 0.562,
+      "intensity": 0.5817,
       "headline": null
     },
     {
@@ -2353,14 +2166,14 @@
       "headline": null
     },
     {
-      "event_id": "623587a8beafe6e837f04e08",
+      "event_id": "79ebaabfd0f0ae3a191469b8",
       "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "SHEN",
+      "ticker": "SAGT",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 24280.0,
-      "amplitude": 0.469,
-      "intensity": 0.5673,
+      "purchase_value": 48125.0,
+      "amplitude": 0.559,
+      "intensity": 0.5704,
       "headline": null
     },
     {
@@ -2408,17 +2221,6 @@
       "headline": null
     },
     {
-      "event_id": "cb16c3c8a18554c3283707f1",
-      "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "CLB",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 53900.0,
-      "amplitude": 0.4699,
-      "intensity": 0.5201,
-      "headline": null
-    },
-    {
       "event_id": "80e720470263a3aaf64e381c",
       "date": "2026-07-31T00:00:00+00:00",
       "ticker": "RDWR",
@@ -2452,6 +2254,17 @@
       "headline": null
     },
     {
+      "event_id": "bf4465708d14b32195f67bb2",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "ANIX",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 17350.0,
+      "amplitude": 0.4675,
+      "intensity": 0.5059,
+      "headline": null
+    },
+    {
       "event_id": "f58026eded7fc00e5bfd98ff",
       "date": "2026-07-31T00:00:00+00:00",
       "ticker": "VFC",
@@ -2463,17 +2276,6 @@
       "headline": null
     },
     {
-      "event_id": "bf4465708d14b32195f67bb2",
-      "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "ANIX",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 17350.0,
-      "amplitude": 0.4653,
-      "intensity": 0.5052,
-      "headline": null
-    },
-    {
       "event_id": "30b16c2884b4b9b093dafaf0",
       "date": "2026-07-31T00:00:00+00:00",
       "ticker": "MKZR",
@@ -2482,6 +2284,72 @@
       "purchase_value": 51606.0,
       "amplitude": 0.545,
       "intensity": 0.4897,
+      "headline": null
+    },
+    {
+      "event_id": "0f2d3446bd56eb55fb8daf4f",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "ARTV",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 247693.92,
+      "amplitude": 0.4493,
+      "intensity": 0.4842,
+      "headline": null
+    },
+    {
+      "event_id": "38ce99dc734a1fc1707e0c09",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "ARTV",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 247693.92,
+      "amplitude": 0.4493,
+      "intensity": 0.4842,
+      "headline": null
+    },
+    {
+      "event_id": "40d0996125c956fde4a0310b",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "ARTV",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 247693.92,
+      "amplitude": 0.4493,
+      "intensity": 0.4842,
+      "headline": null
+    },
+    {
+      "event_id": "44136225eca3c4e4721d2ef5",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "ARTV",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 247693.92,
+      "amplitude": 0.4493,
+      "intensity": 0.4842,
+      "headline": null
+    },
+    {
+      "event_id": "ba144f161fac74703d061c83",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "ARTV",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 247693.92,
+      "amplitude": 0.4493,
+      "intensity": 0.4842,
+      "headline": null
+    },
+    {
+      "event_id": "d4a78052a1729d9d73ea9078",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "ARTV",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 247693.92,
+      "amplitude": 0.4493,
+      "intensity": 0.4842,
       "headline": null
     },
     {
@@ -2529,80 +2397,14 @@
       "headline": null
     },
     {
-      "event_id": "bc3f4d51fdd55afdf0618e69",
+      "event_id": "8bb6244ffdeae8e3f33e1d23",
       "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "DAR",
+      "ticker": "SAGT",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 60970.0,
-      "amplitude": 0.4489,
-      "intensity": 0.4594,
-      "headline": null
-    },
-    {
-      "event_id": "0f2d3446bd56eb55fb8daf4f",
-      "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 247693.92,
-      "amplitude": 0.3429,
-      "intensity": 0.4469,
-      "headline": null
-    },
-    {
-      "event_id": "38ce99dc734a1fc1707e0c09",
-      "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 247693.92,
-      "amplitude": 0.3429,
-      "intensity": 0.4469,
-      "headline": null
-    },
-    {
-      "event_id": "40d0996125c956fde4a0310b",
-      "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 247693.92,
-      "amplitude": 0.3429,
-      "intensity": 0.4469,
-      "headline": null
-    },
-    {
-      "event_id": "44136225eca3c4e4721d2ef5",
-      "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 247693.92,
-      "amplitude": 0.3429,
-      "intensity": 0.4469,
-      "headline": null
-    },
-    {
-      "event_id": "ba144f161fac74703d061c83",
-      "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 247693.92,
-      "amplitude": 0.3429,
-      "intensity": 0.4469,
-      "headline": null
-    },
-    {
-      "event_id": "d4a78052a1729d9d73ea9078",
-      "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "ARTV",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 247693.92,
-      "amplitude": 0.3429,
-      "intensity": 0.4469,
+      "purchase_value": 231000.0,
+      "amplitude": 0.4731,
+      "intensity": 0.4546,
       "headline": null
     },
     {
@@ -2639,6 +2441,39 @@
       "headline": null
     },
     {
+      "event_id": "55bee8290cbb21794aadfe24",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "CWBC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 5750.0,
+      "amplitude": 0.4451,
+      "intensity": 0.4314,
+      "headline": null
+    },
+    {
+      "event_id": "48f92aede53d6e60b5d669d1",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "GSHD",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 2245140.3200000003,
+      "amplitude": 0.4404,
+      "intensity": 0.4227,
+      "headline": null
+    },
+    {
+      "event_id": "8cd826c2a84781faa234ead0",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "CVNA",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 1544981.37,
+      "amplitude": 0.4798,
+      "intensity": 0.4183,
+      "headline": null
+    },
+    {
       "event_id": "37e5b8a565b0741c14e537f2",
       "date": "2026-07-31T00:00:00+00:00",
       "ticker": "BSX",
@@ -2647,6 +2482,17 @@
       "purchase_value": 227399.5,
       "amplitude": 0.4844,
       "intensity": 0.4077,
+      "headline": null
+    },
+    {
+      "event_id": "cb16c3c8a18554c3283707f1",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "CLB",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 53900.0,
+      "amplitude": 0.4699,
+      "intensity": 0.4011,
       "headline": null
     },
     {
@@ -2782,17 +2628,6 @@
       "headline": null
     },
     {
-      "event_id": "48f92aede53d6e60b5d669d1",
-      "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "GSHD",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 2245140.3200000003,
-      "amplitude": 0.2298,
-      "intensity": 0.3489,
-      "headline": null
-    },
-    {
       "event_id": "8ea9df8ea94836f0f18cabff",
       "date": "2026-07-31T00:00:00+00:00",
       "ticker": "NMM",
@@ -2826,6 +2661,28 @@
       "headline": null
     },
     {
+      "event_id": "bc3f4d51fdd55afdf0618e69",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "DAR",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 60970.0,
+      "amplitude": 0.4489,
+      "intensity": 0.3404,
+      "headline": null
+    },
+    {
+      "event_id": "868ec8edaf2bd26c800d45ab",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "TPL",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 400.09,
+      "amplitude": 0.4952,
+      "intensity": 0.3331,
+      "headline": null
+    },
+    {
       "event_id": "203bfa486a843308f847be15",
       "date": "2026-07-31T00:00:00+00:00",
       "ticker": "PFSA",
@@ -2856,17 +2713,6 @@
       "purchase_value": 5481.897,
       "amplitude": 0.4376,
       "intensity": 0.3084,
-      "headline": null
-    },
-    {
-      "event_id": "868ec8edaf2bd26c800d45ab",
-      "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "TPL",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 400.09,
-      "amplitude": 0.4168,
-      "intensity": 0.3057,
       "headline": null
     },
     {
@@ -2914,25 +2760,14 @@
       "headline": null
     },
     {
-      "event_id": "3047ef634d3e7e136a0e23b6",
+      "event_id": "0e6c5040625dc4c80ef523c1",
       "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "ACOG",
+      "ticker": null,
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 22975.54,
-      "amplitude": 0.5907,
-      "intensity": 0.2754,
-      "headline": null
-    },
-    {
-      "event_id": "b4a9cc9bb23c01dba54aebfe",
-      "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "BWMX",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 66314.81,
-      "amplitude": 0.1833,
-      "intensity": 0.2735,
+      "purchase_value": 980.39143,
+      "amplitude": 0.4731,
+      "intensity": 0.2888,
       "headline": null
     },
     {
@@ -2942,8 +2777,19 @@
       "company_name": null,
       "insider_name": null,
       "purchase_value": 2290.68,
-      "amplitude": 0.275,
+      "amplitude": 0.2749,
       "intensity": 0.2724,
+      "headline": null
+    },
+    {
+      "event_id": "f22a084111fda634ad73e3bb",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "GF",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 7957.92,
+      "amplitude": 0.555,
+      "intensity": 0.2529,
       "headline": null
     },
     {
@@ -2958,14 +2804,14 @@
       "headline": null
     },
     {
-      "event_id": "f22a084111fda634ad73e3bb",
+      "event_id": "3047ef634d3e7e136a0e23b6",
       "date": "2026-07-31T00:00:00+00:00",
-      "ticker": "GF",
+      "ticker": "ACOG",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 7957.92,
-      "amplitude": 0.4977,
-      "intensity": 0.2328,
+      "purchase_value": 22975.54,
+      "amplitude": 0.4377,
+      "intensity": 0.2219,
       "headline": null
     },
     {
@@ -2975,8 +2821,19 @@
       "company_name": null,
       "insider_name": null,
       "purchase_value": 2145.024,
-      "amplitude": 0.4071,
-      "intensity": 0.2289,
+      "amplitude": 0.3135,
+      "intensity": 0.1962,
+      "headline": null
+    },
+    {
+      "event_id": "b4a9cc9bb23c01dba54aebfe",
+      "date": "2026-07-31T00:00:00+00:00",
+      "ticker": "BWMX",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 66314.81,
+      "amplitude": 0.1833,
+      "intensity": 0.1545,
       "headline": null
     },
     {
@@ -3013,6 +2870,17 @@
       "headline": null
     },
     {
+      "event_id": "083414fd914416efcd531901",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "CAMP",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 10809.15,
+      "amplitude": 0.535,
+      "intensity": 0.6777,
+      "headline": null
+    },
+    {
       "event_id": "d7ab6df1071fa88c47d1e480",
       "date": "2026-08-03T00:00:00+00:00",
       "ticker": "APMD",
@@ -3021,6 +2889,17 @@
       "purchase_value": 200000.0,
       "amplitude": 0.545,
       "intensity": 0.6543,
+      "headline": null
+    },
+    {
+      "event_id": "a956959675fbce37259c7037",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "CAMP",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 10809.15,
+      "amplitude": 0.4813,
+      "intensity": 0.6053,
       "headline": null
     },
     {
@@ -3046,14 +2925,25 @@
       "headline": null
     },
     {
-      "event_id": "43b48ac8b3f97e461085c758",
+      "event_id": "ed092a7aff1217c28f8a82bf",
       "date": "2026-08-03T00:00:00+00:00",
-      "ticker": "RVSB",
+      "ticker": "CAMP",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 5407.5,
-      "amplitude": 0.545,
-      "intensity": 0.5857,
+      "purchase_value": 10809.15,
+      "amplitude": 0.4707,
+      "intensity": 0.5904,
+      "headline": null
+    },
+    {
+      "event_id": "a6ac0a47b39cf55333621b04",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "CAMP",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 27023.7,
+      "amplitude": 0.4643,
+      "intensity": 0.5806,
       "headline": null
     },
     {
@@ -3065,6 +2955,28 @@
       "purchase_value": 2918.67864,
       "amplitude": 0.4665,
       "intensity": 0.5717,
+      "headline": null
+    },
+    {
+      "event_id": "1382230e2c6c1b3f4327b25c",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "BSX",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 9001407.552,
+      "amplitude": 0.4925,
+      "intensity": 0.5538,
+      "headline": null
+    },
+    {
+      "event_id": "b3e73b810f78a90eb12060e9",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "HUN",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 981000.0,
+      "amplitude": 0.4688,
+      "intensity": 0.5454,
       "headline": null
     },
     {
@@ -3098,39 +3010,6 @@
       "purchase_value": 5000000.0,
       "amplitude": 0.4466,
       "intensity": 0.5288,
-      "headline": null
-    },
-    {
-      "event_id": "85b6478204c16e92b5637313",
-      "date": "2026-08-03T00:00:00+00:00",
-      "ticker": "CBK",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 29529.0,
-      "amplitude": 0.4754,
-      "intensity": 0.5214,
-      "headline": null
-    },
-    {
-      "event_id": "70c023835ae397751de6b002",
-      "date": "2026-08-03T00:00:00+00:00",
-      "ticker": "NMZ",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 367.6082,
-      "amplitude": 0.617,
-      "intensity": 0.5199,
-      "headline": null
-    },
-    {
-      "event_id": "7cadb8ed26384220d8b548a9",
-      "date": "2026-08-03T00:00:00+00:00",
-      "ticker": "NMZ",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 367.6082,
-      "amplitude": 0.617,
-      "intensity": 0.5199,
       "headline": null
     },
     {
@@ -3178,6 +3057,28 @@
       "headline": null
     },
     {
+      "event_id": "70c023835ae397751de6b002",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "NMZ",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 367.6082,
+      "amplitude": 0.5375,
+      "intensity": 0.4921,
+      "headline": null
+    },
+    {
+      "event_id": "7cadb8ed26384220d8b548a9",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "NMZ",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 367.6082,
+      "amplitude": 0.5375,
+      "intensity": 0.4921,
+      "headline": null
+    },
+    {
       "event_id": "3d6d3b38b818c045b614187c",
       "date": "2026-08-03T00:00:00+00:00",
       "ticker": "FUNC",
@@ -3211,14 +3112,14 @@
       "headline": null
     },
     {
-      "event_id": "1a04f509c731b7c6d0347f82",
+      "event_id": "c9257d5feac476fb61c75498",
       "date": "2026-08-03T00:00:00+00:00",
-      "ticker": "ANIK",
+      "ticker": "BSX",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 20745.0,
-      "amplitude": 0.4488,
-      "intensity": 0.4492,
+      "purchase_value": 50084.251,
+      "amplitude": 0.46,
+      "intensity": 0.4467,
       "headline": null
     },
     {
@@ -3321,6 +3222,17 @@
       "headline": null
     },
     {
+      "event_id": "85b6478204c16e92b5637313",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "CBK",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 29529.0,
+      "amplitude": 0.4754,
+      "intensity": 0.4024,
+      "headline": null
+    },
+    {
       "event_id": "42faedd0ad11e4c874c9f800",
       "date": "2026-08-03T00:00:00+00:00",
       "ticker": "MKZR",
@@ -3365,6 +3277,17 @@
       "headline": null
     },
     {
+      "event_id": "07464630724fb7cd1396810a",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "LEGO",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 37.227,
+      "amplitude": 0.6087,
+      "intensity": 0.3808,
+      "headline": null
+    },
+    {
       "event_id": "d9fd6d406cbc0f4b81762a89",
       "date": "2026-08-03T00:00:00+00:00",
       "ticker": "DLPN",
@@ -3373,17 +3296,6 @@
       "purchase_value": 4917.4,
       "amplitude": 0.4657,
       "intensity": 0.3748,
-      "headline": null
-    },
-    {
-      "event_id": "478948d29f4f92f6ea72a814",
-      "date": "2026-08-03T00:00:00+00:00",
-      "ticker": "NONE",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 50000.0108,
-      "amplitude": 0.5162,
-      "intensity": 0.3588,
       "headline": null
     },
     {
@@ -3398,14 +3310,36 @@
       "headline": null
     },
     {
-      "event_id": "d5f2be58548f4fd25a5725f9",
+      "event_id": "ed745463f612d0332daa9690",
       "date": "2026-08-03T00:00:00+00:00",
-      "ticker": "ACOG",
+      "ticker": "LEGO",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 400000.0,
-      "amplitude": 0.6503,
-      "intensity": 0.3267,
+      "purchase_value": 83.757,
+      "amplitude": 0.4694,
+      "intensity": 0.3442,
+      "headline": null
+    },
+    {
+      "event_id": "1a04f509c731b7c6d0347f82",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "ANIK",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 20745.0,
+      "amplitude": 0.4488,
+      "intensity": 0.3302,
+      "headline": null
+    },
+    {
+      "event_id": "478948d29f4f92f6ea72a814",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "NONE",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 50000.0108,
+      "amplitude": 0.4234,
+      "intensity": 0.3263,
       "headline": null
     },
     {
@@ -3453,6 +3387,17 @@
       "headline": null
     },
     {
+      "event_id": "c99263c4f1ea4d5792fb8000",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "LEGO",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 7.755,
+      "amplitude": 0.4624,
+      "intensity": 0.3084,
+      "headline": null
+    },
+    {
       "event_id": "5d895ddf991048f911e1a39e",
       "date": "2026-08-03T00:00:00+00:00",
       "ticker": "FUSB",
@@ -3461,6 +3406,17 @@
       "purchase_value": 2248.08,
       "amplitude": 0.4478,
       "intensity": 0.3079,
+      "headline": null
+    },
+    {
+      "event_id": "d5f2be58548f4fd25a5725f9",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "ACOG",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 400000.0,
+      "amplitude": 0.5935,
+      "intensity": 0.3068,
       "headline": null
     },
     {
@@ -3525,7 +3481,7 @@
       "company_name": null,
       "insider_name": null,
       "purchase_value": 2283.12,
-      "amplitude": 0.285,
+      "amplitude": 0.2849,
       "intensity": 0.2759,
       "headline": null
     },
@@ -3536,8 +3492,8 @@
       "company_name": null,
       "insider_name": null,
       "purchase_value": 392.66,
-      "amplitude": 0.3161,
-      "intensity": 0.2702,
+      "amplitude": 0.3245,
+      "intensity": 0.2731,
       "headline": null
     },
     {
@@ -3574,6 +3530,28 @@
       "headline": null
     },
     {
+      "event_id": "95c2394f4c0dc820ab9a448a",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "LEGO",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 31.02,
+      "amplitude": 0.4654,
+      "intensity": 0.2382,
+      "headline": null
+    },
+    {
+      "event_id": "ba8efb683315c8a0a9c8289c",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "NONE",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 50000.0108,
+      "amplitude": 0.4927,
+      "intensity": 0.2335,
+      "headline": null
+    },
+    {
       "event_id": "2e16bef0ff4986724472f79b",
       "date": "2026-08-03T00:00:00+00:00",
       "ticker": "APCX",
@@ -3596,25 +3574,36 @@
       "headline": null
     },
     {
+      "event_id": "454a5778a624f292dc8df26e",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "GOOD",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 1258.0,
+      "amplitude": 0.4393,
+      "intensity": 0.2053,
+      "headline": null
+    },
+    {
+      "event_id": "e75c5b86e0363909678a3a35",
+      "date": "2026-08-03T00:00:00+00:00",
+      "ticker": "LEGO",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 142.698,
+      "amplitude": 0.4416,
+      "intensity": 0.2047,
+      "headline": null
+    },
+    {
       "event_id": "5a1d524e3a9dddadc51ad106",
       "date": "2026-08-03T00:00:00+00:00",
       "ticker": "GF",
       "company_name": null,
       "insider_name": null,
       "purchase_value": 1781.95,
-      "amplitude": 0.3465,
-      "intensity": 0.2059,
-      "headline": null
-    },
-    {
-      "event_id": "ba8efb683315c8a0a9c8289c",
-      "date": "2026-08-03T00:00:00+00:00",
-      "ticker": "NONE",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 50000.0108,
-      "amplitude": 0.4,
-      "intensity": 0.201,
+      "amplitude": 0.3401,
+      "intensity": 0.1637,
       "headline": null
     },
     {
@@ -3626,6 +3615,17 @@
       "purchase_value": 5800.0,
       "amplitude": 0.3092,
       "intensity": 0.1006,
+      "headline": null
+    },
+    {
+      "event_id": "4c74875d052e5ac727d416d3",
+      "date": "2026-08-04T00:00:00+00:00",
+      "ticker": "SITE",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 816280.0,
+      "amplitude": 0.566,
+      "intensity": 0.6054,
       "headline": null
     },
     {
@@ -3648,6 +3648,28 @@
       "purchase_value": 46200.0,
       "amplitude": 0.4774,
       "intensity": 0.5637,
+      "headline": null
+    },
+    {
+      "event_id": "bd2027dda0c6236fc2a9e928",
+      "date": "2026-08-04T00:00:00+00:00",
+      "ticker": "DMC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 358705.2,
+      "amplitude": 0.499,
+      "intensity": 0.5592,
+      "headline": null
+    },
+    {
+      "event_id": "e8ae8fb763d8fa1d889b8dc4",
+      "date": "2026-08-04T00:00:00+00:00",
+      "ticker": "ADAG",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 83745.519,
+      "amplitude": 0.566,
+      "intensity": 0.5542,
       "headline": null
     },
     {
@@ -3706,6 +3728,17 @@
       "headline": null
     },
     {
+      "event_id": "9533a85d2520cb2bf2481535",
+      "date": "2026-08-04T00:00:00+00:00",
+      "ticker": "BXMT",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 143357.0,
+      "amplitude": 0.4546,
+      "intensity": 0.4761,
+      "headline": null
+    },
+    {
       "event_id": "fdb8a4b1147618708baf3b30",
       "date": "2026-08-04T00:00:00+00:00",
       "ticker": "CSGP",
@@ -3714,6 +3747,17 @@
       "purchase_value": 2489837.0,
       "amplitude": 0.4797,
       "intensity": 0.4745,
+      "headline": null
+    },
+    {
+      "event_id": "c3ab925ad469a17b98e795e2",
+      "date": "2026-08-04T00:00:00+00:00",
+      "ticker": "MXF",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 207742.78,
+      "amplitude": 0.5553,
+      "intensity": 0.4433,
       "headline": null
     },
     {
@@ -3747,6 +3791,17 @@
       "purchase_value": 234059.4,
       "amplitude": 0.4508,
       "intensity": 0.4387,
+      "headline": null
+    },
+    {
+      "event_id": "204a3a2997ddf5ee1b1cd47a",
+      "date": "2026-08-04T00:00:00+00:00",
+      "ticker": "NEOG",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 4369.7,
+      "amplitude": 0.566,
+      "intensity": 0.4377,
       "headline": null
     },
     {
@@ -3794,6 +3849,39 @@
       "headline": null
     },
     {
+      "event_id": "4cc244679b8fcb70819e7ed0",
+      "date": "2026-08-04T00:00:00+00:00",
+      "ticker": "THRY",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 717895.86,
+      "amplitude": 0.4435,
+      "intensity": 0.382,
+      "headline": null
+    },
+    {
+      "event_id": "153ded07d26887e183b21c4c",
+      "date": "2026-08-04T00:00:00+00:00",
+      "ticker": "NMZ",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 30.548700000000004,
+      "amplitude": 0.2755,
+      "intensity": 0.3772,
+      "headline": null
+    },
+    {
+      "event_id": "28687b6111421f5f41f8c576",
+      "date": "2026-08-04T00:00:00+00:00",
+      "ticker": "NMZ",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 30.5487,
+      "amplitude": 0.2755,
+      "intensity": 0.3772,
+      "headline": null
+    },
+    {
       "event_id": "38ef89cb0c92d29a22814d92",
       "date": "2026-08-04T00:00:00+00:00",
       "ticker": "NMM",
@@ -3802,17 +3890,6 @@
       "purchase_value": 82175.6031,
       "amplitude": 0.3396,
       "intensity": 0.3702,
-      "headline": null
-    },
-    {
-      "event_id": "2536079d5779723e4d2aa178",
-      "date": "2026-08-04T00:00:00+00:00",
-      "ticker": "ANIK",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 20315.0,
-      "amplitude": 0.2179,
-      "intensity": 0.3681,
       "headline": null
     },
     {
@@ -3838,6 +3915,17 @@
       "headline": null
     },
     {
+      "event_id": "a6fc0b5c61b32f2ed3404329",
+      "date": "2026-08-04T00:00:00+00:00",
+      "ticker": "GF",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 21390.4,
+      "amplitude": 0.6587,
+      "intensity": 0.3385,
+      "headline": null
+    },
+    {
       "event_id": "eda150cf8c27f9a12de7446c",
       "date": "2026-08-04T00:00:00+00:00",
       "ticker": "TSCO",
@@ -3846,6 +3934,17 @@
       "purchase_value": 50606.4,
       "amplitude": 0.4461,
       "intensity": 0.3363,
+      "headline": null
+    },
+    {
+      "event_id": "c57ea233e23baa104a6600bc",
+      "date": "2026-08-04T00:00:00+00:00",
+      "ticker": "TPL",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 403.53,
+      "amplitude": 0.5031,
+      "intensity": 0.3359,
       "headline": null
     },
     {
@@ -3866,30 +3965,19 @@
       "company_name": null,
       "insider_name": null,
       "purchase_value": 2313.36,
-      "amplitude": 0.4299,
-      "intensity": 0.3267,
+      "amplitude": 0.4197,
+      "intensity": 0.3232,
       "headline": null
     },
     {
-      "event_id": "c57ea233e23baa104a6600bc",
+      "event_id": "7864287486db38fa7204de44",
       "date": "2026-08-04T00:00:00+00:00",
-      "ticker": "TPL",
+      "ticker": "BSX",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 403.53,
-      "amplitude": 0.4402,
-      "intensity": 0.3139,
-      "headline": null
-    },
-    {
-      "event_id": "d3c9b0f3b1eca372841e0a61",
-      "date": "2026-08-04T00:00:00+00:00",
-      "ticker": "DLHC",
-      "company_name": null,
-      "insider_name": null,
-      "purchase_value": 19476.8,
-      "amplitude": 0.557,
-      "intensity": 0.3023,
+      "purchase_value": 6802.306,
+      "amplitude": 0.1867,
+      "intensity": 0.3167,
       "headline": null
     },
     {
@@ -3926,6 +4014,39 @@
       "headline": null
     },
     {
+      "event_id": "d3c9b0f3b1eca372841e0a61",
+      "date": "2026-08-04T00:00:00+00:00",
+      "ticker": "DLHC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 19476.8,
+      "amplitude": 0.42,
+      "intensity": 0.2543,
+      "headline": null
+    },
+    {
+      "event_id": "2536079d5779723e4d2aa178",
+      "date": "2026-08-04T00:00:00+00:00",
+      "ticker": "ANIK",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 20315.0,
+      "amplitude": 0.2179,
+      "intensity": 0.2491,
+      "headline": null
+    },
+    {
+      "event_id": "8c5e34f65749d7f663048338",
+      "date": "2026-08-04T00:00:00+00:00",
+      "ticker": "TLSA",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 81292.79,
+      "amplitude": 0.209,
+      "intensity": 0.2245,
+      "headline": null
+    },
+    {
       "event_id": "29a5a8d6760a36ddb2cb35b6",
       "date": "2026-08-04T00:00:00+00:00",
       "ticker": "PFSA",
@@ -3934,6 +4055,50 @@
       "purchase_value": 1305.072,
       "amplitude": 0.355,
       "intensity": 0.218,
+      "headline": null
+    },
+    {
+      "event_id": "9736c1e31138166663be9edf",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "APTV",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 4999958.8802000005,
+      "amplitude": 0.545,
+      "intensity": 0.5603,
+      "headline": null
+    },
+    {
+      "event_id": "62ccfdb7b6d89cdde864dfc5",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "PFE",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 998821.26,
+      "amplitude": 0.545,
+      "intensity": 0.5503,
+      "headline": null
+    },
+    {
+      "event_id": "45a2cabf695460a20a145ac0",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "PFE",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 960368.64,
+      "amplitude": 0.545,
+      "intensity": 0.5499,
+      "headline": null
+    },
+    {
+      "event_id": "1c8bf4a28511e3c08b212d91",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "TM",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 1564850.0,
+      "amplitude": 0.558,
+      "intensity": 0.4648,
       "headline": null
     },
     {
@@ -3959,6 +4124,83 @@
       "headline": null
     },
     {
+      "event_id": "434a603119c5749dc12a6fcb",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "BXSY",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 89000.0,
+      "amplitude": 0.4979,
+      "intensity": 0.3606,
+      "headline": null
+    },
+    {
+      "event_id": "eca3887fda3f15e58cab998f",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "BBBY",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 202593.94,
+      "amplitude": 0.479,
+      "intensity": 0.3475,
+      "headline": null
+    },
+    {
+      "event_id": "6f4a2d7f4f44ef4851f53477",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "CZFS",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 12883.2,
+      "amplitude": 0.4535,
+      "intensity": 0.333,
+      "headline": null
+    },
+    {
+      "event_id": "65210b9f097e2ee98ec20102",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "JCTC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 8679.8602,
+      "amplitude": 0.46,
+      "intensity": 0.3271,
+      "headline": null
+    },
+    {
+      "event_id": "a2399bb62c6c3478d0f1373f",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "JCTC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 8679.8602,
+      "amplitude": 0.46,
+      "intensity": 0.3271,
+      "headline": null
+    },
+    {
+      "event_id": "b6521a3a1c53f63afdf952da",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "JCTC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 8679.8602,
+      "amplitude": 0.46,
+      "intensity": 0.3271,
+      "headline": null
+    },
+    {
+      "event_id": "de1d6c2f336b668b7af57bd0",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "JCTC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 8679.8602,
+      "amplitude": 0.46,
+      "intensity": 0.3271,
+      "headline": null
+    },
+    {
       "event_id": "3b47a81b112bf044afe1edeb",
       "date": "2026-08-05T00:00:00+00:00",
       "ticker": "CCNE",
@@ -3970,14 +4212,80 @@
       "headline": null
     },
     {
-      "event_id": "4382361b27078c7349f228c9",
+      "event_id": "0e8e9f7e79257fed37bdf497",
       "date": "2026-08-05T00:00:00+00:00",
-      "ticker": "DLHC",
+      "ticker": "TLSA",
       "company_name": null,
       "insider_name": null,
-      "purchase_value": 5075.4816,
-      "amplitude": 0.4498,
-      "intensity": 0.2519,
+      "purchase_value": 237616.0,
+      "amplitude": 0.3442,
+      "intensity": 0.2898,
+      "headline": null
+    },
+    {
+      "event_id": "d99e38c1ec06c7e12515f489",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "PTIX",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 1293.9999999999998,
+      "amplitude": 0.2378,
+      "intensity": 0.2875,
+      "headline": null
+    },
+    {
+      "event_id": "a4ee08c705c15cd124f86c22",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "THRY",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 404480.25,
+      "amplitude": 0.1955,
+      "intensity": 0.2866,
+      "headline": null
+    },
+    {
+      "event_id": "91aa867e50a37459a48bafea",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "RCG",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 2245.32,
+      "amplitude": 0.2744,
+      "intensity": 0.272,
+      "headline": null
+    },
+    {
+      "event_id": "fe5590a01a22080d5a7ed28b",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "ADAG",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 1018.35,
+      "amplitude": 0.2023,
+      "intensity": 0.2668,
+      "headline": null
+    },
+    {
+      "event_id": "29d88da07918cc6b3e6e11ad",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "TPL",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 385.95,
+      "amplitude": 0.2747,
+      "intensity": 0.2556,
+      "headline": null
+    },
+    {
+      "event_id": "0251ca91afe22931725cac20",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "GF",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 3040.38,
+      "amplitude": 0.4036,
+      "intensity": 0.2309,
       "headline": null
     },
     {
@@ -3989,6 +4297,204 @@
       "purchase_value": 2503.5,
       "amplitude": 0.4451,
       "intensity": 0.2247,
+      "headline": null
+    },
+    {
+      "event_id": "4382361b27078c7349f228c9",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "DLHC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 5075.4816,
+      "amplitude": 0.3234,
+      "intensity": 0.2077,
+      "headline": null
+    },
+    {
+      "event_id": "e40673c06e39eee6f93adfa0",
+      "date": "2026-08-05T00:00:00+00:00",
+      "ticker": "COCP",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 9816.0,
+      "amplitude": 0.186,
+      "intensity": 0.1388,
+      "headline": null
+    },
+    {
+      "event_id": "8ca6942c726bf365b0fceb3b",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "LUMN",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 612680.0,
+      "amplitude": 0.566,
+      "intensity": 0.6027,
+      "headline": null
+    },
+    {
+      "event_id": "f714659e2813b049010fe99e",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "BV",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 562400.0,
+      "amplitude": 0.545,
+      "intensity": 0.54,
+      "headline": null
+    },
+    {
+      "event_id": "b438951e86650345468ecd0f",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "LODE",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 22051.6,
+      "amplitude": 0.474,
+      "intensity": 0.5182,
+      "headline": null
+    },
+    {
+      "event_id": "a6e387c9d85de3fc93bb639b",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "BHRB",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 73250.0,
+      "amplitude": 0.4479,
+      "intensity": 0.4944,
+      "headline": null
+    },
+    {
+      "event_id": "097211f54c70cb5133740f48",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "GVA",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 49596.0,
+      "amplitude": 0.4623,
+      "intensity": 0.4781,
+      "headline": null
+    },
+    {
+      "event_id": "182e0e88d7c28f212298a2df",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "ATTO",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 9999995.0,
+      "amplitude": 0.4586,
+      "intensity": 0.4699,
+      "headline": null
+    },
+    {
+      "event_id": "b9bc6e4c7dffd963cb4d66d1",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "ATTO",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 9999995.0,
+      "amplitude": 0.4586,
+      "intensity": 0.4699,
+      "headline": null
+    },
+    {
+      "event_id": "d17d7031e153ecd529293bea",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "ATTO",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 9999995.0,
+      "amplitude": 0.4586,
+      "intensity": 0.4699,
+      "headline": null
+    },
+    {
+      "event_id": "3542d53b981ff4e9eb8484be",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "ETR",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 106075.0,
+      "amplitude": 0.5275,
+      "intensity": 0.4674,
+      "headline": null
+    },
+    {
+      "event_id": "a38173b40d6c1366b7acd4a4",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "RBKB",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 59699.9,
+      "amplitude": 0.49,
+      "intensity": 0.3998,
+      "headline": null
+    },
+    {
+      "event_id": "72bf6258da03bfb97d429931",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "none",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 248847.9,
+      "amplitude": 0.4503,
+      "intensity": 0.3105,
+      "headline": null
+    },
+    {
+      "event_id": "2e04315ea45e678df7450b15",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "BXSY",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 40517.4,
+      "amplitude": 0.2942,
+      "intensity": 0.2797,
+      "headline": null
+    },
+    {
+      "event_id": "1706c37273813e82eb8c96c0",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "JCTC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 1200.435,
+      "amplitude": 0.249,
+      "intensity": 0.2734,
+      "headline": null
+    },
+    {
+      "event_id": "1f5e78464df3545b4864343d",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "JCTC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 1200.435,
+      "amplitude": 0.249,
+      "intensity": 0.2734,
+      "headline": null
+    },
+    {
+      "event_id": "82b5ef3e8157c9575c657808",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "JCTC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 1200.435,
+      "amplitude": 0.249,
+      "intensity": 0.2734,
+      "headline": null
+    },
+    {
+      "event_id": "bbbcda83decdd3cbcc605107",
+      "date": "2026-08-06T00:00:00+00:00",
+      "ticker": "JCTC",
+      "company_name": null,
+      "insider_name": null,
+      "purchase_value": 1200.435,
+      "amplitude": 0.249,
+      "intensity": 0.2734,
       "headline": null
     }
   ]

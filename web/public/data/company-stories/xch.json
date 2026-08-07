@@ -1,18 +1,18 @@
 {
   "schema_version": "v1",
-  "generated_at_utc": "2026-08-06T08:51:21.945414Z",
-  "as_of_date": "2026-08-05",
+  "generated_at_utc": "2026-08-07T06:16:27.286215Z",
+  "as_of_date": "2026-08-06",
   "freshness": {
-    "latest_sec_filing_date": "2026-08-05",
-    "latest_price_date": "2026-08-05",
-    "exported_at_utc": "2026-08-06T08:51:21.945414Z"
+    "latest_sec_filing_date": "2026-08-06",
+    "latest_price_date": "2026-08-06",
+    "exported_at_utc": "2026-08-07T06:16:27.286215Z"
   },
   "ticker": "XCH",
   "yf_ticker": "XCH",
   "issuer_cik": 1979887,
-  "company_name": "XCHG Limited",
-  "sector": "Industrials",
-  "industry": "Electrical Equipment & Parts",
+  "company_name": null,
+  "sector": null,
+  "industry": null,
   "price_available": true,
   "price_unavailable_reason": "",
   "price_path": [
@@ -1448,25 +1448,31 @@
       "date": "2026-08-05",
       "close": 0.4300000071525574,
       "adjusted_close": 0.4300000071525574,
-      "volume": 1668800
+      "volume": 1685200
+    },
+    {
+      "date": "2026-08-06",
+      "close": 0.3000000119209289,
+      "adjusted_close": 0.3000000119209289,
+      "volume": 15414700
     }
   ],
   "purchase_markers": [],
   "summary": {
-    "price_date": "2026-08-05",
-    "current_price": 0.43,
+    "price_date": "2026-08-06",
+    "current_price": 0.3,
     "average_reported_purchase_price": null,
     "percent_vs_average_purchase_price": null,
     "first_purchase_date": null,
     "latest_purchase_date": null,
     "return_since_first_purchase": null,
     "return_since_latest_purchase": null,
-    "drawdown_from_52_week_high": -78.172589,
-    "drawdown_from_3_year_high": -98.464286,
-    "distance_from_200_day_average": -58.500016,
-    "return_63_sessions": -57.425741,
-    "realized_volatility_63d": 169.068797,
-    "volatility_percentile": 62.242563,
+    "drawdown_from_52_week_high": -84.771573,
+    "drawdown_from_3_year_high": -98.928571,
+    "distance_from_200_day_average": -70.841088,
+    "return_63_sessions": -69.481178,
+    "realized_volatility_63d": 178.974926,
+    "volatility_percentile": 64.383562,
     "trend": "falling",
     "buyers": 0,
     "purchase_days": 0,
@@ -1474,11 +1480,11 @@
     "total_reported_purchase_value": 0
   },
   "quality": {
-    "price_rows_available": 477,
-    "price_points_exported": 239,
+    "price_rows_available": 478,
+    "price_points_exported": 240,
     "purchase_markers_exported": 0,
     "mapping_quality": "exact_cik",
-    "metadata_quality": "high",
+    "metadata_quality": "limited",
     "price_quality": null
   },
   "limitations": [
